@@ -1,0 +1,13 @@
+<html>
+    <body>
+        <h1>{{ .Title }}</h1>
+
+        <h2>Pages</h2>
+        <ul>
+        {{ range .Data.Pages }}
+            {{ if .Title }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ end }}
+        </ul>
+
+    </body>
+</html>
