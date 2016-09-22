@@ -1,6 +1,7 @@
 # coding=utf-8
-import re
 import argparse
+import json
+import re
 
 # Define commandline arguments
 parser = argparse.ArgumentParser()
@@ -48,7 +49,9 @@ with open(args.infile) as infile:
             v = m.group(2).strip(' {},')
             for srch, repl in value_replacements.iteritems():
                 v = v.replace(srch, repl)
-            publication[m.group(1).strip()] = v
+            # json.dumps ensures that quotes are escaped etc.
+            publication[m.group(1).strip()] = json.dumps(v).strip('"')
+    publications.append(publication)
 
 filename_replacements = {
     '.' : '',
@@ -67,8 +70,9 @@ for publication in publications:
         if not 'title' in publication:
             print "Warning! no title in: " + str(publication)
         else:
+            year = publication['year']
             publication['title'] = publication['title'].replace('.', '')
-            filename = publication['title'].lower()
+            filename = year + '-' + publication['title'].lower()
             for srch, repl in filename_replacements.iteritems():
                 filename = filename.replace(srch, repl)
             filename += '.md'
