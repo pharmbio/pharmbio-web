@@ -5,8 +5,8 @@
         <h1 style="font-size: 1.4em">{{ .Title }}</h1>
         <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
         <ul>
-            <li><strong>Authors:</strong> {{ .Params.author }}</li>
             {{ if .Params.doi }}<li><strong>DOI:</strong> <a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Params.doi }}</a></li>{{ end }}
+            <li><strong>Authors:</strong> {{ .Params.author }}</li>
             <li><strong>Abstract:</strong> {{ .Params.abstract }}</li>
         </ul>
         {{ partial "bodyend.html" . }}
