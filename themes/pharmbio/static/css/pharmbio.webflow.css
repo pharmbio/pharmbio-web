@@ -192,6 +192,10 @@ a:hover,
 a:visited { 
   text-decoration: none;
 }
+a.w-nav-link.w--current,
+a.navbar-link:active {
+  color: #000;
+}
 a:hover {
   color: #009;
 }
