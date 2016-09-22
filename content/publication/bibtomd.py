@@ -1,6 +1,7 @@
 # coding=utf-8
 import argparse
 import json
+import os.path
 import re
 
 # Define commandline arguments
@@ -76,12 +77,15 @@ for publication in publications:
                 filename = filename.replace(srch, repl)
             filename += '.md'
 
-            with open(filename, 'w') as outfile:
-                outfile.write('+++\n')
-                for k, v in publication.iteritems():
-                    for srch, repl in key_replacements.iteritems():
-                        k = k.replace(srch, repl)
-                    outfile.write(k + ' = "' + v + '"\n')
-                outfile.write('+++\n\n')
-                print 'Wrote file: ' + filename
+            if os.path.exists(filename):
+                print('WARNING: File already exists, so skipping: ' + filename)
+            else:
+                with open(filename, 'w') as outfile:
+                    outfile.write('+++\n')
+                    for k, v in publication.iteritems():
+                        for srch, repl in key_replacements.iteritems():
+                            k = k.replace(srch, repl)
+                        outfile.write(k + ' = "' + v + '"\n')
+                    outfile.write('+++\n\n')
+                    print 'Wrote file: ' + filename
 
