@@ -1,0 +1,10 @@
+baseurl = "http://localhost"
+languageCode = "en-us"
+title = "PharmBio"
+theme = "pharmbio"
+SectionPagesMenu = "main"
+[menu]
+    [[menu.main]]
+    identifier = "publication"
+    name       = "Publications"
+    url        = "/publication/"
