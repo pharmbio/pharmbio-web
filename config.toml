@@ -1,4 +1,4 @@
-baseurl = "http://localhost"
+baseurl = "http://pharmb.io"
 languageCode = "en-us"
 title = "PharmBio"
 theme = "pharmbio"

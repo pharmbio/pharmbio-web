@@ -1,0 +1,14 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1 style="font-size: 1.4em">{{ .Title }}</h1>
+        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
+        <ul>
+            <li><strong>Authors:</strong> {{ delimit .Params.authors "; " }}</li>
+            <li><strong>DOI:</strong> <a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Params.doi }}</a></li>
+            <li><strong>Abstract:</strong> {{ .Params.abstract }}</li>
+        </ul>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}

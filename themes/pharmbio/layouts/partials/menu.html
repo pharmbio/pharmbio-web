@@ -5,7 +5,7 @@
         <div class="navbar-container w-container"><a class="navbar-brand w-nav-brand" href="/"><h1 class="site-title">pharm<span class="logo-span-pipe"><span>bio</span></span></h1></a>
           <nav class="navbar-menu w-nav-menu" role="navigation">
               {{ range .Site.Menus.main }}
-                  <a class="navbar-link w-nav-link" href="{{ $baseUrl }}{{ .URL }}">{{ .Name }}</a>
+                  <a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>
               {{ end }}
           </nav>
           <div class="navbar-menubutton w-nav-button">

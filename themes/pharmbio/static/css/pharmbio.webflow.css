@@ -195,3 +195,10 @@ a:visited {
 a:hover {
   color: #009;
 }
+.section-header-container {
+  padding-left: 1em;
+}
+.section-content-container {
+  padding-left: 1em;
+  padding-right: 1em;
+}
