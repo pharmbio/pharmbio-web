@@ -1,0 +1,18 @@
++++
+note = "cited By 8"
+doi = "10.2174/156802612804910287"
+title = "Open source drug discovery with bioclipse"
+url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84874898081&partnerID=40&md5=514ab15e5b5e826a067e76d803f3c98c"
+journal = "Current Topics in Medicinal Chemistry"
+author = "Spjuth, O. and Carlsson, L. and Alvarsson, J. and Georgiev, V. and Willighagen, E. and Eklund, M."
+number = "18"
+abstract = "We present the open source components for drug discovery that has been developed and integrated into the graphical workbench Bioclipse. Building on a solid open source cheminformatics core, Bioclipse has advanced functionality for managing and visualizing chemical structures and related information. The features presented here include QSAR/QSPR modeling, various predictive solutions such as decision support for chemical liability assessment, site-of metabolism prediction, virtual screening, and knowledge discovery and integration. We demonstrate the utility of the described tools with examples from computational pharmacology, toxicology, and ADME. Bioclipse is used in both academia and industry, and is a good example of open source leading to new solutions for drug discovery. \u00a9 2012 Bentham Science Publishers."
+volume = "12"
+source = "Scopus"
+author_keywords = "Adme;  Bioclipse;  Chemical liability assessment;  Cheminformatics;  Computational toxicology;  Decision support;  Drug discovery;  Open source;  Virtual screening"
+year = "2012"
+keywords = "absorption;  article;  bioinformatics;  chemical structure;  computer model;  computer program;  data analysis software;  decision support system;  excretion;  knowledge;  metabolism;  quantitative structure activity relation, Absorption;  Algorithms;  Decision Support Techniques;  Drug Discovery;  Drug Evaluation, Preclinical;  Pharmacokinetics;  Software;  Toxicology"
+document_bibtex_type = "Article"
+pages = "1980-1986"
++++
+
