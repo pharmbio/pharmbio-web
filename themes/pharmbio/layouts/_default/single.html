@@ -1,1 +1,8 @@
-{{ .Content }}
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        {{ .Content }}
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}

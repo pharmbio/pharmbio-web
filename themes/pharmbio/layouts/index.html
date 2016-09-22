@@ -1,13 +1,10 @@
-<html>
-    <body>
-        <h1>{{ .Title }}</h1>
-
-        <h2>Pages</h2>
-        <ul>
-        {{ range .Data.Pages }}
-            {{ if .Title }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        {{ range where .Data.Pages "Title" "Home" }}
+            {{ .Content }}
         {{ end }}
-        </ul>
-
-    </body>
-</html>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}

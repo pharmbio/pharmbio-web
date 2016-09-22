@@ -1,0 +1,17 @@
+{{ $baseUrl := .Site.BaseURL }}
+  <div class="section-header" id="section-header">
+    <div class="section-header-container w-container">
+      <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-contain="1" data-doc-height="1" data-duration="400" data-no-scroll="1">
+        <div class="navbar-container w-container"><a class="navbar-brand w-nav-brand" href="/"><h1 class="site-title">pharm<span class="logo-span-pipe"><span>bio</span></span></h1></a>
+          <nav class="navbar-menu w-nav-menu" role="navigation">
+              {{ range .Site.Menus.main }}
+                  <a class="navbar-link w-nav-link" href="{{ $baseUrl }}{{ .URL }}">{{ .Name }}</a>
+              {{ end }}
+          </nav>
+          <div class="navbar-menubutton w-nav-button">
+            <div class="w-icon-nav-menu"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
