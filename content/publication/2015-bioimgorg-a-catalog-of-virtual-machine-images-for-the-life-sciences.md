@@ -1,7 +1,7 @@
 +++
 note = "cited By 1"
 doi = "10.4137/BBI.S28636"
-title = "BioImgorg: A catalog of virtual machine images for the life sciences"
+title = "BioImg.org: A catalog of virtual machine images for the life sciences"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84942790462&partnerID=40&md5=5e78290abed25b5e01ec80424b12cd05"
 journal = "Bioinformatics and Biology Insights"
 author = "Dahl\u00f6, M. and Haziza, F. and Kallio, A. and Korpelainen, E. and Bongcam-Rudloff, E. and Spjuth, O."

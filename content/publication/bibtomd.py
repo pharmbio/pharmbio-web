@@ -71,8 +71,7 @@ for publication in publications:
             print "Warning! no title in: " + str(publication)
         else:
             year = publication['year']
-            publication['title'] = publication['title'].replace('.', '')
-            filename = year + '-' + publication['title'].lower()
+            filename = year + '-' + publication['title'].lower().replace('.', '')
             for srch, repl in filename_replacements.iteritems():
                 filename = filename.replace(srch, repl)
             filename += '.md'
