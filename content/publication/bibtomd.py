@@ -51,12 +51,15 @@ with open(args.infile) as infile:
             publication[m.group(1).strip()] = v
 
 filename_replacements = {
-    '' : '',
+    '.' : '',
+    ',' : '',
     ' ': '-',
     ':': '',
     '\'': '',
     '(': '',
     ')': '',
+    '---': '-',
+    '--': '-',
 }
 
 for publication in publications:
