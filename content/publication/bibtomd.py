@@ -2,35 +2,80 @@
 import re
 import argparse
 
+# Define commandline arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("--infile", type=str,
                     help="In-file in bibtext format")
 args = parser.parse_args()
 
-pubs = []
+
+# Replacements to be ran on the values in bibtex entries, before converting to
+# front matter in the publication markdown files.
+value_replacements = {
+    r'{\"O}': 'Ö',
+    r'{\"A}': 'Ä',
+    r'{\AA}': 'Å',
+    r'{\"o}': 'ö',
+    r'{\"a}': 'ä',
+    r'{\aa}': 'å',
+    r'{\&}amp;': '&',
+    r'{\’e;}': 'é',
+    r'{\"u}': 'ü',
+    r'{\’a;}': 'á',
+    ' :': ':',
+    r'\&': '&',
+    '{': '',
+    '}': '',
+    '\\': ''
+}
+# Some replacements that have to be done, so as not to override keys used by
+# HUGO
+key_replacements = {
+    'type': 'bibtex_type',
+    'url': 'url_html',
+}
+
+publications = []
 with open(args.infile) as infile:
-    pub = {}
+    publication = {}
     for line in infile:
         if line.startswith('@'):
-            pubs.append(pub)
-            pub = {}
+            publications.append(publication)
+            publication = {}
         m = re.match('^\s*([^\=]*)\=(.*)$', line)
         if m:
-            pub[m.group(1).strip()] = m.group(2).strip(' {},').replace(r'{\"O}','Ö').replace(r'{\"A}','Ä').replace(r'{\AA}', 'Å').replace(r'{\"o}','ö').replace(r'{\"a}','ä').replace(r'{\aa}', 'å').replace(r'{\&}amp;', '&').replace(r'{\’e;}', 'é').replace(r'{\"u}', 'ü').replace(r'{\’a;}', 'á').replace(' :', ':').replace(r'\&', '&').replace('{','').replace('}','').replace('\\','')
-    pubs.append(pub)
+            # If m is not None, this line is a key/value line in the bibtex
+            v = m.group(2).strip(' {},')
+            for srch, repl in value_replacements.iteritems():
+                v = v.replace(srch, repl)
+            publication[m.group(1).strip()] = v
 
-for pub in pubs:
-    if not 'title' in pub:
-        print "Warning! no title in: " + str(pub)
-    else:
-        pub['title'] = pub['title'].replace('.', '')
-        filename = pub['title'].lower().replace(' ', '-').replace(':','').replace('\'','').replace('(','').replace(')','') + '.md'
-        print filename
-        with open(filename, 'w') as outfile:
-            outfile.write('+++\n')
-            for k, v in pub.iteritems():
-                if k == 'url':
-                    k = 'url_html'
-                outfile.write(k + ' = "' + v + '"\n')
-            outfile.write('+++\n\n')
+filename_replacements = {
+    '' : '',
+    ' ': '-',
+    ':': '',
+    '\'': '',
+    '(': '',
+    ')': '',
+}
+
+for publication in publications:
+    if not len(publication) == 0:
+        if not 'title' in publication:
+            print "Warning! no title in: " + str(publication)
+        else:
+            publication['title'] = publication['title'].replace('.', '')
+            filename = publication['title'].lower()
+            for srch, repl in filename_replacements.iteritems():
+                filename = filename.replace(srch, repl)
+            filename += '.md'
+
+            with open(filename, 'w') as outfile:
+                outfile.write('+++\n')
+                for k, v in publication.iteritems():
+                    for srch, repl in key_replacements.iteritems():
+                        k = k.replace(srch, repl)
+                    outfile.write(k + ' = "' + v + '"\n')
+                outfile.write('+++\n\n')
+                print 'Wrote file: ' + filename
 
