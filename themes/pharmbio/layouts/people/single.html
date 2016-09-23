@@ -8,7 +8,7 @@
         <ul>
             {{ if .Params.twitter }}<li><strong>Twitter:</strong> <a href="http://twitter.com/{{ .Params.twitter }}">{{ .Params.twitter }}</a></li>{{ end }}
             {{ if .Params.email }}<li><strong>E-mail:</strong> <a href="http://email.com/{{ .Params.email }}">{{ .Params.email }}</a></li>{{ end }}
-            {{ if .Params.orcid }}<li><strong>ORCID:</strong> <a href="http://orcid.com/{{ .Params.orcid }}">{{ .Params.orcid }}</a></li>{{ end }}
+            {{ if .Params.orcid }}<li><strong>ORCID:</strong> <a href="http://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a> <small>(<a href="http://feed.labs.orcid-eu.org/{{ .Params.orcid }}.bib">Publications in BibTex format</a>)</small></li>{{ end }}
             {{ if .Params.orcid }}<li><a href="http://impactstory.org/u/{{ .Params.orcid }}">ImpactStory</a></li>{{ end }}
             {{ if .Params.url_blog }}<li><strong>Blog:</strong> <a href="http://url_blog.com/{{ .Params.url_blog }}">{{ .Params.url_blog }}</a></li>{{ end }}
             {{ if .Params.url_homepage }}<li><strong>Homepage:</strong> <a href="http://url_homepage.com/{{ .Params.url_homepage }}">{{ .Params.url_homepage }}</a></li>{{ end }}
