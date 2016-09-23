@@ -6,17 +6,17 @@
         <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}</a></p>
         {{ if .Params.photo_file }}<div><img src="/static/img/{{ .Params.photo_file }}" /></div>{{ end }}
         <ul>
-            {{ if .Params.twitter }}<li><strong>Twitter:</strong> <a href="http://twitter.com/{{ .Params.twitter }}">{{ .Params.twitter }}</a></li>{{ end }}
-            {{ if .Params.email }}<li><strong>E-mail:</strong> <a href="http://email.com/{{ .Params.email }}">{{ .Params.email }}</a></li>{{ end }}
-            {{ if .Params.url_blog }}<li><strong>Blog:</strong> <a href="http://url_blog.com/{{ .Params.url_blog }}">{{ .Params.url_blog }}</a></li>{{ end }}
-            {{ if .Params.url_homepage }}<li><strong>Website:</strong> <a href="{{ .Params.url_homepage }}">Personal Website</a></li>{{ end }}
-            {{ if .Params.orcid }}<li><strong>ORCID:</strong> <a href="http://orcid.org/{{ .Params.orcid }}">{{ .Params.orcid }}</a> <small>(<a href="http://feed.labs.orcid-eu.org/{{ .Params.orcid }}.bib">Publications in BibTex format</a>)</small></li>{{ end }}
-            {{ if .Params.url_uuprofile }}<li><a href="{{ .Params.url_uuprofile }}">Staff page at Uppsala University</a></li>{{ end }}
-            {{ if .Params.orcid }}<li><a href="http://impactstory.org/u/{{ .Params.orcid }}">ImpactStory</a></li>{{ end }}
-            {{ if .Params.url_google_scholar }}<li><a href="{{ .Params.url_google_scholar }}">Google Scholar</a></li>{{ end }}
-            {{ if .Params.url_linkedin }}<li><a href="{{ .Params.url_linkedin }}">LinkedIn</a></li>{{ end }}
-            {{ if .Params.url_researchgate }}<li><a href="{{ .Params.url_researchgate }}">ResearchGate</a></li>{{ end }}
-            {{ if .Params.url_mendeley }}<li><a href="{{ .Params.url_mendeley }}">Mendeley</a></li>{{ end }}
+            {{ if .Params.twitter }}<li><strong>Twitter:</strong> <a href="http://twitter.com/{{ .Params.twitter }}" target="_blank">{{ .Params.twitter }}</a></li>{{ end }}
+            {{ if .Params.email }}<li><strong>E-mail:</strong> <a href="http://email.com/{{ .Params.email }}" target="_blank">{{ .Params.email }}</a></li>{{ end }}
+            {{ if .Params.url_blog }}<li><strong>Blog:</strong> <a href="{{ .Params.url_blog }}" target="_blank">{{ .Params.url_blog }}</a></li>{{ end }}
+            {{ if .Params.url_homepage }}<li><strong>Website:</strong> <a href="{{ .Params.url_homepage }}" target="_blank">Personal Website</a></li>{{ end }}
+            {{ if .Params.orcid }}<li><strong>ORCID:</strong> <a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">{{ .Params.orcid }}</a> <small>(<a href="http://feed.labs.orcid-eu.org/{{ .Params.orcid }}.bib" target="_blank">Publications in BibTex format</a>)</small></li>{{ end }}
+            {{ if .Params.url_uuprofile }}<li><a href="{{ .Params.url_uuprofile }}" target="_blank">Staff page at Uppsala University</a></li>{{ end }}
+            {{ if .Params.orcid }}<li><a href="http://impactstory.org/u/{{ .Params.orcid }}" target="_blank">ImpactStory</a></li>{{ end }}
+            {{ if .Params.url_google_scholar }}<li><a href="{{ .Params.url_google_scholar }}" target="_blank">Google Scholar</a></li>{{ end }}
+            {{ if .Params.url_linkedin }}<li><a href="{{ .Params.url_linkedin }}" target="_blank">LinkedIn</a></li>{{ end }}
+            {{ if .Params.url_researchgate }}<li><a href="{{ .Params.url_researchgate }}" target="_blank">ResearchGate</a></li>{{ end }}
+            {{ if .Params.url_mendeley }}<li><a href="{{ .Params.url_mendeley }}" target="_blank">Mendeley</a></li>{{ end }}
         </ul>
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
