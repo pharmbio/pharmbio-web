@@ -206,3 +206,11 @@ a:hover {
   padding-left: 1em;
   padding-right: 1em;
 }
+.section-footer a,
+.section-footer a:link,
+.section-footer a:visited {
+    color: #777;
+}
+.section-footer a:hover {
+    color: black;
+}
