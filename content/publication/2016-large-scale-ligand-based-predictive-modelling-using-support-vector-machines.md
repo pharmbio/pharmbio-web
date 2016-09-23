@@ -1,7 +1,6 @@
 +++
 author_keywords = "Bioclipse;  Molecular signatures;  Predictive modelling;  QSAR;  Support vector machine"
 note = "cited By 0"
-#aliases = ["publication/2016-large-scale-svm"]
 url = "/publication/2016-large-scale-svm"
 doi = "10.1186/s13321-016-0151-5"
 title = "Large-scale ligand-based predictive modelling using support vector machines"

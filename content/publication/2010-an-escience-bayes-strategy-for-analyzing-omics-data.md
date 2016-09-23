@@ -2,7 +2,6 @@
 note = "cited By 3"
 doi = "10.1186/1471-2105-11-282"
 url = "/publication/2010-escience-bayes"
-aliases = ["publication/2010-escience-bayes"]
 title = "An eScience-Bayes strategy for analyzing omics data"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-77952634074&partnerID=40&md5=5efbfb7a589ae52aec9d70c2dac79a73"
 journal = "BMC Bioinformatics"

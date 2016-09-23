@@ -2,7 +2,6 @@
 note = "cited By 3"
 doi = "10.1093/bioinformatics/btr192"
 url = "/publication/2011-hiv-drc"
-aliases = ["publication/2011-hiv-drc"]
 title = "Services for prediction of drug susceptibility for HIV proteases and reverse transcriptases at the HIV drug research centre"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79958124624&partnerID=40&md5=847a80ebe4609251a0dace05acc81b52"
 journal = "Bioinformatics"

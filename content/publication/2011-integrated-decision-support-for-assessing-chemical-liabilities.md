@@ -2,7 +2,6 @@
 note = "cited By 22"
 doi = "10.1021/ci200242c"
 url = "/publication/2011-bioclipse-ds"
-aliases = ["publication/2011-bioclipse-ds"]
 title = "Integrated decision support for assessing chemical liabilities"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-80051962255&partnerID=40&md5=a498bb77c0d7c4f9595576be2603127f"
 journal = "Journal of Chemical Information and Modeling"

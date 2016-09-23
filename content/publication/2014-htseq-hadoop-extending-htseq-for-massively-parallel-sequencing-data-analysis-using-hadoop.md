@@ -3,7 +3,6 @@ author_keywords = "Bioinformatics;  Hadoop;  Map-Reduce;  Massively Parallel Seq
 note = "cited By 0"
 doi = "10.1109/eScience.2014.27"
 url = "/publication/2014-htseq-hadoop"
-aliases = ["publication/2014-htseq-hadoop"]
 title = "HTSeq-Hadoop: Extending HTSeq for massively parallel sequencing data analysis using Hadoop"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84919475560&partnerID=40&md5=d6936a0bd596c0fe1b37bd2418ca1f5a"
 journal = "Proceedings - 2014 IEEE 10th International Conference on eScience, eScience 2014"

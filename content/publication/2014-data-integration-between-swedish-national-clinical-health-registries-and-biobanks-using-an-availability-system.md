@@ -2,7 +2,6 @@
 note = "cited By 0"
 doi = "10.1007/978-3-319-08590-6_3"
 url = "/publication/2014-dils-sail"
-aliases = ["publication/2014-dils-sail"]
 title = "Data integration between Swedish national clinical health registries and biobanks using an availability system"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958525859&partnerID=40&md5=3bcdf41a2543653ded22cbe8e2f1144b"
 journal = "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"

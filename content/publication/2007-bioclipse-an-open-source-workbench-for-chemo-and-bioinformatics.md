@@ -1,7 +1,6 @@
 +++
 note = "cited By 70"
 url = "/publication/2007-bioclipse"
-aliases = ["publication/2007-bioclipse"]
 doi = "10.1186/1471-2105-8-59"
 title = "Bioclipse: An open source workbench for chemo- and bioinformatics"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-33847772616&partnerID=40&md5=199fa9af06ebe22f232345668cea0f71"
