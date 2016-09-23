@@ -1,0 +1,13 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1>People</h1>
+        <ul>
+        {{ range .Data.Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a></li>
+        {{ end }}
+        </ul>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
