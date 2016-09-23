@@ -1,6 +1,8 @@
 +++
 note = "cited By 12"
 doi = "10.1186/1756-0500-4-487"
+url = "2011-bioclipse-opentox"
+aliases = ["2011-bioclipse-opentox"]
 title = "Computational toxicology using the OpenTox application programming interface and Bioclipse"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-80755142997&partnerID=40&md5=efce7d7b74966b5086878e471fbac772"
 journal = "BMC Research Notes"

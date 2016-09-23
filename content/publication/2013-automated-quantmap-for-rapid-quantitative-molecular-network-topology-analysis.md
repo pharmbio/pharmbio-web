@@ -1,6 +1,8 @@
 +++
 note = "cited By 4"
 doi = "10.1093/bioinformatics/btt390"
+url = "2013-quantmap"
+aliases = ["2013-quantmap"]
 title = "Automated QuantMap for rapid quantitative molecular network topology analysis"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883472360&partnerID=40&md5=7e74c9f190e18539f48280c9842715bd"
 journal = "Bioinformatics"

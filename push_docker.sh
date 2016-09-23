@@ -1,3 +1,3 @@
 #!/bin/bash
 docker login
-docker push -t farmbio/pharmb.io
+docker push farmbio/pharmb.io

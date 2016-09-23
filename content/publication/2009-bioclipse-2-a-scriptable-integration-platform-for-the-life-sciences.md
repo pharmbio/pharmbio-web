@@ -1,6 +1,8 @@
 +++
 note = "cited By 40"
 doi = "10.1186/1471-2105-10-397"
+url = "2009-bioclipse2"
+aliases = ["2009-bioclipse2"]
 title = "Bioclipse 2: A scriptable integration platform for the life sciences"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-74049154443&partnerID=40&md5=c2ab0c21acc632795bba86059994a847"
 journal = "BMC Bioinformatics"

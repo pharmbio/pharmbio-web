@@ -1,6 +1,8 @@
 +++
 note = "cited By 32"
 doi = "10.1186/1471-2105-11-362"
+url = "2010-metaprint2d"
+aliases = ["2010-metaprint2d"]
 title = "Use of historic metabolic biotransformation data as a means of anticipating metabolic sites using MetaPrint2D and Bioclipse"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954048869&partnerID=40&md5=56429fd8ef3e2ec4b8f460dca0486fda"
 journal = "BMC Bioinformatics"

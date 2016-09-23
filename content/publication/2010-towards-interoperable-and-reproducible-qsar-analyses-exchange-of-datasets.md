@@ -1,6 +1,8 @@
 +++
 note = "cited By 28"
 doi = "10.1186/1758-2946-2-5"
+url = "2010-qsar-ml"
+aliases = ["2010-qsar-ml"]
 title = "Towards interoperable and reproducible QSAR analyses: Exchange of datasets"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954978807&partnerID=40&md5=6a4afc5444827935ec914b4e2f8822c4"
 journal = "Journal of Cheminformatics"

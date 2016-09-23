@@ -1,6 +1,8 @@
 +++
 note = "cited By 47"
 doi = "10.1186/1471-2105-9-181"
+url = "2008-pcm-hiv-protease"
+aliases = ["2008-pcm-hiv-protease"]
 title = "Proteochemometric modeling of HIV protease susceptibility"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-42949131067&partnerID=40&md5=42a9e17b56ed854787ce404f21aa0e5f"
 journal = "BMC Bioinformatics"

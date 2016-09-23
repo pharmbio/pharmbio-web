@@ -1,7 +1,9 @@
 +++
 note = "cited By 8"
 doi = "10.2174/156802612804910287"
-title = "Open source drug discovery with bioclipse"
+url = "2012-bioclipse-opendd"
+aliases = ["2012-bioclipse-opendd"]
+title = "Open source drug discovery with Bioclipse"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84874898081&partnerID=40&md5=514ab15e5b5e826a067e76d803f3c98c"
 journal = "Current Topics in Medicinal Chemistry"
 author = "Spjuth, O. and Carlsson, L. and Alvarsson, J. and Georgiev, V. and Willighagen, E. and Eklund, M."

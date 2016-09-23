@@ -2,6 +2,8 @@
 author_keywords = "Automation;  Big data;  Data-intensive;  High-performance computing;  Reproducibility;  Workflow"
 note = "cited By 3"
 doi = "10.1186/s13062-015-0071-8"
+url = "2015-wf-bioinfo"
+aliases = ["2015-wf-bioinfo"]
 title = "Experiences with workflows for automating data-intensive bioinformatics"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939529358&partnerID=40&md5=6f69f66a7c1579fa2cc9742b614a7318"
 journal = "Biology Direct"

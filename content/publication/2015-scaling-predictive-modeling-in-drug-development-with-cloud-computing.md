@@ -1,6 +1,8 @@
 +++
 note = "cited By 2"
 doi = "10.1021/ci500580y"
+url = "2015-modeling-cloud"
+aliases = ["2015-modeling-cloud"]
 title = "Scaling predictive modeling in drug development with cloud computing"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921662520&partnerID=40&md5=a6e745a554df6fae9cdeef1aba69e0a8"
 journal = "Journal of Chemical Information and Modeling"
