@@ -1,8 +1,8 @@
 +++
 note = "cited By 4"
 doi = "10.1186/1471-2105-12-179"
-url = "2011-brunn"
-aliases = ["2011-brunn"]
+url = "/publication/2011-brunn"
+aliases = ["publication/2011-brunn"]
 title = "Brunn: An open source laboratory information system for microplates with a graphical plate layout design process"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956222852&partnerID=40&md5=35d4636369ced53b3bcee6f69bf7835f"
 journal = "BMC Bioinformatics"

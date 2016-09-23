@@ -1,8 +1,8 @@
 +++
 note = "cited By 18"
 doi = "10.1186/2041-1480-2-S1-S6"
-url = "2011-rdf-cheminf-pcm"
-aliases = ["2011-rdf-cheminf-pcm"]
+url = "/publication/2011-rdf-cheminf-pcm"
+aliases = ["publication/2011-rdf-cheminf-pcm"]
 title = "Linking the Resource Description Framework to cheminformatics and proteochemometrics"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879984716&partnerID=40&md5=b026ab0d2253f250c4b89911e55b262d"
 journal = "Journal of Biomedical Semantics"

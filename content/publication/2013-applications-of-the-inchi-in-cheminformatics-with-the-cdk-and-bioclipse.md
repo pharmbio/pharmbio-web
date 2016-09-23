@@ -2,8 +2,8 @@
 author_keywords = "Bioclipse;  Chemical structures;  Databases;  Decision support;  InChI;  InChIKey;  JNI-InChI;  Linked data;  OSGi;  Semantic web;  Tautomers;  The Chemistry Development Kit"
 note = "cited By 2"
 doi = "10.1186/1758-2946-5-14"
-url = "2013-inchi-cdk-bioclipse"
-aliases = ["2013-inchi-cdk-bioclipse"]
+url = "/publication/2013-inchi-cdk-bioclipse"
+aliases = ["publication/2013-inchi-cdk-bioclipse"]
 title = "Applications of the InChI in cheminformatics with the CDK and Bioclipse"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879966950&partnerID=40&md5=40b730e0e5d49591ad8b20c923bc88d2"
 journal = "Journal of Cheminformatics"

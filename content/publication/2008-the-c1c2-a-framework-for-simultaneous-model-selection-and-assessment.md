@@ -1,8 +1,8 @@
 +++
 note = "cited By 9"
 doi = "10.1186/1471-2105-9-360"
-url = "2008-c1c2"
-aliases = ["2008-c1c2"]
+url = "/publication/2008-c1c2"
+aliases = ["publication/2008-c1c2"]
 title = "The C1C2: A framework for simultaneous model selection and assessment"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-52949118135&partnerID=40&md5=ab269808b3362e659dba6a5c48fe356a"
 journal = "BMC Bioinformatics"

@@ -1,8 +1,8 @@
 +++
 doi = "10.1109/BDC.2015.35"
 title = "Conformal Prediction in Spark: Large-Scale Machine Learning with Confidence"
-url = "2015-spark-cp"
-aliases = ["2015-spark-cp"]
+url = "/publication/2015-spark-cp"
+aliases = ["publication/2015-spark-cp"]
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964380524&partnerID=40&md5=4bc5e4aa0b861cce7dd40b913b275e62"
 journal = "Proceedings - 2015 2nd IEEE/ACM International Symposium on Big Data Computing, BDC 2015"
 author = "Capuccini, M. and Carlsson, L. and Norinder, U. and Spjuth, O."

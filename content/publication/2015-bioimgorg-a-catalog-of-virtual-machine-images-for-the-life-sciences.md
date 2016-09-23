@@ -1,8 +1,8 @@
 +++
 note = "cited By 1"
 doi = "10.4137/BBI.S28636"
-url = "2015-bioimg"
-aliases = ["2015-bioimg"]
+url = "/publication/2015-bioimg"
+aliases = ["publication/2015-bioimg"]
 title = "BioImg.org: A catalog of virtual machine images for the life sciences"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84942790462&partnerID=40&md5=5e78290abed25b5e01ec80424b12cd05"
 journal = "Bioinformatics and Biology Insights"

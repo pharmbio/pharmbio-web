@@ -1,8 +1,8 @@
 +++
 note = "cited By 0"
 doi = "10.1007/978-3-319-17091-6_27"
-url = "2015-cp-interpret"
-aliases = ["2015-cp-interpret"]
+url = "/publication/2015-cp-interpret"
+aliases = ["publication/2015-cp-interpret"]
 title = "Interpretation of conformal prediction classification models"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949796824&partnerID=40&md5=797d73a844988b77f596c76373512563"
 journal = "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"

@@ -1,8 +1,8 @@
 +++
 note = "cited By 32"
 doi = "10.1186/1471-2105-10-279"
-url = "2009-xmpp-iodata"
-aliases = ["2009-xmpp-iodata"]
+url = "/publication/2009-xmpp-iodata"
+aliases = ["publication/2009-xmpp-iodata"]
 title = "XMPP for cloud computing in bioinformatics supporting discovery and invocation of asynchronous web services"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-70449384378&partnerID=40&md5=7015c51110ea66d51f3be526c946fed1"
 journal = "BMC Bioinformatics"

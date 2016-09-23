@@ -2,8 +2,8 @@
 author_keywords = "Big Data;  Chemoinformatics;  MapReduce;  Parallel SVM;  Spark"
 note = "cited By 0"
 doi = "10.1109/CloudCom.2013.99"
-url = "2013-mapreduce-vs"
-aliases = ["2013-mapreduce-vs"]
+url = "/publication/2013-mapreduce-vs"
+aliases = ["publication/2013-mapreduce-vs"]
 title = "Using iterative MapReduce for parallel virtual screening"
 url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899736110&partnerID=40&md5=d7961d818897ff147269a4822ac47264"
 journal = "Proceedings of the International Conference on Cloud Computing Technology and Science, CloudCom"
