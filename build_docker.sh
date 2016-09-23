@@ -1,3 +1,3 @@
 #!/bin/bash
 hugo
-docker build .
+docker build -t farmbio/pharmb.io .
