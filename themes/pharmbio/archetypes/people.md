@@ -14,4 +14,7 @@ url_linkedin = ""
 url_researchgate = ""
 url_mendeley = ""
 photo_file = ""
+short_bio = ""
+long_bio = ""
+research_interests = [""]
 +++
