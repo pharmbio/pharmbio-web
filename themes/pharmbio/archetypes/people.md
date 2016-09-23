@@ -1,5 +1,6 @@
 +++
 nickname = ""
+weight = 0
 firstname = ""
 initials = ""
 lastname = ""
