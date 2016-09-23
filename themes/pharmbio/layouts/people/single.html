@@ -3,7 +3,7 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1 style="font-size: 1.4em">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}, {{ .Params.job_title }}</h1>
-        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
+        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}</a></p>
         {{ if .Params.photo_file }}<div><img src="/static/img/{{ .Params.photo_file }}" /></div>{{ end }}
         <ul>
             {{ if .Params.twitter }}<li><strong>Twitter:</strong> <a href="http://twitter.com/{{ .Params.twitter }}">{{ .Params.twitter }}</a></li>{{ end }}
