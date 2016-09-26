@@ -190,6 +190,7 @@ a:link,
 a:active,
 a:hover,
 a:visited { 
+  color: #c00;
   text-decoration: none;
 }
 a.w-nav-link.w--current,
@@ -197,7 +198,7 @@ a.navbar-link:active {
   color: #000;
 }
 a:hover {
-  color: #009;
+  color: #900;
 }
 .section-header-container {
   padding-left: 1em;
@@ -213,4 +214,18 @@ a:hover {
 }
 .section-footer a:hover {
     color: black;
+}
+
+/* Content styles */
+
+.people-single-linklist {
+  margin: .7em 0 0 0;
+  padding: 0 0 0 .4em;
+  list-style-type: none;
+}
+.people-single-linklist li:before {
+  content: "»";
+  font-size: .9em;
+  padding-right: .7em;
+  color: #999;
 }
