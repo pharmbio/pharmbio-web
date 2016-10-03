@@ -1,16 +1,16 @@
 +++
 date = "2016-09-23T17:00:00+02:00"
-email = ""
+nickname = "star"
+email = "staffan.arvidsson@genettasoft.com"
 firstname = "Staffan"
 initials = ""
 job_title = "Research Assistant"
 lastname = "Arvidsson"
-long_bio = ""
-nickname = "staffan"
 orcid = ""
 photo_file = ""
-research_interests = [""]
+research_interests = ["Computer Science", "Bioinformatics", "High Performance Computing", "Spark", "Java"]
 short_bio = ""
+long_bio = "Finished Degree of Master of Science in Engineering, specialisation: Molecular Biotechnology Engineering, Bioinformatics Engineering in 2015. Currently working mostly as software developer in Java and Scala/Spark"
 title = "staffan"
 twitter = ""
 url_blog = ""
