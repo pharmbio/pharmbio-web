@@ -14,7 +14,7 @@
         {{ end }}
         <h6>Contact info</h6>
         <ul class="people-single-linklist">
-            {{ if .Params.email }}<li><strong>E-mail:</strong> <a href="http://email.com/{{ .Params.email }}" target="_blank">{{ .Params.email }}</a></li>{{ end }}
+            {{ if .Params.email }}<li><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></li>{{ end }}
             {{ if .Params.url_uuprofile }}<li><a href="{{ .Params.url_uuprofile }}" target="_blank">Staff page at Uppsala University</a></li>{{ end }}
         </ul>
         <h6>Social media</h6>
