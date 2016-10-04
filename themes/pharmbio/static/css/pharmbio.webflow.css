@@ -33,10 +33,12 @@ h3 {
 .site-title {
   margin-top: 0px;
   margin-bottom: 0px;
+  float: right;
   font-family: Ubuntu, Helvetica, sans-serif;
   color: #aaa;
   font-size: 48px;
   font-weight: 700;
+  letter-spacing: -1px;
 }
 
 .section-header-container {
@@ -83,6 +85,7 @@ h3 {
 
 .navbar-brand {
   margin-top: 0.2em;
+  margin-left: -6px;
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -119,6 +122,12 @@ h3 {
 
 .welcome-text {
   font-weight: 400;
+}
+
+.navbar-logo {
+  width: 76px;
+  margin-right: 8px;
+  float: left;
 }
 
 @media (max-width: 991px) {
@@ -163,6 +172,9 @@ h3 {
 }
 
 @media (max-width: 479px) {
+  .site-title {
+    font-size: 32px;
+  }
   .navbar-link {
     background-color: #999;
     color: #fff;
