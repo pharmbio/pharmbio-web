@@ -1,0 +1,13 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1>Projects</h1>
+        <ul>
+        {{ range sort .Data.Pages "Params.year" "desc" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
