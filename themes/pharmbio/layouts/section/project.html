@@ -4,7 +4,7 @@
         {{ partial "bodystart.html" . }}
         <h1>Projects</h1>
         <ul>
-        {{ range sort .Data.Pages "Params.year" "desc" }}
+        {{ range .Data.Pages }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ul>
