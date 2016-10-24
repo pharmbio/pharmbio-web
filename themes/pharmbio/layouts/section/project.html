@@ -2,12 +2,11 @@
     {{ partial "header.html" . }}
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
-        <h1>Projects</h1>
-        <ul>
+        <h1>Highlighted Projects</h1>
         {{ range .Data.Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
+        {{ .Content }}
         {{ end }}
-        </ul>
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}
