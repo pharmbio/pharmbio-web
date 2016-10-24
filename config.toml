@@ -8,3 +8,7 @@ SectionPagesMenu = "main"
     identifier = "publication"
     name       = "Publications"
     url        = "/publication/"
+    [[menu.main]]
+    identifier = "project"
+    name       = "Projects"
+    url        = "/project/"
