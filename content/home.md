@@ -9,7 +9,7 @@ menu:
 **Welcome to the Pharmaceutical Bioinformatics research group, lead by
 Assoc. Prof. Ola Spjuth**
 
-Find below a short introduction to the group's main field of study.
+Find below a short introduction to the group's main field of study:
 
 Data-intensive and translational bioinformatics
 -----------------------------------------------

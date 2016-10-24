@@ -12,3 +12,7 @@ SectionPagesMenu = "main"
     identifier = "project"
     name       = "Projects"
     url        = "/project/"
+    [[menu.main]]
+    identifier = "people"
+    name       = "People"
+    url        = "/people/"
