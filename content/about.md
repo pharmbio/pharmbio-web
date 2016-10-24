@@ -6,6 +6,9 @@ menu:
     weight: 80
 ---
 
+About us
+========
+
 Contact details
 ---------------
 

@@ -9,6 +9,8 @@ menu:
 **Welcome to the Pharmaceutical Bioinformatics research group, lead by
 Assoc. Prof. Ola Spjuth**
 
+Find below a short introduction to the group's main field of study.
+
 Data-intensive and translational bioinformatics
 -----------------------------------------------
 
@@ -21,9 +23,7 @@ scalable software, threatening to severely constrain many biomedical
 projects. Our group aims at developing new methods and applications to
 meet the demands of high-throughput biology and drug discovery, using
 high-throughput e-infrastructures and Big Data analytics frameworks,
-aiming towards “next-generation bioinformatics”.\
-\
-Principal investigator: Associate Professor Ola Spjuth.
+aiming towards “next-generation bioinformatics”.
 
 ![](http://uploads.webflow.com/5768239c1f7004325ac735c4/5768272b31f647c5363144d7_443954_3overview-fig2.png)
 **Figure:** Growing data sets require new methods and e-infrastructures
