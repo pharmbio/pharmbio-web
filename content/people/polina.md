@@ -1,14 +1,14 @@
 +++
 date = "2016-09-23T16:59:30+02:00"
-email = ""
+email = "polina.georgiev@farmbio.uu.se"
 firstname = "Polina"
 initials = ""
 job_title = "Web Administrator"
 lastname = "Georgiev"
-long_bio = ""
+long_bio = "PhD in quantum chemistry. Responsible for the administration and coordination in relation to the Pharmaceutical Bioinformatics courses."
 nickname = "polina"
 orcid = ""
-photo_file = ""
+photo_file = "polina.jpg"
 research_interests = [""]
 short_bio = ""
 title = "polina"

@@ -1,14 +1,14 @@
 +++
 date = "2016-09-23T16:59:52+02:00"
-email = ""
+email = "maris.lapins@farmbio.uu.se"
 firstname = "Maris"
 initials = ""
 job_title = "Researcher"
 lastname = "Lapins"
-long_bio = ""
+long_bio = "PhD in Pharmacy. Research interests focused on protein-ligand interactions and in particular the proteochemometrics method."
 nickname = "maris-lapins"
 orcid = ""
-photo_file = ""
+photo_file = "maris.png"
 research_interests = [""]
 short_bio = ""
 title = "Maris Lapins"

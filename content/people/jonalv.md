@@ -1,14 +1,14 @@
 +++
 date = "2016-09-23T16:59:06+02:00"
-email = ""
+email = "jonathan.alvarsson@farmbio.uu.se"
 firstname = "Jonathan"
 initials = ""
 job_title = "Researcher"
 lastname = "Alvarsson"
-long_bio = ""
+long_bio = "PhD in Bioinformatics (2015). Researcher in ligand-based methods for data management and modelling in drug discovery."
 nickname = "jonalv"
 orcid = ""
-photo_file = ""
+photo_file = "jonalv.jpeg"
 research_interests = [""]
 short_bio = ""
 title = "jonalv"
