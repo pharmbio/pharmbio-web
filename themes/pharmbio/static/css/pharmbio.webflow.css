@@ -114,12 +114,6 @@ h3 {
   box-shadow: 0 0 32px 0 rgba(0, 0, 0, .45);
 }
 
-.footer-text {
-  margin-top: 0.4em;
-  margin-bottom: 1em;
-  font-size: 16px;
-}
-
 .welcome-text {
   font-weight: 400;
 }
@@ -240,4 +234,36 @@ a:hover {
   font-size: .9em;
   padding-right: .7em;
   color: #999;
+}
+
+
+.footer-text {
+  clear: both;
+  margin-top: 0.4em;
+  font-size: 1.1em;
+  color: #aaa;
+}
+.footer-text,
+.footer-text a,
+.footer-text a:link,
+.footer-text a:active,
+.footer-text a:visited {
+  color: #aaa;
+}
+.footer-logos {
+  clear: both;
+  width: 100%;
+}
+.footer-logo {
+  color: #aaa;
+  float: left;
+  margin: 1em 3em 1em 3em;
+  opacity: .3;
+  margin-bottom: 3.2em;
+}
+.footer-logo img {
+  height: 60px;
+}
+.footer-logo:hover {
+  opacity: .5;
 }
