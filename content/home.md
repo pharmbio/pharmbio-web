@@ -6,8 +6,7 @@ menu:
     weight: -100
 ---
 
-**Welcome to the Pharmaceutical Bioinformatics research group, lead by
-Assoc. Prof. Ola Spjuth**
+**Welcome to the Pharmaceutical Bioinformatics research group at Uppsala University**
 
 Find below a short introduction to the group's main field of study:
 
@@ -26,5 +25,3 @@ high-throughput e-infrastructures and Big Data analytics frameworks,
 aiming towards “next-generation bioinformatics”.
 
 ![](http://uploads.webflow.com/5768239c1f7004325ac735c4/5768272b31f647c5363144d7_443954_3overview-fig2.png)
-**Figure:** Growing data sets require new methods and e-infrastructures
-to allow for scalable analysis and to cope with the data deluge.
