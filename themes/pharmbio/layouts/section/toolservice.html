@@ -1,0 +1,13 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1>Tools and Services developed in the group</h1>
+        <ul>
+        {{ range .Data.Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
