@@ -8,6 +8,7 @@ title = "A novel infrastructure for chemical safety predictions with focus on hu
 month = "jun"
 volume = "211"
 year = "2012"
+date = "2012-05-10"
 bibtex_type = "article"
 pages = "S59"
 +++

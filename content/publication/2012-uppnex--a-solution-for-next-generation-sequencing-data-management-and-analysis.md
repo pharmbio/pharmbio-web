@@ -9,6 +9,7 @@ number = "B"
 month = "feb"
 volume = "17"
 year = "2012"
+date = "2012-01-01"
 bibtex_type = "article"
 pages = "44"
 +++

@@ -11,6 +11,7 @@ abstract = "Growing data sets with increased time for analysis is hampering pred
 volume = "55"
 source = "Scopus"
 year = "2015"
+date = "2015-01-01"
 keywords = "Cloud computing;  Drug products;  Economics;  Model buildings;  Supercomputers, Computational resources;  Drug development;  Drug discovery;  High performance computers;  High performance computing;  High-performance computing clusters;  Predictive modeling;  Predictive models, Cluster computing, ligand, biology;  chemical database;  computer analysis;  computer program;  drug development;  factual database;  Internet;  procedures;  quantitative structure activity relation, Computational Biology;  Computing Methodologies;  Databases, Chemical;  Databases, Factual;  Drug Discovery;  Internet;  Ligands;  Quantitative Structure-Activity Relationship;  Software"
 document_bibtex_type = "Article"
 pages = "19-25"

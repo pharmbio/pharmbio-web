@@ -6,6 +6,7 @@ url_html = "http://dx.doi.org/10.1533/9781908818249.35"
 booktitle = "Open Source Software in Life Science Research"
 title = "Interactive predictive toxicology with Bioclipse and OpenTox"
 year = "2012"
+date = "2012-06-30"
 bibtex_type = "incollection"
 pages = "35--61"
 +++

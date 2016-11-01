@@ -11,6 +11,7 @@ abstract = "Summary: The previously disclosed QuantMap method for grouping chemi
 volume = "29"
 source = "Scopus"
 year = "2013"
+date = "2013-07-04"
 keywords = "drug;  drug, chemical database;  classification;  computer program;  protein analysis;  article;  classification, Databases, Chemical;  Pharmaceutical Preparations;  Protein Interaction Mapping;  Software, Databases, Chemical;  Pharmaceutical Preparations;  Protein Interaction Mapping;  Software"
 document_bibtex_type = "Article"
 pages = "2369-2370"

@@ -8,6 +8,7 @@ title = "Model building in Bioclipse Decision Support applied to open datasets"
 month = "jun"
 volume = "211"
 year = "2012"
+date = "2012-05-10"
 bibtex_type = "article"
 pages = "S62"
 +++

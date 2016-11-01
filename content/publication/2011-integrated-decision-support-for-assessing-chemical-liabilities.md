@@ -11,6 +11,7 @@ abstract = "Chemical liabilities, such as adverse effects and toxicity, have a m
 volume = "51"
 source = "Scopus"
 year = "2011"
+date = "2011-07-20"
 keywords = "Adverse effect;  Animal testing;  Aryl hydrocarbon receptor;  Compound collections;  Computational model;  Data sets;  Decision supports;  Drug discovery process;  End points;  Hypothesis testing;  In-silico;  In-vitro;  Integrated decision;  Mutagenicity;  Open sources;  Plug-ins;  QSAR model;  Similarity search;  Visual feedback, Artificial intelligence;  Computational chemistry;  Decision support systems;  Hydrocarbons;  Molecular graphics;  Structure (composition);  Visual communication, Product liability, aromatic hydrocarbon receptor;  carcinogen;  drug;  mutagenic agent, algorithm;  article;  chemical model;  chemical structure;  chemistry;  computer program;  computer simulation;  data mining;  drug design;  drug development;  drug toxicity;  factual database;  human;  methodology;  position weight matrix;  quantitative structure activity relation, Algorithms;  Carcinogens;  Chemistry, Pharmaceutical;  Computer Simulation;  Data Mining;  Databases, Factual;  Drug Design;  Drug Discovery;  Drug Toxicity;  Humans;  Models, Chemical;  Molecular Structure;  Mutagens;  Pharmaceutical Preparations;  Position-Specific Scoring Matrices;  Quantitative Structure-Activity Relationship;  Receptors, Aryl Hydrocarbon;  Software"
 document_bibtex_type = "Article"
 pages = "1840-1847"

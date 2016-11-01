@@ -8,6 +8,7 @@ title = "Privacy-Preservation for Publishing Sample Availability Data with Perso
 number = "2"
 volume = "4"
 year = "2015"
+date = "2015-04-30"
 bibtex_type = "article"
 pages = "117--125"
 +++

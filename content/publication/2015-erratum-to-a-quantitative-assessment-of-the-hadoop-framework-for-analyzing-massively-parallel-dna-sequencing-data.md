@@ -9,6 +9,7 @@ number = "1"
 month = "dec"
 volume = "4"
 year = "2015"
+date = "2015-12-09"
 bibtex_type = "article"
 +++
 
