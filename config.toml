@@ -9,9 +9,9 @@ SectionPagesMenu = "main"
     name       = "Publications"
     url        = "/publication/"
     [[menu.main]]
-    identifier = "toolservice"
-    name       = "Tools & Services"
-    url        = "/toolservice/"
+    identifier = "tool"
+    name       = "Tools"
+    url        = "/tool/"
     [[menu.main]]
     identifier = "project"
     name       = "Projects"
