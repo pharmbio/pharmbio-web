@@ -206,6 +206,10 @@ a.navbar-link:active {
 a:hover {
   color: #900;
 }
+a.navbar-link {
+  padding-left: 22px;
+  padding-right: 22px;
+}
 .section-header-container {
   padding-left: 1em;
 }
@@ -266,4 +270,10 @@ a:hover {
 }
 .footer-logo:hover {
   opacity: .5;
+}
+
+.navbar-uulogo-link {
+  display: block;
+  float: right;
+  margin: 8px 0 0 22px;
 }

@@ -2,16 +2,20 @@
   <div class="section-header" id="section-header">
     <div class="section-header-container w-container">
       <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-contain="1" data-doc-height="1" data-duration="400" data-no-scroll="1">
-        <div class="navbar-container w-container"><a class="navbar-brand w-nav-brand" href="/">
-                <img class="navbar-logo" src="/img/pharmbio_logo_square_76x48.png"><h1 class="site-title">pharm<span class="logo-span-pipe"><span>b.io</span></span></h1></a>
-          <nav class="navbar-menu w-nav-menu" role="navigation">
+        <div class="navbar-container w-container">
+          <a class="navbar-brand w-nav-brand" href="/">
+              <img class="navbar-logo" src="/img/pharmbio_logo_square_76x48.png">
+              <h1 class="site-title">pharm<span class="logo-span-pipe"><span>b.io</span></span></h1>
+          </a>
+          <div class="navbar-menubutton w-nav-button">
+            <div class="w-icon-nav-menu"></div>
+          </div>
+          <a class="navbar-uulogo-link" href="http://www.uu.se" target="_blank"><img class="navbar-uulogo-img" src="/img/uulogo_64x64.png"></a>
+          <nav class="navbar-menu w-nav-menu" role="navigation" style="float: right">
               {{ range .Site.Menus.main }}
                   {{ if not ( eq .Name "Home" ) }}<a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>{{ end }}
               {{ end }}
           </nav>
-          <div class="navbar-menubutton w-nav-button">
-            <div class="w-icon-nav-menu"></div>
-          </div>
         </div>
       </div>
     </div>
