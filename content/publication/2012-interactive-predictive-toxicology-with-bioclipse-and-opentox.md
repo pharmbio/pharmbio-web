@@ -9,5 +9,6 @@ year = "2012"
 date = "2012-06-30"
 bibtex_type = "incollection"
 pages = "35--61"
+abstract = "Computational predictive toxicology draws knowledge from many independent sources, providing a rich support tool to assess a wide variety of toxicological properties. A key example would be for it to complement alternative testing methods. The integration of Bioclipse and OpenTox permits toxicity prediction based on the analysis of chemical structures, and visualization of the substructure contributions to the toxicity prediction. In analogy of the decision support that is already in use in the pharmaceutical industry for designing new drug leads, we use this approach in two case studies in malaria research, using a combination of local and remote predictive models. This way, we find drug leads without predicted toxicity."
 +++
 
