@@ -125,7 +125,10 @@ h3 {
 }
 
 @media (max-width: 991px) {
-  .navbar-link {
+  .navbar-link,
+  .navbar-link:link,
+  .navbar-link:visited,
+  .navbar-link:active {
     border-top: 1px none #000;
     border-bottom: 1px none #000;
     background-color: #999;
@@ -135,6 +138,7 @@ h3 {
     border-top: 1px none #000;
     border-bottom: 1px none #000;
     background-color: #fff;
+    color: #c00;
   }
   .navbar-menu {
     margin-right: -1em;
@@ -195,13 +199,19 @@ a,
 a:link,
 a:active,
 a:hover,
-a:visited { 
+a:visited {
   color: #c00;
   text-decoration: none;
 }
 a.w-nav-link.w--current,
 a.navbar-link:active {
   color: #000;
+}
+@media (max-width: 991px) {
+    a.w-nav-link.w--current,
+    a.navbar-link:active {
+      color: #ff0;
+    }
 }
 a:hover {
   color: #900;
@@ -225,9 +235,7 @@ a.navbar-link {
 .section-footer a:hover {
     color: black;
 }
-
 /* Content styles */
-
 .people-single-linklist {
   margin: .7em 0 0 0;
   padding: 0 0 0 .4em;
