@@ -3,14 +3,14 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1>Publications</h1>
-        <ul>
         {{ range .Data.Pages.GroupByDate "2006" }}
             <h2>{{ .Key }}</h2>
+            <ul>
             {{ range sort .Pages "Params.year" "desc" }}
                 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2 Jan" }})</li>
             {{ end }}
+            </ul>
         {{ end }}
-        </ul>
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}
