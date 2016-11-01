@@ -8,10 +8,8 @@ menu:
 
 **Welcome to the Pharmaceutical Bioinformatics research group at Uppsala University**
 
-Find below a short introduction to the group's main field of study:
-
-Data-intensive and translational bioinformatics
------------------------------------------------
+Research focus: Data-intensive and translational bioinformatics
+---------------------------------------------------------------
 
 High-throughput technologies have transformed biomedicine into a
 data-intensive discipline. This has shifted the focus from traditional
@@ -21,7 +19,6 @@ However, the field is characterized by growing data sets and poorly
 scalable software, threatening to severely constrain many biomedical
 projects. Our group aims at developing new methods and applications to
 meet the demands of high-throughput biology and drug discovery, using
-high-throughput e-infrastructures and Big Data analytics frameworks,
-aiming towards “next-generation bioinformatics”.
+high-throughput e-infrastructures and Big Data analytics frameworks.
 
 ![](http://uploads.webflow.com/5768239c1f7004325ac735c4/5768272b31f647c5363144d7_443954_3overview-fig2.png)
