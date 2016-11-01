@@ -13,5 +13,5 @@ OpenRiskNet will address the challenges arising from the fragmentation of the da
 Ola Spjuth leads WP2: "Interoperability, Deployment and Security".
 
 
-![](EC-H2020.jpg)
+![](/img/EC-H2020.jpg)
 
