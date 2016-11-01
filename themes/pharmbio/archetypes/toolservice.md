@@ -8,5 +8,6 @@ url_github = ""
 url_documentation = ""
 url_publication = ""
 maintenance_status = "" # one of: inhouse / external / retired
+weight = 0
 +++
 
