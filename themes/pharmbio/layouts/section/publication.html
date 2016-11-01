@@ -7,7 +7,7 @@
         {{ range .Data.Pages.GroupByDate "2006" }}
             <h2>{{ .Key }}</h2>
             {{ range sort .Pages "Params.year" "desc" }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.year }})</li>
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2 Jan" }})</li>
             {{ end }}
         {{ end }}
         </ul>
