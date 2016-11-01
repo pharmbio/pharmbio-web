@@ -1,6 +1,6 @@
 +++
 date = "2016-11-01T14:33:02+01:00"
-description = "Bioclipse is a free and open source workbench for the life sciences."
+description = "A free and open source workbench for the life sciences"
 maintenance_status = ""
 taxonomies = ""
 title = "Bioclipse"

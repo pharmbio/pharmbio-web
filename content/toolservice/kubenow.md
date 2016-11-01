@@ -1,6 +1,6 @@
 +++
 date = "2016-11-01T15:31:37+01:00"
-description = "Using KubeNow you can rapidly deploy, scale, and tear down your Kubernetes clusters on any cloud."
+description = "Rapidly deploy, scale, and tear down your Kubernetes clusters on any cloud."
 maintenance_status = "inhouse"
 taxonomies = ""
 title = "KubeNow"

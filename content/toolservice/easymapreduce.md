@@ -1,6 +1,6 @@
 +++
 date = "2016-11-01T15:32:07+01:00"
-description = "EasyMapReduce leverages the power of Docker and Spark to run and scale your serial tools in MapReduce fashion."
+description = "Run and scale your serial tools in MapReduce fashion, powered by Docker and Spark"
 maintenance_status = "inhouse"
 taxonomies = ""
 title = "EasyMapReduce"

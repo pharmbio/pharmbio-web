@@ -1,7 +1,7 @@
 +++
 date = "2016-11-01T14:48:52+01:00"
 title = "SciLuigi"
-description = "A light-weight wrapper library around Spotify's Luigi workflow system to make writing scientific workflows more fluent, flexible and modular"
+description = "A light-weight wrapper around Spotify's Luigi workflow system to make writing scientific workflows more fluent, flexible and modular"
 maintenance_status = "inhouse"
 taxonomies = ""
 url_documentation = "https://github.com/pharmbio/sciluigi/wiki"

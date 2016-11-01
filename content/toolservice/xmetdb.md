@@ -1,7 +1,7 @@
 +++
 date = "2016-11-01T15:31:30+01:00"
-description = ""
-maintenance_status = "An open access database for drugs and other xenobiotics and their respective metabolites."
+description = "An open access database for drugs and other xenobiotics and their respective metabolites"
+maintenance_status = "inhouse"
 taxonomies = ""
 title = "Xenobiotics Metabolism Database (XMetDB)"
 url_documentation = "http://www.xmetdb.org/wiki/How_to_enter_experimental_data"

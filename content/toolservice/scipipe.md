@@ -1,6 +1,6 @@
 +++
 date = "2016-11-01T15:28:27+01:00"
-description = "SciPipe is a library for writing scientific Workflows in vanilla Go(lang), based on flow-based programming principles."
+description = "A library for writing scientific Workflows in vanilla Go(lang), based on flow-based programming principles"
 maintenance_status = "inhouse"
 taxonomies = ""
 title = "SciPipe"
