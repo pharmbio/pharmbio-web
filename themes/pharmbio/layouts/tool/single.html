@@ -2,18 +2,16 @@
     {{ partial "header.html" . }}
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
-        <div style="float: right; border: 1px solid #ccc; padding: 1.2em 2.4em 1.6em 2em; margin-top: 2em;">
-        <h4>External Links</h4>
+        <h1 style="font-size: 1.4em">{{ .Title }}</h1>
+        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
+        {{ .Content }}
+        <h2 style="font-size: 1.2em">External Links</h2>
         <ul>
             <li><a href="{{ .Params.url_website }}" target="_blank">Website</a></li>
             <li><a href="{{ .Params.url_github }}" target="_blank">Github</a></li>
             <li><a href="{{ .Params.url_documentation }}" target="_blank">Documentation</a></li>
             <li><a href="{{ .Params.url_publication }}" target="_blank">Publication</a></li>
         </ul>
-        </div>
-        <h1 style="font-size: 1.4em">{{ .Title }}</h1>
-        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
-        {{ .Content }}
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}

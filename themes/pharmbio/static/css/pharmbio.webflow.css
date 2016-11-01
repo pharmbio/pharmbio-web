@@ -285,3 +285,9 @@ a.navbar-link {
   float: right;
   margin: 8px 0 0 22px;
 }
+.tool-infobox {
+  float: right;
+  border: 1px solid #ccc;
+  padding: 1.2em 3.2em 1.6em 2em;
+  margin: 2em 0 1em .4em;
+}
