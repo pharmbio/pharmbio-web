@@ -6,7 +6,7 @@
                 <img class="navbar-logo" src="/img/pharmbio_logo_square_76x48.png"><h1 class="site-title">pharm<span class="logo-span-pipe"><span>b.io</span></span></h1></a>
           <nav class="navbar-menu w-nav-menu" role="navigation">
               {{ range .Site.Menus.main }}
-                  <a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                  {{ if not ( eq .Name "Home" ) }}<a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>{{ end }}
               {{ end }}
           </nav>
           <div class="navbar-menubutton w-nav-button">

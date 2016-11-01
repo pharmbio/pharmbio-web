@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
     name       = "Publications"
     url        = "/publication/"
     [[menu.main]]
-    identifier = "publication"
+    identifier = "toolservice"
     name       = "Tools & Services"
     url        = "/toolservice/"
     [[menu.main]]
