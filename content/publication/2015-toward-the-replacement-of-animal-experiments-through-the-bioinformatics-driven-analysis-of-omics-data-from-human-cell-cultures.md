@@ -9,6 +9,5 @@ volume      =  "43"
 number      =  "5"
 pages       = "325--332"
 month       =  "nov"
-year        =  "2015"
 +++
 
