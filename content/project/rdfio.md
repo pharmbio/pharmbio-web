@@ -1,9 +1,20 @@
-+++
-date = "2016-11-16T20:45:04+02:03"
-description = ""
-taxonomies = ""
-title = "RDFIO"
-+++
+---
+date: 2016-11-16T20:45:04+02:03
+description:
+taxonomies:
+title: RDFIO
+list_only: True
+weight: 80
+---
+
+RDFIO is a project to bring RDF data import functionality to [Semantic MediaWiki (SMW)](http://semantic-mediawiki.org)
+to enable using SMW as a collaborative platform for editing semantic
+data. This functionality enables important usage scenarios such as
+bootstrapping a wiki structure from RDF data, full round-trip between the RDF
+data format used on the Semantic Web and the SMW wiki text format and creating
+mash-ups combining automatically imported datasets and manually created
+summations and visualiations using the inline query language and visualization
+functionality available in SMW.
 
 ## External links
 
