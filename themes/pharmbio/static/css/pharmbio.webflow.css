@@ -291,3 +291,13 @@ a.navbar-link {
   padding: 1.2em 3.2em 1.6em 2em;
   margin: 2em 0 1em .4em;
 }
+
+/* Smaller logo */
+
+.site-title {
+  font-size: 32px;
+}
+.navbar-logo {
+  width: 56px;
+  margin-top: 6px;
+}
