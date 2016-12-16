@@ -1,17 +1,19 @@
 +++
-draft = true
 author_keywords = "Workflows; Molecular signatures;  Predictive modelling;  QSAR;  Support vector machine"
 url = "/publication/2016-sciluigi"
-doi = ""
-title = "Towards Agile Large-Scale Predictive Modelling in Drug Discovery with Flow-Based Programming Design Principles"
-url_html = ""
+doi = "10.1186/s13321-016-0179-6"
+title = "Towards agile large-scale predictive modelling in drug discovery with flow-based programming design principles"
+url_html = "http://dx.doi.org/10.1186/s13321-016-0179-6"
 journal = "Journal of Cheminformatics"
 author = "Lampa, S. and Alvarsson, J. and Spjuth, O."
-number = ""
-volume = ""
+number = "1"
+volume = "8"
+pages = "67"
 source = ""
 year = "2016"
+date = "2016-11-24"
 document_bibtex_type = "Article"
 short_summary = "We investigated the effect of data size on predictive performance for large (over 1.2 million compounds) QSAR based models."
+abstract = "Predictive modelling in drug discovery is challenging to automate as it often contains multiple analysis steps and might involve cross-validation and parameter tuning that create complex dependencies between tasks. With large-scale data or when using computationally demanding modelling methods, e-infrastructures such as high-performance or cloud computing are required, adding to the existing challenges of fault-tolerant automation. Workflow management systems can aid in many of these challenges, but the currently available systems are lacking in the functionality needed to enable agile and flexible predictive modelling. We here present an approach inspired by elements of the flow-based programming paradigm, implemented as an extension of the Luigi system which we name SciLuigi. We also discuss the experiences from using the approach when modelling a large set of biochemical interactions using a shared computer cluster."
+issn="1758-2946"
 +++
-
