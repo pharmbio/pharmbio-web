@@ -7,7 +7,7 @@ url_html = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79958124624&part
 journal = "Bioinformatics"
 author = "Spjuth, O. and Eklund, M. and Lapins, M. and Junaid, M. and Wikberg, J.E.S."
 number = "12"
-abstract = "The HIV Drug Research Centre (HIVDRC) has established Web services for prediction of drug susceptibility for HIV proteases and reverse transcriptases. The services are based on two proteochemometric models which accepts a protease or reverse transcriptase sequence in amino acid form, and outputs the predicted drug susceptibility values. The predictions are based on a comprehensive analysis where all the relevant inhibitors are included, resulting in models with excellent predictive capabilities. \u00a9 The Author 2011. Published by Oxford University Press. All rights reserved."
+abstract = "The HIV Drug Research Centre (HIVDRC) has established Web services for prediction of drug susceptibility for HIV proteases and reverse transcriptases. The services are based on two proteochemometric models which accepts a protease or reverse transcriptase sequence in amino acid form, and outputs the predicted drug susceptibility values. The predictions are based on a comprehensive analysis where all the relevant inhibitors are included, resulting in models with excellent predictive capabilities. © The Author 2011. Published by Oxford University Press. All rights reserved."
 volume = "27"
 source = "Scopus"
 art_number = "btr192"
