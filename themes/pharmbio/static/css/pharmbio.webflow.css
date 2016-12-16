@@ -285,6 +285,11 @@ a.navbar-link {
   float: right;
   margin: 8px 0 0 22px;
 }
+@media (max-width: 479px) {
+  .navbar-uulogo-link {
+    display: none;
+  }
+}
 .tool-infobox {
   float: right;
   border: 1px solid #ccc;
