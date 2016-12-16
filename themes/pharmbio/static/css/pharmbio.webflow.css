@@ -306,3 +306,9 @@ a.navbar-link {
   width: 56px;
   margin-top: 6px;
 }
+a.blog-link {
+  color: #777;
+}
+a.blog-link:hover {
+  color: #c00;
+}

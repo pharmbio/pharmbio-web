@@ -2,7 +2,9 @@
     {{ partial "header.html" . }}
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
+        <p><a href="/">&larr; Back to front page</a></p>
         <h1>{{ .Title }}</h1>
+        <p>{{ dateFormat "2 Jan, 2006" .Date }}</p>
         {{ .Content }}
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
