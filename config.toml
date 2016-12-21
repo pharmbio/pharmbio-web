@@ -5,10 +5,6 @@ theme = "pharmbio"
 SectionPagesMenu = "main"
 [menu]
     [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/blog/"
-    [[menu.main]]
     identifier = "publication"
     name       = "Publications"
     url        = "/publication/"
