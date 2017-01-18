@@ -1,16 +1,16 @@
 +++
 date = "2016-09-23T17:00:00+02:00"
 nickname = "star"
-email = "staffan.arvidsson@genettasoft.com"
+email = "staffan.arvidsson@farmbio.uu.se"
 firstname = "Staffan"
 initials = ""
-job_title = "Research Assistant"
+job_title = "PhD Student"
 lastname = "Arvidsson"
 orcid = ""
 photo_file = "staffan.jpg"
-research_interests = ["Computer Science", "Bioinformatics", "High Performance Computing", "Spark", "Java"]
+research_interests = ["Computer Science", "Bioinformatics", "High Performance Computing", "Java", "REST", "Microservices"]
 short_bio = ""
-long_bio = "MSc Molecular Biotechnology Engineering, Bioinformatics Engineering in 2015. Currently working mostly as software developer in Java and Scala/Spark"
+long_bio = "MSc Molecular Biotechnology Engineering, Bioinformatics Engineering in 2015. Started PhD studies in January 2017. Working both with software development and reasearch within the field of predictive modeling, predominantly with applications in metabolism and toxicology."
 title = "staffan"
 twitter = ""
 url_blog = ""
