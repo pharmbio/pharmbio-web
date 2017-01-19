@@ -19,6 +19,6 @@ However, the field is characterized by growing data sets and poorly
 scalable software, threatening to severely constrain many biomedical
 projects. Our group aims at developing new methods and applications to
 meet the demands of high-throughput biology and drug discovery, using
-high-throughput e-infrastructures and Big Data analytics frameworks.
+high-throughput and cloud-based e-infrastructures and Big Data analytics.
 
 ![](http://uploads.webflow.com/5768239c1f7004325ac735c4/5768272b31f647c5363144d7_443954_3overview-fig2.png)
