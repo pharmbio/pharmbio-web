@@ -8,7 +8,7 @@
         {{ range where .Data.Pages "Type" "blog" }}
             <h1><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></h1>
             <p>{{ dateFormat "2 Jan, 2006" .Date }}</p>
-            {{ htmlUnescape (substr (plainify .Content) 0 240) }}
+            {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...
             <div style="width: 100%"><a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a></div>
         {{ end }}
         {{ partial "bodyend.html" . }}
