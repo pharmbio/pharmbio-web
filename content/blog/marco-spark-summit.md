@@ -5,9 +5,7 @@ taxonomies = "blogging"
 title = "Marco Capuccini to present at Spark Summit East 2017"
 +++
 
-Marco Capuccini will present at Spark Summit East 2017: "EasyMapReduce: Leverage the power Of Spark And Docker To scale scientific tools In MapReduce fashion"
-
-https://spark-summit.org/east-2017/events/easymapreduce-leverage-the-power-of-spark-and-docker-to-scale-scientific-tools-in-mapreduce-fashion/
+Marco Capuccini will present at Spark Summit East 2017: ["EasyMapReduce: Leverage the power Of Spark And Docker To scale scientific tools In MapReduce fashion"](https://spark-summit.org/east-2017/events/easymapreduce-leverage-the-power-of-spark-and-docker-to-scale-scientific-tools-in-mapreduce-fashion/)
 
 Abstract:
 High-throughput methods in various scientific fields produced massive datasets in the past decade, and using Big Data frameworks, such as Apache Spark, is a natural choice to enable large-scale analysis. In scientific applications, many tools are highly optimized to resemble, or detect, some phenomenon that occurs in a certain system, and the effort of reimplementing such tools in Spark cannot be sustained by research groups.
