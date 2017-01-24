@@ -5,7 +5,7 @@
         {{ range where .Data.Pages "Title" "Home" }}
             {{ .Content }}
         {{ end }}
-        {{ range (sort (where .Data.Pages "Type" "blog") "Date" "asc") }}
+        {{ range (sort (where .Data.Pages "Type" "blog") "Date" "desc") }}
             <h1><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></h1>
             <p>{{ dateFormat "2 Jan, 2006" .Date }}</p>
             {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...

@@ -1,5 +1,5 @@
 +++
-date = "2017-12-19T19:23:47+01:00"
+date = "2016-12-19T19:23:47+01:00"
 description = ""
 taxonomies = "blogging"
 title = "Ola Spjuth to present at CloudBeer 2017"
