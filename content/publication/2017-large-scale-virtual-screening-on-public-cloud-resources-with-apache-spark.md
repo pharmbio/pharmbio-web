@@ -4,6 +4,7 @@ author="Capuccini, Marco and Ahmed, Laeeq and Schaal, Wesleyand Laure, Erwin and
 title="Large-scale virtual screening on public cloud resources with Apache Spark"
 journal="Journal of Cheminformatics"
 year="2017"
+date="2017-03-06"
 volume="9"
 number="1"
 pages="15"
