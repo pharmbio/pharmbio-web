@@ -8,11 +8,7 @@
         {{ .Content }}
         <!-- Social Sharing buttons -->
         <div class="social-sharing-buttons">
-            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ .Title }}%20%23pharmbio">Tweet</a>
-
-            <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-            <script type="IN/Share" data-url="{{ .Permalink }}"></script>
-
+            <!-- TWITTER -->
             <script>window.twttr = (function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0],
             t = window.twttr || {};
@@ -26,9 +22,17 @@
             t.ready = function(f) {
             t._e.push(f);
             };
-
             return t;
             }(document, "script", "twitter-wjs"));</script>
+            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ .Title }}%20%23pharmbio">Tweet</a>
+
+            <!-- TWITTER -->
+            <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+            <script type="IN/Share" data-url="{{ .Permalink }}"></script>
+
+            <!-- GPLUS -->
+            <script src="https://apis.google.com/js/platform.js" async defer></script>
+            <div class="g-plus" data-action="share" data-annotation="none"></div>
         </div>
         <!-- END: Social Sharing buttons -->
         {{ partial "bodyend.html" . }}
