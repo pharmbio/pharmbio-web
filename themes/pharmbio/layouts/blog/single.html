@@ -9,6 +9,10 @@
         <!-- Social Sharing buttons -->
         <div class="social-sharing-buttons">
             <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ .Title }}%20%23pharmbio">Tweet</a>
+
+            <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+            <script type="IN/Share" data-url="{{ .Permalink }}"></script>
+
             <script>window.twttr = (function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0],
             t = window.twttr || {};

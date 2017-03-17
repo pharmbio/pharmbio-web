@@ -316,3 +316,6 @@ a.blog-link:hover {
 div.social-sharing-buttons {
     margin: 2em 0;
 }
+a.twitter-share-button {
+    margin-right: 1em!important;
+}
