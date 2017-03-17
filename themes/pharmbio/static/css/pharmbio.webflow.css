@@ -312,3 +312,7 @@ a.blog-link {
 a.blog-link:hover {
   color: #c00;
 }
+
+div.social-sharing-buttons {
+    margin: 2em 0;
+}

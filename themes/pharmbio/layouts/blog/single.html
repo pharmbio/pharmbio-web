@@ -6,6 +6,27 @@
         <h1>{{ .Title }}</h1>
         <p>{{ dateFormat "2 Jan, 2006" .Date }}</p>
         {{ .Content }}
+        <!-- Social Sharing buttons -->
+        <div class="social-sharing-buttons">
+            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ .Title }}%20%23pharmbio">Tweet</a>
+            <script>window.twttr = (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+
+            t._e = [];
+            t.ready = function(f) {
+            t._e.push(f);
+            };
+
+            return t;
+            }(document, "script", "twitter-wjs"));</script>
+        </div>
+        <!-- END: Social Sharing buttons -->
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}
