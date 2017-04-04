@@ -11,14 +11,6 @@ menu:
 Research focus: Data-intensive and translational bioinformatics
 ---------------------------------------------------------------
 
-High-throughput technologies have transformed biomedicine into a
-data-intensive discipline. This has shifted the focus from traditional
-data generation and hypothesis testing to more data-driven research, and
-bioinformatics data analysis has become the bottleneck in many projects.
-However, the field is characterized by growing data sets and poorly
-scalable software, threatening to severely constrain many biomedical
-projects. Our group aims at developing new methods and applications to
-meet the demands of high-throughput biology and drug discovery, using
-high-throughput and cloud-based e-infrastructures and Big Data analytics.
+The Pharmaceutical Bioinformatics research group focuses on mathematical and statistical modeling, informatics and quantitative analysis of pharmacological systems. We develop methods, algorithms and software to study and model pharmaceutical interactions, and a key focus in the group is how predictive modeling, large-scale calculations and modern e-infrastructure (such as high-performance and cloud computing) can aid the drug discovery process; e.g. when studying drug toxicity, metabolism and resistance. We are involved in several national and international consortia and have a tight connection to the pharmaceutical industry, Uppsala University Hospital, and Science for Life Laboratory. See the [Projects](https://pharmb.io/project/) page for more information on our ongoing research projects.
 
 ![](http://uploads.webflow.com/5768239c1f7004325ac735c4/5768272b31f647c5363144d7_443954_3overview-fig2.png)
