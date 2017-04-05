@@ -7,6 +7,7 @@ menu:
 ---
 
 **Welcome to the Pharmaceutical Bioinformatics research group at Uppsala University**
+
 Principal Investigator: [Ola Spjuth](https://pharmb.io/people/olas/)
 
 Research focus: Data-intensive and translational bioinformatics
