@@ -5,7 +5,7 @@ taxonomies = "TBC"
 title = "HASTE: Hierarchical Analysis of Spatial and TEmporal image data"
 +++
 
-** From intelligent data acquisition via smart data-management to confident predictions**
+**From intelligent data acquisition via smart data-management to confident predictions**
 
 The HASTE project takes a hierarchical approach to acquisition, analysis, and interpretation of image data. We develop computationally efficient measurements for data description, confidence-driven machine learning for determination of interestingness, and a theory and framework to apply intelligent spatial and temporal information hierarchies, distributing data to computational resources and storage options based on low-level image features.
 
