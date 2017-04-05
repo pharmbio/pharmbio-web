@@ -319,3 +319,6 @@ div.social-sharing-buttons {
 a.twitter-share-button {
     margin-right: 1em!important;
 }
+.section-content-container img {
+    margin: 1em 2em 1em 0;
+}
