@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Capuccini, Marco and Ahmed, Laeeq and Schaal, Wesleyand Laure, Erwin and Spjuth, Ola"
+author="M. Capuccini, L. Ahmed, W. Schaal, E. Laure, O. Spjuth"
 title="Large-scale virtual screening on public cloud resources with Apache Spark"
 journal="Journal of Cheminformatics"
 year="2017"
