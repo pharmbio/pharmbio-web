@@ -5,9 +5,15 @@
         <h1>Publications</h1>
         {{ range .Data.Pages.GroupByDate "2006" }}
             <h2>{{ .Key }}</h2>
-            <ul>
+            <ul style="list-style: none; padding-left: 0;">
             {{ range sort .Pages "Params.year" "desc" }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2 Jan" }})</li>
+            <li style="margin-bottom: 1em">{{ .Params.author }}
+                <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+                {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
+                {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
+                {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
+                <br><a href="{{ .RelPermalink }}">More info &raquo;</a>
+                </li>
             {{ end }}
             </ul>
         {{ end }}
