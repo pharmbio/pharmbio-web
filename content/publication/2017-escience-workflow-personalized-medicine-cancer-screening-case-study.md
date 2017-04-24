@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Spjuth, Ola and Karlsson, Andreas and Clements, Mark and Humphreys, Keith and Ivansson, Emma and Dowling, Jim and Eklund, Martin and Jauhiainen, Alexandra and Czene, Kamila and  Grönberg, Henrik and Sparén, Pär and Wiklund, Fredrik and Cheddad, Abbas and Pálsdóttir, þorgerður and Rantalainen, Mattias and Abrahamsson, Linda and Laure, Erwin and Litton, Jan-Eric and Palmgren, Juni"
+author="Spjuth O, and Karlsson A, and Clements M, and Humphreys K, and Ivansson E, and Dowling J, and Eklund M, and Jauhiainen A, and Czene K, and Grönberg H and Sparén P and Wiklund F, and Cheddad A, and Pálsdóttir þ and Rantalainen M, and Abrahamsson L, and Laure E, and Litton J-E, and Palmgren J"
 title="E-Science technologies in a workflow for personalized medicine using cancer screening as a case study"
 journal="J Am Med Inform Assoc"
 year="2017"
