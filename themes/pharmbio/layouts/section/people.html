@@ -3,6 +3,20 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1>People</h1>
+
+        <img src="/img/group-krusenberg2017-1200px.jpg">
+        <div style="margin: -.6em 0 0 0; font-size: .9em;">Group photo taken at
+            Krusenbergs Herrg&aring;rd in April 2017. From left to right: Arvid
+            Berg, Polina Georgiev, Martin Dahl&ouml;, Ola Spjuth, Anders
+            Larsson, Wesley Schaal, Jon Ander Novella, Marco Capuccini, Samuel
+            Lampa, Valentin Georgiev, Staffan Arvidsson, Maris Lapins, Jonathan
+            Alvarsson, Matteo Carone.<br>(Photographer: Jonathan Alvarsson).
+        </div>
+
+        <h2>Personal pages</h2>
+
+        <p>See the list below for more detail of each person.</p>
+
         <ul>
         {{ range .Data.Pages }}
             <li><a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a>, {{ .Params.job_title }}</li>
