@@ -12,7 +12,6 @@
                 {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
                 {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
                 {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
-                <br><a href="{{ .RelPermalink }}">More info &raquo;</a>
                 </li>
             {{ end }}
             </ul>
