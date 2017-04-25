@@ -1,7 +1,7 @@
 +++
 publisher = "Springer Nature"
 doi = "10.1186/s13742-016-0132-7"
-author = "O. Spjuth, E. Bongcam-Rudloff, J. Dahlberg, M. Dahlö, A. Kallio, L. Pireddu, F. Vezzi, E. Korpelainen"
+author = "Spjuth O, Bongcam-Rudloff E, Dahlberg J, Dahlö M, Kallio A, Pireddu L, Vezzi F, Korpelainen E"
 url_html = "http://dx.doi.org/10.1186/s13742-016-0132-7"
 journal = "GigaScience"
 title = "Recommendations on e-infrastructures for next-generation sequencing"

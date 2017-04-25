@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="W. Shoombuatong, P. Prathipati, V. Prachayasittikul, N. Schaduangrat, A.A. Malik, R. Pratiwi, S. Wanwimolruk, J.E.S. Wikberg, MP. Gleeson, O. Spjuth, C. Nantasenamat"
+author="Shoombuatong W, Prathipati P, Prachayasittikul V, Schaduangrat N, Malik AA, Pratiwi R, Wanwimolruk S, Wikberg JES, Gleeson MP, Spjuth O, Nantasenamat C"
 title="Towards Predicting the Cytochrome P450 Modulation: From QSAR to proteochemometric modeling"
 journal="Current Drug Metabolism"
 year="2017"

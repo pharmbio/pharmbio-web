@@ -1,5 +1,5 @@
 +++
-author = "Barry Hardy, Gordana Apic, Philip Carthew, Dominic Clark, David Cook, Ian Dix,, Sylvia Escher, Janna Hastings, David J. Heard, Nina Jeliazkova, Philip Judson, Sherri Matis-Mitchell, Dragana Mitic, Glenn Myatt, Imran Shah, Ola Spjuth, Olga Tcheremenskaia, Luca Toldo, David Watson, Andrew White, and Chihae Yang"
+author = "Hardy B, Apic G, Carthew P, Clark D, Cook D, Dix I, Escher S, Hastings J, Heard DJ, Jeliazkova N, Judson P, Matis-Mitchell S, Mitic D, Myatt G, Shah I, Spjuth O, Tcheremenskaia O, Toldo L, Watson D, White A, Yang C"
 doi = "10.14573/altex.2012.2.139"
 year = "2012"
 date = "2012-04-30"

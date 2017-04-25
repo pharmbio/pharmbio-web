@@ -1,7 +1,7 @@
 +++
 publisher = "PeerJ"
 doi = "10.7717/peerj.1979"
-author = "S. Simeon, O. Spjuth, M. Lapins, S. Nabu, N. Anuwongcharoen, V. Prachayasittikul, J.E.S. Wikberg, C. Nantasenamat"
+author = "Simeon S, Spjuth O, Lapins M, Nabu S, Anuwongcharoen N, Prachayasittikul V, Wikberg JES, Nantasenamat C"
 url_html = "http://dx.doi.org/10.7717/peerj.1979"
 journal = "PeerJ"
 title = "Origin of aromatase inhibitory activity via proteochemometric modeling"

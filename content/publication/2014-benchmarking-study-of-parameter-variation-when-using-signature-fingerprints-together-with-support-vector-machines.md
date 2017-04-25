@@ -1,7 +1,7 @@
 +++
 publisher = "American Chemical Society (ACS)"
 doi = "10.1021/ci500344v"
-author = "Alvarsson, Jonathan and Eklund, Martin and Andersson, Claes and Carlsson, Lars and Spjuth, Ola and Wikberg, Jarl E. S."
+author = "Alvarsson J, Eklund M, Andersson C, Carlsson L, Spjuth O, Wikberg JES"
 url_html = "http://dx.doi.org/10.1021/ci500344v"
 journal = "Journal of Chemical Information and Modeling"
 title = "Benchmarking Study of Parameter Variation When Using Signature Fingerprints Together with Support Vector Machines"

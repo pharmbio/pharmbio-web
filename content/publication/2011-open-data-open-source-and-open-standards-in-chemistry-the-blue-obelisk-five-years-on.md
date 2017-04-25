@@ -1,6 +1,6 @@
 +++
 title = "Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on."
-author = ["O'Boyle, Noel M","Guha, Rajarshi","Willighagen, Egon L","Adams, Samuel E","Alvarsson, Jonathan","Bradley, Jean-Claude","Filippov, Igor V","Hanson, Robert M","Hanwell, Marcus D","Hutchison, Geoffrey R","James, Craig A","Jeliazkova, Nina","Lang, Andrew SID","Langner, Karol M","Lonie, David C","Lowe, Daniel M","Pansanel, Jérôme","Pavlov, Dmitry","Spjuth, Ola","Steinbeck, Christoph","Tenderholt, Adam L","Theisen, Kevin J","Murray-Rust, Peter"]
+author = "O'Boyle NM, Guha R, Willighagen EL, Adams SE, Alvarsson J, Bradley, J-C, Filippov IV, Hanson RM, Hanwell MD, Hutchison GR, James CA, Jeliazkova N, Lang ASID, Langner KM, Lonie DC, Lowe DM, Pansanel, Jérôme, Pavlov D, Spjuth O, Steinbeck C, Tenderholt AL, Theisen KJ, Murray-Rust P"
 doi = "10.1186/1758-2946-3-37"
 year = "2011"
 date = "2011-10-14"

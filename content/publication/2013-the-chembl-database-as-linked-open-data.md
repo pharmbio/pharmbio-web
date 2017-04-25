@@ -1,5 +1,5 @@
 +++
-author = "Egon L Willighagen, Andra Waagmeester, Ola Spjuth, Peter Ansell, Antony J Williams, Valery Tkachenko, Janna Hastings, Bin Chen and David J Wild"
+author = "Willighagen EL, Waagmeester A, Spjuth O, Ansell P, Williams AJ, Tkachenko V, Hastings J, Chen B, Wild DJ "
 doi = "10.1186/1758-2946-5-23"
 year = "2013"
 date = "2013-05-08"

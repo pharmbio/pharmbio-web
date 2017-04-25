@@ -1,7 +1,7 @@
 +++
 publisher = "John Wiley & Sons, Inc."
 doi = "10.1002/9781118131411.ch3"
-author = "Wikberg, Jarl E. S. and Spjuth, Ola and Eklund, Martin and Lapins, Maris"
+author = "Wikberg JES, Spjuth O, Eklund M, Lapins M"
 url_html = "http://dx.doi.org/10.1002/9781118131411.ch3"
 booktitle = "Computational Approaches in Cheminformatics and Bioinformatics"
 title = "Chemoinformatics Taking Biology into Account: Proteochemometrics"

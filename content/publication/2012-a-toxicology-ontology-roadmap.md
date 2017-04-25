@@ -1,6 +1,6 @@
 +++
 title = "Food for thought ... A toxicology ontology roadmap"
-author = "Hardy, B. and Apic, G. and Carthew, P. and Clark, D. and Cook, D. and Escher, S. and Dix, I. and Hastings, J. and Heard, David J. and Jeliazkova, N. and Judson, P. and Matis-Mitchell, S. and Mitic, D. and Myatt, G. and Shah, I. and Spjuth, O. and Tcheremenskaia, O. and Toldo, L. and Watson, D. and White, A. and Yang, C."
+author = "Hardy B, Apic G, Carthew P, Clark D, Cook D, Escher S, Dix I, Hastings J, Heard DJ, Jeliazkova N, Judson P, Matis-Mitchell S, Mitic D, Myatt G, Shah I, Spjuth O, Tcheremenskaia O, Toldo L, Watson D, White A, Yang C"
 doi = "10.14573/altex.2012.2.129"
 year = "2012"
 date = "2012-06-30"

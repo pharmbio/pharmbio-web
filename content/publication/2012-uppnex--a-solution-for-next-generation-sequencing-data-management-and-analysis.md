@@ -1,7 +1,7 @@
 +++
 publisher = "EMBnet Stichting"
 doi = "10.14806/ej.17.b.274"
-author = "Lampa, Samuel and Hagberg, Jonas and Spjuth, Ola"
+author = "Lampa S, Hagberg J, Spjuth O"
 url_html = "http://dx.doi.org/10.14806/ej.17.b.274"
 journal = "EMBnet j."
 title = "UPPNEX - A solution for Next Generation Sequencing data management and analysis"

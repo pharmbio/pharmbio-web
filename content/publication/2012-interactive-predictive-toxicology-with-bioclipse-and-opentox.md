@@ -1,7 +1,7 @@
 +++
 publisher = "Elsevier BV"
 doi = "10.1533/9781908818249.35"
-author = "Willighagen, Egon and Affentranger, Roman and Grafström, Roland and Hardy, Barry and Jeliazkova, Nina and Spjuth, Ola"
+author = "Willighagen E, Affentranger R, Grafström R, Hardy B, Jeliazkova N, Spjuth O"
 url_html = "http://dx.doi.org/10.1533/9781908818249.35"
 booktitle = "Open Source Software in Life Science Research"
 title = "Interactive predictive toxicology with Bioclipse and OpenTox"

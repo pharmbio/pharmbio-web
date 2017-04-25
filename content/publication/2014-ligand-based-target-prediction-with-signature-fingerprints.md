@@ -1,6 +1,6 @@
 +++
 title = "Ligand-based target prediction with signature fingerprints"
-author = "Jonathan Alvarsson, Martin Eklund, Ola Engkvist, Ola Spjuth, Lars Carlsson, Jarl E. S. Wikberg†, and Tobias Noeske"
+author = "Alvarsson J, Eklund M, Engkvist O, Spjuth O, Carlsson L, Wikberg JES, Noeske T"
 doi = "10.1021/ci500361u"
 year = "2014"
 date = "2014-09-17"

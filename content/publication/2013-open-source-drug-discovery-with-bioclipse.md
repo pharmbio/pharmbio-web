@@ -1,7 +1,7 @@
 +++
 publisher = "Bentham Science"
 doi = "10.2174/1568026611212180005"
-author = "Spjuth, Ola and Carlsson, Lars and Alvarsson, Jonathan and Georgiev, Valentin and Willighagen, Egon and Eklund, Martin"
+author = "Spjuth O, Carlsson L, Alvarsson J, Georgiev V, Willighagen E, Eklund M"
 url_html = "http://dx.doi.org/10.1002/chin.201331276"
 journal = "Current Topics in Medicinal Chemistry"
 title = "Open Source Drug Discovery with Bioclipse"

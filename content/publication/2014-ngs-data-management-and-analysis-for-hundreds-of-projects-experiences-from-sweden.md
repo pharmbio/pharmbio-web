@@ -1,7 +1,7 @@
 +++
 publisher = "EMBnet Stichting"
 doi = "10.14806/ej.20.a.761"
-author = "Spjuth, Ola"
+author = "Spjuth O"
 url_html = "http://dx.doi.org/10.14806/ej.20.a.761"
 journal = "EMBnet.journal"
 title = "NGS data management and analysis for hundreds of projects: Experiences from Sweden"

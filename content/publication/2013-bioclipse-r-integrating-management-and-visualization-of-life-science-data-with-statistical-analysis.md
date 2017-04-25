@@ -1,5 +1,5 @@
 +++
-author = "Ola Spjuth, Valentin Georgiev, Lars Carlsson, Jonathan Alvarsson, Arvid Berg, Egon Willighagen, Jarl E.S. Wikberg and Martin Eklund"
+author = "Spjuth O, Georgiev V, Carlsson L, Alvarsson J, Berg A, Willighagen E, Wikberg JES, Eklund M"
 doi = "10.1093/bioinformatics/bts681"
 year = "2012"
 date = "2012-11-23"

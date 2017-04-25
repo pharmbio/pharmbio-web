@@ -1,5 +1,5 @@
 +++
-author = "Maris Lapins, Apilak Worachartcheewan, Ola Spjuth, Valentin Georgiev, Virapong Prachayasittikul, Chanin Nantasenamat, Jarl E. S. Wikberg"
+author = "Lapins M, Worachartcheewan A, Spjuth O, Georgiev V, Prachayasittikul V, Nantasenamat C, Wikberg JES"
 doi = "10.1371/journal.pone.0066566"
 year = "2013"
 date = "2013-06-17"

@@ -1,5 +1,5 @@
 +++
-author = "Pekka Kohonen, Rebecca Ceder, Ines Smit, Vesa Hongisto, Glenn Myatt, Barry Hardy, Ola Spjuth, Roland Grafström"
+author = "Kohonen P, Ceder R, Smit I, Hongisto V, Myatt G, Hardy B, Spjuth O, Grafström R"
 doi = "10.1111/bcpt.12257"
 year = "2014"
 date = "2014-05-23"

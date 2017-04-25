@@ -1,5 +1,5 @@
 +++
-author = "Michał Rostkowski, Ola Spjuth and Patrik Rydberg"
+author = "Rostkowski M, Spjuth O, Rydberg P"
 doi = "10.1093/bioinformatics/btt325"
 year = "2013"
 date = "2013-06-05"

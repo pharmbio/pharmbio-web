@@ -1,7 +1,7 @@
 +++
 publisher = "Springer Nature"
 doi = "10.1186/s13321-016-0161-3"
-author = "O. Spjuth, P. Rydberg, E.L. Willighagen, C.T. Evelo, N. Jeliazkova"
+author = "Spjuth O, Rydberg P, Willighagen EL, Evelo CT, Jeliazkova N"
 url_html = "http://dx.doi.org/10.1186/s13321-016-0161-3"
 journal = "Journal of Cheminformatics"
 title = "XMetDB: an open access database for xenobiotic metabolism"
