@@ -1,5 +1,5 @@
 +++
-author = "Grafström, Roland C and Nymark, Penny and Hongisto, Vesa and Spjuth, Ola and Ceder, Rebecca and Willighagen, Egon and Hardy, Barry and Kaski, Samuel and Kohonen, Pekka"
+author = "Grafström RC, Nymark P, Hongisto V, Spjuth O, Ceder R, Willighagen E, Hardy B, Kaski S, Kohonen P"
 year = "2015"
 date = "2015-11-15"
 title = "Toward the Replacement of Animal Experiments through the Bioinformatics-driven Analysis of 'Omics' Data from Human Cell Cultures"
