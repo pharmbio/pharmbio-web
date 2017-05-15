@@ -10,5 +10,6 @@ year = "2011"
 date = "2011-05-03"
 bibtex_type = "incollection"
 pages = "399-422"
+journal = "Collaborative Computational Technologies for Biomedical Research"
 +++
 

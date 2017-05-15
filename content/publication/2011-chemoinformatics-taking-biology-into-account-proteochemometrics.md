@@ -10,5 +10,6 @@ year = "2011"
 date = "2011-11-14"
 bibtex_type = "incollection"
 pages = "57-92"
+journal = "Computational Approaches in Cheminformatics and Bioinformatics"
 +++
 
