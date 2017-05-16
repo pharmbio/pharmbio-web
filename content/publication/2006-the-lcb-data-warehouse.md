@@ -1,5 +1,5 @@
 +++
-author = "Spjuth O"
+author = "Ameur A, Yankovski V, Enroth S, Spjuth O, Komorowski J."
 year = "2006"
 date = "2006-02-02"
 doi = "10.1093/bioinformatics/btl036"
