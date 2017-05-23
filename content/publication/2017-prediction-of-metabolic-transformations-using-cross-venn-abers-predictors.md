@@ -1,0 +1,15 @@
++++
+bibtex_type = "article"
+author="S. Arvidsson, L. Carlsson, P. Toccaceli, and O. Spjuth."
+title="Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors"
+journal="Proceedings of Machine Learning Research"
+year="2017"
+date="2017-05-23"
+volume="60"
+number=""
+pages="1-14"
+abstract="Prediction of drug metabolism is an important topic in the drug discovery process, and we here present a study using probabilistic predictions applying Cross Venn-ABERS Predictors (CVAPs) on data for site-of-metabolism. We used a dataset of 73599 biotransformations, applied SMIRKS to  define biotransformations of interest and constructed five datasets where chemical structures were represented using signatures descriptors. The results show that CVAP produces well-calibrated predictions for all datasets with good predictive capability, making CVAP an interesting method for further exploration in drug discovery applications."
+issn=""
+doi=""
+url="/publication/2017-prediction-metabolic-transformations-cross-venn-abers"
++++
