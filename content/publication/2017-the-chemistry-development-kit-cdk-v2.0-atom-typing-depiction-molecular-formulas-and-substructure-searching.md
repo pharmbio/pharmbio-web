@@ -1,0 +1,15 @@
++++
+bibtex_type = "article"
+author="E. Willighagen, J. Mayfield, J. Alvarsson, A. Berg, L. Carlsson, N. Jeliazkova, S. Kuhn, T. Pluskal, M. Rojas-Chertó, O. Spjuth, G. Torrance, C. Evelo, R. Guha, C. Steinbeck."
+title="The Chemistry Development Kit (CDK) v2.0: atom typing, depiction, molecular formulas, and substructure searching"
+journal="Journal of Cheminformatics"
+year="2017"
+date="2017-05-19"
+volume="Accepted"
+number=""
+pages=""
+abstract=""
+issn=""
+doi=""
+url="/publication/2017-chemistry-development-kit-cdk-v2.0"
++++
