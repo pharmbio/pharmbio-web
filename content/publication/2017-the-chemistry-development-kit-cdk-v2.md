@@ -11,5 +11,5 @@ pages=""
 abstract=""
 issn=""
 doi=""
-url="/publication/2017-chemistry-development-kit-cdk-v2.0"
+url="/publication/2017-chemistry-development-kit-cdk-v2"
 +++
