@@ -2,7 +2,7 @@
 title = "Ligand-based target prediction with signature fingerprints"
 author = "Alvarsson J, Eklund M, Engkvist O, Spjuth O, Carlsson L, Wikberg JES, Noeske T"
 doi = "10.1021/ci500361u"
-journal="Journal of Cheminformatics"
+journal="Journal of Chemical Information and Modeling"
 year = "2014"
 date = "2014-09-17"
 volume="54"

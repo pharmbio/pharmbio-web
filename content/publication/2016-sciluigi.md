@@ -6,7 +6,6 @@ title = "Towards agile large-scale predictive modelling in drug discovery with f
 url_html = "http://dx.doi.org/10.1186/s13321-016-0179-6"
 journal = "Journal of Cheminformatics"
 author = "Lampa S, Alvarsson J, Spjuth O"
-number = "1"
 volume = "8"
 pages = "67"
 source = ""
