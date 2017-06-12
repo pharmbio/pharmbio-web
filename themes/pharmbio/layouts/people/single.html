@@ -27,7 +27,6 @@
         <h6>Research network links</h6>
         <ul class="people-single-linklist">
             {{ if .Params.orcid }}<li><a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">ORCID Profile ({{ .Params.orcid }})</a></li>
-                <li><a href="http://feed.labs.orcid-eu.org/{{ .Params.orcid }}.bib" target="_blank">Download publication list in BibTex format</a></li>
                 <li><a href="http://impactstory.org/u/{{ .Params.orcid }}" target="_blank">ImpactStory profile</a></li>{{ end }}
             {{ if .Params.url_google_scholar }}<li><a href="{{ .Params.url_google_scholar }}" target="_blank">Google Scholar</a></li>{{ end }}
             {{ if .Params.url_researchgate }}<li><a href="{{ .Params.url_researchgate }}" target="_blank">ResearchGate</a></li>{{ end }}
