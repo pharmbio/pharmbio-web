@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="S. Arvidsson, L. Carlsson, P. Toccaceli, and O. Spjuth."
+author="Arvidsson S, Carlsson L, Toccaceli P, and Spjuth O."
 title="Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors"
 journal="Proceedings of Machine Learning Research"
 year="2017"
