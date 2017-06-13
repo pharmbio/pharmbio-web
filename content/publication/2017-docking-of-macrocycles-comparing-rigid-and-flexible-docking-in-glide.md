@@ -1,0 +1,15 @@
++++
+bibtex_type = "article"
+author="Alogheli H, Olanders G, Schaal W, Brandt P, Karlén A"
+title="Docking of Macrocycles: Comparing Rigid and Flexible Docking in Glide"
+journal="J Chem Inf Model"
+year="2017"
+date="2017-02-27"
+volume="57"
+number="2"
+pages="190-202"
+abstract="In recent years, there has been an increased interest in using macrocyclic compounds for drug discovery and development. For docking of these commonly large and flexible compounds to be addressed, a screening and a validation set were assembled from the PDB consisting of 16 and 31 macrocycle-containing protein complexes, respectively. The macrocycles were docked in Glide by rigid docking of pregenerated conformational ensembles produced by the macrocycle conformational sampling method (MCS) in Schrödinger Release 2015-3 or by direct Glide flexible docking after performing ring-templating. The two protocols were compared to rigid docking of pregenerated conformational ensembles produced by an exhaustive Monte Carlo multiple minimum (MCMM) conformational search and a shorter MCMM conformational search (MCMM-short). The docking accuracy was evaluated and expressed as the RMSD between the heavy atoms of the ligand as found in the X-ray structure after refinement and the poses obtained by the docking protocols. The median RMSD values for top-scored poses of the screening set were 0.83, 0.80, 0.88, and 0.58 Å for MCMM, MCMM-short, MCS, and Glide flexible docking, respectively. There was no statistically significant difference in the performance between rigid docking of pregenerated conformations produced by the MCS and direct docking using Glide flexible docking. However, the flexible docking protocol was 2-times faster in docking the screening set compared to that of the MCS protocol. In a final study, the new Prime-MCS method was evaluated in Schrödinger Release 2016-3. This method is faster compared that of to MCS; however, the conformations generated were found to be suboptimal for rigid docking. Therefore, on the basis of timing, accuracy, and ease of set up, standard Glide flexible docking with prior ring-templating is recommended over current gold standard protocols using rigid docking of pregenerated conformational ensembles."
+issn="1549-960X"
+doi="10.1021/acs.jcim.6b00443"
+url="/publication/2017-docking-of-macrocycles"
++++

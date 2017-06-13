@@ -1,0 +1,15 @@
++++
+bibtex_type = "article"
+author="Lindh M, Svensson F, Schaal W, Zhang J, Sköld C, Brandt P, Karlén A"
+title="Toward a benchmarking data set able to evaluate ligand- and structure-based virtual screening using public HTS data"
+journal="J Chem Inf Model"
+year="2015"
+date="2015-02-23"
+volume="55"
+number="2"
+pages="343-353"
+abstract="Virtual screening has the potential to accelerate and reduce costs of probe development and drug discovery. To develop and benchmark virtual screening methods, validation data sets are commonly used. Over the years, such data sets have been constructed to overcome the problems of analogue bias and artificial enrichment. With the rapid growth of public domain databases containing high-throughput screening data, such as the PubChem BioAssay database, there is an increased possibility to use such data for validation. In this study, we identify PubChem data sets suitable for validation of both structure- and ligand-based virtual screening methods. To achieve this, high-throughput screening data for which a crystal structure of the bioassay target was available in the PDB were identified. Thereafter, the data sets were inspected to identify structures and data suitable for use in validation studies. In this work, we present seven data sets (MMP13, DUSP3, PTPN22, EPHX2, CTDSP1, MAPK10, and CDK5) compiled using this method. In the seven data sets, the number of active compounds varies between 19 and 369 and the number of inactive compounds between 59 405 and 337 634. This gives a higher ratio of the number of inactive to active compounds than what is found in most benchmark data sets. We have also evaluated the screening performance using docking and 3D shape similarity with default settings. To characterize the data sets, we used physicochemical similarity and 2D fingerprint searches. We envision that these data sets can be a useful complement to current data sets used for method evaluation."
+issn="1549-960X"
+doi="10.1021/ci5005465"
+url="/publication/2015-benchmarking-data-set"
++++
