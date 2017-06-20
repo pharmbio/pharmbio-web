@@ -12,4 +12,5 @@ abstract="Prediction of drug metabolism is an important topic in the drug discov
 issn=""
 doi=""
 url="/publication/2017-prediction-metabolic-transformations-cross-venn-abers"
+url_html="http://proceedings.mlr.press/v60/arvidsson17a.html"
 +++
