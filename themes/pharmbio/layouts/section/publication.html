@@ -33,7 +33,16 @@
                 <div class="col-1-3 rightcol">
                     <div class="content">
                         <h3>Posters</h3>
-                        (Coming soon!)
+                        {{ range where .Site.Pages "Type" "poster" }}
+                        <div class="poster">
+                            <a href="{{ .RelPermalink }}">
+                                <img src="/img/{{ .Params.poster_image }}">
+                                <span class="title">{{ .Title }}</span>
+                            </a>
+                            <a href="http://dx.doi.org/{{ .Params.doi }}" class="doi" target="_blank">{{ .Params.doi }}</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        {{ end }}
                     </div>
                 </div>
 

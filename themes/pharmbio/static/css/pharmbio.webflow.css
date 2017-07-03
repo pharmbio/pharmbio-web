@@ -327,3 +327,33 @@ a.twitter-share-button {
 .section-content-container img {
     margin: 1em 2em 1em 0;
 }
+
+/* Posters */
+.rightcol .poster {
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+.rightcol .poster .title {
+    font-size: .8em;
+}
+.rightcol .poster a.doi:link,
+.rightcol .poster a.doi:visited,
+.rightcol .poster a.doi:active,
+.rightcol .poster a.doi {
+    color: #aaa;
+    font-size: .8em;
+}
+.rightcol .poster a.doi:hover {
+    color: #c66;
+}
+.rightcol .poster img {
+    float: left;
+    height: 120px;
+    margin-right: 1em;
+}
+.clearfix:before,
+.clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
+}

@@ -1,0 +1,12 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1 style="font-size: 1.4em">{{ .Title }}</h1>
+        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
+
+        <p>Published: {{ .Date.Format "2006-01-02" }}</p>
+
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
