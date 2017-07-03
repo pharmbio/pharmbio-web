@@ -57,8 +57,13 @@ h3 {
   line-height: 1.3em;
 }
 
-.section-content-container {
+.section-content-container,
+.grid .content {
   padding: 0.7em 0.4em 1.4em;
+}
+
+.rightcol {
+    padding-top: 1em;
 }
 
 .normal-text {
