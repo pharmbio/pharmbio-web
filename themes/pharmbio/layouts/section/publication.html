@@ -39,7 +39,7 @@
                                 <img src="/img/{{ .Params.poster_image }}">
                                 <div class="title">{{ .Title }}</div>
                             </a>
-                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}<br>{{ .Date.Format "Jan 2006" }}</div>
+                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
                             <div class="clearfix"></div>
                         </div>
                         {{ end }}

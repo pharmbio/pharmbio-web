@@ -337,10 +337,12 @@ a.twitter-share-button {
 .rightcol .poster .title {
     font-size: .8em;
 }
-.rightcol .poster .date,
 .rightcol .poster .venue {
     display: block;
     font-size: .7em;
+}
+.rightcol .poster .date {
+    white-space: nowrap;
 }
 .rightcol .poster a.doi:link,
 .rightcol .poster a.doi:visited,
