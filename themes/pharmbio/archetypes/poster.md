@@ -1,6 +1,7 @@
 +++
-doi = ""
 title = ""
+doi = ""
+poster_image = ""
 url_html = ""
 author = ""
 year = ""

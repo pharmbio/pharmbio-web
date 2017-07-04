@@ -332,6 +332,7 @@ a.twitter-share-button {
 .rightcol .poster {
     padding: 1em;
     border: 1px solid #ccc;
+    margin-bottom: 1em;
 }
 .rightcol .poster .title {
     font-size: .8em;
@@ -341,7 +342,7 @@ a.twitter-share-button {
 .rightcol .poster a.doi:active,
 .rightcol .poster a.doi {
     color: #aaa;
-    font-size: .8em;
+    font-size: .7em;
 }
 .rightcol .poster a.doi:hover {
     color: #c66;
