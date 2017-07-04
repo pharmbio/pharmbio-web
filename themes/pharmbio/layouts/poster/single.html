@@ -3,9 +3,14 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1 style="font-size: 1.4em">{{ .Title }}</h1>
-        <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}s</a></p>
+        <p><a href="/publication">&larr; Back to Publications</a></p>
 
-        <p>Published: {{ .Date.Format "2006-01-02" }}</p>
+        <table class="infotable">
+            <tr><th>Published:</th><td>{{ .Date.Format "2 Jan, 2006" }}</td></tr>
+            <tr><th>Venue:</th><td>{{ .Params.venue }}, {{ .Params.city }}</td></tr>
+            <tr><th>DOI:</th><td><a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></td></tr>
+        </table>
+        <img class="poster-full" src="/img/{{ .Params.poster_image }}">
 
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
