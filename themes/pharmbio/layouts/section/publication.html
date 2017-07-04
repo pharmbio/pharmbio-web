@@ -37,9 +37,9 @@
                         <div class="poster">
                             <a href="{{ .RelPermalink }}">
                                 <img src="/img/{{ .Params.poster_image }}">
-                                <span class="title">{{ .Title }}</span>
+                                <div class="title">{{ .Title }}</div>
                             </a>
-                            <a href="http://dx.doi.org/{{ .Params.doi }}" class="doi" target="_blank">{{ .Params.doi }}</a>
+                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}<br>{{ .Date.Format "Jan 2006" }}</div>
                             <div class="clearfix"></div>
                         </div>
                         {{ end }}

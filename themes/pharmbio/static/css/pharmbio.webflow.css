@@ -337,6 +337,11 @@ a.twitter-share-button {
 .rightcol .poster .title {
     font-size: .8em;
 }
+.rightcol .poster .date,
+.rightcol .poster .venue {
+    display: block;
+    font-size: .7em;
+}
 .rightcol .poster a.doi:link,
 .rightcol .poster a.doi:visited,
 .rightcol .poster a.doi:active,
@@ -351,6 +356,7 @@ a.twitter-share-button {
     float: left;
     height: 120px;
     margin-right: 1em;
+    border: 1px solid #e9e9e9;
 }
 .clearfix:before,
 .clearfix:after {
