@@ -11,7 +11,7 @@ keywords = ""
 short_summary = ""
 projects = [""]
 users = ["saml"]
-author = "Samuel Lampa"
+author = ["Samuel Lampa", "Jonathan Alvarsson", "Ola Spjuth"]
 url_html = ""
 
 +++

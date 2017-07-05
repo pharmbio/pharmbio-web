@@ -10,7 +10,7 @@ date = "2015-10-16T16:54:39+02:00"
 users = ["saml"]
 year = "2015"
 projects = [""]
-author = ""
+author = ["Samuel Lampa", "Jonathan Alvarsson", "Ola Spjuth"]
 url_html = ""
 short_summary = ""
 +++
