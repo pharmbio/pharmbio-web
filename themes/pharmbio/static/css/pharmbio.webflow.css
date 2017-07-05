@@ -401,7 +401,9 @@ a.twitter-share-button {
 }
 .infotable th {
     text-align: right;
+    vertical-align: top;
 }
-.infotable td {
+.infotable td,
+.infotable th {
     padding: .4em;
 }

@@ -6,6 +6,7 @@
         <p><a href="/publication">&larr; Back to Publications</a></p>
 
         <table class="infotable">
+            {{ if and .Params.abstract (not (eq .Params.abstract "")) }}<tr><th>Abstract:</th><td>{{ .Params.abstract }}</td></tr>{{ end }}
             <tr><th>Authors:</th><td>{{ delimit .Params.author ", " " and " }}</td></tr>
             <tr><th>Venue:</th><td>{{ .Params.venue }}, {{ .Params.city }}</td></tr>
             <tr><th>Published:</th><td>{{ .Date.Format "2 Jan, 2006" }}</td></tr>
