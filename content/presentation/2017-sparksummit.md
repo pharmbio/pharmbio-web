@@ -1,6 +1,6 @@
 +++
 title = "EasyMapReduce: Leverage the Power of Spark and Docker to Scale Scientific Tools"
-date = "2017-07-05T15:42:33+02:00"
+date = "2017-02-09T17:30:00-06:00"
 venue = "Spark Summit East 2017"
 venue_url = "https://spark-summit.org/east-2017/"
 city = "Boston"
