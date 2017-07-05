@@ -7,7 +7,7 @@
         <!-- p><a href="/presentation">&larr; Back to Presentations</a></p -->
 
         <table class="infotable">
-            <tr><th>Authors:</th><td>{{ delimit .Params.author ", " " and " }}</td></tr>
+            <tr><th>Presenter:</th><td>{{ delimit .Params.author ", " " and " }}</td></tr>
             {{ if and .Params.abstract (not (eq .Params.abstract "")) }}<tr><th>Abstract:</th><td>{{ .Params.abstract }}</td></tr>{{ end }}
             <tr><th>Venue:</th><td>
                 {{ if and .Params.venue_url (not (eq .Params.venue_url "")) }}<a href="{{ .Params.venue_url }}" target="_blank">{{ end }}
