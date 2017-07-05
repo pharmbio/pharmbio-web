@@ -10,4 +10,5 @@ slides_url = "https://www.slideshare.net/ospjuth/the-case-for-cloud-computing-in
 slideshare_id = "FBnSFhVMAyoQdK"
 vimeo_id = ""
 youtube_id = "nBw9DNDQ76Q"
+date = "2017-03-23T19:21:48+02:00"
 +++
