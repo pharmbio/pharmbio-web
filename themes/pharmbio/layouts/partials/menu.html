@@ -13,7 +13,7 @@
           <a class="navbar-uulogo-link" href="http://farmbio.uu.se/forskning/researchgroups/pb/Data-intensive/" target="_blank"><img class="navbar-uulogo-img" src="/img/uulogo_64x64.png"></a>
           <nav class="navbar-menu w-nav-menu" role="navigation" style="float: right">
               {{ range .Site.Menus.main }}
-              {{ if not (or (in "Home Blog" .Name) (in "Posters" .Name)) }}<a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+              {{ if not (in (slice "Home" "Blog" "Poster" "Presentation") .Name) }}<a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>{{ end }}
               {{ end }}
           </nav>
         </div>
