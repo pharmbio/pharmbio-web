@@ -45,6 +45,20 @@
                         {{ end }}
                         <div style="width=100%"><a href="/poster/" style="float:right">More posters &raquo;</a></div>
                     </div>
+
+                    <div class="content">
+                        <h3>Presentations</h3>
+                        {{ range first 5 (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
+                        <div class="poster">
+                            <a href="{{ .RelPermalink }}">
+                                <div class="title">{{ .Title }}</div>
+                            </a>
+                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        {{ end }}
+                        <div style="width=100%"><a href="/presentation/" style="float:right">More presentations &raquo;</a></div>
+                    </div>
                 </div>
 
                 <!-- END: RIGHT COLUMN -->
