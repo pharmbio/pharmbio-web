@@ -33,7 +33,7 @@
                 <div class="col-1-3 rightcol">
                     <div class="content">
                         <h3>Posters</h3>
-                        {{ range sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc" }}
+                        {{ range first 5 (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
                         <div class="poster">
                             <a href="{{ .RelPermalink }}">
                                 <img src="/img/{{ .Params.poster_image }}">
@@ -43,6 +43,7 @@
                             <div class="clearfix"></div>
                         </div>
                         {{ end }}
+                        <div style="width=100%"><a href="/poster/" style="float:right">More posters &raquo;</a></div>
                     </div>
                 </div>
 
