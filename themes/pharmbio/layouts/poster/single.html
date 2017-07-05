@@ -8,7 +8,11 @@
         <table class="infotable">
             <tr><th>Authors:</th><td>{{ delimit .Params.author ", " " and " }}</td></tr>
             {{ if and .Params.abstract (not (eq .Params.abstract "")) }}<tr><th>Abstract:</th><td>{{ .Params.abstract }}</td></tr>{{ end }}
-            <tr><th>Venue:</th><td>{{ .Params.venue }}, {{ .Params.city }}</td></tr>
+            <tr><th>Venue:</th><td>
+                {{ if (not (eq .Params.venue_url "")) }}<a href="{{ .Params.venue_url }}" target="_blank">{{ end }}
+                {{ .Params.venue }},{{ if (not (eq .Params.venue_url "")) }}</a>{{ end }}
+                {{ .Params.city }}
+            </td></tr>
             <tr><th>Published:</th><td>{{ .Date.Format "2 Jan, 2006" }}</td></tr>
             <tr><th>DOI:</th><td><a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></td></tr>
         </table>
