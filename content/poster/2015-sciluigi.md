@@ -1,6 +1,6 @@
 +++
 title = "Using workflow tools to streamline bioinformatics computing on high-performance e-infrastructures"
-venue = "Swedish e-Science Academy"
+venue = "Swedish e-Science Academy 2015"
 abstract = ""
 doi = "10.13140/RG.2.1.1143.6246"
 poster_image = "poster_sciluigi.png"
