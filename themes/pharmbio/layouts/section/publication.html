@@ -51,6 +51,7 @@
                         {{ range first 5 (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
                         <div class="poster">
                             <a href="{{ .RelPermalink }}">
+                                <img src="http://img.youtube.com/vi/{{ .Params.youtube_id }}/default.jpg" style="margin-bottom:2em;">
                                 <div class="title">{{ .Title }}</div>
                             </a>
                             <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
