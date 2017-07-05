@@ -1,0 +1,24 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+                    <div class="content main-content">
+                        <h3>Posters</h3>
+                        {{ range (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
+                        <div class="poster">
+                            <a href="{{ .RelPermalink }}">
+                                <img src="/img/{{ .Params.poster_image }}">
+                                <div class="title">{{ .Title }}</div>
+                            </a>
+                            <div class="author">{{ delimit .Params.author ", " " and " }}</div>
+                            <div class="venue">{{ .Params.venue }}</div>
+                            <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
+                            <div class="doi"><a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        {{ end }}
+                        <div style="width=100%"><a href="/poster/" style="float:right">More posters &raquo;</a></div>
+                    </div>
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
