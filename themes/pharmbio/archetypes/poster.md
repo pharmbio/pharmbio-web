@@ -3,13 +3,9 @@ title = ""
 doi = ""
 poster_image = ""
 venue = ""
+venue_url = ""
 city = ""
-author = ""
+author = [""]
 year = ""
-url_html = ""
-keywords = ""
 abstract = ""
-short_summary = ""
-users = [""]
-projects = [""]
 +++
