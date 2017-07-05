@@ -4,6 +4,7 @@
         {{ partial "bodystart.html" . }}
                     <div class="content main-content">
                         <h3>Posters</h3>
+                        <p><a href="/publication">&larr; Back to Publications</a></p>
                         {{ range (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
                         <div class="poster">
                             <a href="{{ .RelPermalink }}">
