@@ -3,12 +3,12 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
                     <div class="content main-content">
-                        <h3>Posters</h3>
+                        <h3>Presentations</h3>
                         <p><a href="/publication">&larr; Back to Publications</a></p>
-                        {{ range (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
+                        {{ range (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
                         <div class="poster">
                             <a href="{{ .RelPermalink }}">
-                                <img src="/img/{{ .Params.poster_image }}">
+                                <img src="http://img.youtube.com/vi/{{ .Params.youtube_id }}/mqdefault.jpg" style="margin-bottom:.4em;width:180px;">
                                 <div class="title">{{ .Title }}</div>
                             </a>
                             <div class="author">{{ delimit .Params.author ", " " and " }}</div>
