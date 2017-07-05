@@ -1,0 +1,36 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart.html" . }}
+        <h1 style="font-size: 1.4em">{{ .Title }}</h1>
+        <p><a href="/publication">&larr; Back to Publications</a></p>
+        <p><a href="/presentation">&larr; Back to Presentations</a></p>
+
+        <table class="infotable">
+            <tr><th>Authors:</th><td>{{ delimit .Params.author ", " " and " }}</td></tr>
+            {{ if and .Params.abstract (not (eq .Params.abstract "")) }}<tr><th>Abstract:</th><td>{{ .Params.abstract }}</td></tr>{{ end }}
+            <tr><th>Venue:</th><td>
+                {{ if and .Params.venue_url (not (eq .Params.venue_url "")) }}<a href="{{ .Params.venue_url }}" target="_blank">{{ end }}
+                {{ .Params.venue }},{{ if (not (eq .Params.venue_url "")) }}</a>{{ end }}
+                {{ .Params.city }}
+            </td></tr>
+            <tr><th>Published:</th><td>{{ .Date.Format "2 Jan, 2006" }}</td></tr>
+            <tr><th>Links:</th><td><a href="{{ .Params.slides_url }}" title="{{ .Title }}" target="_blank">Slides on external site</a></td></tr>
+        </table>
+        {{ if (and .Params.slideshare_id (not (eq .Params.slideshare_id "" ))) }}
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/{{ .Params.slideshare_id }}"
+            width="100%"
+            height="720"
+            frameborder="0"
+            marginwidth="0"
+            marginheight="0"
+            scrolling="no"
+            style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; background: white;"
+            allowfullscreen></iframe>
+        <div style="margin-bottom:5px">
+        </div>
+        {{ end }}
+
+        {{ partial "bodyend.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}
