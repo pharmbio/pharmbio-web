@@ -3,7 +3,7 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1>Highlighted Projects</h1>
-        {{ range (sort ( .Data.Pages ) ".Params.title" "asc") }}
+        {{ range (sort ( .Data.Pages ) ".Params.date" "desc") }}
         {{ if ( not (eq .Params.show_in_list false ) ) }}
             <div class="card">
                 <a href="{{ .RelPermalink }}"><h4>{{ .Title }}</h4></a>
