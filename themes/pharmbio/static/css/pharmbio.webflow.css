@@ -578,4 +578,6 @@ a.twitter-share-button {
 
 .blog-item .date {
     color: #999;
+    clear: none;
+    display: inline!important;
 }
