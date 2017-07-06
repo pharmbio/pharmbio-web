@@ -357,11 +357,11 @@ a.twitter-share-button {
 }
 
 .blog-item .card-img {
-    width: 20%;
-    margin: 0 .8em .8em 0;
+    width: 90px;
+    margin: 0;
 }
 .blog-item .card-text {
-    width: 78%;
+    width: 82%;
 }
 .blog-item .card-text img {
     border: 1px solid #999;
