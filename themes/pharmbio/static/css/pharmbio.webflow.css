@@ -585,3 +585,17 @@ a.twitter-share-button {
     clear: none;
     display: inline!important;
 }
+
+.affiliate-logo {
+    float: left;
+    display: block;
+    margin: 0 1em 1em 0;
+}
+
+.affiliate-logo img {
+    border: 1px solid #eee;
+    padding: 1.2em;
+    height: 76px;
+    display: block;
+    margin: 0;
+}
