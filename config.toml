@@ -6,6 +6,11 @@ SectionPagesMenu = "main"
 pluralizeListTitles = false
 [menu]
     [[menu.main]]
+    identifier = "project"
+    name       = "Projects"
+    url        = "/project/"
+    weight     = -400
+    [[menu.main]]
     identifier = "people"
     name       = "People"
     url        = "/people/"
@@ -15,11 +20,6 @@ pluralizeListTitles = false
     name       = "Publications"
     url        = "/publication/"
     weight     = -200
-    [[menu.main]]
-    identifier = "project"
-    name       = "Projects"
-    url        = "/project/"
-    weight     = -100
     [[menu.main]]
     identifier = "tool"
     name       = "Tools"
