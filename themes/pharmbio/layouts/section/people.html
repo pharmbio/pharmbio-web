@@ -46,6 +46,28 @@
                     <br>
                     <span class="twitter">Twitter: <a href="http://twitter.com/{{ .Params.twitter }}" target="_blank">@{{ .Params.twitter }}</a></span>
                     {{ end }}
+                    <br>
+                    <span class="links">
+
+                    {{ if .Params.url_uuprofile }}
+                        <a href="{{ .Params.url_uuprofile }}" target="_blank">UU</a>
+                    {{ end }}
+
+                    {{ if .Params.orcid }}
+                        &middot;
+                        <a href="https://profiles.impactstory.org/{{ .Params.orcid }}" target="_blank">ImpactStory</a>
+                    {{ end }}
+
+                    {{ if .Params.url_researchgate }}
+                        &middot;
+                        <a href="{{ .Params.url_researchgate }}" target="_blank">RG</a>
+                    {{ end }}
+
+                    {{ if .Params.url_mendeley }}
+                        &middot;
+                        <a href="{{ .Params.url_mendeley }}" target="_blank">Mendeley</a>
+                    {{ end }}
+                    </span>
                 </div>
             </div>
         {{ end }}

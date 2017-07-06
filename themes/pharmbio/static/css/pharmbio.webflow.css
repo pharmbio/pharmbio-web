@@ -513,9 +513,13 @@ a.twitter-share-button {
 .grid .card .email,
 .grid .card .twitter,
 .grid .card .linkedin,
-.grid .card .orcid {
+.grid .card .orcid,
+.grid .card .links {
     font-size: .8em;
     clear: right;
+}
+.grid .card .links {
+    font-size: .8em;
 }
 
 /* Info table */
