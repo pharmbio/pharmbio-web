@@ -16,11 +16,10 @@ twitter = ""
 url_blog = ""
 url_google_scholar = ""
 url_homepage = ""
-url_uuprofile = ""
+url_uuprofile = "http://katalog.uu.se/empinfo?id=N17-971"
 linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 weight = 0
-
 +++
 
