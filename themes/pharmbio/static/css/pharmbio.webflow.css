@@ -303,7 +303,6 @@ a.navbar-link {
 }
 
 /* Smaller logo */
-
 .site-title {
   font-size: 32px;
 }
@@ -318,6 +317,7 @@ a.blog-link:hover {
   color: #c00;
 }
 
+/* Social sharing buttons */
 div.social-sharing-buttons {
     margin: 2em 0 2em 0;
 }
@@ -328,70 +328,67 @@ a.twitter-share-button {
     margin: 1em 2em 1em 0;
 }
 
-/* Posters */
-.main-content .poster,
-.rightcol .poster {
-    padding: 1em;
+/* Card design */
+.card {
+    padding: .8em;
     border: 1px solid #ccc;
     margin-bottom: 1em;
 }
-.rightcol .poster .title {
+
+/* Posters */
+.rightcol .card .title {
     font-size: .8em;
 }
-.rightcol .poster .venue {
+.rightcol .card .venue {
     font-size: .7em;
 }
-.main-content .poster .title {
+.content .card .title {
     font-size: 1.2em;
     margin-bottom: .4em;
 }
-.main-content .poster .venue,
-.main-content .poster .author,
-.main-content .poster .date {
+.content .card .venue,
+.content .card .author,
+.content .card .date {
     display: block;
     font-size: .9em;
     margin-bottom: .2em;
 }
-.main-content .poster .doi {
+.content .card .doi {
     font-size: .8em;
     color: #aaa;
 }
-.main-content .poster .date,
-.rightcol .poster .date {
+.content .card .date,
+.rightcol .card .date {
     white-space: nowrap;
 }
-.rightcol .poster a.doi:link,
-.rightcol .poster a.doi:visited,
-.rightcol .poster a.doi:active,
-.rightcol .poster a.doi {
+.rightcol .card a.doi:link,
+.rightcol .card a.doi:visited,
+.rightcol .card a.doi:active,
+.rightcol .card a.doi {
     color: #aaa;
     font-size: .7em;
 }
-.rightcol .poster a.doi:hover {
+.rightcol .card a.doi:hover {
     color: #c66;
 }
-.main-content .poster img,
-.rightcol .poster img {
+.content .card img,
+.rightcol .card img {
     float: left;
     margin-right: 1em;
     border: 1px solid #e9e9e9;
 }
-.rightcol .poster img {
-    width: 90px;
-}
-.main-content .poster img {
+.content .card img {
     width: 120px;
     margin: 0 1em 0 0;
 }
-.poster-full {
+.rightcol .card img {
+    width: 90px;
+}
+.poster-img {
     border: 1px solid #e9e9e9;
 }
-.clearfix:before,
-.clearfix:after {
-    content: '';
-    display: table;
-    clear: both;
-}
+
+/* Info table */
 .infotable {
     font-size: 1em;
     border-width: 1px 0 1px 0;
@@ -406,4 +403,12 @@ a.twitter-share-button {
 .infotable td,
 .infotable th {
     padding: .4em;
+}
+
+/* Misc */
+.clearfix:before,
+.clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
 }

@@ -6,7 +6,7 @@
                         <h3>Posters</h3>
                         <p><a href="/publication">&larr; Back to Publications</a></p>
                         {{ range (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
-                        <div class="poster">
+                        <div class="card poster">
                             <a href="{{ .RelPermalink }}">
                                 <img src="/img/{{ .Params.poster_image }}">
                                 <div class="title">{{ .Title }}</div>
