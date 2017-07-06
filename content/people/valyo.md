@@ -17,7 +17,7 @@ url_blog = ""
 url_google_scholar = "https://scholar.google.se/citations?user=s2dzvDgAAAAJ&hl=en"
 url_homepage = ""
 url_uuprofile = "http://katalog.uu.se/empinfo?id=N11-4_2"
-url_linkedin = "http://se.linkedin.com/in/valyo"
+linkedin = "valyo"
 url_mendeley = ""
 url_researchgate = "https://www.researchgate.net/profile/Valentin_Georgiev"
 weight = 0

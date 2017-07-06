@@ -16,7 +16,9 @@
                                 <a href="{{ .RelPermalink }}">
                                     <div class="title">{{ .Title }}</div>
                                 </a>
+                                {{ if .Params.author }}
                                 <div class="author">{{ delimit .Params.author ", " " and " }}</div>
+                                {{ end }}
                                 <div class="venue">
                                     {{ .Params.venue }}
                                 </div>

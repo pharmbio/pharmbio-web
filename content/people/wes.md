@@ -17,7 +17,7 @@ url_blog = ""
 url_google_scholar = ""
 url_homepage = ""
 url_uuprofile = "http://katalog.uu.se/profile?id=N96-1259_2"
-url_linkedin = "https://se.linkedin.com/in/wesley-schaal-59893949"
+linkedin = "wesley-schaal-59893949"
 url_researchgate = "https://www.researchgate.net/profile/Wesley_Schaal"
 url_mendeley = ""
 weight = -50

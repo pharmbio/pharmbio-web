@@ -17,11 +17,39 @@
 
         <p>See the list below for more detail of each person.</p>
 
-        <ul>
+        <div class="grid">
         {{ range .Data.Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a>, {{ .Params.job_title }}</li>
+            <div class="card card-1-3">
+                <div class="card-img">
+                    <a href="{{ .RelPermalink }}"><img src="/img/{{ .Params.photo_file }}"></a>
+                </div>
+                <div class="card-text">
+                    <span class="name">
+                        <a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a>
+                    </span>
+                    <br>
+                    <span class="job-title">{{ .Params.job_title }}</span>
+                    <br>
+                    <span class="email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
+
+                    {{ if .Params.orcid }}
+                    <br>
+                    <span class="orcid">ORCID: <a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">{{ .Params.orcid }}</a></span>
+                    {{ end }}
+
+                    {{ if .Params.linkedin }}
+                    <br>
+                    <span class="linkedin">LinkedIn: <a href="https://se.linkedin.com/in/{{ .Params.linkedin }}" target="_blank">{{ .Params.linkedin }}</a></span>
+                    {{ end }}
+
+                    {{ if .Params.twitter }}
+                    <br>
+                    <span class="twitter">Twitter: <a href="http://twitter.com/{{ .Params.twitter }}" target="_blank">@{{ .Params.twitter }}</a></span>
+                    {{ end }}
+                </div>
+            </div>
         {{ end }}
-        </ul>
+        </div>
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}

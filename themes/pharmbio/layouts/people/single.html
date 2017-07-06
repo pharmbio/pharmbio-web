@@ -20,7 +20,7 @@
         <h6>Social media</h6>
         <ul class="people-single-linklist">
             {{ if .Params.twitter }}<li><a href="http://twitter.com/{{ .Params.twitter }}" target="_blank">Twitter (@{{ .Params.twitter }})</a></li>{{ end }}
-            {{ if .Params.url_linkedin }}<li><a href="{{ .Params.url_linkedin }}" target="_blank">LinkedIn</a></li>{{ end }}
+            {{ if .Params.linkedin }}<li><a href="http://www.linkedin.com/in/{{ .Params.linkedin }}" target="_blank">LinkedIn</a></li>{{ end }}
             {{ if .Params.url_blog }}<li><a href="{{ .Params.url_blog }}" target="_blank">Blog ({{ replace .Params.url_blog "http://" ""}})</a></li>{{ end }}
             {{ if .Params.url_homepage }}<li><strong>Website:</strong> <a href="{{ .Params.url_homepage }}" target="_blank">Personal Website</a></li>{{ end }}
         </ul>

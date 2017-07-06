@@ -17,7 +17,7 @@ url_blog = ""
 url_google_scholar = ""
 url_homepage = "http://ormbunkar.se/anders_larsson/"
 url_uuprofile = "http://katalog.uu.se/empinfo?id=N7-1588_5"
-url_linkedin = ""
+linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 weight = 0

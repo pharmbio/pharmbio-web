@@ -17,7 +17,7 @@ url_blog = ""
 url_google_scholar = ""
 url_homepage = ""
 url_uuprofile = "http://katalog.uu.se/profile?id=N6-962_2"
-url_linkedin = ""
+linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 weight = -40
