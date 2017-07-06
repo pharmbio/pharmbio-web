@@ -334,8 +334,67 @@ a.twitter-share-button {
     border: 1px solid #ccc;
     margin-bottom: 1em;
 }
+.card-img {
+    float: left;
+}
+.card-text {
+    float: right;
+    padding: 0;
+}
+
+.rightcol .card-img {
+    width: 40%;
+}
+.rightcol .card-text {
+    width: 60%;
+    margin-top: -4px;
+}
+
+.content .poster .card-img {
+    width: 120px;
+}
+.content .poster .card-text {
+    width: 756px;
+}
 
 /* Posters */
+@media (max-width: 991px) {
+    .content .poster .card-img {
+        width: 128px;
+    }
+    .content .poster .card-text {
+        float: left;
+        width: 520px;
+    }
+}
+@media (max-width: 767px) {
+    .content .poster .card-img {
+        width: 128px;
+    }
+    .content .poster .card-text {
+        float: left;
+        width: 360px;
+    }
+}
+@media (max-width: 560px) {
+    .content .poster .card-img {
+        width: 128px;
+    }
+    .content .poster .card-text {
+        float: left;
+        width: 260px;
+    }
+}
+@media (max-width: 479px) {
+    .content .poster .card-img {
+        width: 128px;
+    }
+    .content .poster .card-text {
+        float: left;
+        width: 140px;
+    }
+}
+
 .rightcol .card .title {
     font-size: .8em;
 }

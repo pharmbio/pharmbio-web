@@ -34,11 +34,18 @@
                         <h3>Posters</h3>
                         {{ range first 5 (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
                         <div class="card poster">
-                            <a href="{{ .RelPermalink }}">
-                                <img src="/img/{{ .Params.poster_image }}">
-                                <div class="title">{{ .Title }}</div>
-                            </a>
-                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                            <div class="card-img">
+                                <a href="{{ .RelPermalink }}">
+                                    <img src="/img/{{ .Params.poster_image }}">
+                                </a>
+                            </div>
+                            <div class="card-text">
+                                <a href="{{ .RelPermalink }}">
+                                    <div class="title">{{ .Title }}</div>
+                                </a>
+                                <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                                <div class="clearfix"></div>
+                            </div>
                             <div class="clearfix"></div>
                         </div>
                         {{ end }}
@@ -47,11 +54,17 @@
                         <h3>Presentations</h3>
                         {{ range first 5 (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
                         <div class="card pres">
-                            <a href="{{ .RelPermalink }}">
-                                <img src="http://img.youtube.com/vi/{{ .Params.youtube_id }}/default.jpg" style="margin-bottom:.4em;">
-                                <div class="title">{{ .Title }}</div>
-                            </a>
-                            <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                            <div class="card-img">
+                                <a href="{{ .RelPermalink }}">
+                                    <img src="http://img.youtube.com/vi/{{ .Params.youtube_id }}/default.jpg" style="margin-bottom:.4em;">
+                                </a>
+                            </div>
+                            <div class="card-text">
+                                <a href="{{ .RelPermalink }}">
+                                    <div class="title">{{ .Title }}</div>
+                                </a>
+                                <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                            </div>
                             <div class="clearfix"></div>
                         </div>
                         {{ end }}
