@@ -6,6 +6,7 @@
                         <h3>Posters</h3>
                         <p><a href="/publication">&larr; Back to Publications</a></p>
                         {{ range (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
+                        {{ if .Params.author }}
                         <div class="card poster">
                             <div class="card-img">
                                 <a href="{{ .RelPermalink }}">
@@ -27,6 +28,7 @@
                             </div>
                             <div class="clearfix"></div>
                         </div>
+                        {{ end }}
                         {{ end }}
                     </div>
         {{ partial "bodyend.html" . }}

@@ -5,7 +5,8 @@
                     <div class="content main-content">
                         <h3>Presentations</h3>
                         <p><a href="/publication">&larr; Back to Publications</a></p>
-                        {{ range (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
+                        {{ range (sort (where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
+                        {{ if .Params.author }}
                         <div class="card pres">
                             <div class="card-img">
                                 <a href="{{ .RelPermalink }}">
@@ -27,6 +28,7 @@
                             </div>
                             <div class="clearfix"></div>
                         </div>
+                        {{ end }}
                         {{ end }}
                     </div>
         {{ partial "bodyend.html" . }}
