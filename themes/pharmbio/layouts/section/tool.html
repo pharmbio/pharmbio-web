@@ -3,11 +3,18 @@
     {{ partial "menu.html" . }}
         {{ partial "bodystart.html" . }}
         <h1>Tools and Services developed in the group</h1>
-        <ul>
-        {{ range .Data.Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Params.description }}</li>
+
+        <div class="grid">
+
+        {{ range (sort .Data.Pages "Title" "asc") }}
+        <div class="card card-1-3 card-tool">
+            <p style="font-size: 1.2em"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+            <p>{{ .Params.description }}</p>
+        </div>
         {{ end }}
-        </ul>
+
+        </div>
+
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}
