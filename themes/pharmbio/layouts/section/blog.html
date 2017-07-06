@@ -1,13 +1,34 @@
 {{ partial "docstart.html" . }}
     {{ partial "header.html" . }}
     {{ partial "menu.html" . }}
-        {{ partial "bodystart.html" . }}
-        <h1>Blog</h1>
-        {{ range .Data.Pages }}
-            <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
-            {{ if not .Params.list_only }} {{ .Content }} {{ end }}
-            <div style="width: 100%"><a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a></div>
-        {{ end }}
-        {{ partial "bodyend.html" . }}
+        {{ partial "bodystart_2cols.html" . }}
+        <div class="w-container" style="padding-top: 1em;">
+
+            <!-------------------------------------------------------------------------------->
+
+            <div class="col-2-3">
+            {{ range (sort (where .Data.Pages "Type" "blog") "Date" "desc") }}
+                <div class="card blog-item">
+                <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
+                <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
+                <div style="width: 100%"><a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
+                <div class="clearfix"></div>
+                </div>
+                </div>
+            {{ end }}
+            </div>
+
+            <!-------------------------------------------------------------------------------->
+
+            <div class="col-1-3 blog-feed" style="padding-top: 1em;">
+                {{ range where .Data.Pages "Title" "Right Column" }}
+                    {{ .Content }}
+                {{ end }}
+            </div>
+
+            <!-------------------------------------------------------------------------------->
+
+        </div>
+        {{ partial "bodyend_2cols.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}

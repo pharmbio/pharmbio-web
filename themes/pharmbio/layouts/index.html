@@ -12,7 +12,7 @@
                     {{ .Content }}
                 {{ end }}
                 </div>
-            {{ range (sort (where .Data.Pages "Type" "blog") "Date" "desc") }}
+            {{ range (first 7 (sort (where .Data.Pages "Type" "blog") "Date" "desc")) }}
                 <div class="card blog-item">
                 <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
                 <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
@@ -21,6 +21,10 @@
                 </div>
                 </div>
             {{ end }}
+            <div style="width: 100%; margin-bottom: 1em;">
+                <a href="/blog" style="float: left">More blog posts ...</a>
+                <div class="clearfix"></div>
+            </div>
             </div>
 
             <!-------------------------------------------------------------------------------->
