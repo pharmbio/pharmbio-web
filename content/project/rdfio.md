@@ -1,10 +1,11 @@
 ---
-date: 2016-11-16T20:45:04+02:03
+date: 2010-11-16T20:45:04+02:03
 description:
 taxonomies:
 title: RDFIO
-list_only: True
-weight: 80
+list_only: true
+show_in_list: false
+weight: 400
 ---
 
 RDFIO is a project to bring RDF data import functionality to [Semantic MediaWiki (SMW)](http://semantic-mediawiki.org)
