@@ -3,7 +3,7 @@ date: "2016-11-16T20:58:38+01:00"
 title: "Education"
 menu:
   main:
-    weight: 50
+    weight: 120
 ---
 
 The group is involved in teaching on several campus and internet-based courses at Uppsala University, including on the [Master of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FAP2Y), the [Master Programme in Pharmaceutical Modelling](http://www.uu.se/en/admissions/master/selma/program/?pKod=FPM2M), and the [Bachelor of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FRE1Y).
