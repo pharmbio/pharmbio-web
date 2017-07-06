@@ -2,7 +2,7 @@
     {{ partial "header.html" . }}
     {{ partial "menu.html" . }}
         {{ partial "bodystart_2cols.html" . }}
-        <div class="w-container">
+        <div class="w-container content">
 
             <!-------------------------------------------------------------------------------->
 
@@ -12,24 +12,25 @@
                     {{ .Content }}
                 {{ end }}
                 </div>
-            {{ range (first 7 (sort (where .Data.Pages "Type" "blog") "Date" "desc")) }}
+                {{ range (first 7 (sort (where .Data.Pages "Type" "blog") "Date" "desc")) }}
                 <div class="card blog-item">
-                <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
-                <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
-                <div style="width: 100%"><a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
-                <div class="clearfix"></div> 
+                    <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
+                    <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
+                    <div style="width: 100%">
+                        <a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
+                        <div class="clearfix"></div>
+                    </div>
                 </div>
+                {{ end }}
+                <div style="width: 100%; margin-bottom: 1em;">
+                    <a href="/blog" style="float: left">More blog posts ...</a>
+                    <div class="clearfix"></div>
                 </div>
-            {{ end }}
-            <div style="width: 100%; margin-bottom: 1em;">
-                <a href="/blog" style="float: left">More blog posts ...</a>
-                <div class="clearfix"></div>
-            </div>
             </div>
 
             <!-------------------------------------------------------------------------------->
 
-            <div class="col-1-3 blog-feed" style="padding-top: 1em;">
+            <div class="col-1-3 blog-feed">
                 {{ range where .Data.Pages "Title" "Right Column" }}
                     {{ .Content }}
                 {{ end }}
