@@ -546,3 +546,32 @@ a.twitter-share-button {
     display: table;
     clear: both;
 }
+
+.intro {
+    border: 1px solid #ccc;
+    background: #efefef;
+    padding: 1em;
+    margin: 1em 0 1em 0;
+    /*
+    font-size: .8em;
+    line-height: 1.3em;
+    */
+}
+
+.intro h1,
+.intro h2,
+.intro h3,
+.intro h4,
+.intro h5,
+.intro h6 {
+    margin: 0 0 .4em 0;
+}
+
+.blog-link {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.blog-item .date {
+    color: #999;
+}
