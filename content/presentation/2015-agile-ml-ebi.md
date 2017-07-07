@@ -1,6 +1,6 @@
 +++
 title = "Agile large-scale machine-learning pipelines in drug discovery"
-date = "2015-8-12T17:30:00-06:00"
+date = "2015-08-12T17:30:00-06:00"
 venue = "EBI invited oral"
 venue_url = ""
 city = "Hinxton, UK"
