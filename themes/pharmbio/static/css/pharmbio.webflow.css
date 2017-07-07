@@ -501,7 +501,6 @@ a.twitter-share-button {
     overflow: hidden;
 }
 .card-people {
-    min-height: 154px;
     padding-bottom: 0;
 }
 .card-tool {
@@ -523,7 +522,6 @@ a.twitter-share-button {
     clear: right;
     font-size: 1.2em;
     margin-bottom: .2em;
-    border-bottom: 1px solid #c00;
 }
 .grid .card .job-title {
 }
@@ -613,4 +611,12 @@ a.twitter-share-button {
     height: 90px;
     display: block;
     margin: 0;
+}
+.morelink-wrapper {
+    width: 100%;
+    text-align: right;
+}
+.card-people .morelink-wrapper {
+    font-size: .8em;
+    margin-top: 90px;
 }
