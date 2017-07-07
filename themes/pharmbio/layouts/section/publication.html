@@ -13,7 +13,7 @@
                         {{ range .Data.Pages.GroupByDate "2006" }}
                             <h2>{{ .Key }}</h2>
                             {{ range sort .Pages "Params.year" "desc" }}
-                            <div class="card">
+                            <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
                             {{ .Params.author }}
                                 <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
                                 {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
