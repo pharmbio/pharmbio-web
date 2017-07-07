@@ -58,7 +58,11 @@
                         <div class="card pres">
                             <div class="card-img">
                                 <a href="{{ .RelPermalink }}">
+                                    {{ if .Params.thumb_img }}
+                                    <img src="/img/{{ .Params.thumb_img }}" style="margin-bottom:.4em;">
+                                    {{ else }}
                                     <img src="http://img.youtube.com/vi/{{ .Params.youtube_id }}/default.jpg" style="margin-bottom:.4em;">
+                                    {{ end }}
                                 </a>
                             </div>
                             <div class="card-text">

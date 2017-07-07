@@ -3,6 +3,7 @@ title = "Continuous modeling - automating model building on high-performance e-I
 date = "2016-01-24T17:30:00-06:00"
 venue = "International Conference on Pharmaceutical Bioinformatics 2016"
 venue_url = "http://icpb.net/2016/"
+thumb_img = "/thumbs/pres-2016-cont-modeling-icpb.png"
 city = "Pattaya, Thailand"
 youtube_id = ""
 vimeo_id = ""
