@@ -501,7 +501,8 @@ a.twitter-share-button {
     overflow: hidden;
 }
 .card-people {
-    min-height: 176px;
+    min-height: 154px;
+    padding-bottom: 0;
 }
 .card-tool {
     min-height: 168px;

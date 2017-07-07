@@ -37,38 +37,8 @@
                     <span class="orcid">ORCID: <a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">{{ .Params.orcid }}</a></span>
                     {{ end }}
 
-                    {{ if .Params.linkedin }}
-                    <br>
-                    <span class="linkedin">LinkedIn: <a href="https://se.linkedin.com/in/{{ .Params.linkedin }}" target="_blank">{{ .Params.linkedin }}</a></span>
-                    {{ end }}
-
-                    {{ if .Params.twitter }}
-                    <br>
-                    <span class="twitter">Twitter: <a href="http://twitter.com/{{ .Params.twitter }}" target="_blank">@{{ .Params.twitter }}</a></span>
-                    {{ end }}
-                    <br>
-                    <span class="links">
-
-                    {{ if .Params.url_uuprofile }}
-                        <a href="{{ .Params.url_uuprofile }}" target="_blank">UU</a>
-                    {{ end }}
-
-                    {{ if .Params.orcid }}
-                        &middot;
-                        <a href="https://profiles.impactstory.org/{{ .Params.orcid }}" target="_blank">ImpactStory</a>
-                    {{ end }}
-
-                    {{ if .Params.url_researchgate }}
-                        &middot;
-                        <a href="{{ .Params.url_researchgate }}" target="_blank">RG</a>
-                    {{ end }}
-
-                    {{ if .Params.url_mendeley }}
-                        &middot;
-                        <a href="{{ .Params.url_mendeley }}" target="_blank">Mendeley</a>
-                    {{ end }}
-                    </span>
                 </div>
+                <div style="margin-top: 154px; padding-bottom: 4px; width: 100%; text-align: right;"><a href="{{ .RelPermalink }}">Read more &raquo;</a></div>
             </div>
         {{ end }}
         </div>
