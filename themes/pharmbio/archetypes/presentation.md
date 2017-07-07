@@ -1,5 +1,6 @@
 +++
 title = ""
+thumb_img = ""
 author = [""]
 abstract = ""
 venue = ""
