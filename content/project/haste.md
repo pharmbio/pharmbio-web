@@ -1,6 +1,7 @@
 +++
 date = "2017-04-04T09:15:04+02:01"
-description = "TBC"
+teaser_image = "haste_overview_440px.jpg"
+description = "From intelligent data acquisition via smart data-management to confident predictions"
 taxonomies = "TBC"
 title = "HASTE: Hierarchical Analysis of Spatial and TEmporal image data"
 +++
