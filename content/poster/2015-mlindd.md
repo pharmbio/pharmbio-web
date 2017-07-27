@@ -7,7 +7,7 @@ venue = "Swedish e-Science Academy 2015"
 venue_url = "http://essenceofescience.se/event/swedish-e-science-academy-2015"
 city = "Lund"
 year = "2015"
-date = "2015-10-16T14:21:48+02:00"
+date = "2015-10-16T17:21:48+02:00"
 users = ["jonalv"]
 author = ["Jonathan Alvarsson", "Samuel Lampa", "Claes Andersson", "Jarl E.S. Wikberg", "Ola Spjuth"]
 +++
