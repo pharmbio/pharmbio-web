@@ -1,6 +1,7 @@
 +++
 title = "Agile large-scale machine-learning pipelines in drug discovery"
 date = "2015-08-12T17:30:00-06:00"
+thumb_img = "thumbs/pres-2015-agile-ml-ebi.png"
 venue = "EBI invited oral"
 venue_url = ""
 city = "Hinxton, UK"

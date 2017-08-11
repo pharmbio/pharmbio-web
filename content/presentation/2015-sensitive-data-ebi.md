@@ -1,6 +1,7 @@
 +++
 title = "Storage and Analysis of Sensitive Large-Scale Biomedical Data in Sweden"
 date = "2015-08-11T17:30:00-06:00"
+thumb_img = "thumbs/pres-2015-sensitive-data-ebi.png"
 venue = "EBI Invited Oral"
 venue_url = ""
 city = "Hinxton, UK"
