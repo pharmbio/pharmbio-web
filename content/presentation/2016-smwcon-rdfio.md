@@ -10,6 +10,6 @@ venue_url = "https://www.semantic-mediawiki.org/wiki/SMWCon_Fall_2016/Batch_impo
 city = "Frankfurt"
 youtube_id = "k70er1u1ZYs"
 vimeo_id = ""
-slideshare_id = "66590899"
+slideshare_id = "k4BwJYQixD2fTh"
 slides_doi = ""
 +++
