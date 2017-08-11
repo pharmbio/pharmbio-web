@@ -1,6 +1,7 @@
 +++
 title = "Interoperability and scalability with microservices in science"
 date = "2016-10-28T17:30:00-06:00"
+thumb_img = "thumbs/pres-2016-opentox.png"
 venue = "OpenTox Euro 2016"
 venue_url = "http://www.opentox.net/events/opentox-euro-2016"
 city = "Rheinfelden, Germany"
