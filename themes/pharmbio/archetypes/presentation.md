@@ -1,4 +1,7 @@
 +++
+draft = true
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
 title = ""
 thumb_img = ""
 author = [""]
