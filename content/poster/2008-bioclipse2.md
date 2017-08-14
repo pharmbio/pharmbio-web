@@ -6,6 +6,7 @@ doi = "10.6084/m9.figshare.5306752"
 venue = "8th Swedish Bioinformatics Workshop - Uppsala, Sweden"
 city = "Uppsala"
 year = "2008"
+date = "2008-02-28T00:12:00+02:00"
 users = ["jonalv"]
 author = ["Carl Mäsak", "Jonathan Alvarsson"]
 +++
