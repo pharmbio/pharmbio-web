@@ -19,6 +19,7 @@ functionality available in SMW.
 
 ## External links
 
+- [The RDFIO paper](https://pharmb.io/publication/2017-rdfio/)
 - [The RDFIO Extension at MediaWiki.org](https://www.mediawiki.org/wiki/Extension:RDFIO)
 - [The RDFIO Extension on GitHub](https://github.com/rdfio/RDFIO)
 - [The RDFIO Vagrant box on GitHub](https://github.com/rdfio/rdfio-vagrantbox)
