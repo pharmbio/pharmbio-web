@@ -1,6 +1,7 @@
 +++
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
 doi = ""
-title = ""
 url_html = ""
 journal = ""
 author = ""
