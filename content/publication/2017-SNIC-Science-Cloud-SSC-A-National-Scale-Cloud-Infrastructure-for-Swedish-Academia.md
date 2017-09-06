@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="S. Toor, M. Lindberg, I. Fallman, A. Vallin, O. Mohill, P. Freyhult, L. Nilsson, M. Agback, L. Viklund, H. Zazzi, O. Spjuth, M. Capuccini, J. Moller, D. Murtagh and A. Hellander"
+author="Toor S, Lindberg M, Fallman I, Vallin A, Mohill O, Freyhult P, Nilsson L, Agback M, Viklund L, Zazzi H, Spjuth O, Capuccini M, Moller J, Murtagh D, Hellander A"
 title="SNIC Science Cloud (SSC): A National-scale Cloud Infrastructure for Swedish Academia"
 journal="Accepted to the 13th IEEE e-Science conference 2017"
 year="2017"
