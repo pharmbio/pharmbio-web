@@ -6,4 +6,4 @@ git pull; git push;
 if [[ ! -d public ]]; then
     git clone git@github.com:pharmbio/pharmbio.github.io.git public
 fi;
-hugo && cd public && git pull && git add * && git commit -am "$commitmsg" && git push && cd ..;
+hugo && cd public && git pull --force && git add * && git commit -am "$commitmsg" && git push && cd ..;
