@@ -3,6 +3,7 @@ date = "2017-08-24T10:49:42+01:00"
 description = ""
 taxonomies = "blogging"
 title = "Jon Ander Novella to speak at DevFest Siberia 2017"
+teaser_image = "/img/devfest-siberia2017.png"
 +++
 
 [Jon Ander Novella](https://pharmb.io/people/jon/) will present at [DevFest Siberia 2017](https://gdg-siberia.com/), on the topic of "Scalable and reproducible bioinformatics workflows with Pachyderm".
