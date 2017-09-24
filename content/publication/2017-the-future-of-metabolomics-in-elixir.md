@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="M. van Rijswijk, C. Beirnaert, C. Caron, M. Cascante, V. Dominguez, W. Dunn, T. Ebbels, F. Giacomoni, A. Gonzalez-Beltran, T. Hankemeier, K. Haug, J. Izquierdo-Garcia, R. Jimenez, F. Jourdan, N. Kale, M. Klapa, O. Kohlbacher, K. Koort, K. Kultima, G. Le Corguill, N. Moschonas, S. Neumann, C. O'Donovan, M. Reczko, P. Rocca-Serra, A. Rosato, R. Salek, S. Sansone, V. Satagopam, D. Schober, R. Shimmo, R. Spicer, O. Spjuth, E. Thevenot, M. Viant, R. Weber, E. Willighagen, G. Zanetti, and C. Steinbeck"
+author="van Rijswijk M, Beirnaert C, Caron C, Cascante M, Dominguez V, Dunn W, Ebbels T, Giacomoni F, Gonzalez-Beltran A, Hankemeier T, Haug K, Izquierdo-Garcia J, Jimenez R, Jourdan F, Kale N, Klapa M, Kohlbacher O, Koort K, Kultima K, Le Corguill G, Moschonas N, Neumann S, O'Donovan C, Reczko M, Rocca-Serra P, Rosato A, Salek R, Sansone S, Satagopam V, Schober D, Shimmo R, Spicer R, Spjuth O, Thevenot E, Viant M, Weber R, Willighagen E, Zanetti G, and Steinbeck C"
 title="The future of metabolomics in ELIXIR"
 journal="F1000Research"
 year="2017"
