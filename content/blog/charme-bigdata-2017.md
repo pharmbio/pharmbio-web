@@ -3,7 +3,7 @@ date = "2017-09-21T18:13:47+01:00"
 description = ""
 taxonomies = "blogging"
 title = "Presentations and Tutorials at 'Big Data Training School for Life Sciences'"
-teaser_image = "/img/bbq2017/cost-charme.png"
+teaser_image = "/img/cost-charme.png"
 +++
 
 The [pharmb.io](https://pharmb.io) and [caramba.clinic](http://www.caramba.clinic/) teams were heavily involved in the COST-CHARME ['Big Data Training School for Life Sciences'](http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html), 18-22 September 2017 in Uppsala, Sweden.
