@@ -8,7 +8,7 @@ teaser_image = "/img/bbq2017/cost-charme.png"
 
 The [pharmb.io](https://pharmb.io) and [caramba.clinic](http://www.caramba.clinic/) teams were heavily involved in the COST-CHARME ['Big Data Training School for Life Sciences'](http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html), 18-22 September 2017 in Uppsala, Sweden.
 
-[Ola Spjuth](https://pharmb.io/people/olas/) was member of the [Scientific Committee](http://astrocyte.com/COST-CHARME/COST-CHARME/About.html) and also had a presentation with the title 'Data-intensive bioinformatics on HPC and Cloud'.
+[Ola Spjuth](https://pharmb.io/people/olas/) was member of the [Scientific Committee](http://astrocyte.com/COST-CHARME/COST-CHARME/About.html) and also had a presentation with the title ['Data-intensive bioinformatics on HPC and Cloud'](https://pharmb.io/presentation/2017-big-data-training-school/).
 
 [Marco Capuccini](https://pharmb.io/people/marco/) had a hands-on tutorial with the title 'Machine learning in Spark'.
 
