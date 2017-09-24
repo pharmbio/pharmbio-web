@@ -12,7 +12,7 @@ The [pharmb.io](https://pharmb.io) and [caramba.clinic](http://www.caramba.clini
 
 [Marco Capuccini](https://pharmb.io/people/marco/) had a hands-on tutorial with the title 'Machine learning in Spark'.
 
-Payam Emami, [Stephanie Herman](https://pharmb.io/people/steph/), and [Jon Ander Novella](https://pharmb.io/people/jon/) held presentations about clinical metabolomics and [Pachyderm](http://pachyderm.io/), followed by a hands-on tutorial using the [PhenoMeNal framework](http://phenomenal-h2020.eu) to carry out an analysis of mass spectrometry data in parallel using the Pachyderm workflow system on [Kubernetes](https://kubernetes.io/).
+Payam Emami, [Stephanie Herman](https://pharmb.io/people/steph/), and [Jon Ander Novella](https://pharmb.io/people/jon/) held presentations 'Large-scale clinical metabolomics using mass spectrometry' and 'Scalable and reproducible workflows with Pachyderm', followed by a hands-on tutorial using the [PhenoMeNal framework](http://phenomenal-h2020.eu) to carry out an analysis of mass spectrometry data in parallel using the [Pachyderm](http://pachyderm.io/) workflow system on top of [Kubernetes](https://kubernetes.io/).
 
 
 ![](/img/charme-bigdata/jon-steph-intro.jpg)
