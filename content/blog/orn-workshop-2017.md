@@ -3,7 +3,7 @@ date = "2017-09-26T18:13:47+01:00"
 description = ""
 taxonomies = "blogging"
 title = "OpenRiskNet Workshop in Uppsala 25-26 Sept 2017"
-teaser_image = "/img/orn-teaser.png"
+teaser_image = "/img/orn-teaser2.png"
 +++
 
 On 25-26 Sept 2017 our group organized a workshop on microservices development with a large focus on [Kubernetes](kubernetes.io)/[OpenShift](https://www.openshift.com/) and how we can establish a CICD system within the [OpenRiskNet](https://openrisknet.org/) project. The meeting was attended by 16 people from 8 European partners. A large focus was discussions on how we can develop interoperable services with semantic APIs, and there were also practical hands-on sessions on our [OpenShift recipes](https://github.com/OpenRiskNet/home/tree/master/openshift).
