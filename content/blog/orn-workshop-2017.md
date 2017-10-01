@@ -13,10 +13,10 @@ On 25-26 Sept 2017 our group organized a workshop on microservices development w
 
 [Marco Capuccini](https://pharmb.io/people/marco/) from our group presenting on Cloud Computing, Kubernetes and [KubeNow](https://github.com/kubenow/KubeNow).
 
-![](/img/ornws2017/david-orn.jpg)
-
-Daniel Bachler from [Douglas Connect](https://www.douglasconnect.com)
-
 ![](/img/ornws2017/tim-orn.jpg)
 
-Tim Dudgeon from [Informatics Matters](http://www.informaticsmatters.com/)
+Tim Dudgeon from [Informatics Matters](http://www.informaticsmatters.com/) presenting on CICD using OpenShift.
+
+![](/img/ornws2017/david-orn.jpg)
+
+Daniel Bachler from [Douglas Connect](https://www.douglasconnect.com) leading the discussion on semantic interoperability for APIs
