@@ -18,7 +18,7 @@ before_script:
     -d
 
   # Add the keypair to the agent
-  - chmod 600 .ssh/travis
+  - chmod 600 .ssh/id_rsa
   - eval "$(ssh-agent -s)"
   - ssh-add .ssh/id_rsa
 
