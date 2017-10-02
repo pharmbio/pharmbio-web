@@ -1,6 +1,6 @@
 +++
 title = "Scalable and reproducible workflows with Pachyderm"
-thumb_img = "/thumbs/pres-2017-bigdata-training.png"
+thumb_img = "/thumbs/pres-2017-big-data-pachyderm.jpg"
 author = ["Jon Ander Novella"]
 abstract = "This presentation contains an introduction to using Pachyderm as a tool to enable scalable and reproducible workflows in the life sciences. Pachyderm is an open-source workflow-engine and distributed data processing tool that leverages the container ecosystem."
 venue = "Big Data Training School for Life Sciences, 18-22 September 2017, Uppsala, Sweden"
