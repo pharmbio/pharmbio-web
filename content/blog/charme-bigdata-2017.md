@@ -24,4 +24,4 @@ Payam Emami, [Stephanie Herman](https://pharmb.io/people/steph/), and [Jon Ander
 
 ![](/img/charme-bigdata/jon-pachyderm.jpg)
 
-[Jon Ander Novella](https://pharmb.io/people/jon/) presenting 'Scalable and reproducible workflows with Pachyderm'
+[Jon Ander Novella](https://pharmb.io/people/jon/) presenting ['Scalable and reproducible workflows with Pachyderm'](https://pharmb.io/presentation/2017-pachyderm-big-data/).
