@@ -1,5 +1,6 @@
 # Pharmb.io Web
 [![Build Status](https://travis-ci.org/pharmbio/pharmbio-web.svg?branch=master)](https://travis-ci.org/pharmbio/pharmbio-web)
+
 The Static (Hugo) website for pharmb.io.
 
 ## Automated publishing
