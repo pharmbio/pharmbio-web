@@ -6,7 +6,7 @@ title = "Presentation at DevFest Siberia 2017"
 teaser_image = "/img/devfest-siberia2017.png"
 +++
 
-[Jon Ander Novella](https://pharmb.io/people/jon/) presented at [DevFest Siberia 2017](https://gdg-siberia.com/), on the topic of "Scalable and reproducible bioinformatics workflows with Pachyderm". Further details about the talk can be found at our prevous [blog post] (https://pharmb.io/blog/jon-devfest-siberia/) or at the [conference's event schedule] (https://gdg-siberia.com/schedule/#session-158).
+[Jon Ander Novella](https://pharmb.io/people/jon/) presented at [DevFest Siberia 2017](https://gdg-siberia.com/), on the topic of "Scalable and reproducible bioinformatics workflows with Pachyderm". Further details about the talk can be found at our previous [blog post] (https://pharmb.io/blog/jon-devfest-siberia/) or at the [conference's event schedule] (https://gdg-siberia.com/schedule/#session-158).
 
 ## Description of the event
 
