@@ -10,7 +10,7 @@
         {{ end }}
         {{ if .Params.long_bio }}
             <h6>About</h6>
-            {{ .Params.long_bio }}
+            {{ .Params.long_bio | markdownify }}
         {{ end }}
         <h6>Contact info</h6>
         <ul class="people-single-linklist">
