@@ -6,6 +6,10 @@ title = "Ola Spjuth presenting PhenoMeNal at Nordic Tryggve2 Kickoff"
 teaser_image = "/img/neic-nordforsk.png"
 +++
 
+![](/img/phenomenal.png)
+
+![](/img/tryggve2kickoff/neic-elixir-logos.png)
+
 Ola Spjuth presented at the [Nordic Tryggve2 Kickoff](https://neic.no/tryggve2/), 7 November 2017 in Märsta, Sweden. Tryggve 2 is a project within [The Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no), consisting of the Nordic countries Sweden, Finland, Norway and Denmark and is hosted by the Nordic [ELIXIR](https://www.elixir-europe.org) nodes.
 
 Ola's presentation showcased PhenoMeNal and how Virtual Research Environments can be useful for working with sensitive data. PhenoMeNal has been adopted as one of the Use Cases in PhenoMeNal, and we look forward to working together with the staff in this great collaborative Nordic project!
@@ -17,7 +21,6 @@ Ola's presentation showcased PhenoMeNal and how Virtual Research Environments ca
 ![](/img/tryggve2kickoff/tr2-title.JPG)
 
 ![](/img/tryggve2kickoff/tr2-vre.JPG)
-
 
 
 
