@@ -1,5 +1,5 @@
 +++
-date = "2017-10-07T11:13:47+01:00"
+date = "2017-11-07T11:13:47+01:00"
 description = ""
 taxonomies = "blogging"
 title = "Ola Spjuth presenting PhenoMeNal at Nordic Tryggve2 Kickoff"
