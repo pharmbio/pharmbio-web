@@ -6,12 +6,12 @@ title = "New GopherData post on Go-based workflow tools"
 teaser_image = "/img/wfgopher.png"
 +++
 
-![](/img/golang_wf_logos_export.png)
+![](/img/golang_wf_landscape.png)
 
 [Samuel](https://pharmb.io/people/saml) and
-[Jon](https://pharmb.io/people/jon/) from the group, contributed to a new post
+[Jon](https://pharmb.io/people/jon/) from the group contributed to [a post](http://gopherdata.io/post/more_go_based_workflow_tools_in_bioinformatics/)
 on the [GopherData website](http://gopherdata.io/) together with [Daniel Whitenack](https://twitter.com/dwhitena)
-from [Pachyderm Inc.](http://pachyderm.io/), providing a breif overview of the
+from the [Pachyderm](http://pachyderm.io/) team, providing a brief overview of the
 growing ecosystem of workflow tools in bio- and cheminformatics implemented in
 the [Go programming language](https://golang.org/).
 
