@@ -2,7 +2,7 @@
 date = "2017-11-06T11:13:47+01:00"
 description = ""
 taxonomies = "blogging"
-title = "Pharmb.io group joining Glenna2 project with PhenoMeNal project"
+title = "Pharmb.io group joining Glenna2 project with experiences and use cases from PhenoMeNal"
 teaser_image = "/img/neic-ph.png"
 +++
 
