@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Payam Emami Khoonsari, Pablo Moreno, Sven Bergmann, Joachim Burman, Marco Capuccini, Matteo Carone, Marta Cascante, Pedro de Atauri, Carles Foguet, Alejandra Gonzalez-Beltran, Thomas Hankemeier, Kenneth Haug, Sijin He, Stephanie Herman, David Johnson, Namrata Kale, Anders Larsson, Steffen Neumann, Kristian Peters, Luca Pireddu, Philippe Rocca-Serra, Pierrick Roger, Rico Rueedi, Christoph Ruttkies, Noureddin Sadawi, Reza M. Salek, Susanna-Assunta Sansone, Daniel Schober, Vitaly Selivanov, Etienne A. Thévenot, Michael van Vliet, Gianluigi Zanetti, Christoph Steinbeck, Kim Kultima, Ola Spjuth"
+author="Khoonsari PE, Moreno P, Bergmann S, Burman J, Capuccini M, Carone M, Cascante M, De Atauri P, Foguet C, Gonzalez-Beltran A, Hankemeier T, Haug K, He S, Herman S, Johnson D, Kale N, Larsson A, Neumann S, Peters K, Pireddu L, Rocca-Serra P, Roger P, Rueedi R, Ruttkies C, Sadawi N, Salek RM, Sansone SA, Schober D, Selivanov V, Thévenot EA, Van Vliet M, Zanetti G, Steinbeck C, Kultima K, Spjuth O"
 title="Interoperable and scalable metabolomics data analysis with microservices"
 journal="bioRxiv"
 year="2017"
