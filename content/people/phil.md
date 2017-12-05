@@ -1,7 +1,7 @@
 +++
 date = "2017-12-05T14:20:56+02:00"
 email = "philip.harrison@farmbio.uu.se"
-weight = -100
+weight = 0
 firstname = "Phil"
 initials = ""
 job_title = "PhD Student"
@@ -19,6 +19,6 @@ linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 long_bio = "PhD in Marine Biology, research focus on computational statistics.. TBC"
-research_interests = ["computational statistics", "modeling"]
+research_interests = ["computational statistics", "modeling and simulation"]
 +++
 
