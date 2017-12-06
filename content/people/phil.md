@@ -18,7 +18,7 @@ url_uuprofile = "http://katalog.uu.se/empinfo/?id=N17-2078"
 linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
-long_bio = "PhD in Marine Biology, research focus on computational statistics.. TBC"
-research_interests = ["computational statistics", "modeling and simulation"]
+long_bio = "I obtained my first PhD in marine biology in 2006 studying the population dynamics of grey seals. Between 2006-2016 I undertook several research projects modelling wildlife populations and analysing trends in biodiversity. With a desire to broaden my scientific horizons in 2017 I began studies for a second PhD in pharmaceutical science. For this PhD I shall develop machine learning methods for online, large-scale analysis of microscopy image data as part of the [HASTE](http://haste.research.it.uu.se/) project."
+research_interests = ["statistical machine learning", "Bayesian state-space modelling","computer vision"]
 +++
 
