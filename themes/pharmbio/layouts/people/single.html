@@ -17,6 +17,14 @@
             {{ if .Params.email }}<li><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></li>{{ end }}
             {{ if .Params.url_uuprofile }}<li><a href="{{ .Params.url_uuprofile }}" target="_blank">Staff page at Uppsala University</a></li>{{ end }}
         </ul>
+        {{ if .Params.research_interests }}
+        <h6>Research interests</h6>
+        <ul class="people-single-linklist">
+            {{ range .Params.research_interests }}
+            <li>{{ title .  }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
         {{ if (or .Params.twitter .Params.linkedin .Params.url_blog .Params.url_homepage) }}
         <h6>Social media</h6>
         <ul class="people-single-linklist">
