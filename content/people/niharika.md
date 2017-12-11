@@ -20,6 +20,6 @@ url_uuprofile = "http://katalog.uu.se/empinfo?id=N17-971"
 linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
-weight = 0
+weight = 1
 +++
 
