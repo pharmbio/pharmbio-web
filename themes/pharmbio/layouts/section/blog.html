@@ -9,11 +9,21 @@
             <div class="col-2-3">
             {{ range (sort (where .Data.Pages "Type" "blog") "Date" "desc") }}
                 <div class="card blog-item">
-                <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
-                <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
-                <div style="width: 100%"><a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
-                <div class="clearfix"></div>
-                </div>
+                    {{ if .Params.teaser_image }}
+                    <div class="card-img">
+                        <img src="{{ .Params.teaser_image }}">
+                    </div>
+                    <div class="card-text">
+                    {{ end }}
+                        <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
+                        <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
+                        <div style="auto">
+                            <a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
+                        </div>
+                    {{ if .Params.teaser_image }}
+                    </div>
+                    {{ end }}
+                    <div class="clearfix"></div>
                 </div>
             {{ end }}
             </div>
