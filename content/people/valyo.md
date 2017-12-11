@@ -21,5 +21,7 @@ linkedin = "valyo"
 url_mendeley = ""
 url_researchgate = "https://www.researchgate.net/profile/Valentin_Georgiev"
 weight = 0
+start_year = 2012
+end_year = 2015
 +++
 

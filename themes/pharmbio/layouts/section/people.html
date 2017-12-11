@@ -13,12 +13,13 @@
             Alvarsson, Matteo Carone.<br>(Photographer: Jonathan Alvarsson).
         </div>
 
-        <h2>Personal pages</h2>
+        <h2>Current group members</h2>
 
-        <p>See the list below for more detail of each person.</p>
+        <p>Click an individual's name to view more detail.</p>
 
         <div class="grid">
         {{ range .Data.Pages }}
+            {{ if not .Params.end_year }}
             <div class="card card-1-3 card-people">
                 <div class="card-img">
                     <a href="{{ .RelPermalink }}"><img src="/img/{{ .Params.photo_file }}"></a>
@@ -40,8 +41,42 @@
                 </div>
                 <div class="morelink-wrapper"><a href="{{ .RelPermalink }}" class="morelink">More info &raquo;</a></div>
             </div>
+            {{ end }}
         {{ end }}
         </div>
+
+        <h2>Previous group members</h2>
+
+        <p>Click an individual's name to view more detail.</p>
+
+        <div class="grid">
+        {{ range .Data.Pages }}
+            {{ if .Params.end_year }}
+            <div class="card card-1-3 card-people">
+                <div class="card-img">
+                    <a href="{{ .RelPermalink }}"><img src="/img/{{ .Params.photo_file }}"></a>
+                </div>
+                <div class="card-text">
+                    <span class="name">
+                        <a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a>
+                    </span>
+                    <br>
+                    <span class="job-title">{{ .Params.job_title }} ({{ .Params.start_year }}-{{ .Params.end_year }})</span>
+                    <br>
+                    <span class="email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
+
+                    {{ if .Params.orcid }}
+                    <br>
+                    <span class="orcid">ORCID: <a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">{{ .Params.orcid }}</a></span>
+                    {{ end }}
+
+                </div>
+                <div class="morelink-wrapper"><a href="{{ .RelPermalink }}" class="morelink">More info &raquo;</a></div>
+            </div>
+            {{ end }}
+        {{ end }}
+        </div>
+
         {{ partial "bodyend.html" . }}
     {{ partial "footer.html" . }}
 {{ partial "docend.html" . }}

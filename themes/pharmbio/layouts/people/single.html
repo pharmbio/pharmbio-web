@@ -4,7 +4,11 @@
         {{ partial "bodystart.html" . }}
         <p><a href="/{{ .Section }}">&larr; Back to {{ .Section }}</a></p>
         <div style="padding: .4em 1em 1em 1em; margin: 1em; max-width: 600px; border: 1px solid #ccc;">
-        <h1 style="font-size: 1.4em; margin-top: 0; padding-top: 0;">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}, {{ .Params.job_title }}</h1>
+        <h1 style="font-size: 1.4em; margin-top: 0; padding-top: 0;">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}, {{ .Params.job_title }}
+        {{ if and .Params.start_year .Params.end_year }}
+            ({{ .Params.start_year }}-{{ .Params.end_year }})
+        {{ end }}
+        </h1>
         {{ if .Params.photo_file }}
             <img src="/img/{{ .Params.photo_file }}" style="border: 1px solid #ccc; margin: .2em 1em 1em .2em; display: block; clear: right;" />
         {{ end }}
