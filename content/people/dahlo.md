@@ -11,7 +11,7 @@ photo_file = "people/dahlo.jpg"
 research_interests = ["bioinformatics", "hpc"]
 short_bio = "Martin finished his master studies in bioinformatics engineering at Uppsala University in 2010 and has worked at the university since then. More and more of the work involved working closely with UPPMAX."
 long_bio = "Martin finished his master studies in bioinformatics engineering at Uppsala University in 2010 and has worked at the university since then. More and more of the work involved working closely with UPPMAX."
-title = "dahlo"
+title = "Martin Dahlö"
 twitter = "mdahlo"
 url_blog = ""
 url_google_scholar = "https://scholar.google.se/citations?user=qKIGkAwAAAAJ"
