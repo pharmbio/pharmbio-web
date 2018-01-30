@@ -10,7 +10,7 @@ When making changes please follow these steps:
 
  1. Clone this repo
  2. Make your edits
- 3. Push your edits to a new branch
+ 3. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
  4. Create a Pull Request (PR) from the new branch towards the master branch
  5. Check that the PR build status is passed (green)
  6. Merge the PR
