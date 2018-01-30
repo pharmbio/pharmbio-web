@@ -17,7 +17,7 @@ url_blog = ""
 url_google_scholar = ""
 url_homepage = ""
 url_uuprofile = "http://katalog.uu.se/empinfo?id=N11-1551_1"
-linkedin = ""
+linkedin = "polge"
 url_mendeley = ""
 url_researchgate = ""
 weight = 1
