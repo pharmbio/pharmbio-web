@@ -1,0 +1,27 @@
++++
+title = "Pharmb.io co-organizing Linked Data in Sweden Symposium"
+description = ""
+date = "2018-02-15"
+taxonomies = ""
++++
+
+pharmb.io is this year co-organizing a symposium named "Linked Data in Sweden".
+It is a symposium held annually with the aim to bring bring people together to
+share experiences about Linked Data.  
+
+This year, the event is hosted by the SciLifeLab Data Centre, at the BMC campus
+of Uppsala University ("Navet building").
+
+[Samuel](https://pharmb.io/people/saml) from the group will present some of the
+work done in the group regarding handling on large scale linked / semantic
+data.
+
+You can find more information about the event, including a tentative agenda, on
+its [webpage](https://lankadedata.se/LDSV/2018/index.html), as well as the
+[SciLifeLab event](https://www.scilifelab.se/events/linked-data-in-sweden/).
+Also please consider taking the pre-registration ["call of intrest"
+survey](https://docs.google.com/forms/d/e/1FAIpQLSd9x37RHXobLPuu24dTGIRyTtv8MOfOrE9z7LiQP9X4gvAZJQ/viewform?usp=send_form),
+to help us make the event as good as possible. Finally, if you tweet about the
+event, we suggest to use the event hashtag
+[#LDSV2018](https://twitter.com/search?q=%23ldsv2018), so others can easily
+follow the event.
