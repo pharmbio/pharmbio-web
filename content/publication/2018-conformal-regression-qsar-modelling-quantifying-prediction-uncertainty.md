@@ -1,5 +1,5 @@
 +++
-title = "Conformal Regression for QSAR Modelling – Quantifying Prediction Uncertainty."
+title = "Conformal Regression for QSAR Modelling - Quantifying Prediction Uncertainty."
 date = 2018-04-03T15:49:00+02:00
 doi = ""
 url_html = ""
