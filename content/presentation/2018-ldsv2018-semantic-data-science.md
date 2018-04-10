@@ -1,5 +1,5 @@
 +++
-title = "Semantic Web ❤ Data Science? Practical large scale semantic data handling with RDFIO and RDF-HDT"
+title = "Semantic Web ❤ Data Science? Practical large scale semantic data handling with RDFIO & RDF-HDT"
 date = 2018-04-09T12:24:28+02:00
 thumb_img = "thumbs/pres-2018-ldsv2018.png"
 author = ["Samuel Lampa"]
