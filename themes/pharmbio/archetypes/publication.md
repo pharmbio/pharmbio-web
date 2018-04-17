@@ -1,5 +1,6 @@
 +++
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
+preprint = false
 date: {{ .Date }}
 doi = ""
 url_html = ""

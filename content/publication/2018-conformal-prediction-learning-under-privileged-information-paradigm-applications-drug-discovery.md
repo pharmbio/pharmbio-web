@@ -1,5 +1,6 @@
 +++
 title = "Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery."
+preprint = true
 date = 2018-04-05T05:49:00+02:00
 doi = ""
 url_html = "https://arxiv.org/abs/1803.11136"

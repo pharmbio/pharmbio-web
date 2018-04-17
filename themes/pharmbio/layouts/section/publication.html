@@ -10,16 +10,30 @@
                 <div class="col-2-3">
                     <div class="content">
                         <h1>Publications</h1>
+                        <h2>Preprints</h2>
+                        {{ range sort .Data.Pages "Params.year" "desc" }}
+                            {{ if .Params.preprint }}
+                                <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
+                                {{ .Params.author }}
+                                    <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                    {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
+                                    {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
+                                    {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
+                                </div>
+                            {{ end }}
+                        {{ end }}
                         {{ range .Data.Pages.GroupByDate "2006" }}
                             <h2>{{ .Key }}</h2>
                             {{ range sort .Pages "Params.year" "desc" }}
-                            <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
-                            {{ .Params.author }}
-                                <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                                {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
-                                {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
-                                {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
-                            </div>
+                                {{ if not .Params.preprint }}
+                                    <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
+                                    {{ .Params.author }}
+                                        <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                        {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
+                                        {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
+                                        {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
+                                    </div>
+                                {{ end }}
                             {{ end }}
                         {{ end }}
                     </div>
