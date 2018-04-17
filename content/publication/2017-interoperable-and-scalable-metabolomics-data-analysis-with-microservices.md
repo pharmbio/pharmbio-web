@@ -7,6 +7,7 @@ year="2017"
 date="2017-10-03"
 volume="213603"
 number=""
+preprint = true
 pages=""
 abstract="Developing a robust and performant data analysis workflow that integrates all necessary components whilst still being able to scale over multiple compute nodes is a challenging task. We here present a generic method based on the microservice architecture, where software tools are encapsulated as Docker containers that can be connected into scientific workflows and executed in parallel using the Kubernetes container orchestrator. The method was developed within the PhenoMeNal consortium to support flexible metabolomics data analysis and was designed as a virtual research environment which can be launched on-demand on cloud resources and desktop computers. IT-expertise requirements on the user side are kept to a minimum, and established workflows can be re-used effortlessly by any novice user. We validate our method on two mass spectrometry studies, one nuclear magnetic resonance spectroscopy study and one fluxomics study, showing that the method scales dynamically with increasing availability of computational resources. We achieved a complete integration of the major software suites resulting in the first turn-key workflow encompassing all steps for mass-spectrometry-based metabolomics including preprocessing, multivariate statistics, and metabolite identification. Microservices is a generic methodology that can serve any scientific discipline and opens up for new types of large-scale integrative science."
 issn=""
