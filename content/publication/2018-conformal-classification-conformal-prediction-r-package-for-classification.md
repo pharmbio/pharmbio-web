@@ -1,5 +1,5 @@
 +++
-title = "Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery."
+title = "conformalClassification: A Conformal Prediction R Package for Classification."
 date = 2018-04-17T05:49:00+02:00
 doi = ""
 url_html = "https://arxiv.org/abs/1804.05494"

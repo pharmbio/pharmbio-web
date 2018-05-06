@@ -1,10 +1,10 @@
 +++
 title = "Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery."
-preprint = true
+preprint = false
 date = 2018-04-05T05:49:00+02:00
 doi = ""
 url_html = "https://arxiv.org/abs/1803.11136"
-journal = "arXiv:1803.11136"
+journal = "Accepted for 7th Symposium On Conformal & Probabilistic Prediction With Applications (Copa 2018)"
 author = "Gauraha N, Carlsson L, Spjuth O."
 volume = ""
 number = ""
