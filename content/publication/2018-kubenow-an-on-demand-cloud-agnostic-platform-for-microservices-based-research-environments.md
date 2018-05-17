@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Marco Capuccini, Anders Larsson, Matteo Carone, Jon Ander Novella, Noureddin Sadawi, Jianliang Gao, Salman Toor, Ola Spjuth"
+author="Capuccini M, Larsson A, Carone M, Novella JA, Sadawi N, Gao J, Toor S, Spjuth O"
 title="KubeNow: an On-Demand Cloud-Agnostic Platform for Microservices-Based Research Environments"
 journal="arXiv"
 year="2018"
