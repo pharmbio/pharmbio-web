@@ -620,3 +620,6 @@ a.twitter-share-button {
     font-size: .8em;
     margin-top: 90px;
 }
+.nowrap {
+    white-space: nowrap;
+}

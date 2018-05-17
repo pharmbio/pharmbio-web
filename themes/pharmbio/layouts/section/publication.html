@@ -14,7 +14,14 @@
                         {{ range sort .Data.Pages "Params.year" "desc" }}
                             {{ if .Params.preprint }}
                                 <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
-                                {{ .Params.author }}
+                                {{ $authors := (split .Params.author ", ") }}
+                                {{ range $i, $v := $authors }}
+                                    {{ if lt $i (sub (len $authors) 1) }}
+                                    <span class="nowrap">{{ $v }},</span>
+                                    {{ else }}
+                                    <span class="nowrap">{{ $v }}</span>
+                                    {{ end }}
+                                {{ end }}
                                     <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
                                     {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
                                     {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
@@ -28,8 +35,15 @@
                             {{ range sort .Pages "Params.year" "desc" }}
                                 {{ if not .Params.preprint }}
                                     <div style="padding-bottom: 1em; margin: 1em 0; border-bottom: 1px dotted #ccc;">
-                                    {{ .Params.author }}
-                                        <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                    {{ $authors := (split .Params.author ", ") }}
+                                    {{ range $i, $v := $authors }}
+                                        {{ if lt $i (sub (len $authors) 1) }}
+                                        <span class="nowrap">{{ $v }},</span>
+                                        {{ else }}
+                                        <span class="nowrap">{{ $v }}</span>
+                                        {{ end }}
+                                    {{ end }}
+                                    <br><a href="{{ .RelPermalink }}">{{ .Title }}</a>
                                         {{ if and .Params.journal (not (eq .Params.journal "")) }}<br><em>{{ .Params.journal }}</em>.{{ end}}
                                         {{ if and .Params.volume (not (eq .Params.volume "")) }}<strong>{{ .Params.volume }}</strong>{{ end }}{{ if and .Params.number (not (eq .Params.number "")) }}, {{ .Params.number }}{{ end }}{{ if and .Params.pages (not (eq .Params.pages "")) }}, {{ .Params.pages }}.{{ end }} ({{ .Date.Format "2006" }}).
                                         {{ if and .Params.doi (not (eq .Params.doi "")) }}DOI: <a href="http://dx.doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a>{{ end }}
