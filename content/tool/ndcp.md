@@ -30,7 +30,7 @@ Docker images can be downloaded from:
 |Deploy model     |http://pele.farmbio.uu.se/ndcp/deploy-model.tar.gz|
 |Prediction server|http://pele.farmbio.uu.se/ndcp/ndcp-predict.tar.gz|
 
-The model Docker build a model from a file with molecules (accepts .sdf or tab separated .tsv with SMILES and property).
+The "model Docker" builds a model from a file with molecules (accepts .sdf or tab separated .tsv with SMILES and property).
 
 ### Build and deploy model
 ```
@@ -39,21 +39,21 @@ docker load < deploy-model.tar.gz
 Create a data folder `mkdir <data dir>` and copy SD-file and cpsign-license into the folder.
 Some CPSign specific settings are needed:
 
-|Param                     | Example value  | Description |
-|-|
+|Param                     | Example value  | Description                                 |
+|--------------------------|----------------|---------------------------------------------|
 |--calibration-ratio       |0.20            | Part of training set to use for calibration |
-|--response-name           |activity        | Name of property to model |
-|--labels                  |"A,N"           | Values of property to model |
-|--cptype                  |1               | Specify that we are doing classification |  
-|--nr-models               |1               | Number of models to build |           
-|--model-name              |"TestMod"       | Name of the model that is built |
+|--response-name           |activity        | Name of property to model                   |
+|--labels                  |"A,N"           | Values of property to model                 |
+|--cptype                  |1               | Specify that we are doing classification    |
+|--nr-models               |1               | Number of models to build                   |
+|--model-name              |"TestMod"       | Name of the model that is built             |
 
 These parameters are added at the end when building, see below:
 
 ```
 docker run -d -p 8080:8080 -v <absolute data dir>:/build/source <image name:tag> \
- --calibration-ratio 0.20 --nr-models 1 --labels “A,N” --logfile /build/full.log \
- --cptype 1 --response-name activity --model-name “TestMod”
+ --calibration-ratio 0.20 --nr-models 1 --labels "A,N" --logfile /build/full.log \
+ --cptype 1 --response-name activity --model-name "TestMod"
 ```
 ### Deploy webpage to view aggregation
 ```
