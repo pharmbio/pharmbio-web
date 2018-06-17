@@ -14,8 +14,9 @@ Conference website: [http://www.clrc.rhul.ac.uk/copa2018/](http://www.clrc.rhul.
 
 ![](/img/thumbs/pres-copa2018.png)
 
-The [presentation](http://www.clrc.rhul.ac.uk/copa2018/)
+The [presentation](https://pharmb.io/presentation/2018-copa/)
  is available.
+
 The published proceedings paper is also published:
 
 
