@@ -1,20 +1,24 @@
 +++
-date = "2016-11-01T15:31:37+01:00"
+date = "2018-05-01T15:31:37+01:00"
 description = "Non-Disclosed Conformal Prediction - aggregate models without disclosing the datasets between parties."
 maintenance_status = "inhouse"
 taxonomies = ""
 title = "NDCP"
 url_documentation = ""
 url_github = "https://github.com/pharmbio/nondisc-acp"
-url_publication = ""
+url_publication = "https://arxiv.org/abs/1806.04000"
 url_website = ""
 weight = 0
 +++
 
 # NDCP: Non-Disclosed Conformal Prediction
-Aggregated Conformal Prediction on non-disclosed dataset for ligand-based modeling
 
-This is an implementation of Aggregated Conformal Prediction as described in Carlsson et al 2014 (https://link.springer.com/chapter/10.1007/978-3-662-44722-2_25) but in a distributed setting without disclosing data between the aggregated parties.
+This is an implementation for ligand-based modeling of the method described in:
+
+**Aggregating Predictions on Multiple Non-disclosed Datasets using Conformal Prediction**<br>
+Ola Spjuth, Lars Carlsson, Niharika Gauraha<br>
+[arXiv:1806.04000 [stat.ML]](https://arxiv.org/abs/1806.04000)<br>
+
 
 ## Background
 It is a common objective for different organizations to be able to contribute to improved predictive models, such as in pre-competitive alliances, but there is often problems with sharing internal data between the parties. One example is in the pharmaceutical industry, where predictions on existing data (such as measured assays of various hazard endpoints for chemical compounds) constitute valuable assets and it would be desirable for all companies to have as good predictive models as possible; but sharing data between companies is usually not so easy.
