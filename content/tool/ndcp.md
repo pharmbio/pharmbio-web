@@ -24,9 +24,11 @@ Ola Spjuth, Lars Carlsson, Niharika Gauraha<br>
 It is a common objective for different organizations to be able to contribute to improved predictive models, such as in pre-competitive alliances, but there is often problems with sharing internal data between the parties. One example is in the pharmaceutical industry, where predictions on existing data (such as measured assays of various hazard endpoints for chemical compounds) constitute valuable assets and it would be desirable for all companies to have as good predictive models as possible; but sharing data between companies is usually not so easy.
 
 ## Method
-The idea of the method is that the different parties train an individual model of their local data, and make this available as a web service accepting a SMILES as input, and delivers results in form of p-values (one per each class in the classification case), and a prediction interval (in the regression case). No other information is transferred over the network, making the implementation preserve privacy completely. The results from the contributing parties is then merged as described in Carlsson et al 2014 (https://link.springer.com/chapter/10.1007/978-3-662-44722-2_25) to yield predictions with lower variance and improved efficiency.
+The idea of the method is that the different parties train an individual model of their local data, and make this available as a web service accepting a SMILES as input, and delivers results in form of p-values (one per each class in the classification case), and a prediction interval (in the regression case). No other information is transferred over the network, making the implementation preserve privacy completely. The results from the contributing parties is then merged as described in Spjuth et al 2018 [(https://arxiv.org/abs/1806.04000)](https://arxiv.org/abs/1806.04000) to yield predictions with lower variance and improved efficiency.
 
 ## Usage
+NDCP is available as two docker container images. One docker image ('Deploy model') is deployed on all sites that will serve predictions (without disclosing data); there is no limit to how many different instances that can be deployed. The second docker image ('Prediction server") contains a server that aggregates p-values and makes available a web page that can be used to consume the service.
+
 Docker images can be downloaded from:
 
 |Docker image     |URL                                               |
@@ -66,5 +68,5 @@ docker run -p 8080:8083
 ```
 
 
-## Implementation
-The implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method. A license is required but these are generously provided by GenettaSoft.
+## Ligand-based implementation
+The implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method with SVM and Signatures. A license is required but these are generously provided by [GenettaSoft](http://www.genettasoft.com).
