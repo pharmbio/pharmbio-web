@@ -18,7 +18,7 @@ bacteria. We are also part of the joint SeRC-eSSENCE flagship project
 include the National Genomics Institute (NGI), Uppsala Academic
 Hospital, and Karolinska Institutet.
 
-![](http://uploads.webflow.com/5768239c1f7004325ac735c4/576828bd3a9c9e1015d16a77_443954_3cml-sys.png)
+![](/img/cml-sys.png)
 **Figure:** Screenshot from our developed system for translating
 long-read amplicon sequencing to be used as decision-aid for chronic
 myeloid leukemia (CML) with mutation frequencies in the Philadelphia

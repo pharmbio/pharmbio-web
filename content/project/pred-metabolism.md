@@ -13,6 +13,6 @@ models and also to predict putative metabolites. The work is carried out
 in close collaboration with AstraZeneca R&D and models and tools are
 available from the Bioclipse workbench.
 
-![](http://uploads.webflow.com/5768239c1f7004325ac735c4/576828753a9c9e1015d16a67_443954_3ds-montage.png)
+![](/img/ds-montage.png)
 **Figure:** Prediction of site-of-metabolism with the MetaPrint2D method
 in Bioclipse.

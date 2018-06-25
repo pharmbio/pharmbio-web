@@ -22,7 +22,7 @@ association (www.opentox.org) and associated partner with the consortia
 OpenPhacts (www.openphacts.org) and e-nanomapper
 (http://www.enanomapper.net).
 
-![](http://uploads.webflow.com/5768239c1f7004325ac735c4/576827b931f647c53631451c_443954_3reactive-modeling.png)
+![](/img/reactive-modeling.png)
 <div class="normal-text">
 
 **Figure:** Data is extracted from various data sources, and we use high
