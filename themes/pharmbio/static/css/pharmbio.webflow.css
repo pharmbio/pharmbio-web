@@ -685,3 +685,6 @@ table .table {
 table tr:hover {
   background-color: #ffdddd!important;
 }
+figcaption {
+    text-align: left;
+}
