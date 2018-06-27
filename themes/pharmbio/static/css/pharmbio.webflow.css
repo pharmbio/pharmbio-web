@@ -623,3 +623,13 @@ a.twitter-share-button {
 .nowrap {
     white-space: nowrap;
 }
+.tool-links {
+    float: right;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+    padding: .4em 1.2em;
+    margin-top: 1em;
+}
+.tool-links ul {
+    padding-left: 1.2em;
+}
