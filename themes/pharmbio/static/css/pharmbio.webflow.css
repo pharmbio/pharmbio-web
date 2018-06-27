@@ -632,3 +632,56 @@ a.twitter-share-button {
 .tool-links ul {
     padding-left: 1.2em;
 }
+
+
+/* Table styles from bootstrap */
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin: 1.2em 0;
+}
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+}
+table > thead > tr > th {
+  vertical-align: bottom;
+  text-align: left;
+  background: white;
+  color: #333;
+  font-weight: normal;
+
+  border-top: 2px solid #333!important;
+  border-bottom: 1px solid #333;
+}
+table > caption + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+table > tbody + tbody {
+  border-top: 2px solid #ddd;
+}
+table > tbody {
+  border-bottom: 2px solid #333;
+}
+table .table {
+  background-color: #fff;
+}
+
+/* table tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+} */
+table tr:hover {
+  background-color: #ffdddd!important;
+}
