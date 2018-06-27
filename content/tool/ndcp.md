@@ -49,12 +49,12 @@ Some CPSign specific settings are needed:
 
 |Param                     | Example value  | Description                                 |
 |--------------------------|----------------|---------------------------------------------|
-|--calibration-ratio       |0.20            | Part of training set to use for calibration |
-|--response-name           |activity        | Name of property to model                   |
-|--labels                  |"A,N"           | Values of property to model                 |
-|--cptype                  |1               | Specify that we are doing classification    |
-|--nr-models               |1               | Number of models to build                   |
-|--model-name              |"TestMod"       | Name of the model that is built             |
+|`--calibration-ratio`     |`0.20`          | Part of training set to use for calibration |
+|`--response-name`         |`activity`      | Name of property to model                   |
+|`--labels`                |`"A,N"`         | Values of property to model                 |
+|`--cptype`                |`1`             | Specify that we are doing classification    |
+|`--nr-models`             |`1`             | Number of models to build                   |
+|`--model-name`            |`"TestMod"`     | Name of the model that is built             |
 
 These parameters are added at the end when building, see below:
 
