@@ -73,6 +73,7 @@ docker run -p 8080:8083
 ## Ligand-based implementation
 The implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method with SVM and Signatures. A license is required but these are generously provided by [GenettaSoft](http://www.genettasoft.com).
 
-<img src="/img/tool/ndcp/UU_logo.png" height="190">
-<img src="/img/tool/ndcp/az-logo.png" height="140">
-<img src="/img/tool/ndcp/genetta-logo.jpg" height="100">
+<img src="/img/tool/ndcp/UU_logo.png" height="160">
+<img src="/img/tool/ndcp/az-logo.png" height="100">
+<img src="/img/tool/ndcp/genetta-logo.jpg" height="75">
+<img src="/img/tool/ndcp/royal_holloway_logo.jpg" height="85">
