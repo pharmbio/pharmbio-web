@@ -69,6 +69,11 @@ docker load < ndcp-predict.tar.gz
 docker run -p 8080:8083
 ```
 
+## Running example
+A running example is deployed at http://ndcp.service.pharmb.io 
+
+{{< figure src="/img/tool/ndcp/ndcp.png" caption="Figure 2: Example of a running deployment of NDCP.">}}
+
 
 ## Ligand-based implementation
 The implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method with SVM and Signatures. A license is required but these are generously provided by [GenettaSoft](http://www.genettasoft.com).
