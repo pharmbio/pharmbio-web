@@ -3,7 +3,7 @@ title = "Upcoming Dissertation: Reproducible Data Analysis in Drug Discovery wit
 description = "TBC"
 date = "2018-08-29T15:00:00+01:00"
 taxonomies = "blogging"
-teaser_image = "/img/samlthesis/workflow-only.png"
+teaser_image = "/img/people/samuel.jpg"
 +++
 
 On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesis, titled:<br>_"Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"_.
@@ -61,5 +61,9 @@ methodology of computational science, in particular concerning
 reproducibility. More information is available on [Dr. Hinsen's personal
 website](http://khinsen.net/).
 
-Dr. Hinsen will also hold a presentation on September 27, 14:00-15:00 in the Triple room at SciLifeLab, BMC, with the title: "Building trust in computational science:  fromreproducible to verifiable computer-aided research". The seminar is open for all to attend.  No pre-registration needed.
+Dr. Hinsen will also hold a presentation on September 27, 14:00-15:00 in the
+Triple room at SciLifeLab, BMC, with the title: *"[Building Trust in
+Computational Science: From Reproducible to Verifiable Computer-aided
+Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more
+&raquo;](/blog/khinsen-pres-2018/)
 
