@@ -3,6 +3,7 @@ title = "Upcoming Dissertation: Reproducible Data Analysis in Drug Discovery wit
 description = "TBC"
 date = "2018-08-29T15:00:00+01:00"
 taxonomies = "blogging"
+teaser_image = "/img/samlthesis/workflow-only.png"
 +++
 
 On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesis, titled:<br>_"Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"_.
