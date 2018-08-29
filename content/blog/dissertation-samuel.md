@@ -6,6 +6,7 @@ taxonomies = "blogging"
 teaser_image = "/img/people/samuel.jpg"
 +++
 
+<img style="float: right; width: 110px;" src="/img/people/samuel.jpg">
 On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesis, titled:<br>_"Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"_.
 
 ## Time and Location
