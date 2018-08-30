@@ -11,7 +11,7 @@ On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesi
 
 Supervisor: [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
 
-Co-supervisor: Prof. Roland Grafström, Karolinska Institutet
+Co-supervisor: [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
 
 ## Time and Location
 
