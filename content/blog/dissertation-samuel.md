@@ -66,7 +66,7 @@ methodology of computational science, in particular concerning
 reproducibility. More information is available on [Dr. Hinsen's personal
 website](http://khinsen.net/).
 
-Dr. Hinsen will also hold a presentation on September 27, 14:00-15:00 in the
+Dr. Hinsen will also hold a presentation on September 27, 15:00-16:00 in the
 Triple room at SciLifeLab, BMC, with the title: *"[Building Trust in
 Computational Science: From Reproducible to Verifiable Computer-aided
 Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more

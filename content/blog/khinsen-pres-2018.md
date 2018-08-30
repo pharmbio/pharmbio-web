@@ -10,7 +10,7 @@ teaser_image = "/img/samlthesis/khinsen.img"
 
 ## Time and Location
 
-- **Date:** September 27, 2018, 14.00-15.00
+- **Date:** September 27, 2018, 15.00-16.00 (Attn: Time updated!)
 - **Location:** [Triple room (click for map)](http://bit.ly/2POcJVK),
 SciLifeLab, Biomedical Center (BMC), Husargatan 3, Uppsala
 - **Registration:** The seminar is open for all to attend.  No pre-registration needed
@@ -33,7 +33,7 @@ Host:  Ola Spjuth (ola.spjuth@farmbio.uu.se)
 
 ## About the speaker
 
-Dr. [Konrad Hinsen](http://khinsen.net/), is a
+[Dr. Konrad Hinsen](http://khinsen.net/), is a
 researcher at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique),
 working at the [Centre de Biophysique
 Moléculaire](http://cbm.cnrs-orleans.fr/) in Orléans and as an associate
