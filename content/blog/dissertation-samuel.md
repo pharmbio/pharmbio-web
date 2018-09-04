@@ -72,3 +72,8 @@ Computational Science: From Reproducible to Verifiable Computer-aided
 Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more
 &raquo;](/blog/khinsen-pres-2018/)
 
+
+## Official information and full-text
+
+For official information at the Uppsala University website, including full-text
+where applicable, see [this link](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1242336&dswid=-9910).
