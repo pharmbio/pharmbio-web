@@ -7,21 +7,20 @@ teaser_image = "/img/people/samuel.jpg"
 +++
 
 <img style="float: right; width: 110px;" src="/img/people/samuel.jpg">
-On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesis, titled:<br>_"Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"_.
+On September 28, [Samuel Lampa](/people/saml) from the group will defend his thesis, titled:<br>
+_"[Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-358353)"_
 
-- Supervisor: [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
-- Co-supervisor: [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
+- **Supervisor:** [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
+- **Co-supervisor:** [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
 
-## Time and Location
+## Time and location
 
-- **Time:** September 28, 2018, 13:00
+- **Time:** September 28, 2018, 13:00 CET
 - **Location:** Room B22, Biomedical Center (BMC), Husargatan 3, Uppsala, Sweden<br>[See a map of the room's location](http://bit.ly/2BTtYlz) (Disregard the labels in this map)
 
 ## Abstract
 
-The Abstract for the thesis is:
-
-> The pharmaceutical industry is facing a research and development
+The pharmaceutical industry is facing a research and development
 productivity crisis. At the same time we have access to more biological data
 than ever from recent advancements in high-throughput experimental methods.
 One suggested explanation for this apparent paradox has been that a crisis in
@@ -49,6 +48,8 @@ that the developed tools and approaches will contribute towards practical,
 reproducible and understandable handling of data and computations in early
 drug discovery.
 
+- [Fulltext is available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-358353)
+
 ## Opponent
 
 ![Dr. Konrad Hinsen](/img/samlthesis/khinsen.img)
@@ -70,9 +71,3 @@ Triple room at SciLifeLab, BMC, with the title: *"[Building Trust in
 Computational Science: From Reproducible to Verifiable Computer-aided
 Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more
 &raquo;](/blog/khinsen-pres-2018/)
-
-
-## Official information and full-text
-
-For official information at the Uppsala University website, including full-text
-where applicable, see [this link](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1242336&dswid=-9910).
