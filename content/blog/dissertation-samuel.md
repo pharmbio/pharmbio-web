@@ -9,9 +9,8 @@ teaser_image = "/img/people/samuel.jpg"
 <img style="float: right; width: 110px;" src="/img/people/samuel.jpg">
 On September 28, [Samuel Lampa](/people/saml) in the group will defend his thesis, titled:<br>_"Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"_.
 
-Supervisor: [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
-
-Co-supervisor: [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
+- Supervisor: [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
+- Co-supervisor: [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
 
 ## Time and Location
 
