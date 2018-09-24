@@ -71,3 +71,12 @@ Triple room at SciLifeLab, BMC, with the title: *"[Building Trust in
 Computational Science: From Reproducible to Verifiable Computer-aided
 Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more
 &raquo;](/blog/khinsen-pres-2018/)
+
+## Review committee
+
+- [Dr. Pär Matsson](https://scholar.google.se/citations?user=urzJKsoAAAAJ&hl=en), Department of Pharmacy, Uppsala University. (Chair of the thesis ceremony.)
+- [Dr. Carl Nettelblad](https://katalog.uu.se/profile/?id=N6-1341), Department of Information Technology, Uppsala University
+- [Dr. Manfred Grabherr](https://www.imbim.uu.se/research-groups/genetics-and-genomics/Grabherr_Manfred/), Department of Medical Biochemistry and Microbiology, Uppsala University
+- [Dr. Mikael Huss](https://followthedata.wordpress.com/), Peltarion and Department of Learning, Informatics, Management and Ethics, Karolinska Institutet
+
+
