@@ -1,10 +1,12 @@
 +++
-title = "Dr. Konrad Hinsen presenting on \"Building trust in Computational Science: From Reproducible to Verifiable Computer-aided Research\""
+title = "CANCELLED: Dr. Konrad Hinsen presenting on \"Building trust in Computational Science: From Reproducible to Verifiable Computer-aided Research\""
 description = ""
 date = "2018-08-29T15:30:00+01:00"
 taxonomies = "blogging"
 teaser_image = "/img/samlthesis/khinsen.img"
 +++
+
+## Updated Sep 25: This event is cancelled due to scheduling obstacles!
 
 ![Dr. Konrad Hinsen](/img/samlthesis/khinsen.img)
 
