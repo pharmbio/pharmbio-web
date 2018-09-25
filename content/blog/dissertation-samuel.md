@@ -52,25 +52,7 @@ drug discovery.
 
 ## Opponent
 
-![Dr. Konrad Hinsen](/img/samlthesis/khinsen.img)
-
-As opponent, we are pleased to invite Dr. [Konrad Hinsen](http://khinsen.net/), who is a
-researcher at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique),
-working at the [Centre de Biophysique
-Moléculaire](http://cbm.cnrs-orleans.fr/) in Orléans and as an associate
-researcher at the [Synchrotron SOLEIL](http://www.synchrotron-soleil.fr/).
-
-Dr. Hinsen's primary research interests are the structure and dynamics of
-proteins, using molecular simulation and statistical physics, and the
-methodology of computational science, in particular concerning
-reproducibility. More information is available on [Dr. Hinsen's personal
-website](http://khinsen.net/).
-
-Dr. Hinsen will also hold a presentation on September 27, 15:00-16:00 in the
-Triple room at SciLifeLab, BMC, with the title: *"[Building Trust in
-Computational Science: From Reproducible to Verifiable Computer-aided
-Research](/blog/khinsen-pres-2018/)"*. The seminar is open for all to attend. [Read more
-&raquo;](/blog/khinsen-pres-2018/)
+The primary opponent has gotten scheduling obstacles, and a new opponent is currently being assigned.
 
 ## Review committee
 
