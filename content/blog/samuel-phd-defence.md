@@ -3,7 +3,7 @@ title = "Samuel Lampa successfully defended his PhD thesis: Reproducible Data An
 description = "TBC"
 date = "2018-09-29T15:00:00+01:00"
 taxonomies = "blogging"
-teaser_image = "/img/people/samuel.jpg"
+teaser_image = "/img/samlthesis/thesis-teaser.png"
 +++
 
 <img style="float: right; width: 110px;" src="/img/people/samuel.jpg">
