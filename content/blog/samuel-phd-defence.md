@@ -1,7 +1,7 @@
 +++
 title = "Samuel Lampa successfully defended his PhD thesis: Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"
 description = "TBC"
-date = "2018-09-29T15:00:00+01:00"
+date = "2018-09-28T15:00:00+01:00"
 taxonomies = "blogging"
 teaser_image = "/img/samlthesis/thesis-teaser.png"
 +++
