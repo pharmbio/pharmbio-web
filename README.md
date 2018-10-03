@@ -4,6 +4,11 @@
 
 The Static ([Hugo](https://gohugo.io)) website for [pharmb.io](https://pharmb.io).
 
+## Local development
+```bash
+hugo server
+``` 
+
 ## Automated publishing
 
 When making changes please follow these steps:
