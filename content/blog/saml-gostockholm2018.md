@@ -18,6 +18,8 @@ developed in the group based on these principles:
 - [rdf2smw](https://github.com/rdfio/rdf2smw) - Data conversion tool developed with FlowBase
 - [SciPipe](/tool/scipipe/) - Workflow library developed with Flow-based programming principles
 
+The talk was recorded, and should show up on YouTube later (this post will be updated).
+
 ## Description of the event
 
 [Go Stockholm conference 2018](https://www.eventbrite.com/e/go-stockholm-conference-tickets-49325007425#) is the first full-day conference organized by the
