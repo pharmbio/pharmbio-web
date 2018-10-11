@@ -34,3 +34,7 @@ wholly dedicated to data science.
 **Takeaways:** How scientific software development can be made more flexible, robust and maintainable, by building on the component-oriented principles of Flow-based programming.
 
 ![Samuel presenting](/img/saml_gosthlm_pres.jpg)
+
+## Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/85S7KVajIjdaoN" width="100%" height="565" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SamuelLampa/using-flowbased-programming-to-write-tools-and-workflows-for-scientific-computing-in-go" title="Using Flow-based programming to write tools and workflows for Scientific Computing in Go" target="_blank">Using Flow-based programming to write tools and workflows for Scientific Computing in Go</a> </strong> from <strong><a href="https://www.slideshare.net/SamuelLampa" target="_blank">Samuel Lampa</a></strong> </div>
