@@ -7,7 +7,7 @@ teaser_image = "/img/saml_gosthlm_pres_thumb.jpg"
 +++
 
 [Samuel Lampa](https://pharmb.io/people/saml/) presented on the [Go Stockholm 2018 conference](https://eventbrite.com/e/go-stockholm-conference-tickets-49325007425),
-on the topic of "[Using Flow-based programming to write tools and workflows for Scientific Computing in Go](https://pharmb.io/presentation/2018-flowbased-for-science-in-golang/)".
+on the topic of "[Using Flow-based programming to write tools and workflows for Scientific Computing in Go](https://pharmb.io/presentation/2018-flowbased-for-science-in-golang/)" (Slides available in the link).
 
 The talk described first some findings from our research on how [Flow-based
 programming](https://en.wikipedia.org/wiki/Flow-based_programming) can be used
