@@ -1,12 +1,12 @@
 +++
 title = "Evaluating parameters for ligand-based modeling with random forest on sparse data sets"
 date = 2018-10-01T15:49:00+02:00
-doi = ""
+doi = "10.1186/s13321-018-0304-9"
 url_html = ""
 journal = "Journal of Cheminformatics"
 author = "Kensert A, Alvarsson J, Norinder U, Spjuth O."
-volume = "Accepted"
-number = ""
+volume = "10"
+number = "49"
 art_number = ""
 year = "2018"
 keywords = "random forest, support vector machines, sparse representation, fingerprint, machine learning"
