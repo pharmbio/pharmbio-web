@@ -2,7 +2,7 @@ branches:
   only:
     - master
 
-before-install:
+before_install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_0.49.2_Linux-64bit.deb
   - sudo dpkg -i hugo_0.49.2_Linux-64bit.deb
 before_script:
