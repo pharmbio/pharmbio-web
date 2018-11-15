@@ -1,7 +1,7 @@
 +++
 title = "Successful FORMAS grant proposal: Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory"
 description = "TBC"
-date = "2018-11-15T15:10:00+01:00"
+date = "2018-11-15T13:00:00+01:00"
 taxonomies = "blogging"
 teaser_image = "/img/thumbs/formas.png"
 +++
