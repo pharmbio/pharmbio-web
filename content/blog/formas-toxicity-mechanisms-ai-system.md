@@ -1,66 +1,37 @@
 +++
-title = "Samuel Lampa successfully defended his PhD thesis: Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web"
+title = "Successful FORMAS grant proposal: Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory"
 description = "TBC"
-date = "2018-09-28T15:00:00+01:00"
+date = "2018-11-15T15:00:00+01:00"
 taxonomies = "blogging"
-teaser_image = "/img/samlthesis/thesis-teaser.png"
+teaser_image = "/img/thumbs/formas.png"
 +++
 
-<img style="float: right; width: 110px;" src="/img/people/samuel.jpg">
-Today, [Samuel Lampa](/people/saml) from the group successfully defended his thesis, titled:<br>
-_"[Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-358353)"_
+<img style="float: right; src="/img/thumbs/formas.png">
 
-CONGRATULATIONS SAMUEL!
+Group leader [Ola Spjuth](/people/olas) received a grant from the **FORMAS Formas Future Research Leaders** call in 2018.
 
-
-<img src="/img/samlthesis/thesis-defence.jpg">
+**Project title:** "Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory".
 
 
+## Summary
 
-- **Supervisor:** [Assoc Prof. Ola Spjuth](/people/olas), Uppsala University
-- **Co-supervisor:** [Prof. Roland Grafström](https://ki.se/people/rolgra), Karolinska Institutet
+As the number of potential harmful substances grows and the environmental load of many among those increases, there is an urgent need to accelerate the process to study and evaluate the potential toxic effects to humans. Current in vitro approaches for studying toxicity mechanisms and pathways are costly and have long iteration cycles because of manual lab operations and disconnected data analysis. 
 
+_The purpose of this project is to improve studies of toxicity mechanisms and pathways for environmental contaminants with intelligent data generation, using an automated cell lab controlled by an AI system._
 
-## Thesis abstract
+To this end, we will build and optimize a fully automated, robotized cell profiling laboratory with high-content imaging and develop the AI system and associated informatics infrastructure. 
+The system will design and carry out experiments iteratively and learn with each iteration, and allow us to generate and collect the right data at the right time to answer specific questions related to toxicity. This constitutes a shift from traditional batch-oriented data generation followed by retrospective analysis, to intelligent design of experiments in an online setting in real time where scientific hypotheses are continuously tested and revised as new data is collected. The automated system will be supported by human operations for carrying out experiment with supportive or orthogonal methods, guided by the AI system.
 
-The pharmaceutical industry is facing a research and development
-productivity crisis. At the same time we have access to more biological data
-than ever from recent advancements in high-throughput experimental methods.
-One suggested explanation for this apparent paradox has been that a crisis in
-reproducibility has affected also the reliability of datasets providing the
-basis for drug development. Advanced computing infrastructures can to some
-extent aid in this situation but also come with their own challenges,
-including increased technical debt and opaqueness from the many layers of
-technology required to perform computations and manage data. In this thesis,
-a number of approaches and methods for dealing with data and computations in
-early drug discovery in a reproducible way are developed. This has been done
-while striving for a high level of simplicity in their implementations, to
-improve understandability of the research done using them. Based on
-identified problems with existing tools, two workflow tools have been
-developed with the aim to make writing complex workflows particularly in
-predictive modelling more agile and flexible. One of the tools is based on
-the Luigi workflow framework, while the other is written from scratch in the
-Go language. We have applied these tools on predictive modelling problems in
-early drug discovery to create reproducible workflows for building predictive
-models, including for prediction of off-target binding in drug discovery. We
-have also developed a set of practical tools for working with linked data in
-a collaborative way, and publishing large-scale datasets in a semantic,
-machine-readable format on the web. These tools were applied on demonstrator
-use cases, and used for publishing large-scale chemical data. It is our hope
-that the developed tools and approaches will contribute towards practical,
-reproducible and understandable handling of data and computations in early
-drug discovery.
+The specific aims are:
 
-- [Fulltext is available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-358353)
+- _Aim 1: Automate laboration and data collection_. We will configure a fully automated lab with high-content microscopy imaging, and optimize protocols with respect to speed, costs, robustness and predictiveness. We will establish the supporting large-scale IT-infrastructure capable of managing and analyzing the collected large-scale data in real time. We will explore the synergistic collaboration between the automated lab and human operations.
 
-## Faculty Opponent
+- _Aim 2: Continuously test hypotheses and design follow-up experiments using AI._ 
+We will develop an AI system capable of testing hypotheses, intelligently designing follow-up experiments, controlling the automated lab to carry out experiments, guiding lab technicians, and learn on each iteration and revise hypotheses. We will use this system to test different hypotheses on mechanisms for environmental contaminants, and over time accumulate a valuable knowledge base.
 
-- [Dr. Carl Nettelblad](https://katalog.uu.se/profile/?id=N6-1341), Department of Information Technology, Uppsala University
-
-## Examination committee
-
-- [Dr. Pär Matsson](https://scholar.google.se/citations?user=urzJKsoAAAAJ&hl=en), Department of Pharmacy, Uppsala University. (Chair of the thesis ceremony.)
-- [Dr. Manfred Grabherr](https://www.imbim.uu.se/research-groups/genetics-and-genomics/Grabherr_Manfred/), Department of Medical Biochemistry and Microbiology, Uppsala University
-- [Dr. Mikael Huss](https://followthedata.wordpress.com/), Peltarion and Department of Learning, Informatics, Management and Ethics, Karolinska Institutet
+- _Aim 3: Generate new hypotheses on toxicity mechanisms and pathways._ When no acceptable hypotheses are available, we will in the automated system attempt to generate new hypotheses. These will then be tested by the AI within the automated lab, or carried out externally to the system, and will shed new light on the toxicity of environmental contaminants.
 
 
+<img width: 5000px;" src="/img/grants/formas-workflow.png">
+
+Figure: Overview of the iterative, AI-controlled process. Based on a scientific question or hypothesis to test, the AI makes predictions on existing data (external data integrated with in-house data) and designs new experiments to improve the hypothesis testing. New data is obtained, models are improved, and the process is iterated until desired confidence reached or termination criteria fulfilled. Complementing the system is human-controlled confirmatory or exploratory experiments. The produced images, data and models will all be made available online.
