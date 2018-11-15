@@ -8,12 +8,10 @@ teaser_image = "/img/thumbs/formas.png"
 
 <img style="float: right; src="/img/thumbs/formas.png">
 
-Group leader [Ola Spjuth](/people/olas) received a grant from the **FORMAS Formas Future Research Leaders** call in 2018.
+Group leader [Ola Spjuth](/people/olas) received a 3 MSEK grant from the **FORMAS Future Research Leaders** call in 2018, for a project with the title:
 
-**Project title:** "Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory".
+### _Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory_
 
-
-## Summary
 
 As the number of potential harmful substances grows and the environmental load of many among those increases, there is an urgent need to accelerate the process to study and evaluate the potential toxic effects to humans. Current in vitro approaches for studying toxicity mechanisms and pathways are costly and have long iteration cycles because of manual lab operations and disconnected data analysis. 
 
@@ -32,6 +30,6 @@ We will develop an AI system capable of testing hypotheses, intelligently design
 - _Aim 3: Generate new hypotheses on toxicity mechanisms and pathways._ When no acceptable hypotheses are available, we will in the automated system attempt to generate new hypotheses. These will then be tested by the AI within the automated lab, or carried out externally to the system, and will shed new light on the toxicity of environmental contaminants.
 
 
-<img width: 5000px;" src="/img/grants/formas-workflow.png">
+<img style="display:block; margin-left: auto; margin-right: auto; width: 600px;" src="/img/grants/formas-workflow.png">
 
 Figure: Overview of the iterative, AI-controlled process. Based on a scientific question or hypothesis to test, the AI makes predictions on existing data (external data integrated with in-house data) and designs new experiments to improve the hypothesis testing. New data is obtained, models are improved, and the process is iterated until desired confidence reached or termination criteria fulfilled. Complementing the system is human-controlled confirmatory or exploratory experiments. The produced images, data and models will all be made available online.
