@@ -20,6 +20,6 @@ url_uuprofile = "http://www.it.uu.se/katalog/marca157"
 linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
-weight = 0
+weight = 1
 +++
 

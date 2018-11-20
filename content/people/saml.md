@@ -20,6 +20,6 @@ url_homepage = ""
 url_uuprofile = "http://katalog.uu.se/empinfo/?id=N9-463"
 url_mendeley = "https://www.mendeley.com/profiles/samuel-lampa/"
 url_researchgate = "https://www.researchgate.net/profile/Samuel_Lampa"
-weight = 0
+weight = 1
 +++
 

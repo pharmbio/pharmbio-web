@@ -19,6 +19,6 @@ url_uuprofile = ""
 linkedin = "paschalisathanasiadis"
 url_mendeley = ""
 url_researchgate = ""
-weight = -40
+weight = 10
 +++
 

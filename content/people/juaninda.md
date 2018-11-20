@@ -20,7 +20,7 @@ url_uuprofile = ""
 linkedin = "www.linkedin.com/in/juan-inda-19ab4263 " 
 url_mendeley = "" 
 url_researchgate = "" 
-weight = 0 
+weight = 1 
 start_year = 2017
 end_year = 2018
 +++

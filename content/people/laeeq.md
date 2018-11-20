@@ -20,6 +20,6 @@ url_uuprofile = ""
 linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
-weight = 0
+weight = 1
 +++
 

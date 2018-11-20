@@ -1,7 +1,7 @@
 +++
 date = "2017-12-05T14:20:56+02:00"
 email = "philip.harrison@farmbio.uu.se"
-weight = 0
+weight = 1
 firstname = "Phil"
 initials = ""
 job_title = "PhD Student"
