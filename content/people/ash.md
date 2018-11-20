@@ -1,7 +1,7 @@
 +++
 date = ""
 email = "Aishvarya.Tandon.2652@student.uu.se"
-weight = 1
+weight = 5
 firstname = "Aishvarya"
 initials = ""
 job_title = "Master Student"
