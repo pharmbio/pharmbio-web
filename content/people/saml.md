@@ -21,5 +21,7 @@ url_uuprofile = "http://katalog.uu.se/empinfo/?id=N9-463"
 url_mendeley = "https://www.mendeley.com/profiles/samuel-lampa/"
 url_researchgate = "https://www.researchgate.net/profile/Samuel_Lampa"
 weight = 1
+start_year = 2014
+end_year = 2018
 +++
 
