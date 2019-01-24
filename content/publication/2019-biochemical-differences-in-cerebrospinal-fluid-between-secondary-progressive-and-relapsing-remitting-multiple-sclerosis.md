@@ -1,13 +1,13 @@
 +++
 title = "Biochemical differences in cerebrospinal fluid between secondary progressive and relapsing-remitting multiple sclerosis"
 date = 2019-01-22T05:49:00+02:00
-doi = ""
+doi = "10.3390/cells8020084"
 url_html = ""
 journal = "Cells"
 author = "Herman S, Åkerfeldt T, Spjuth O, Burman J, Kultima K"
-volume = "Accepted"
-number = ""
-pages =""
+volume = "8"
+number = "2"
+pages ="84"
 art_number = ""
 year = "2019"
 keywords = "multiple sclerosis, cerebrospinal fluid, metabolomics, mass spectrometry, tryptophan, pyrimidine"
