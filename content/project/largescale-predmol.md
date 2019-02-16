@@ -10,23 +10,15 @@ predictive models to aid the drug discovery process on large data sets.
 Methods include ligand-based and structure-based methods such as QSAR
 (machine learning) and docking, with applications including prediction
 of drug safety, toxicology, interactions, target profiles and secondary
-pharmacology. In order to analyze large-scale data we use
-high-performance computing, cloud computing resources, and data
-analytics platforms such as Apache Hadoop and Apache Spark. We also use
-and develop scientific workflow systems such as Luigi and BPipe to
-automate and streamline analysis. The work is carried out in
-collaboration with AstraZeneca R&D, Maastricht University NL, and
-Karolinska Institutet. We aim at making models and tools available from
-the Bioclipse workbench. We are also founding partners of the OpenTox
-association (www.opentox.org) and associated partner with the consortia
-OpenPhacts (www.openphacts.org) and e-nanomapper
-(http://www.enanomapper.net).
+pharmacology. In order to analyze large-scale data we make use of modern e-infrastructure such as high-performance computing clusters, cloud computing resources, containerized microservice environments such as Kubernetes, and data analytics platforms such as Apache Spark.
 
 ![](/img/reactive-modeling.png)
-<div class="normal-text">
 
 **Figure:** Data is extracted from various data sources, and we use high
 performance computing, cloud computing, workflows and big data
-frameworks to train predictive models which are published in the
-Bioclipse workbench for easy and user-friendly access with graphical
-interpretations.
+frameworks to train predictive models which are deployed and served in microservice-environments via interoperable APIs and easy-to-use GUIs.
+
+We also use and develop scientific workflow systems such as ScLuigi, SciPipe, and Pachyderm to automate and streamline analysis. The work is carried out in
+collaboration with AstraZeneca R&D and SweTox. We are strong promotors of open science and try to publish all data and models online.
+
+
