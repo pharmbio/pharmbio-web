@@ -1,5 +1,5 @@
 +++
-author = "Spjuth O"
+author = "Williams AJ, Ekins S, Spjuth O, Willighagen EL"
 doi = "10.1007/978-1-62703-050-2_10"
 year = "2012"
 date = "2012-08-22"
