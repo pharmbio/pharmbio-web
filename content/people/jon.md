@@ -13,4 +13,6 @@ long_bio = "With a background in Computer Engineering and Bioinformatics, Jon An
 research_interests = ["data engineering", "e-infrastructures", "decision support systems", "medical informatics", "mobile applications", "microservices"]
 url_uuprofile = "http://katalog.uu.se/empinfo?id=N17-71"
 weight = 1
+start_year = 2017
+end_year = 2018
 +++
