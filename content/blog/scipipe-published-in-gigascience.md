@@ -3,10 +3,10 @@ title = "SciPipe workflow tool published in GigaScience and CiSe"
 description = "TBC"
 date = "2019-05-25T01:14:00+01:00"
 taxonomies = "blogging"
-teaser_image = "/img/scipipe-wf.png"
+teaser_image = "/img/scipipe-gigascience.png"
 +++
 
-<a href="https://academic.oup.com/gigascience/pages/in_the_news" target="_blank"><img src="/img/scipipe-most-read.png" style="float: right; width: 300px; margin-top: 0;"/></a>
+<a href="https://pharmb.io/publication/2019-scipipe/" target="_blank"><img src="/img/scipipe-gigascience.png" style="float: right; width: 300px; margin-top: 0;"/></a>
 
 A few weeks ago the workflow tool we have developed and used in the group,
 [SciPipe](https://pharmb.io/tool/scipipe/), [was published in Gigascience](https://pharmb.io/publication/2019-scipipe/).
@@ -29,6 +29,8 @@ milestone in the SciPipe project. It thus seems like a good time to provide a
 small recap of the project's focus and a look into the future.
 
 ## A focus on simplicity, supporting complexity
+
+<a href="https://academic.oup.com/gigascience/pages/in_the_news" target="_blank"><img src="/img/scipipe-most-read.png" style="float: right; width: 300px; margin-top: 0;"/></a>
 
 SciPipe has taken a rather different direction than many other contemporary
 workflow tools and libraries. Rather than building a lot of new technology,
