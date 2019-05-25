@@ -6,7 +6,7 @@ taxonomies = "blogging"
 teaser_image = "/img/scipipe-gigascience.png"
 +++
 
-<a href="https://pharmb.io/publication/2019-scipipe/" target="_blank"><img src="/img/scipipe-gigascience.png" style="float: right; width: 300px; margin-top: 0;"/></a>
+<a href="https://pharmb.io/publication/2019-scipipe/" target="_blank"><img src="/img/scipipe-gigascience.png" style="float: right; width: 37%; margin: 0 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
 
 A few weeks ago the workflow tool we have developed and used in the group,
 [SciPipe](https://pharmb.io/tool/scipipe/), [was published in Gigascience](https://pharmb.io/publication/2019-scipipe/).
@@ -30,7 +30,7 @@ small recap of the project's focus and a look into the future.
 
 ## A focus on simplicity, supporting complexity
 
-<a href="https://academic.oup.com/gigascience/pages/in_the_news" target="_blank"><img src="/img/scipipe-most-read.png" style="float: right; width: 300px; margin-top: 0;"/></a>
+<a href="https://academic.oup.com/gigascience/pages/in_the_news" target="_blank"><img src="/img/scipipe-most-read.png" style="float: right; width: 37%; margin: 1em 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
 
 SciPipe has taken a rather different direction than many other contemporary
 workflow tools and libraries. Rather than building a lot of new technology,
