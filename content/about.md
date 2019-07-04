@@ -30,6 +30,8 @@ Funding and sponsors
 <a class="affiliate-logo" href="http://stratresearch.se" target="_blank"><img alt="SSF" src="/img/logo_ssf_color.png"></a>
 <a class="affiliate-logo" href="https://www.citynetworkhosting.com" target="_blank"><img alt="City Network" src="/img/logo-citynetwork.png"></a>
 <a class="affiliate-logo" href="https://www.astrazeneca.com" target="_blank"><img alt="AstraZeneca" src="/img/logo_az_color.png"></a>
+<a class="affiliate-logo" href="https://formas.se/" target="_blank"><img alt="FORMAS" src="/img/logo_formas_color.png"></a>
+<a class="affiliate-logo" href="https://elixir-europe.org/" target="_blank"><img alt="ELIXIR" src="/img/logo_elixir.png"></a>
 <div class="clearfix"></div>
 
 Involvements
@@ -39,4 +41,7 @@ Involvements
 <a class="affiliate-logo" href="http://www.cost.eu/COST_Actions/bmbs/BM1006" target="_blank"><img alt="COST Action SeqAhead" src="/img/logo_seqahead.png"></a>
 <a class="affiliate-logo" href="http://opentox.net" target="_blank"><img alt="OpenTox" src="/img/logo_opentox.png"></a>
 <a class="affiliate-logo" href="http://www.openphacts.org" target="_blank"><img alt="OpenPhacts" src="/img/logo_openphacts.png"></a>
+
+<a class="affiliate-logo" href="http://https://openrisknet.org/" target="_blank"><img alt="OpenRiskNet" src="/img/logo_openrisknet.png"></a>
+<a class="affiliate-logo" href="http://phenomenal-h2020.eu" target="_blank"><img alt="PhenoMeNal" src="/img/phenomenal-logo.png"></a>
 
