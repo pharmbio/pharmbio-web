@@ -7,6 +7,6 @@ venue = "Uppsala University Faculty of Pharmacy 50th Anniversary"
 venue_url = ""
 city = "Uppsala"
 year = "2018"
-date = ""
+date = "2018-10-26"
 author = ["Alexander Kensert", "Philip J Harrison", "Ola Spjuth"]
 +++
