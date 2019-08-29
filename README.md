@@ -14,12 +14,31 @@ hugo server
 When making changes please follow these steps:
 
  1. Clone this repo
- 2. Make your edits
- 3. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
- 4. Create a Pull Request (PR) from the new branch towards the master branch
- 5. Check that the PR build status is passed (green)
- 6. Merge the PR
- 7. Done!
+ 
+    ```bash
+    git clone git@github.com:pharmbio/pharmbio-web.git
+    ```
+    or if you already have a clone of this repo
+    ```bash
+    git checkout master
+    git pull
+    ```
+ 2. Create a new branch with your name and what you are changing `name/topic-of-change`
+ 
+    ```bash
+    git checkout -b kalle/update-my-profile
+    ```
+ 3. Make your edits
+ 4. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
+ 
+    ```bash
+    git push -u origin kalle/update-my-profile
+    ```
+ 5. Create a Pull Request (PR) on GitHub and select `base:master <- compare:kalle/update-my-profile`
+ 6. Check that the PR build status is passed (green)
+    If not got to step 3 and repeate
+ 7. Ask for it to be merged (goglepox, jonalv, olas)
+ 8. Done!
 
 Note that you are supposed to work with this repository only. Don't fork the
 repo, as the encryption stuff in the travis build will not work then.
