@@ -6,7 +6,7 @@ taxonomies = "blogging"
 teaser_image = "/img/thumbs/copa-pmlr-thumb.png"
 +++
 
-<a href="http://localhost:1313/publication/2019-split-knowledge-transfer-learning-under-privileged-information/" target="_blank"><img src="/img/copa2019-split-kt-lupi.png" style="float: right; width: 37%; margin: 0 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
+<a href="https://pharmb.io/publication/2019-split-knowledge-transfer-learning-under-privileged-information/" target="_blank"><img src="/img/copa2019-split-kt-lupi.png" style="float: right; width: 37%; margin: 0 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
 
 We are very proud to announce that we this year had 2 papers accepted to the [8th Symposium on Conformal and Probabilistic Prediction with Applications](http://clrc.rhul.ac.uk/copa2019)! Ola Spjuth will present the papers in Golden Sands, Bulgaria on 9-11 sept 2019.
 
@@ -30,7 +30,7 @@ Learning Under Privileged Information (LUPI) enables the inclusion of additional
 
 #### Paper 2: Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets
 
-<a href="http://localhost:1313/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/" target="_blank"><img src="/img/copa2019-combining-multisource-intervals.png" style="float: right; width: 37%; margin: 1em 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
+<a href="https://pharmb.io/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/" target="_blank"><img src="/img/copa2019-combining-multisource-intervals.png" style="float: right; width: 37%; margin: 1em 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a>
 
 Spjuth O., Brännström R.C., Carlsson L. and Gauraha, N.<br>
 Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets.<br>
