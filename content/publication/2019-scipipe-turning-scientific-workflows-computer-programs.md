@@ -2,7 +2,7 @@
 bibtex_type = "article"
 author="Lampa S, Dahlö M, Alvarsson J, Spjuth O"
 title="SciPipe-Turning Scientific Workflows into Computer Programs"
-journal="IEEE Computing in Science \& Engineering"
+journal="IEEE Computing in Science & Engineering"
 year="2019"
 date="2019-05-06T23:59:00+02:00"
 volume="21"
