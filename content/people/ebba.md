@@ -18,8 +18,7 @@ url_uuprofile = "https://katalog.uu.se/empinfo/?id=N16-73"
 linkedin = "ebba-bergman"
 url_mendeley = ""
 url_researchgate = ""
-long_bio = "I am passionate about theory heavy projects that have clear practical applications, which is why I am pursuing my PhD in *AI and Machine Learning on large scale
-microscopy imaging data* within the [HASTE](http://haste.research.it.uu.se/) project. I graduated from Uppsal University with a MSc Molecular Biotechnology Engineering, Bioinformatics Engineering in 2017, worked 2 years as a systems developer, and then started my PhD studies in November 2019."
-research_interests = ["statistical machine learning", "Machine Learning", "Artificial Intelligence", "Deep Learning"]
+long_bio = "I am passionate about theory heavy projects that have clear practical applications, which is why I am pursuing my PhD in *AI and Machine Learning on large scale microscopy imaging data* within the [HASTE](http://haste.research.it.uu.se/) project. I graduated from Uppsal University with a MSc Molecular Biotechnology Engineering, Bioinformatics Engineering in 2017, worked 2 years as a systems developer, and then started my PhD studies in November 2019."
+research_interests = ["Statistical Machine Learning", "Machine Learning", "Artificial Intelligence", "Deep Learning"]
 +++
 
