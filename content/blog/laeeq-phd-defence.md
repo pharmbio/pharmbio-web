@@ -16,7 +16,7 @@ teaser_image = "/img/laeeqthesis/laeeq-thumb.png"
 Today, [Laeeq Ahmed](/people/laeeq) who is affiliated with the group successfully defended his thesis, titled:<br>
 _"[Scalable Analysis of Large Datasets in Life Sciences](urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-261683)"_
 
- We congratulate Laeeq for his success and wish him well in his future career! Laeeq is already working as Data Scientist at Scania.
+ We congratulate Laeeq for his success and wish him well in his future career!
 
 
 
