@@ -14,4 +14,6 @@ research_interests = ["infrastructure", "containers", "cloud computing", "machin
 url_uuprofile = "http://katalog.uu.se/empinfo/?id=N18-202"
 url_homepage = "https://github.com/Snapple49"
 weight = 15
+start_year = 2017
+end_year = 2019
 +++

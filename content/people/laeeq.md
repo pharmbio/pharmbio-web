@@ -3,7 +3,7 @@ date = "2016-09-23T16:39:21+02:00"
 email = "laeeq@kth.se"
 firstname = "Laeeq"
 initials = ""
-job_title = "Affiliated PhD Student"
+job_title = "PhD Student"
 lastname = "Ahmed"
 nickname = "laeeq"
 orcid = "0000-0001-6877-3702"
@@ -21,5 +21,7 @@ linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 weight = 1
+start_year = 2015
+end_year = 2019
 +++
 
