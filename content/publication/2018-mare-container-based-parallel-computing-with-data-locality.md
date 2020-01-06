@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Capuccini M, Toor S, Arvidsson S, and Spjuth O"
+author="Capuccini M, Dahlö M, Toor S, and Spjuth O"
 title="MaRe: Container-Based Parallel Computing with Data Locality"
 journal="ArXiv"
 year="2018"

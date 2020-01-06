@@ -4,13 +4,12 @@
         {{ partial "bodystart.html" . }}
         <h1>People</h1>
 
-        <img src="/img/group-krusenberg2017-1200px.jpg">
+        <img src="/img/Gruppfoto_krusenberg2019-1200px.jpg">
         <div style="margin: -.6em 0 0 0; font-size: .9em;">Group photo taken at
-            Krusenbergs Herrg&aring;rd in April 2017. From left to right: Arvid
-            Berg, Polina Georgiev, Martin Dahl&ouml;, Ola Spjuth, Anders
-            Larsson, Wesley Schaal, Jon Ander Novella, Marco Capuccini, Samuel
-            Lampa, Valentin Georgiev, Staffan Arvidsson, Maris Lapins, Jonathan
-            Alvarsson, Matteo Carone.<br>(Photographer: Jonathan Alvarsson).
+            Krusenbergs Herrg&aring;rd in Agust 2019. From left to right: Marco Capuccini, 
+            Jonathan Alvarsson, Phil Harrison, Martin Dahl&ouml;, Ola Spjuth, Anders Larsson,
+            Polina Georgiev, Wesley Schaal, Tanya Aggarwal, Maris Lapins, Anton Davidsson, 
+            Morgan Ekmefjord, Oliver Stein, Arvid Berg, Staffan Arvidsson.<br>(Photographer: Arvid Berg ).
         </div>
 
         <h2>Current group members</h2>
@@ -19,7 +18,7 @@
 
         <div class="grid">
         {{ range .Data.Pages }}
-            {{ if not .Params.end_year }}
+            {{ if and (not .Params.end_year) (not .Params.associated) }}
             <div class="card card-1-3 card-people">
                 <div class="card-img">
                     <a href="{{ .RelPermalink }}"><img src="/img/{{ .Params.photo_file }}"></a>
@@ -30,6 +29,44 @@
                     </span>
                     <br>
                     <span class="job-title">{{ .Params.job_title }}</span>
+                    <br>
+                    <span class="email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
+
+                    {{ if .Params.orcid }}
+                    <br>
+                    <span class="orcid">ORCID: <a href="http://orcid.org/{{ .Params.orcid }}" target="_blank">{{ .Params.orcid }}</a></span>
+                    {{ end }}
+
+                </div>
+                <div class="morelink-wrapper"><a href="{{ .RelPermalink }}" class="morelink">More info &raquo;</a></div>
+            </div>
+            {{ end }}
+        {{ end }}
+        </div>
+        
+        <h2>Associated group members</h2>
+
+        <p>Click an individual's name to view more details.</p>
+
+        <div class="grid">
+        {{ range .Data.Pages }}
+            {{ if .Params.associated }}
+            <div class="card card-1-3 card-people">
+                <div class="card-img">
+                    <a href="{{ .RelPermalink }}"><img src="/img/{{ .Params.photo_file }}"></a>
+                </div>
+                <div class="card-text">
+                    <span class="name">
+                        <a href="{{ .RelPermalink }}">{{ .Params.firstname }} {{ .Params.initials }} {{ .Params.lastname }}</a>
+                    </span>
+                    <br>
+                    <span class="job-title">{{ .Params.job_title }} </span>
+
+                    {{ if .Params.affiliation }}
+                    <br>
+                    <span class="job-title">{{ .Params.affiliation }} </span>
+                    {{ end }}
+
                     <br>
                     <span class="email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></span>
 
