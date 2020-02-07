@@ -11,9 +11,12 @@ Infrastructure
 
 ### Automatic Cell Profiling Laboratory
 
-<img src="/img/infrastructure/cellab.png" width="800"/>
+<img src="/img/infrastructure/infrastructure-robots-v1.png" width="800"/>
 
-We have established an automated lab for cell profiling with a high-content microscope (ImageXpress XLS), a liquid handler robot (BioMek 4000), a plate incubator (Liconic STX44), plate hotel (Ambient), and a plate robot (PreciseFlex PF400) for automatic plate handling. Apart from the robotized equipment, we have access to a fully equipped cell- and biochemistry lab and a wide range of relevant cell lines.
+<b>Left:</b> Our automated cell profiling lab with a high-content microscope (ImageXpress XLS), a liquid handler robot (BioMek 4000), a plate incubator (Liconic STX44), plate hotel (Ambient), and a plate robot (PreciseFlex PF400) for automatic plate handling. 
+<br><b>Right:</b> Our open source cell profiling lab is where we focus all future development. It consists of a plate robot (Universal Robots UR10e), microplate washer (Biotek 405 LS) microplate dispenser (Biotek MultiFlo FX) and a liquid handling robot (OpenTrons OT-2).
+<p></p>
+Apart from the robotized equipment, we have access to a fully equipped cell- and biochemistry lab and a wide range of relevant cell lines.
 
 
 
