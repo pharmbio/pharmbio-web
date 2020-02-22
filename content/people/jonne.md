@@ -18,6 +18,6 @@ url_uuprofile = "https://katalog.uu.se/profile/?id=N18-979"
 linkedin = "jonnerietdijk" 
 url_mendeley = "" 
 url_researchgate = "" 
-long_bio = "MSc in Medical Biology. Started PhD studies in January 2020. The focus of the project will be on developing and optimising methods for autonomous cell profiling experiments using high-content imaging.
+long_bio = "MSc in Medical Biology. Started PhD studies in January 2020. The focus of the project will be on developing and optimising methods for autonomous cell profiling experiments using high-content imaging."
 research_interests = ["cell profiling", "lab automation", "high content microscopy", "in vitro toxicity"] 
 +++
