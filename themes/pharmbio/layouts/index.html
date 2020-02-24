@@ -47,7 +47,75 @@
             </div>
 
             <!-------------------------------------------------------------------------------->
+                <!-- START: RIGHT COLUMN -->
 
+
+                <div class="col-1-3 rightcoll">
+
+                        <h4>Latest publications</h4>
+                <div class="card blog-item">
+                        {{ range first 5 (sort ( where .Site.Pages "Type" "publication" ) .Params.date "desc" ) }}
+						{{ if not .Params.preprint }}
+                        {{ if .Params.author }}
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Title }}
+                                </a>{{ .Params.author }}. <i>{{ .Params.journal }}</i>&nbsp;{{ .Params.volume }}:{{ .Params.number }}&nbsp;({{ .Params.year }})<p/>
+                            <div class="clearfix"></div>
+                        {{ end }}
+                        {{ end }}
+                        {{ end }}
+                        <div style="width=100%"><a href="/publication/" style="float:right">More publications &raquo;</a></div>
+                            <div class="clearfix"></div>
+				</div>
+
+                        <h4>Latest presentations</h4>
+                        {{ range first 3 (sort ( where .Site.Pages "Type" "presentation" ) .Params.date "desc") }}
+                        {{ if .Params.author }}
+                        <div class="card poster">
+                            <div class="card-img">
+                                <a href="{{ .RelPermalink }}">
+                                    <img src="/img/{{ .Params.thumb_img }}" style="width: 110px; margin-bottom:.4em;">
+                                </a>
+                            </div>
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Title }}
+                                </a>
+                                <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                            <div class="clearfix"></div>
+                        </div>                        
+                        {{ end }}
+                        {{ end }}
+                        <div style="width=100%"><a href="/presentation/" style="float:right">More presentations &raquo;</a></div>
+                            <div class="clearfix"></div>
+
+
+                        <h4>Latest posters</h4>
+                        {{ range first 3 (sort ( where .Site.Pages "Type" "poster" ) .Params.date "desc") }}
+                        {{ if .Params.author }}
+                        <div class="card poster">
+                            <div class="card-img">
+                                <a href="{{ .RelPermalink }}">
+                                    <img src="/img/{{ .Params.poster_image }}" style="width: 110px; margin-bottom:.4em;">
+                                </a>
+                            </div>
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Title }}
+                                </a>
+                                <div class="venue">{{ .Params.venue }}, {{ .Params.city }}. <span class="date">{{ .Date.Format "Jan 2006" }}</span></div>
+                                <div class="clearfix"></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        {{ end }}
+                        {{ end }}
+                        <div style="width=100%"><a href="/poster/" style="float:right">More posters &raquo;</a></div>
+                            <div class="clearfix"></div>
+
+
+
+                </div>
+
+
+                <!-- END: RIGHT COLUMN -->
         </div>
         {{ partial "bodyend_2cols.html" . }}
     {{ partial "footer.html" . }}
