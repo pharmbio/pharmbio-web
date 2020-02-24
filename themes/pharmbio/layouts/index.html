@@ -54,14 +54,11 @@
 
                         <h4>Latest publications</h4>
                 <div class="card blog-item">
-                        {{ range first 5 (sort ( where .Site.Pages "Type" "publication" ) .Params.date "desc" ) }}
-						{{ if not .Params.preprint }}
-                        {{ if .Params.author }}
+                        {{ range first 4 (sort (where (where .Site.Pages "Type" "publication") "Params.preprint" false) .Params.date "desc" ) }}                       {{ if .Params.author }}
                                 <a href="{{ .RelPermalink }}">
                                     {{ .Title }}
                                 </a>{{ .Params.author }}. <i>{{ .Params.journal }}</i>&nbsp;{{ .Params.volume }}:{{ .Params.number }}&nbsp;({{ .Params.year }})<p/>
                             <div class="clearfix"></div>
-                        {{ end }}
                         {{ end }}
                         {{ end }}
                         <div style="width=100%"><a href="/publication/" style="float:right">More publications &raquo;</a></div>
