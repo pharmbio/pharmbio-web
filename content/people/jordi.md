@@ -1,14 +1,14 @@
 +++
 date = "2020-06-29T21:40:00+02:00"
 email = "jordi.carreras.puigvert@farmbio.uu.se"
-weight = -100
+weight = 1
 firstname = "Jordi"
 initials = ""
 job_title = "Lecturer"
 lastname = "Carreras-Puigvert"
 nickname = "jordi"
 orcid = "0000-0002-7671-3707"
-photo_file = ""
+photo_file = "people/jordi.png"
 title = "jordi"
 twitter = "@puigvert_j"
 google_scholar = ""
