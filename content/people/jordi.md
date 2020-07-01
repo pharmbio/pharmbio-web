@@ -1,7 +1,7 @@
 +++
 date = "2020-06-29T21:40:00+02:00"
 email = "jordi.carreras.puigvert@farmbio.uu.se"
-weight = 1
+weight = -90
 firstname = "Jordi"
 initials = ""
 job_title = "Lecturer"
