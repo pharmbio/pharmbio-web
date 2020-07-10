@@ -502,6 +502,7 @@ a.twitter-share-button {
 }
 .card-people {
     padding-bottom: 0;
+    min-height: 140px;
 }
 .card-tool {
     min-height: 168px;
@@ -511,7 +512,7 @@ a.twitter-share-button {
     margin: 0;
 }
 .card-1-3 .card-img img {
-    margin: 0 1em 1em 0!important;
+    margin: 0 1em 1.4em 0!important;
 }
 .card-1-3 .card-text {
     width: 65%;
