@@ -1,15 +1,15 @@
 +++ 
-email = "vicmalmsjo@gmail.com" 
+email = "victor.malmsjo@farmbio.uu.se" 
 firstname = "Victor" 
 initials = "" 
-job_title = "Master student" 
+job_title = "Research Assistant" 
 lastname = "Malmsjö" 
 nickname = "Victor" 
 orcid = "0000-0002-5295-010X" 
 photo_file = "people/victor.jpg" 
-research_interests = ["qsar","machine learnning","Deep Learning"] 
+research_interests = ["data science","machine learnning","Deep Learning"] 
 short_bio = "" 
-long_bio = "Currently studying the Master's Programme in Pharmaceutical Modelling at Uppsala University" 
+long_bio = "MSc in Pharmaceutical Modelling, working on Data Science and Deep Learning for temporal analysis of image-based data" 
 title = "Victor Malmsjö" 
 twitter = "" 
 url_blog = "" 
