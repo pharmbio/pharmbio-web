@@ -8,7 +8,7 @@ menu:
 
 **Welcome to the Pharmaceutical Bioinformatics research group at Uppsala University**
 
-Principal Investigator: [Ola Spjuth](https://pharmb.io/people/olas/), Associate Professor.
+Principal Investigator: [Ola Spjuth](https://pharmb.io/people/olas/), Professor.
 
 #### Research focus: Intelligent systems with AI and machine learning in drug discovery and chemical safety
 
