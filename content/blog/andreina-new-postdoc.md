@@ -1,5 +1,5 @@
 +++
-title = "Andreina Rodriguez new Postdoc in the group"
+title = "Andreina Francisco new Postdoc in the group"
 description = "TBC"
 date = "2020-07-20T13:00:00+01:00"
 taxonomies = "blogging"
