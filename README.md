@@ -37,7 +37,7 @@ When making changes please follow these steps:
  5. Create a Pull Request (PR) on GitHub and select `base:master <- compare:kalle/update-my-profile`
  6. Check that the PR build status is passed (green)
     If not got to step 3 and repeate
- 7. Ask for it to be merged (goglepox, jonalv, olas)
+ 7. Ask for it to be merged (jonalv, olas)
  8. Done!
 
 Note that you are supposed to work with this repository only. Don't fork the
