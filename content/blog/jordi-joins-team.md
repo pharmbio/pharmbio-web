@@ -7,7 +7,7 @@ teaser_image = "/img/people/jordi.png"
 +++
 
 
-<img style="float: right; width: 300" src="/img/people/jordi.png">
+<img style="float: right; width: 300" src="/img/people/jordi_high.png">
 
 We welcome Jordi Carreras-Puigvert who recently started as a Lecturer in our group. Jordi is a strategic recruitment from Karolinska Institutet, and he will establish his own research topic in the group working on cancer drug screening.
 
