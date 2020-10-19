@@ -1,12 +1,12 @@
 +++
 title = "Predicting Target Profiles with Confidence as a Service using Docking Scores"
 date = 2020-09-22T15:49:00+02:00
-doi = ""
+doi = "10.1186/s13321-020-00464-1"
 url_html = ""
 journal = "Journal of Cheminformatics"
 author = "Ahmed L, Alogheli H, Arvidsson McShane S, Alvarsson J, Berg A, Larsson A, Schaal W, Laure E and Spjuth O."
-volume = "Accepted"
-number = ""
+volume = "12"
+number = "62"
 art_number = ""
 year = "2020"
 keywords = "Predicted Target Profiles, Virtual Screening, Drug Discovery, Conformal Prediction, AutoDockVina, Apache Spark"
