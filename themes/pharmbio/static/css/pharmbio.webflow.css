@@ -307,8 +307,9 @@ a.navbar-link {
   font-size: 32px;
 }
 .navbar-logo {
-  width: 56px;
-  margin-top: 6px;
+  width: 210px;
+  margin-top: 5px;
+  margin-left: -15px;
 }
 a.blog-link {
   color: #777;
