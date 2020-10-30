@@ -11,13 +11,30 @@ Infrastructure
 
 ### Automatic Cell Profiling Laboratory
 
-<img src="/img/infrastructure/infrastructure-robots-v1.png" width="800"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96UiejAA41A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<b>Left:</b> Our automated cell profiling lab with a high-content microscope (ImageXpress XLS), a liquid handler robot (BioMek 4000), a plate incubator (Liconic STX44), plate hotel (Ambient), and a plate robot (PreciseFlex PF400) for automatic plate handling. 
-<br><b>Right:</b> Our open source cell profiling lab is where we focus all future development. It consists of a plate robot (Universal Robots UR10e), microplate washer (Biotek 405 LS) microplate dispenser (Biotek MultiFlo FX) and a liquid handling robot (OpenTrons OT-2).
-<p></p>
-Apart from the robotized equipment, we have access to a fully equipped cell- and biochemistry lab and a wide range of relevant cell lines.
+<br/>
+*Video from our automated cell profiling laboratory.*
 
+## Equipment
+Our automated cell profiling lab consists of:
+
+Our robotized lab for cell profiling comprises a fully contained environment with monitored climate control, humidity, and ventilation. Equipment includes:
+
+- ImageXpress XLS automated high-content imaging microscope
+- Holomonitor label-free phase imaging microscope
+- BioMek 4000 liquid handling robot
+- OpenTrons OT-2 liquid handling robot
+- Liconic STX44 plate incubator
+- Ambient plate hotel
+- Three plate robots for automatic plate handling (PreciseFlex PF400, Universal Robots UR10e, Automata Eva)
+- Biotek 405 LS microplate washer
+- Biotek MultiFlo FX microplate dispenser
+- ViaFlow 384 automated pipette
+
+### Lab automation software
+
+We are developing an Open Source Automated Robotic System for biological laboratories (AROS, https://github.com/pharmbio/aros) that can be used for research groups who would like to set up custom automated lab installations comprising multiple instruments. We welcome contributions to this project by all interested developers!
 
 
 
@@ -25,5 +42,5 @@ Apart from the robotized equipment, we have access to a fully equipped cell- and
 
 <img src="/img/infrastructure/virtualinfra.png" width="800"/>
 
-Computational equipment includes a networked storage system (240 TB), two local servers (20+24 cores, 160+160 GB RAM), and a local GPU cluster (10 Nvidia graphics cards) to run demanding Deep Learning analysis. We run an OpenStack instance for [external services](https://github.com/pharmbio/services/blob/master/README.md). We run an internal Kubernetes cluster for processing, also connected to the GPU cluster. Our entire virtual infrastructure is defined using Infrastructure-as-Code (IaC) and deployed via KubeNow, Rancher, Helm, and Ansible.
+Computational equipment includes a networked storage system (240 TB), two local servers (20+24 cores, 160+160 GB RAM), and a local GPU cluster (10 Nvidia graphics cards) to run demanding Deep Learning analysis. We run an OpenStack instance for [external services](https://github.com/pharmbio/services/blob/master/README.md). We run an internal Kubernetes cluster for processing, also connected to the GPU cluster. Our entire virtual infrastructure is defined using Infrastructure-as-Code (IaC) and deployed via [STACKn](https://github.com/scaleoutsystems/stackn), Rancher, Helm, and Ansible. All code for the virtual infrastructure is open source and [available from github](https://github.com/pharmbio).
 
