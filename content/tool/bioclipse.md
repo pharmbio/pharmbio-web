@@ -16,3 +16,5 @@ is based on the [Eclipse Rich Client Platform (RCP)](http://eclipse.org/rcp/)
 which means that Bioclipse inherits a state-of-the-art plugin architecture,
 functionality, and visual interfaces from Eclipse, such as help system,
 software updates, preferences, cross-platform deployment etc.
+
+Bioclipse development has been discontinued, and the project is no longer maintained.
