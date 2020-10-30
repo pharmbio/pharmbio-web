@@ -9,7 +9,7 @@ teaser_image = "/img/thumbs/spjuth-interview.png"
 
 Group leader Ola Spjuth was interviewed and presented at the faculty in a post entitled *[Self-learning machines take the step into drug discovery](https://ilk.uu.se/faculty-of-pharmacy/news-from-the-faculty/?tarContentId=898560)*
 
-<p align="center" style="frame:1px">
+<p align="center"">
 <img src="/img/spjuth-interview.png" width="700">
 </p>
 
