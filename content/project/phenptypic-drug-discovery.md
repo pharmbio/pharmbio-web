@@ -14,6 +14,12 @@ Morphological changes in the cell can be measured using two major approaches: 1)
 
 Upon the extraction and selection of the morpfhological features, morphological profiles are generated that are unique per each cell type or perturbation. This is achieved through extensive analysis of the vast amount of features extracted at a single cell level. 
 
+
+<p align="center">
+<img src="/img/projects/pheno-screening.png" width="700">
+</p>
+*Figure: <b>a)</b> Overview of cell profiling using the Cell Painting methodology. Cells are exposed to perturbations in the form of chemical substances in multiwell plates. Images of cells are acquired and used to generate morphological cell profiles describing a wide range of the cells properties. These cell profiles or the original images can then be used in predictive modeling with e.g. Deep Learning methods. <b>b)</b> Experiments are carried out in our automated cell profiling lab.*
+
 #### Aims
 
 In this project we will apply a PDD approach to identify potential novel treatments against Sarcoma:
