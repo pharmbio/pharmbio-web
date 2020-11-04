@@ -1,7 +1,7 @@
 +++
 date = "2020-11-02T14:20:56+02:00"
 email = "ximeng.yang.4864@student.uu.se"
-weight = 1
+weight = 2
 firstname = "Ximeng"
 initials = ""
 job_title = "Master Student"
