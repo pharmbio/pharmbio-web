@@ -1,0 +1,21 @@
++++ 
+email = "Abir.Omran.4940@student.uu.se" 
+firstname = "Abir" 
+initials = "" 
+job_title = "Master Student" 
+lastname = "Omran" 
+nickname = "" 
+orcid = "" 
+photo_file = "people/Abir.jpg" 
+title = "" 
+twitter = "" 
+google_scholar = "" 
+url_blog = "" 
+url_homepage = "" 
+url_uuprofile = "" 
+linkedin = "" 
+url_mendeley = "" 
+url_researchgate = "" 
+long_bio = "Master student in Pharmaceutical Modelling, Currently writing my thesis in bioinformatics" 
+research_interests = ["Machine Learning", "QSAR"] 
++++
