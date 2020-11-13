@@ -10,7 +10,7 @@ menu:
 
 Principal Investigator: [Ola Spjuth](https://pharmb.io/people/olas/), Professor.
 
-![](/img/collage_header_2.jpg)
+![](/img/banner-front-triangle.jpg)
 
 #### Research focus: Intelligent systems with AI and machine learning in drug discovery and chemical safety
 
