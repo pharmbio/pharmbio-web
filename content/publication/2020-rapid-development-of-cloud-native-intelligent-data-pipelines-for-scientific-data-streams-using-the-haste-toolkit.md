@@ -1,13 +1,12 @@
 +++
 title = "Rapid development of cloud-native intelligent data pipelines for scientific data streams using the HASTE Toolkit"
-date = 2021-02-24T14:49:00+02:00
-doi = ""
-url_html = "https://www.biorxiv.org/content/10.1101/2020.09.13.274779v1"
+date = 2021-03-19T14:49:00+02:00
+doi = "10.1093/gigascience/giab018"
 journal = "Gigascience"
 author = "Blamey B, Toor S, Dahlö M, Wieslander H, Harrison PJ, Sintorn IM, Sabirsh A, Wählby C, Spjuth O, Hellander A"
-volume = "Accepted"
-number = ""
-art_number = ""
+volume = "10"
+number = "3"
+art_number = "giab018"
 preprint = false
 year = "2021"
 keywords = ""
