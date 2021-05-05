@@ -18,7 +18,7 @@ url_uuprofile = "https://katalog.uu.se/empinfo/?id=N21-644"
 linkedin = "david-holmberg-4a5814187"
 url_mendeley = ""
 url_researchgate = ""
-long_bio = "I am deeply fascinated by Artificial Intelligence-technology, and its applications within bioinformatics. I also have a long-standing history of messing with software, including being a self-taught Java-programmer at 12. Because of this, I have chosen to pursue a PhD at Uppsala University in Artificial Intelligence for *Analysis and Profiling of Morphological Features in High-Throughput Cell Images*. I am a graduate of Lund University with a Master of Science in Engineering Nanoscience, specializing in Bioinformatic Software Development and Biomedical Technology, and I have worked as a image analyst and electron microscope operator at Sol Voltaics. I started my PhD-project in May 2021."
-research_interests = ["Machine Learning", "Deep Learning","Digital Image Recognition", "Accelerator-based Deep Learning"]
+long_bio = "I am deeply fascinated by Artificial Intelligence-technology, and its applications within bioinformatics. I also have a long-standing history of messing with software, including being a self-taught Java-programmer at 12. Because of this, I have chosen to pursue a PhD at Uppsala University in Artificial Intelligence for *Analysis and Profiling of Morphological Features in High-Throughput Cell Images*. I am a graduate of Lund University with a Master of Science in Engineering Nanoscience, specializing in Bioinformatic Software Development and Biomedical Technology."
+research_interests = ["Machine Learning", "Deep Learning","Automated Image Analysis", "Computer Vision", "Time-Series/Video Analysis"]
 +++
 
