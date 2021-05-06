@@ -3,11 +3,11 @@ title = "David Holmberg joins the research group as new PhD Student"
 description = "TBC"
 date = "2021-05-03T09:00:00+01:00"
 taxonomies = "blogging"
-teaser_image = "/img/people/david.jpg"
+teaser_image = "/img/people/davidholmberg.jpg"
 +++
 
 
-<img style="float: right; width: 300" src="/img/people/david.jpg">
+<img style="float: right; width: 300" src="/img/people/davidholmberg.jpg">
 
 We welcome David Holmberg who recently started as a PhD Student in our group! David will work in the [Autonomous Phenomics project](https://pharmb.io/project/autonomous-phenomics/).
 
