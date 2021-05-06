@@ -2,13 +2,13 @@
 email = "rikardnystrom95@gmail.com"
 firstname = "Rikard"
 initials = ""
-job_title = "Masters Student"
+job_title = "Lecturer"
 lastname = "Nyström"
 nickname = ""
 photo_file = "people/rikard.png"
 research_interests = [""]
 short_bio = ""
-long_bio = "Physics Engineering student at Umeå University, with an emphasis on scientific computing and medicine."
+long_bio = "M Sc in Physics Engineering from Umeå University, with an emphasis on scientific computing and medicine. Working with robots and machine vision, mostly for teaching and course developments in the area of lab automation."
 title = "Rikard Nyström"
 twitter = ""
 url_blog = ""
@@ -18,6 +18,6 @@ url_uuprofile = ""
 linkedin = "https://www.linkedin.com/in/rikardnystrom/"
 url_mendeley = ""
 url_researchgate = ""
-weight = 1
+weight = -80
 start_year = 2018
 +++

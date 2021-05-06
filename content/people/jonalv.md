@@ -19,6 +19,6 @@ url_uuprofile = "http://katalog.uu.se/profile?id=N6-962_2"
 linkedin = "jonathanalvarssson"
 url_mendeley = ""
 url_researchgate = ""
-weight = -40
+weight = -50
 +++
 

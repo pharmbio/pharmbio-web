@@ -20,6 +20,6 @@ url_uuprofile = "http://katalog.uu.se/profile/?id=N19-1116"
 linkedin = "https://www.linkedin.com/in/morganekmefjord/"
 url_mendeley = ""
 url_researchgate = ""
-weight = 0
+weight = -39
 start_year = 2019
 +++

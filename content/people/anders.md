@@ -20,6 +20,6 @@ url_uuprofile = "http://katalog.uu.se/empinfo?id=N7-1588_5"
 linkedin = ""
 url_mendeley = ""
 url_researchgate = "https://www.researchgate.net/profile/Anders_Larsson11"
-weight = 1
+weight = -40
 +++
 
