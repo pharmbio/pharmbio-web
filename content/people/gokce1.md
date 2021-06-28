@@ -18,4 +18,6 @@ url_mendeley = ""
 url_researchgate = "" 
 long_bio = "Currently writing Masters thesis in Bioinfiormatics, studying in Pharmaceutical Modelling programme" 
 research_interests = ["Machine Learning", "Artificial Intelligence", "QSAR"] 
+start_year = 2020
+end_year = 2021
 +++

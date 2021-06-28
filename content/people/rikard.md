@@ -18,6 +18,6 @@ url_uuprofile = ""
 linkedin = "https://www.linkedin.com/in/rikardnystrom/"
 url_mendeley = ""
 url_researchgate = ""
-weight = -80
+weight = 0
 start_year = 2018
 +++

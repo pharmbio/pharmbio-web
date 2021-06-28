@@ -21,6 +21,6 @@ url_mendeley = ""
 url_researchgate = ""
 weight = -40
 associated = true
-affiliation = "Stena Line"
+affiliation = ""
 +++
 

@@ -1,1 +1,12 @@
-+++ email = "sebastian.moes@farmbio.uu.se" firstname = "Sebastian" initials = "SM" job_title = "Lecturer" lastname = "Moes" nickname = "" orcid = "" photo_file = "people/Sebastian.jpg" title = "" twitter = "" google_scholar = "" url_blog = "" url_homepage = "" url_uuprofile = "" linkedin = "" url_mendeley = "" url_researchgate = "" long_bio = "MSc in Pharmaceutical Sciences with a focus on Drug Discovery and Development, currently employed as a lecturer developing the course AI in Life Sciences " research_interests = ["Neural Networks", "computational chemistry", "protein-ligand interactions"] +++
++++ 
+email = "sebastian.moes@farmbio.uu.se" 
+firstname = "Sebastian" 
+job_title = "Lecturer"
+lastname = "Moes"
+nickname = ""
+orcid = ""
+photo_file = "people/sebastian.jpg"
+title = ""
+long_bio = "MSc in Pharmaceutical Sciences with a focus on Drug Discovery and Development, currently employed as a lecturer developing the course AI in Life Sciences " 
+research_interests = ["Neural Networks", "computational chemistry", "protein-ligand interactions"]
++++

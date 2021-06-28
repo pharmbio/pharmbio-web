@@ -20,4 +20,6 @@ url_mendeley = ""
 url_researchgate = ""
 long_bio = "Master student in Pharmaceutical Modelling, open to all knowledege."
 research_interests = ["Machine Learning", "Artificial Intelligence", "Deep Learning"]
+start_year = 2020
+end_year = 2021
 +++
