@@ -1,14 +1,14 @@
 +++
 title = "An Open-Source Modular Framework for Automated Pipetting and Imaging Applications"
-date = 2021-06-24T09:00:00+02:00
+date = 2021-09-24T09:00:00+02:00
 doi = "10.1101/2021.06.24.449732"
 url_html = ""
-journal = "bioRxiv"
+journal = "Advanced Biology"
 author = "Ouyang W, Bowman R, Wang H, Bumke KE, Collins JT, Spjuth O, Carreras-Puigvert J and Diederich B"
-volume = "2021.06.24.449732"
+volume = "adbi.202101063R2"
 number = ""
 art_number = ""
-preprint = true
+preprint = false
 year = "2021"
 keywords = ""
 document_bibtex_type = ""
