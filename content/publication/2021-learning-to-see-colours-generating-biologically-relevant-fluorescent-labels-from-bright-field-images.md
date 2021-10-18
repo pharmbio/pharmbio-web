@@ -1,13 +1,13 @@
 +++
 title = "Learning to see colours: generating biologically relevant fluorescent labels from bright-field images"
-date = 2021-01-20T09:00:00+02:00
-doi = "10.1101/2021.01.18.427121"
+date = 2021-10-15T09:00:00+02:00
+doi = "10.1371/journal.pone.0258546"
 url_html = ""
-journal = "PLoS One"
+journal = "PLOS ONE"
 author = "Wieslander H, Gupta A, Bergman E, Hallström E,  Harrison PJ"
-volume = "Accepted"
-number = ""
-art_number = ""
+volume = "16"
+number = "10"
+art_number = "e0258546"
 preprint = false
 year = "2021"
 keywords = ""
