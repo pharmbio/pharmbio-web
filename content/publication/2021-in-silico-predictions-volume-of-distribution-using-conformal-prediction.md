@@ -1,7 +1,7 @@
 +++
 title = "In silico predictions of volume of distribution of drugs in man using conformal prediction performs on par with animal data-based models"
 date = 2021-11-23T07:49:00+02:00
-doi = ""
+doi = "10.1080/00498254.2021.2011471"
 url_html = ""
 journal = "Xenobiotica"
 author = "Fagerholm U, Hellberg S, Alvarsson A, Arvidsson McShane S, and Spjuth O."
