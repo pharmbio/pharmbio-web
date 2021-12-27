@@ -6,6 +6,9 @@ title = "3 open positions: Biomedical Analyst (BMA), 1st Research Engineer and R
 teaser_image = "/img/cogs-people.png"
 +++
 
+<img src="/img/cbcs-ad.png">
+
+
 Funded by an infrastructure grant from the Swedish Research Council, our research group at Uppsala University is now establishing a new node as part of the [Chemical Biology Consortium Sweden](https://www.cbcs.se), a national infrastructure for chemical biology. Our facility node will offer services focused on cell profiling and screening primarily using the [Cell Painting](https://www.nature.com/articles/nprot.2016.105) assay.
 
 The positions are placed at the Department of Pharmaceutical Biosciences located at the Biomedical Center (BMC), Uppsala University, where you will work closely with a team of biologists, data scientists, and engineers in close collaboration to the [Pharmaceutical Bioinformatics](https://pharmb.io/) research group. 
