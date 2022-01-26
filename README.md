@@ -41,10 +41,8 @@ When making changes please follow these steps:
  8. Done!
 
 Note that you are supposed to work with this repository only. Don't fork the
-repo, as the encryption stuff in the travis build will not work then.
+repo.
 
 ## Notes
 
-(Don't mix this repository with the public HTML version, which is located in
-[github.com/pharmbio/pharmbio.github.io](https://github.com/pharmbio/pharmbio.github.io),
-and which you are not supposed to edit directly).
+Github Actions is used to generate the HTML pages by HUGO from this web template, and by Github actions also pushed to the branch gh_pages. The HTML pages in branch gh_pages are served by Github on domain pharmb.io (configured in settings of this repo)
