@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster on PharmBio</title>
+    <link>http://pharmb.io/poster/</link>
+    <description>Recent content in Poster on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/poster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating Cell Profiling of Drugs with Cell Painting</title>
+      <link>http://pharmb.io/poster/2020-automating-cell-profiling-of-drugs-with-cell-painting/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2020-automating-cell-profiling-of-drugs-with-cell-painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep dynamical modelling of drug delivery based on microscopy image data</title>
+      <link>http://pharmb.io/poster/2019-dynamic-model/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2019-dynamic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing and containerization in Big Data analytics with application in life science</title>
+      <link>http://pharmb.io/poster/2019-cloud/</link>
+      <pubDate>Mon, 18 Feb 2019 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2019-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning with deep convolutional neural networks for classifying cellular morphological changes</title>
+      <link>http://pharmb.io/poster/2018-transfer-cnn/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-transfer-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Probabilistic Predictions of Metabolism using Venn-Predictors</title>
+      <link>http://pharmb.io/poster/2018-metabolic-predictions/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-metabolic-predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A microservice-based infrastructure for ligand-based modelling</title>
+      <link>http://pharmb.io/poster/2018-infrastructure/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaRe: Leverage Docker and Spark to Scale Any Data Processing Tool in MapReduce Fashion</title>
+      <link>http://pharmb.io/poster/2018-mare/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-mare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce: Leverage Docker and Spark to Scale Any Data Processing Tool in MapReduce Fashion</title>
+      <link>http://pharmb.io/poster/2016-easymapreduce/</link>
+      <pubDate>Thu, 13 Oct 2016 11:37:36 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-easymapreduce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Scientific Workflows in Drug Discovery with Flow-Based Programming Principles</title>
+      <link>http://pharmb.io/poster/2016-scipipe/</link>
+      <pubDate>Wed, 12 Oct 2016 14:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-scipipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BridgeDb framework</title>
+      <link>http://pharmb.io/poster/2016-bridgedb/</link>
+      <pubDate>Thu, 08 Sep 2016 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-bridgedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal prediction in Spark: Large-Scale Machine Learning with Confidence</title>
+      <link>http://pharmb.io/poster/2015-cp-spark/</link>
+      <pubDate>Thu, 10 Dec 2015 13:47:22 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-cp-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Drug Discovery</title>
+      <link>http://pharmb.io/poster/2015-mlindd/</link>
+      <pubDate>Fri, 16 Oct 2015 17:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-mlindd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using workflow tools to streamline bioinformatics computing on high-performance e-infrastructures</title>
+      <link>http://pharmb.io/poster/2015-sciluigi/</link>
+      <pubDate>Fri, 16 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-sciluigi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Science enables improved diagnostics of Chronic Myeloid Leukemia (CML) with next-generation sequencing</title>
+      <link>http://pharmb.io/poster/2015-cml/</link>
+      <pubDate>Fri, 09 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-cml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Virtual Screening with Spark</title>
+      <link>http://pharmb.io/poster/2015-screening-spark/</link>
+      <pubDate>Wed, 07 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-screening-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Science for Cancer Prevention and Control (eCPC) - a flagship project for the Swedish e-Science Research Centre</title>
+      <link>http://pharmb.io/poster/2013-ecpc/</link>
+      <pubDate>Wed, 09 Oct 2013 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2013-ecpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse</title>
+      <link>http://pharmb.io/poster/2008-bioclipse2/</link>
+      <pubDate>Thu, 28 Feb 2008 00:12:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2008-bioclipse2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

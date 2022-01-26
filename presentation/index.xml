@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation on PharmBio</title>
+    <link>http://pharmb.io/presentation/</link>
+    <description>Recent content in Presentation on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Feb 2021 15:24:28 +0200</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Synergy Conformal Prediction for Regression</title>
+      <link>http://pharmb.io/presentation/2021-synergy-conformal-prediction-regression/</link>
+      <pubDate>Sat, 06 Feb 2021 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2021-synergy-conformal-prediction-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Constraint Programming Approach to Microplate Layout Design</title>
+      <link>http://pharmb.io/presentation/2020-aconstraint-programming-approach-to-microplate-layout-design/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2020-aconstraint-programming-approach-to-microplate-layout-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated phenotypic cell profiling with high-content imaging</title>
+      <link>http://pharmb.io/presentation/2020-towards-automated-phenotypic-cell-profiling-with-highcontent-imaging/</link>
+      <pubDate>Thu, 06 Feb 2020 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2020-towards-automated-phenotypic-cell-profiling-with-highcontent-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Automated AI-guided Drug Discovery Labs</title>
+      <link>http://pharmb.io/presentation/2019-towards-automated-ai-guided-drug-discovery-labs/</link>
+      <pubDate>Wed, 16 Oct 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-towards-automated-ai-guided-drug-discovery-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets</title>
+      <link>http://pharmb.io/presentation/2019-combining-prediction-intervals-on-multi-source-non-disclosed-regression-datasets/</link>
+      <pubDate>Tue, 10 Sep 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-combining-prediction-intervals-on-multi-source-non-disclosed-regression-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Knowledge Transfer in Learning Under Privileged Information Framework</title>
+      <link>http://pharmb.io/presentation/2019-split-knowledge-transfer-in-learning-under-privileged-information-framework/</link>
+      <pubDate>Mon, 09 Sep 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-split-knowledge-transfer-in-learning-under-privileged-information-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building an informatics solution to sustain AI-guided cell profiling with high-content microscopy imaging</title>
+      <link>http://pharmb.io/presentation/2019-building-an-informatics-solution-to-sustain-ai-guided-cell-profiling-with-high-content-microscopy-imaging/</link>
+      <pubDate>Fri, 28 Jun 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-building-an-informatics-solution-to-sustain-ai-guided-cell-profiling-with-high-content-microscopy-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating the process of continuously prioritising data, updating and deploying AI models in a robotised lab for drug discovery</title>
+      <link>http://pharmb.io/presentation/2019-automating-ai-modeling-datainnovationsummit/</link>
+      <pubDate>Fri, 15 Mar 2019 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-automating-ai-modeling-datainnovationsummit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vendor-agnostic Apache Spark deployments with Terraform</title>
+      <link>http://pharmb.io/presentation/2018-vendor-agnostic-spark/</link>
+      <pubDate>Mon, 08 Oct 2018 16:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-vendor-agnostic-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Flow-based programming to write tools and workflows for Scientific Computing in Go</title>
+      <link>http://pharmb.io/presentation/2018-flowbased-for-science-in-golang/</link>
+      <pubDate>Sat, 06 Oct 2018 12:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-flowbased-for-science-in-golang/</guid>
+      <description>Some links mentioned in the presentation:
+ The FlowBase library The rdf2smw tool developed with flowbase Paper covering the rdf2smw tool The SciPipe library Preprint paper on SciPipe  </description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery</title>
+      <link>http://pharmb.io/presentation/2018-copa/</link>
+      <pubDate>Tue, 12 Jun 2018 12:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-copa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web ❤ Data Science? Practical large scale semantic data handling with RDFIO &amp; RDF-HDT</title>
+      <link>http://pharmb.io/presentation/2018-ldsv2018-semantic-data-science/</link>
+      <pubDate>Mon, 09 Apr 2018 12:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-ldsv2018-semantic-data-science/</guid>
+      <description>Some links mentioned in the presentation:
+ The RDFIO project Publication: A confidence predictor for logD using conformal regression and a support-vector machine Publication: RDFIO: extending Semantic MediaWiki for interoperable biomedical data management Publication: Linking the Resource Description Framework to cheminformatics and proteochemometrics M.Sc. Thesis: SWI-Prolog as a Semantic Web Tool for semantic querying in Bioclipse: Integration and performance benchmarking  </description>
+    </item>
+    
+    <item>
+      <title>Data-intensive applications on cloud computing resources: Applications in life sciences</title>
+      <link>http://pharmb.io/presentation/2017-denbi/</link>
+      <pubDate>Mon, 23 Oct 2017 16:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-denbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable and reproducible workflows with Pachyderm</title>
+      <link>http://pharmb.io/presentation/2017-pachyderm-big-data/</link>
+      <pubDate>Mon, 02 Oct 2017 14:51:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-pachyderm-big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-intensive bioinformatics on HPC and Cloud</title>
+      <link>http://pharmb.io/presentation/2017-big-data-training-school/</link>
+      <pubDate>Fri, 22 Sep 2017 10:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-big-data-training-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors</title>
+      <link>http://pharmb.io/presentation/2017-copa-cross-venn-abers/</link>
+      <pubDate>Fri, 16 Jun 2017 10:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-copa-cross-venn-abers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case for cloud computing in Life Sciences</title>
+      <link>http://pharmb.io/presentation/2017-cloudbeer/</link>
+      <pubDate>Thu, 23 Mar 2017 19:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-cloudbeer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce: Leverage the Power of Spark and Docker to Scale Scientific Tools</title>
+      <link>http://pharmb.io/presentation/2017-sparksummit/</link>
+      <pubDate>Thu, 09 Feb 2017 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-sparksummit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Big Data in Medicine with Virtual Research Environments and Microservices</title>
+      <link>http://pharmb.io/presentation/2016-bigdata-medicine/</link>
+      <pubDate>Thu, 17 Nov 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-bigdata-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperability and scalability with microservices in science</title>
+      <link>http://pharmb.io/presentation/2016-opentox/</link>
+      <pubDate>Fri, 28 Oct 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch import of large RDF datasets using RDFIO or the new rdf2smw tool</title>
+      <link>http://pharmb.io/presentation/2016-smwcon-rdfio/</link>
+      <pubDate>Fri, 30 Sep 2016 12:20:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-smwcon-rdfio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous modeling - automating model building on high-performance e-Infrastructures</title>
+      <link>http://pharmb.io/presentation/2016-cont-modeling-icpb/</link>
+      <pubDate>Sun, 24 Jan 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-cont-modeling-icpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Translational Medicine with e-Science</title>
+      <link>http://pharmb.io/presentation/2015-ecpc/</link>
+      <pubDate>Thu, 15 Oct 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-ecpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile large-scale machine-learning pipelines in drug discovery</title>
+      <link>http://pharmb.io/presentation/2015-agile-ml-ebi/</link>
+      <pubDate>Wed, 12 Aug 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-agile-ml-ebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage and Analysis of Sensitive Large-Scale Biomedical Data in Sweden</title>
+      <link>http://pharmb.io/presentation/2015-sensitive-data-ebi/</link>
+      <pubDate>Tue, 11 Aug 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-sensitive-data-ebi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication on PharmBio</title>
+    <link>http://pharmb.io/publication/</link>
+    <description>Recent content in Publication on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating Cell Morphology with Gene Expression and Chemical Structure to Aid Mitochondrial Toxicity Detection</title>
+      <link>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In silico predictions of volume of distribution of drugs in man using conformal prediction performs on par with animal data-based models</title>
+      <link>http://pharmb.io/publication/2021-in-silico-predictions-volume-of-distribution-using-conformal-prediction/</link>
+      <pubDate>Tue, 23 Nov 2021 07:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-in-silico-predictions-volume-of-distribution-using-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELIXIR and Toxicology: a community in development</title>
+      <link>http://pharmb.io/publication/2021-elixir-and-toxicology-a-community-in-development/</link>
+      <pubDate>Mon, 08 Nov 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-elixir-and-toxicology-a-community-in-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to see colours: generating biologically relevant fluorescent labels from bright-field images</title>
+      <link>http://pharmb.io/publication/2021-learning-to-see-colours-generating-biologically-relevant-fluorescent-labels-from-bright-field-images/</link>
+      <pubDate>Fri, 15 Oct 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-learning-to-see-colours-generating-biologically-relevant-fluorescent-labels-from-bright-field-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy conformal prediction applied to large-scale bioactivity datasets and in federated learning</title>
+      <link>http://pharmb.io/publication/2021-synergy-conformal-prediction-large-scale-bioactivity-datasets-federated-learning/</link>
+      <pubDate>Sat, 02 Oct 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-synergy-conformal-prediction-large-scale-bioactivity-datasets-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating statistical and machine-learning approach for meta-analysis of Bisphenol A-exposure datasets reveals effects on mouse gene expression within pathways of apoptosis and cell survival</title>
+      <link>http://pharmb.io/publication/2021-integrating-statistical-machine-learning-meta-analysis-bisphenol-exposure/</link>
+      <pubDate>Mon, 27 Sep 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-integrating-statistical-machine-learning-meta-analysis-bisphenol-exposure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open-Source Modular Framework for Automated Pipetting and Imaging Applications</title>
+      <link>http://pharmb.io/publication/2021-open-source-modular-framework-automated-pipetting-imaging-applications/</link>
+      <pubDate>Fri, 24 Sep 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-open-source-modular-framework-automated-pipetting-imaging-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison between Lab Variability and in silico Prediction Errors for the Unbound Fraction of Drugs in Human Plasma</title>
+      <link>http://pharmb.io/publication/2021-comparison-lab-variability-in-silico-prediction-errors-unbound-fraction-drugs-human-plasma/</link>
+      <pubDate>Sun, 04 Jul 2021 07:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-comparison-lab-variability-in-silico-prediction-errors-unbound-fraction-drugs-human-plasma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A phenomics approach for antiviral drug discovery</title>
+      <link>http://pharmb.io/publication/2021-rapid-phenomics-workflow-in-vitro-identification-antiviral-drugs/</link>
+      <pubDate>Fri, 02 Jul 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-rapid-phenomics-workflow-in-vitro-identification-antiviral-drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2021-synergy-conformal-prediction/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-synergy-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches for containerized scientific workflows in cloud environments with applications in life science</title>
+      <link>http://pharmb.io/publication/2020-approaches-for-containerized-scientific-workflows-in-cloud-environments-with-applications-in-life-science/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-approaches-for-containerized-scientific-workflows-in-cloud-environments-with-applications-in-life-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning strategies when transitioning between biological assays</title>
+      <link>http://pharmb.io/publication/2021-machine-learning-strategies-when-transitioning-between-biological-assays/</link>
+      <pubDate>Thu, 03 Jun 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-machine-learning-strategies-when-transitioning-between-biological-assays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Machine Learning Life Cycle and the Cloud: Implications for Drug Discovery</title>
+      <link>http://pharmb.io/publication/2021-machine-learning-life-cycle-and-cloud-implications-for-drug-discovery/</link>
+      <pubDate>Wed, 19 May 2021 18:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-machine-learning-life-cycle-and-cloud-implications-for-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Predictions of Oral Bioavailability of Candidate Drugs in Man with New Machine Learning Methodology</title>
+      <link>http://pharmb.io/publication/2021-advances-in-predictions-of-oral-bioavailability-of-candidate-drugs-in-man-with-new-machine-learning-methodology/</link>
+      <pubDate>Thu, 22 Apr 2021 19:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-advances-in-predictions-of-oral-bioavailability-of-candidate-drugs-in-man-with-new-machine-learning-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Calibration in Toxicological in Vitro Models with Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2021-assessing-the-calibration-in-toxicological-in-vitro-models-with-conformal-prediction/</link>
+      <pubDate>Mon, 12 Apr 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-assessing-the-calibration-in-toxicological-in-vitro-models-with-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scConnect: a method for exploratory analysis of cell-cell communication based on single cell RNA sequencing data</title>
+      <link>http://pharmb.io/publication/2021-scconnect/</link>
+      <pubDate>Mon, 12 Apr 2021 18:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-scconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning models for lipid-nanoparticle-based drug delivery</title>
+      <link>http://pharmb.io/publication/2020-deep-learning-models-for-lipid-nanoparticle-based-drug-delivery/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-deep-learning-models-for-lipid-nanoparticle-based-drug-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid development of cloud-native intelligent data pipelines for scientific data streams using the HASTE Toolkit</title>
+      <link>http://pharmb.io/publication/2020-rapid-development-of-cloud-native-intelligent-data-pipelines-for-scientific-data-streams-using-the-haste-toolkit/</link>
+      <pubDate>Fri, 19 Mar 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-rapid-development-of-cloud-native-intelligent-data-pipelines-for-scientific-data-streams-using-the-haste-toolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable federated machine learning with FEDn</title>
+      <link>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</link>
+      <pubDate>Sat, 27 Feb 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy Conformal Prediction for Regression</title>
+      <link>http://pharmb.io/publication/2019-synergy-conformal-prediction-regression/</link>
+      <pubDate>Wed, 10 Feb 2021 10:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-synergy-conformal-prediction-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting with confidence: Using conformal prediction in drug discovery</title>
+      <link>http://pharmb.io/publication/2020-predicting-with-confidence-conformal-prediction-drug-discovery/</link>
+      <pubDate>Fri, 01 Jan 2021 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-predicting-with-confidence-conformal-prediction-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning with conformal prediction for hierarchical analysis of large-scale whole-slide tissue images</title>
+      <link>http://pharmb.io/publication/2020-deep-learning-with-conformal-prediction-for-hierarchical-analysis-of-large-scale-whole-slide-tissue-images/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-deep-learning-with-conformal-prediction-for-hierarchical-analysis-of-large-scale-whole-slide-tissue-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomics - the stethoscope for the 21st century</title>
+      <link>http://pharmb.io/publication/2020-metabolomics-stethoscope-21st-century/</link>
+      <pubDate>Thu, 03 Dec 2020 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-metabolomics-stethoscope-21st-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Resource Management for Data Streaming using an Online Bin-packing Strategy</title>
+      <link>http://pharmb.io/publication/2020-smart-resource-management-data-streaming-online-bin-packing/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-smart-resource-management-data-streaming-online-bin-packing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Target Profiles with Confidence as a Service using Docking Scores</title>
+      <link>http://pharmb.io/publication/2020-predicting-target-profiles-with-confidence-as-a-service-using-docking-scores/</link>
+      <pubDate>Tue, 22 Sep 2020 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-predicting-target-profiles-with-confidence-as-a-service-using-docking-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Predicted Bioactivity Profiles to Improve Predictive Modelling</title>
+      <link>http://pharmb.io/publication/2020-using-predicted-bioactivity-profiles-to-improve-predictive-modelling/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-using-predicted-bioactivity-profiles-to-improve-predictive-modelling/</guid>
+      <description>Title:</description>
+    </item>
+    
+    <item>
+      <title>MaRe: Container-Based Parallel Computing with Data Locality</title>
+      <link>http://pharmb.io/publication/2020-mare-container-based-parallel-computing-with-data-locality/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-mare-container-based-parallel-computing-with-data-locality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards reproducible computational drug discovery</title>
+      <link>http://pharmb.io/publication/2020-towards-reproducible-computational-drug-discovery/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-towards-reproducible-computational-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-demand virtual research environments using microservices</title>
+      <link>http://pharmb.io/publication/2019-on-demand-virtual-research-environments-using-microservices/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-on-demand-virtual-research-environments-using-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One thousand plant transcriptomes and the phylogenomics of green plants</title>
+      <link>http://pharmb.io/publication/2019-one-thousand-plant-transcriptomes-and-the-phylogenomics-of-green-plants/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-one-thousand-plant-transcriptomes-and-the-phylogenomics-of-green-plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Knowledge Transfer in Learning Under Privileged Information Framework</title>
+      <link>http://pharmb.io/publication/2019-split-knowledge-transfer-learning-under-privileged-information/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-split-knowledge-transfer-learning-under-privileged-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets</title>
+      <link>http://pharmb.io/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software engineering for scientific big data analysis</title>
+      <link>http://pharmb.io/publication/2019-software-engineering-for-scientific-big-data-analysis/</link>
+      <pubDate>Thu, 23 May 2019 18:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-software-engineering-for-scientific-big-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPipe-Turning Scientific Workflows into Computer Programs</title>
+      <link>http://pharmb.io/publication/2019-scipipe-turning-scientific-workflows-computer-programs/</link>
+      <pubDate>Mon, 06 May 2019 23:59:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-scipipe-turning-scientific-workflows-computer-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Image Cytometry: A Review</title>
+      <link>http://pharmb.io/publication/2019-deep-learning-in-image-cytometry-review/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-deep-learning-in-image-cytometry-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPipe: A workflow library for agile development of complex and dynamic bioinformatics pipelines</title>
+      <link>http://pharmb.io/publication/2019-scipipe/</link>
+      <pubDate>Fri, 26 Apr 2019 23:59:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-scipipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of gene expression and phenotypic profiling data as quantitative descriptors for predicting drug targets and mechanisms of action</title>
+      <link>http://pharmb.io/publication/2019-gene-expression-phenotypic-profiling-predicting-drug-targets-mechanisms/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-gene-expression-phenotypic-profiling-predicting-drug-targets-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alterations in the tyrosine and phenylalanine pathways revealed by biochemical profiling in cerebrospinal fluid of Huntington’s disease subjects</title>
+      <link>http://pharmb.io/publication/2019-alterations-tyrosine-phenylalanine-pathways-biochemical-profiling-cerebrospinal-fluid-huntington-disease/</link>
+      <pubDate>Mon, 11 Mar 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-alterations-tyrosine-phenylalanine-pathways-biochemical-profiling-cerebrospinal-fluid-huntington-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperable and scalable data analysis with microservices: Applications in Metabolomics</title>
+      <link>http://pharmb.io/publication/2019-interoperable-scalable-data-analysis-microservices-applications-metabolomics/</link>
+      <pubDate>Sat, 09 Mar 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-interoperable-scalable-data-analysis-microservices-applications-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container-based bioinformatics with Pachyderm</title>
+      <link>http://pharmb.io/publication/2019-container-based-bioinformatics-with-pachyderm/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-container-based-bioinformatics-with-pachyderm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhenoMeNal: Processing and analysis of Metabolomics data in the Cloud </title>
+      <link>http://pharmb.io/publication/2019-phenomenal-processing-and-analysis-of-metabolomics-data-in-the-cloud/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-phenomenal-processing-and-analysis-of-metabolomics-data-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemical differences in cerebrospinal fluid between secondary progressive and relapsing-remitting multiple sclerosis</title>
+      <link>http://pharmb.io/publication/2019-biochemical-differences-in-cerebrospinal-fluid-between-secondary-progressive-and-relapsing-remitting-multiple-sclerosis/</link>
+      <pubDate>Tue, 22 Jan 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-biochemical-differences-in-cerebrospinal-fluid-between-secondary-progressive-and-relapsing-remitting-multiple-sclerosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning with deep convolutional neural network for classifying cellular morphological changes</title>
+      <link>http://pharmb.io/publication/2019-transfer-learning-with-deep-convolutional-neural-network-for-classifying-cellular-morphological-changes/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-transfer-learning-with-deep-convolutional-neural-network-for-classifying-cellular-morphological-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy-Kubernetes integration: scaling bioinformatics workflows in the cloud</title>
+      <link>http://pharmb.io/publication/2018-galaxy-kubernetes/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-galaxy-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting off-target binding profiles with confidence using Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-ptp/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-ptp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating parameters for ligand-based modeling with random forest on sparse data sets</title>
+      <link>http://pharmb.io/publication/2018-evaluating-parameters-for-ligand-based-modeling-with-random-forest-on-sparse-data-sets/</link>
+      <pubDate>Mon, 01 Oct 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-evaluating-parameters-for-ligand-based-modeling-with-random-forest-on-sparse-data-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel applications of Machine Learning in cheminformatics</title>
+      <link>http://pharmb.io/publication/2018-novel-applications-of-machine-learning-in-cheminformatics/</link>
+      <pubDate>Thu, 06 Sep 2018 06:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-novel-applications-of-machine-learning-in-cheminformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deploying PhenoMeNal virtual research environments on the EGI Federated Cloud</title>
+      <link>http://pharmb.io/publication/2018-deploying-phenomenal-virtual-research-environments-on-egi-federated-cloud/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-deploying-phenomenal-virtual-research-environments-on-egi-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Magnetic Resonance Imaging and Protein and Metabolite CSF Measurements to Enable Early Diagnosis of Secondary Progressive Multiple Sclerosis</title>
+      <link>http://pharmb.io/publication/2018-integration-of-magnetic-resonance-imaging-and-protein-and-metabolite-csf-measurements-to-enable-early-diagnosis-of-secondary-progressive-multiple-sclerosis/</link>
+      <pubDate>Wed, 27 Jun 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-integration-of-magnetic-resonance-imaging-and-protein-and-metabolite-csf-measurements-to-enable-early-diagnosis-of-secondary-progressive-multiple-sclerosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating Predictions on Multiple Non-disclosed Datasets using Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-aggregating-predictions-multiple-non-disclosed-datasets-using-conformal-prediction/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-aggregating-predictions-multiple-non-disclosed-datasets-using-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery.</title>
+      <link>http://pharmb.io/publication/2018-conformal-prediction-learning-under-privileged-information-paradigm-applications-drug-discovery/</link>
+      <pubDate>Sun, 10 Jun 2018 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-prediction-learning-under-privileged-information-paradigm-applications-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conformalClassification: A Conformal Prediction R Package for Classification.</title>
+      <link>http://pharmb.io/publication/2018-conformal-classification-conformal-prediction-r-package-for-classification/</link>
+      <pubDate>Tue, 17 Apr 2018 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-classification-conformal-prediction-r-package-for-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Regression for QSAR Modelling - Quantifying Prediction Uncertainty.</title>
+      <link>http://pharmb.io/publication/2018-conformal-regression-qsar-modelling-quantifying-prediction-uncertainty/</link>
+      <pubDate>Tue, 03 Apr 2018 06:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-regression-qsar-modelling-quantifying-prediction-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A confidence predictor for logD using conformal regression and a support-vector machine.</title>
+      <link>http://pharmb.io/publication/2018-confidence-predictor-for-logd-using-conformal-regression-and-support-vector-machine/</link>
+      <pubDate>Mon, 26 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-confidence-predictor-for-logd-using-conformal-regression-and-support-vector-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Iterative Virtual Screening with Apache Spark and Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-iterative-virtual-screening-spark-conformal-prediction/</link>
+      <pubDate>Sun, 04 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-iterative-virtual-screening-spark-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the NGS revolution: Managing life science research on shared high-performance computing clusters. </title>
+      <link>http://pharmb.io/publication/2018-tracking-ngs-revolution-managing-life-science-research-on-shared-high-performance-computing-clusters/</link>
+      <pubDate>Fri, 02 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-tracking-ngs-revolution-managing-life-science-research-on-shared-high-performance-computing-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The future of metabolomics in ELIXIR</title>
+      <link>http://pharmb.io/publication/2017-future-metabolomics-elixir/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-future-metabolomics-elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDFIO: extending Semantic MediaWiki for interoperable biomedical data management</title>
+      <link>http://pharmb.io/publication/2017-rdfio/</link>
+      <pubDate>Mon, 04 Sep 2017 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-rdfio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Science technologies in a workflow for personalized medicine using cancer screening as a case study</title>
+      <link>http://pharmb.io/publication/2017-escience-cancer-screening/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-escience-cancer-screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNIC Science Cloud (SSC): A National-scale Cloud Infrastructure for Swedish Academia</title>
+      <link>http://pharmb.io/publication/2017-snic-science-cloud-ssc-a-national-scale-cloud-infrastructure-for-swedish-academia/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-snic-science-cloud-ssc-a-national-scale-cloud-infrastructure-for-swedish-academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High frequency of silver resistance genes in invasive isolates of Enterobacter and Klebsiella species</title>
+      <link>http://pharmb.io/publication/2017-silver-resistance-genes/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-silver-resistance-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors</title>
+      <link>http://pharmb.io/publication/2017-prediction-metabolic-transformations-cross-venn-abers/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-prediction-metabolic-transformations-cross-venn-abers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass spectrometry based metabolomics for in vitro systems pharmacology: pitfalls, challenges, and computational solutions</title>
+      <link>http://pharmb.io/publication/2017-mass-spectrometry-metabolomics/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-mass-spectrometry-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Chemistry Development Kit (CDK) v2.0: atom typing, depiction, molecular formulas, and substructure searching</title>
+      <link>http://pharmb.io/publication/2017-chemistry-development-kit-cdk-v2/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-chemistry-development-kit-cdk-v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Predicting the Cytochrome P450 Modulation: From QSAR to proteochemometric modeling</title>
+      <link>http://pharmb.io/publication/2017-predicting-p450-modulation/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-predicting-p450-modulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale virtual screening on public cloud resources with Apache Spark</title>
+      <link>http://pharmb.io/publication/2017-virtual-screening-spark/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-virtual-screening-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docking of Macrocycles: Comparing Rigid and Flexible Docking in Glide</title>
+      <link>http://pharmb.io/publication/2017-docking-of-macrocycles/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-docking-of-macrocycles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards agile large-scale predictive modelling in drug discovery with flow-based programming design principles</title>
+      <link>http://pharmb.io/publication/2016-sciluigi/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-sciluigi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XMetDB: an open access database for xenobiotic metabolism</title>
+      <link>http://pharmb.io/publication/2016-xmetdb-an-open-access-database-for-xenobiotic-metabolism/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-xmetdb-an-open-access-database-for-xenobiotic-metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale ligand-based predictive modelling using support vector machines</title>
+      <link>http://pharmb.io/publication/2016-large-scale-svm/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-large-scale-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations on e-infrastructures for next-generation sequencing</title>
+      <link>http://pharmb.io/publication/2016-recommendations-on-e-infrastructures-for-next-generation-sequencing/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-recommendations-on-e-infrastructures-for-next-generation-sequencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of aromatase inhibitory activity via proteochemometric modeling</title>
+      <link>http://pharmb.io/publication/2016-origin-of-aromatase-inhibitory-activity-via-proteochemometric-modeling/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-origin-of-aromatase-inhibitory-activity-via-proteochemometric-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonising and linking biomedical and clinical data across disparate data archives to enable integrative cross-biobank research</title>
+      <link>http://pharmb.io/publication/2016-harmonising-and-linking-biomedical-and-clinical-data-across-disparate-data-archives-to-enable-integrative-cross-biobank-research/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-harmonising-and-linking-biomedical-and-clinical-data-across-disparate-data-archives-to-enable-integrative-cross-biobank-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Spark: Large-Scale Machine Learning with Confidence</title>
+      <link>http://pharmb.io/publication/2015-spark-cp/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-spark-cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward the Replacement of Animal Experiments through the Bioinformatics-driven Analysis of &#39;Omics&#39; Data from Human Cell Cultures</title>
+      <link>http://pharmb.io/publication/2015-toward-the-replacement-of-animal-experiments-through-the-bioinformatics-driven-analysis-of-omics-data-from-human-cell-cultures/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-toward-the-replacement-of-animal-experiments-through-the-bioinformatics-driven-analysis-of-omics-data-from-human-cell-cultures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioImg.org: A catalog of virtual machine images for the life sciences</title>
+      <link>http://pharmb.io/publication/2015-bioimg/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-bioimg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences with workflows for automating data-intensive bioinformatics</title>
+      <link>http://pharmb.io/publication/2015-wf-bioinfo/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-wf-bioinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ex Vivo Assessment of Drug Activity in Patient Tumor Cells as a Basis for Tailored Cancer Therapy</title>
+      <link>http://pharmb.io/publication/2015-ex-vivo-assessment-of-drug-activity-in-patient-tumor-cells-as-a-basis-for-tailored-cancer-therapy/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-ex-vivo-assessment-of-drug-activity-in-patient-tumor-cells-as-a-basis-for-tailored-cancer-therapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantitative assessment of the Hadoop framework for analyzing massively parallel DNA sequencing data</title>
+      <link>http://pharmb.io/publication/2015-a-quantitative-assessment-of-the-hadoop-framework-for-analyzing-massively-parallel-dna-sequencing-data/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-a-quantitative-assessment-of-the-hadoop-framework-for-analyzing-massively-parallel-dna-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preservation for Publishing Sample Availability Data with Personal Identifiers</title>
+      <link>http://pharmb.io/publication/2015-privacy-preservation-for-publishing-sample-availability-data-with-personal-identifiers/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-privacy-preservation-for-publishing-sample-availability-data-with-personal-identifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of conformal prediction classification models</title>
+      <link>http://pharmb.io/publication/2015-cp-interpret/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-cp-interpret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a benchmarking data set able to evaluate ligand- and structure-based virtual screening using public HTS data</title>
+      <link>http://pharmb.io/publication/2015-benchmarking-data-set/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-benchmarking-data-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling predictive modeling in drug development with cloud computing</title>
+      <link>http://pharmb.io/publication/2015-modeling-cloud/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-modeling-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTSeq-Hadoop: Extending HTSeq for massively parallel sequencing data analysis using Hadoop</title>
+      <link>http://pharmb.io/publication/2014-htseq-hadoop/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-htseq-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Study of Parameter Variation When Using Signature Fingerprints Together with Support Vector Machines</title>
+      <link>http://pharmb.io/publication/2014-benchmarking-study-of-parameter-variation-when-using-signature-fingerprints-together-with-support-vector-machines/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-benchmarking-study-of-parameter-variation-when-using-signature-fingerprints-together-with-support-vector-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand-based target prediction with signature fingerprints</title>
+      <link>http://pharmb.io/publication/2014-ligand-based-target-prediction-with-signature-fingerprints/</link>
+      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-ligand-based-target-prediction-with-signature-fingerprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data integration between Swedish national clinical health registries and biobanks using an availability system</title>
+      <link>http://pharmb.io/publication/2014-dils-sail/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-dils-sail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NGS data management and analysis for hundreds of projects: Experiences from Sweden</title>
+      <link>http://pharmb.io/publication/2014-ngs-data-management-and-analysis-for-hundreds-of-projects-experiences-from-sweden/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-ngs-data-management-and-analysis-for-hundreds-of-projects-experiences-from-sweden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer biology, toxicology and alternative methods development go hand-in-hand.</title>
+      <link>http://pharmb.io/publication/2014-cancer-biology-toxicology-and-alternative-methods-development-go-hand-in-hand/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-cancer-biology-toxicology-and-alternative-methods-development-go-hand-in-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using iterative MapReduce for parallel virtual screening</title>
+      <link>http://pharmb.io/publication/2013-mapreduce-vs/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-mapreduce-vs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Drug Discovery with Bioclipse</title>
+      <link>http://pharmb.io/publication/2013-open-source-drug-discovery-with-bioclipse/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-open-source-drug-discovery-with-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated QuantMap for rapid quantitative molecular network topology analysis</title>
+      <link>http://pharmb.io/publication/2013-quantmap/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-quantmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons learned from implementing a national infrastructure in Sweden for storage and analysis of next-generation sequencing data</title>
+      <link>http://pharmb.io/publication/2013-lessons-learned-from-implementing-a-national-infrastructure-in-sweden-for-storage-and-analysis-of-next-generation-sequencing-data/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-lessons-learned-from-implementing-a-national-infrastructure-in-sweden-for-storage-and-analysis-of-next-generation-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Proteochemometric Model for Prediction of Inhibition of Cytochrome P450 Isoforms</title>
+      <link>http://pharmb.io/publication/2013-a-unified-proteochemometric-model-for-prediction-of-inhibition-of-cytochrome-p450-isoforms/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-a-unified-proteochemometric-model-for-prediction-of-inhibition-of-cytochrome-p450-isoforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhichCyp: prediction of cytochromes P450 inhibition.</title>
+      <link>http://pharmb.io/publication/2013-whichcyp-prediction-of-cytochromes-p450-inhibition/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-whichcyp-prediction-of-cytochromes-p450-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ChEMBL database as linked open data</title>
+      <link>http://pharmb.io/publication/2013-the-chembl-database-as-linked-open-data/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-the-chembl-database-as-linked-open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On mechanisms of reactive metabolite formation from drugs.</title>
+      <link>http://pharmb.io/publication/2013-on-mechanisms-of-reactive-metabolite-formation-from-drugs/</link>
+      <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-on-mechanisms-of-reactive-metabolite-formation-from-drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of the InChI in cheminformatics with the CDK and Bioclipse</title>
+      <link>http://pharmb.io/publication/2013-inchi-cdk-bioclipse/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-inchi-cdk-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse-R: integrating management and visualization of life science data with statistical analysis.</title>
+      <link>http://pharmb.io/publication/2012-bioclipse-r-integrating-management-and-visualization-of-life-science-data-with-statistical-analysis/</link>
+      <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-bioclipse-r-integrating-management-and-visualization-of-life-science-data-with-statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source drug discovery with Bioclipse</title>
+      <link>http://pharmb.io/publication/2012-bioclipse-opendd/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-bioclipse-opendd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessing, using, and creating chemical property databases for computational toxicology modeling</title>
+      <link>http://pharmb.io/publication/2012-accessing-using-and-creating-chemical-property-databases-for-computational-toxicology-modeling/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-accessing-using-and-creating-chemical-property-databases-for-computational-toxicology-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food for thought ... A toxicology ontology roadmap</title>
+      <link>http://pharmb.io/publication/2012-a-toxicology-ontology-roadmap/</link>
+      <pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-a-toxicology-ontology-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive predictive toxicology with Bioclipse and OpenTox</title>
+      <link>http://pharmb.io/publication/2012-interactive-predictive-toxicology-with-bioclipse-and-opentox/</link>
+      <pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-interactive-predictive-toxicology-with-bioclipse-and-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel infrastructure for chemical safety predictions with focus on human health</title>
+      <link>http://pharmb.io/publication/2012-a-novel-infrastructure-for-chemical-safety-predictions-with-focus-on-human-health/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-a-novel-infrastructure-for-chemical-safety-predictions-with-focus-on-human-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model building in Bioclipse Decision Support applied to open datasets</title>
+      <link>http://pharmb.io/publication/2012-model-building-in-bioclipse-decision-support-applied-to-open-datasets/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-model-building-in-bioclipse-decision-support-applied-to-open-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxicology Ontology Perspectives</title>
+      <link>http://pharmb.io/publication/2012-toxicology-ontology-perspectives/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-toxicology-ontology-perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biobank Metaportal to Enhance Collaborative Research: sail.simbioms.org</title>
+      <link>http://pharmb.io/publication/2011-sail/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-sail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UPPNEX - A solution for Next Generation Sequencing data management and analysis</title>
+      <link>http://pharmb.io/publication/2012-uppnex--a-solution-for-next-generation-sequencing-data-management-and-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-uppnex--a-solution-for-next-generation-sequencing-data-management-and-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemoinformatics Taking Biology into Account: Proteochemometrics</title>
+      <link>http://pharmb.io/publication/2011-chemoinformatics-taking-biology-into-account-proteochemometrics/</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-chemoinformatics-taking-biology-into-account-proteochemometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational toxicology using the OpenTox application programming interface and Bioclipse</title>
+      <link>http://pharmb.io/publication/2011-bioclipse-opentox/</link>
+      <pubDate>Thu, 10 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-bioclipse-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on.</title>
+      <link>http://pharmb.io/publication/2011-open-data-open-source-and-open-standards-in-chemistry-the-blue-obelisk-five-years-on/</link>
+      <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-open-data-open-source-and-open-standards-in-chemistry-the-blue-obelisk-five-years-on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated decision support for assessing chemical liabilities</title>
+      <link>http://pharmb.io/publication/2011-bioclipse-ds/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-bioclipse-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brunn: An open source laboratory information system for microplates with a graphical plate layout design process</title>
+      <link>http://pharmb.io/publication/2011-brunn/</link>
+      <pubDate>Fri, 20 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-brunn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Cheminformatics Applications</title>
+      <link>http://pharmb.io/publication/2011-collaborative-cheminformatics-applications/</link>
+      <pubDate>Tue, 03 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-collaborative-cheminformatics-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services for prediction of drug susceptibility for HIV proteases and reverse transcriptases at the HIV drug research centre</title>
+      <link>http://pharmb.io/publication/2011-hiv-drc/</link>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-hiv-drc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking the Resource Description Framework to cheminformatics and proteochemometrics</title>
+      <link>http://pharmb.io/publication/2011-rdf-cheminf-pcm/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-rdf-cheminf-pcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteochemometric modeling of the susceptibility of mutated variants of the HIV-1 virus to reverse transcriptase inhibitors</title>
+      <link>http://pharmb.io/publication/2010-proteochemometric-modeling-of-the-susceptibility-of-mutated-variants-of-the-hiv-1-virus-to-reverse-transcriptase-inhibitors/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-proteochemometric-modeling-of-the-susceptibility-of-mutated-variants-of-the-hiv-1-virus-to-reverse-transcriptase-inhibitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of historic metabolic biotransformation data as a means of anticipating metabolic sites using MetaPrint2D and Bioclipse</title>
+      <link>http://pharmb.io/publication/2010-metaprint2d/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-metaprint2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards interoperable and reproducible QSAR analyses: Exchange of datasets</title>
+      <link>http://pharmb.io/publication/2010-qsar-ml/</link>
+      <pubDate>Wed, 30 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-qsar-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An eScience-Bayes strategy for analyzing omics data</title>
+      <link>http://pharmb.io/publication/2010-escience-bayes/</link>
+      <pubDate>Wed, 26 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-escience-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse 2: A scriptable integration platform for the life sciences</title>
+      <link>http://pharmb.io/publication/2009-bioclipse2/</link>
+      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2009-bioclipse2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XMPP for cloud computing in bioinformatics supporting discovery and invocation of asynchronous web services</title>
+      <link>http://pharmb.io/publication/2009-xmpp-iodata/</link>
+      <pubDate>Fri, 04 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2009-xmpp-iodata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The C1C2: A framework for simultaneous model selection and assessment</title>
+      <link>http://pharmb.io/publication/2008-c1c2/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2008-c1c2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteochemometric modeling of HIV protease susceptibility</title>
+      <link>http://pharmb.io/publication/2008-pcm-hiv-protease/</link>
+      <pubDate>Thu, 10 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2008-pcm-hiv-protease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse: An open source workbench for chemo- and bioinformatics</title>
+      <link>http://pharmb.io/publication/2007-bioclipse/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2007-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LCB Data Warehouse</title>
+      <link>http://pharmb.io/publication/2006-the-lcb-data-warehouse/</link>
+      <pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2006-the-lcb-data-warehouse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

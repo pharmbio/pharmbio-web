@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on PharmBio</title>
+    <link>http://pharmb.io/tool/</link>
+    <description>Recent content in Tool on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 14:33:02 +0100</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bioclipse</title>
+      <link>http://pharmb.io/tool/bioclipse/</link>
+      <pubDate>Tue, 01 Nov 2016 14:33:02 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/bioclipse/</guid>
+      <description>Bioclipse is a free and open source workbench for the life sciences. Bioclipse is based on the Eclipse Rich Client Platform (RCP) which means that Bioclipse inherits a state-of-the-art plugin architecture, functionality, and visual interfaces from Eclipse, such as help system, software updates, preferences, cross-platform deployment etc.
+Bioclipse development has been discontinued, and the project is no longer maintained.</description>
+    </item>
+    
+    <item>
+      <title>MetaPrint2D</title>
+      <link>http://pharmb.io/tool/metaprint2d/</link>
+      <pubDate>Wed, 16 Nov 2016 14:33:02 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/metaprint2d/</guid>
+      <description>MetaPrint2D is a tool that predicts xenobiotic metabolism through data-mining and statistical analysis of known metabolic transformations reported in scientific literature.
+Two versions are available: MetaPrint2D, which predicts sites of phase I metabolism, defined as the addition of oxygen (e.g. hydroxylation, oxidation, epoxidation) or elimination reactions, and MetaPrint2D-React which can make predictions concerning a wider range of reactions, and is able to predict the types of transformation that can take place at ease site of metabolism, and the likely metabolite formed.</description>
+    </item>
+    
+    <item>
+      <title>FlowBase</title>
+      <link>http://pharmb.io/tool/flowbase/</link>
+      <pubDate>Mon, 03 Apr 2017 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/flowbase/</guid>
+      <description>A Flow-based Programming (FBP) micro-framework for Go (Golang).
+The aim of FlowBase, as opposed to being a full-blown framework, is to provide just enough functionality on top of the existing FBP-like primives in Golang (channels with bounded buffers, asynchronous go-routines), to enable developing data processing applications with it. Thus the term &amp;ldquo;FBP micro-framework&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>RDFIO</title>
+      <link>http://pharmb.io/tool/rdfio/</link>
+      <pubDate>Wed, 16 Nov 2016 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/rdfio/</guid>
+      <description>A Semantic MediaWiki (SMW) extension that extends the RDF import and export functionality in SMW by providing import of arbitrary RDF triples, allowing full round-trip of data between the Semantic Web format RDF, and SMW.</description>
+    </item>
+    
+    <item>
+      <title>SciLuigi</title>
+      <link>http://pharmb.io/tool/sciluigi/</link>
+      <pubDate>Tue, 01 Nov 2016 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sciluigi/</guid>
+      <description>SciLuigi is a light-weight wrapper library around Spotify&amp;rsquo;s Luigi workflow system to make writing scientific workflows more fluent, flexible and modular</description>
+    </item>
+    
+    <item>
+      <title>AROS</title>
+      <link>http://pharmb.io/tool/aros/</link>
+      <pubDate>Sun, 03 May 2020 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/aros/</guid>
+      <description>AROS - An Open Source Automated Robotic System for biological laboratories
+This software stack can be used by research groups who would like to set up custom automated lab installations comprising multiple instruments. It is based on wrapping each instrument as REST services, and with a core written in Python for scheduling lab protocols.</description>
+    </item>
+    
+    <item>
+      <title>NDCP</title>
+      <link>http://pharmb.io/tool/ndcp/</link>
+      <pubDate>Tue, 01 May 2018 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/ndcp/</guid>
+      <description>NDCP: Non-Disclosed Conformal Prediction This is an implementation for ligand-based modeling of the method described in:
+Aggregating Predictions on Multiple Non-disclosed Datasets using Conformal Prediction
+Ola Spjuth, Lars Carlsson, Niharika Gauraha
+arXiv:1806.04000 [stat.ML]
+Background It is a common objective for different organizations to be able to contribute to improved predictive models, such as in pre-competitive alliances, but there is often problems with sharing internal data between the parties. One example is in the pharmaceutical industry, where predictions on existing data (such as measured assays of various hazard endpoints for chemical compounds) constitute valuable assets and it would be desirable for all companies to have as good predictive models as possible; but sharing data between companies is usually not so easy.</description>
+    </item>
+    
+    <item>
+      <title>Spark CP</title>
+      <link>http://pharmb.io/tool/sparkcp/</link>
+      <pubDate>Wed, 16 Nov 2016 15:31:57 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sparkcp/</guid>
+      <description>Spark CP is a Spark-based distributed implementation of conformal prediction, which introduces valid confidence estimation in predictive modeling for Big Data analytics.</description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce</title>
+      <link>http://pharmb.io/tool/easymapreduce/</link>
+      <pubDate>Tue, 01 Nov 2016 15:32:07 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/easymapreduce/</guid>
+      <description>EasyMapReduce leverages the power of Docker and Spark to run and scale your serial tools in MapReduce fashion.</description>
+    </item>
+    
+    <item>
+      <title>SparkNow</title>
+      <link>http://pharmb.io/tool/sparknow/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:57 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sparknow/</guid>
+      <description>Using SparkNow you can rapidly deploy, scale and tear down your Spark clusters on OpenStack. Deploying a SparkNow cluster you will get:
+ A Spark cluster up and running A HDFS cluster to store your data A Jupyter notebook for interactive Spark tasks  </description>
+    </item>
+    
+    <item>
+      <title>KubeNow</title>
+      <link>http://pharmb.io/tool/kubenow/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/kubenow/</guid>
+      <description>Using KubeNow you can rapidly deploy, scale, and tear down your Kubernetes clusters on any cloud.
+Rather than providing an all-in-one tool for provisioning a Kubernetes cluster (e.g. Juju and Kubespray), KubeNow comes as a thin layer on top of Terraform, Packer, Ansible and kubeadm. Following this approach we aim to provide a simple, light-weight, tool for Kubernetes provisioning, while making DevOps transparent and fun.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Web</title>
+      <link>http://pharmb.io/tool/modelingweb/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/modelingweb/</guid>
+      <description>Modeling Web A web portal for managing QSAR models. Currently supports building, and deploying CPSign models.
+Background Method Usage TBC
+Implementation Implementation is Python Django based. The current model building implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method. A license is required but these are generously provided by GenettaSoft.</description>
+    </item>
+    
+    <item>
+      <title>Xenobiotics Metabolism Database (XMetDB)</title>
+      <link>http://pharmb.io/tool/xmetdb/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:30 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/xmetdb/</guid>
+      <description>XMetDB is an open access database for drugs and other xenobiotics and their respective metabolites. The database contains chemical structures of xenobiotic biotransformations with substrate atoms annotated as reaction centra, the resulting product formed, and the catalyzing enzyme, type of experiment, and literature references.
+Associated with the database is a web interface for the submission and retrieval of experimental metabolite data for drugs and other xenobiotics in various formats, and a web API for programmatic access is also available.</description>
+    </item>
+    
+    <item>
+      <title>SciPipe</title>
+      <link>http://pharmb.io/tool/scipipe/</link>
+      <pubDate>Tue, 01 Nov 2016 15:28:27 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/scipipe/</guid>
+      <description>SciPipe is a library for writing scientific Workflows in vanilla Go(lang), based on flow-based programming principles.</description>
+    </item>
+    
+  </channel>
+</rss>

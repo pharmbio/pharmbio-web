@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on PharmBio</title>
+    <link>http://pharmb.io/project/</link>
+    <description>Recent content in Project on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2010 20:45:04 +0203</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RDFIO</title>
+      <link>http://pharmb.io/project/rdfio/</link>
+      <pubDate>Tue, 16 Nov 2010 20:45:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/rdfio/</guid>
+      <description>RDFIO is a project to bring RDF data import functionality to Semantic MediaWiki (SMW) to enable using SMW as a collaborative platform for editing semantic data. This functionality enables important usage scenarios such as bootstrapping a wiki structure from RDF data, full round-trip between the RDF data format used on the Semantic Web and the SMW wiki text format and creating mash-ups combining automatically imported datasets and manually created summations and visualiations using the inline query language and visualization functionality available in SMW.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous phenomics for drug/compound profiling</title>
+      <link>http://pharmb.io/project/autonomous-phenomics/</link>
+      <pubDate>Sun, 16 Aug 2020 11:05:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/autonomous-phenomics/</guid>
+      <description>The purpose of this project is to improve studies of mechanisms and pathways for compounds, such as drug or environmental contaminants, with intelligent data generation, automation and AI. To this end we are developing an intelligent system for phenotypic cell profiling (phenomics) that is able to autonomously suggest the next most informative experiment, perform it using an automated lab, learn from the results, and iterate.
+The theoretical experimental space of biomedical research is vast.</description>
+    </item>
+    
+    <item>
+      <title>Phenotypic Drug Screening</title>
+      <link>http://pharmb.io/project/phenptypic-drug-discovery/</link>
+      <pubDate>Fri, 29 Nov 2019 09:05:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/phenptypic-drug-discovery/</guid>
+      <description>The purpose of this project is to apply phenotypic profiling for the discovery of novel or medically available drugs against cancer, with special initial interest on Sarcoma.
+Overview Phenotypic drug discovery (PDD) is one of the two major branches in the drug discovery field, the other one being in vitro targeted screening. One of the main approaches of PDD is phenotypic profiling of cells by high-throughput high-content microscopy. This allows for the identification of morphological changes in the cell that are indicative, for instance, of the mode of action (MoA) of a drug, novel compound or biological.</description>
+    </item>
+    
+    <item>
+      <title>AI/Machine Learning with confidence in Drug Discovery</title>
+      <link>http://pharmb.io/project/ai-confidence-drugdiscovery/</link>
+      <pubDate>Wed, 20 Nov 2019 09:05:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/ai-confidence-drugdiscovery/</guid>
+      <description>This project aims at developing computational methods, tools and AI models to aid the drug discovery process. We primarily focus on ligand-based methods such as structure-activity relationships (SAR or QSAR). A special emphasis is on achieving a valid measure of confidence in predictions, and we apply Conformal Prediction methodology to this end. In order to analyze large-scale data we make use of modern e-infrastructure such as high-performance computing clusters, cloud computing resources, containerized microservice environments such as Kubernetes, and data analytics platforms such as Apache Spark.</description>
+    </item>
+    
+    <item>
+      <title>Long-read sequencing for clinical applications</title>
+      <link>http://pharmb.io/project/long-read-sequencing-diagnostics/</link>
+      <pubDate>Fri, 15 Feb 2019 09:05:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/long-read-sequencing-diagnostics/</guid>
+      <description>Long-read sequencing is a new technology that offers important advantages for medical diagnostics as compared to the short-read sequencing technologies that are currently dominating the market. We have together with clinicians developed a data analysis product (CLAMP) and implemented the world’s first clinical routine diagnostics of leukemia mutations using long-read sequencing, and are now expanding to other applications. Left: The project aims to provide a complete informatics system for working with long-read sequencing in clinical diagnostics, including an automated analysis module, a searchable database, and a user interface.</description>
+    </item>
+    
+    <item>
+      <title>HASTE: Hierarchical Analysis of Spatial and TEmporal image data</title>
+      <link>http://pharmb.io/project/haste/</link>
+      <pubDate>Tue, 04 Apr 2017 09:15:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/haste/</guid>
+      <description>From intelligent data acquisition via smart data-management to confident predictions
+The HASTE project takes a hierarchical approach to acquisition, analysis, and interpretation of image data. We develop computationally efficient measurements for data description, confidence-driven machine learning for determination of interestingness, and a theory and framework to apply intelligent spatial and temporal information hierarchies, distributing data to computational resources and storage options based on low-level image features.
+HASTE is a collaboration between the Wählby lab (PI), Hellander lab (co-PI), both at the Department of Information Technology, Uppsala University, the Spjuth lab (co-PI) at the Department of Pharmaceutical Biosciences, Uppsala University, the Nilsson lab at the Department of Biochemistry and Biophysics at Stockholm University and SciLifeLab, Vironova AB and AstraZeneca AB.</description>
+    </item>
+    
+  </channel>
+</rss>

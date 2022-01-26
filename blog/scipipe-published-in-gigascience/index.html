@@ -1,0 +1,207 @@
+<html>
+
+    <head>
+  <meta charset="utf-8">
+  <title>SciPipe workflow tool published in GigaScience and CiSe | pharmb.io - Pharmaceutical Bioinformatics Research Group at Uppsala University</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/css/pharmbio.webflow.css?1643212170" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+  <script type="text/javascript">
+    WebFont.load({
+      google: {
+        families: ["Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic","Raleway:regular,500,600,700,800,900"]
+      }
+    });
+  </script>
+  <script src="/js/modernizr.js" type="text/javascript"></script>
+  <link href="/img/pharmbio_logo_square_64x64.png" rel="shortcut icon" type="image/x-icon">
+  <link href="/img/pharmbio_logo_square_64x64.png" rel="apple-touch-icon">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-86146183-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+
+
+    
+  <div class="section-header" id="section-header">
+    <div class="section-header-container w-container">
+      <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-contain="1" data-doc-height="1" data-duration="400" data-no-scroll="1">
+        <div class="navbar-container w-container">
+          <a class="navbar-brand w-nav-brand" href="/">
+              <img class="navbar-logo" src="/img/pharmbio-logo-new.png">
+          </a>
+          <div class="navbar-menubutton w-nav-button">
+            <div class="w-icon-nav-menu"></div>
+          </div>
+          <a class="navbar-uulogo-link" href="http://farmbio.uu.se/forskning/researchgroups/pb/Data-intensive/" target="_blank"><img class="navbar-uulogo-img" src="/img/uulogo_64x64.png"></a>
+          <nav class="navbar-menu w-nav-menu" role="navigation" style="float: right">
+              
+              <a class="navbar-link w-nav-link" href="/project/">Projects</a>
+              
+              <a class="navbar-link w-nav-link" href="/people/">People</a>
+              
+              <a class="navbar-link w-nav-link" href="/infrastructure/">Infrastructure</a>
+              
+              <a class="navbar-link w-nav-link" href="/publication/">Publications</a>
+              
+              
+              
+              <a class="navbar-link w-nav-link" href="/tool/">Tools</a>
+              
+              <a class="navbar-link w-nav-link" href="/education/">Education</a>
+              
+              <a class="navbar-link w-nav-link" href="/about/">About</a>
+              
+              
+              
+              
+              
+              
+              
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+              <div>
+          <div class="section-content-container w-container content">
+
+        <p><a href="/">&larr; Back to front page</a></p>
+        <h1>SciPipe workflow tool published in GigaScience and CiSe</h1>
+        <p>25 May, 2019</p>
+        
+
+<p><a href="https://pharmb.io/publication/2019-scipipe/" target="_blank"><img src="/img/scipipe-gigascience.png" style="float: right; width: 37%; margin: 0 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a></p>
+
+<p>A few weeks ago the workflow tool we have developed and used in the group,
+<a href="https://pharmb.io/tool/scipipe/">SciPipe</a>, <a href="https://pharmb.io/publication/2019-scipipe/">was published in Gigascience</a>.
+This article quite comprehensively summarizes our lessons learned in scientific
+workflow usage and design over the last couple of years, reviewing a dozen other tools,
+and carefully motivates and explains the design of this new workflow library.
+An accompanying popular science views article was also just
+<a href="https://doi.org/10.1109/MCSE.2019.2907814">published in the IEEE magazine &ldquo;Computers in Science and Engineering&rdquo;</a>, providing some
+further info on our views on SciPipe and its direction.</p>
+
+<p>A fun sidenote is that we notice the SciPipe publication has been at the top of
+the &ldquo;most read&rdquo; GigaScience GigaScience publications, over the last three weeks
+(See the &ldquo;most read&rdquo; tab on <a href="https://academic.oup.com/gigascience/pages/in_the_news">this page</a>)
+In the same go, <a href="https://github.com/scipipe/scipipe/">SciPipe repository</a> also
+passed 500 stars on GitHub, reflecting a significant interest in the library
+from the community.</p>
+
+<p>Anyways, these two publications come after the publication of the <a href="https://pharmb.io/publication/2018-ptp/">first scientific study performed with SciPipe, last year, on building predictive target profiles</a> and mark an important
+milestone in the SciPipe project. It thus seems like a good time to provide a
+small recap of the project&rsquo;s focus and a look into the future.</p>
+
+<h2 id="a-focus-on-simplicity-supporting-complexity">A focus on simplicity, supporting complexity</h2>
+
+<p><a href="https://academic.oup.com/gigascience/pages/in_the_news" target="_blank"><img src="/img/scipipe-most-read.png" style="float: right; width: 37%; margin: 1em 0 1em 2em; clear: both; box-shadow: 2px 2px 12px rgb(0,0,0,0.25);"/></a></p>
+
+<p>SciPipe has taken a rather different direction than many other contemporary
+workflow tools and libraries. Rather than building a lot of new technology,
+we have strived hard to boil down the library to the bare necessary parts
+to do what it really ought to do: Schedule and keep track of compute tasks
+and safely manage their corresponding input and output data, in a way as
+generic as possible. This strive for essential simplicity and genericity
+in the end is in our experience what is required thought to support what
+SciPipe shines for: Really complex workflows. In other words, to support
+really complex workflow usecases, we have needed to strive for a really
+simple and generic workflow scheduling library.</p>
+
+<h2 id="maintainabiltiy-for-the-long-term">Maintainabiltiy for the long term</h2>
+
+<p>The focus can be seen in such characteristics as zero outside dependencies,
+apart from the ubiquitious bash shell and a Unix/Linux-like operating system
+(Windows is well supported via Cygwin / MSYS2). The code base is also kept
+extremely small, not much more than 1000-1500 lines of code. One of the
+motivation factors for this, is to keep SciPipe maintaineable in the future,
+even without a large team of developers. Another consequence is that SciPipe
+can most suitably be included into the source code of users&rsquo; own workflow code
+repositories (as known as &ldquo;vendoring&rdquo; in the Go world), to ensure the
+functioning and maintenance of workflows for the long run.</p>
+
+<h2 id="what-this-means-for-the-future">What this means for the future</h2>
+
+<p>This focus also gives some hints on where SciPipe is headed for the future.  We
+don&rsquo;t see us trying to add every possible bell-and-whistle into the core of
+SciPipe, but will rather spend time on further streamlining its core function
+and making its programming API easier to use. We might add more convenience
+functionality still though, but then we tend to add that to the separate
+scipipe helper tool, which is itself not at all required for workflows to work
+(thus not needed to be included in workflow repos).</p>
+
+<p>Welcome to try SciPipe out, for your next project! (Find us in the <a href="https://gitter.im/scipipe/scipipe">SciPipe Gitter chat</a>
+for community backed support,
+and any questions!).</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="https://scipipe.org">Main website and documentation</a></li>
+<li><a href="https://github.com/scipipe/scipipe">GitHub repository</a></li>
+<li><a href="https://pharmb.io/publication/2019-scipipe/">Publication in GigaScience</a></li>
+<li><a href="https://doi.org/10.1109/MCSE.2019.2907814">Publication in IEEE / CiSE</a></li>
+</ul>
+
+        
+        <div class="social-sharing-buttons">
+            
+            <script>window.twttr = (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+
+            t._e = [];
+            t.ready = function(f) {
+            t._e.push(f);
+            };
+            return t;
+            }(document, "script", "twitter-wjs"));</script>
+            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=SciPipe%20workflow%20tool%20published%20in%20GigaScience%20and%20CiSe%20%23pharmbio">Tweet</a>
+
+            
+            <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+            <script type="IN/Share" data-url="http://pharmb.io/blog/scipipe-published-in-gigascience/"></script>
+
+            
+            <script src="https://apis.google.com/js/platform.js" async defer></script>
+            <div class="g-plus" data-action="share" data-annotation="none"></div>
+        </div>
+        
+            </div>
+</div>
+
+      <div class="section-footer">
+    <div class="section-footer-container w-container">
+        
+        <div class="footer-text">
+            <p>
+            <strong>Pharmaceutical Bioinformatics Research Group</strong><br>
+            Department of Pharmaceutical Biosciences<br>
+            Uppsala University, Sweden<br>
+            GitHub: <a href="https://github.com/pharmbio">github.com/pharmbio</a>
+            </p>
+        </div>
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
+  <script src="/js/webflow.js" type="text/javascript"></script>
+  
+</body>
+</html>
+

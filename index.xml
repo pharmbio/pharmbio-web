@@ -1,0 +1,2947 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PharmBio</title>
+    <link>http://pharmb.io/</link>
+    <description>Recent content on PharmBio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 14:33:02 +0100</lastBuildDate>
+    
+	<atom:link href="http://pharmb.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bioclipse</title>
+      <link>http://pharmb.io/tool/bioclipse/</link>
+      <pubDate>Tue, 01 Nov 2016 14:33:02 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/bioclipse/</guid>
+      <description>Bioclipse is a free and open source workbench for the life sciences. Bioclipse is based on the Eclipse Rich Client Platform (RCP) which means that Bioclipse inherits a state-of-the-art plugin architecture, functionality, and visual interfaces from Eclipse, such as help system, software updates, preferences, cross-platform deployment etc.
+Bioclipse development has been discontinued, and the project is no longer maintained.</description>
+    </item>
+    
+    <item>
+      <title>olas</title>
+      <link>http://pharmb.io/people/olas/</link>
+      <pubDate>Fri, 23 Sep 2016 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/olas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jordi</title>
+      <link>http://pharmb.io/people/jordi/</link>
+      <pubDate>Mon, 29 Jun 2020 21:40:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/jordi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaPrint2D</title>
+      <link>http://pharmb.io/tool/metaprint2d/</link>
+      <pubDate>Wed, 16 Nov 2016 14:33:02 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/metaprint2d/</guid>
+      <description>MetaPrint2D is a tool that predicts xenobiotic metabolism through data-mining and statistical analysis of known metabolic transformations reported in scientific literature.
+Two versions are available: MetaPrint2D, which predicts sites of phase I metabolism, defined as the addition of oxygen (e.g. hydroxylation, oxidation, epoxidation) or elimination reactions, and MetaPrint2D-React which can make predictions concerning a wider range of reactions, and is able to predict the types of transformation that can take place at ease site of metabolism, and the likely metabolite formed.</description>
+    </item>
+    
+    <item>
+      <title>Maris Lapins</title>
+      <link>http://pharmb.io/people/maris/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:52 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/maris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polina</title>
+      <link>http://pharmb.io/people/polina/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:30 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/polina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wes</title>
+      <link>http://pharmb.io/people/wes/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:18 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jonalv</title>
+      <link>http://pharmb.io/people/jonalv/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:06 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/jonalv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>niharika</title>
+      <link>http://pharmb.io/people/niharika/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/niharika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Rosén</title>
+      <link>http://pharmb.io/people/dan/</link>
+      <pubDate>Tue, 09 Feb 2021 17:46:30 +0100</pubDate>
+      
+      <guid>http://pharmb.io/people/dan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science and AI Lead</title>
+      <link>http://pharmb.io/people/ernst/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:06 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/ernst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD, Docent</title>
+      <link>http://pharmb.io/people/ulf/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:06 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/ulf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anders Larsson</title>
+      <link>http://pharmb.io/people/anders/</link>
+      <pubDate>Fri, 23 Sep 2016 16:00:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/anders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreina</title>
+      <link>http://pharmb.io/people/andreina/</link>
+      <pubDate>Mon, 29 Jun 2020 15:36:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/andreina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pharmb.io/people/christa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/christa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amelie</title>
+      <link>http://pharmb.io/people/amelie/</link>
+      <pubDate>Wed, 05 May 2021 11:39:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/amelie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David</title>
+      <link>http://pharmb.io/people/david/</link>
+      <pubDate>Mon, 03 May 2021 08:14:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/david/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ebba</title>
+      <link>http://pharmb.io/people/ebba/</link>
+      <pubDate>Fri, 29 Nov 2019 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/ebba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonne</title>
+      <link>http://pharmb.io/people/jonne/</link>
+      <pubDate>Fri, 22 Feb 2019 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/jonne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tanya</title>
+      <link>http://pharmb.io/people/tanya/</link>
+      <pubDate>Sun, 23 Sep 2018 16:59:30 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/tanya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phil</title>
+      <link>http://pharmb.io/people/phil/</link>
+      <pubDate>Tue, 05 Dec 2017 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/phil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arvid Berg</title>
+      <link>http://pharmb.io/people/arvid/</link>
+      <pubDate>Mon, 31 Oct 2016 16:39:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/arvid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Dahlö</title>
+      <link>http://pharmb.io/people/dahlo/</link>
+      <pubDate>Fri, 23 Sep 2016 17:00:18 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/dahlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>staffan</title>
+      <link>http://pharmb.io/people/star/</link>
+      <pubDate>Fri, 23 Sep 2016 17:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Capuccini</title>
+      <link>http://pharmb.io/people/marco/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/marco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Lampa</title>
+      <link>http://pharmb.io/people/saml/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/saml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laeeq Ahmed</title>
+      <link>http://pharmb.io/people/laeeq/</link>
+      <pubDate>Fri, 23 Sep 2016 16:39:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/laeeq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephanie Herman</title>
+      <link>http://pharmb.io/people/steph/</link>
+      <pubDate>Fri, 23 Sep 2016 16:39:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/steph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Carone</title>
+      <link>http://pharmb.io/people/matteo/</link>
+      <pubDate>Fri, 23 Sep 2016 16:00:21 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/matteo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Inda</title>
+      <link>http://pharmb.io/people/juaninda/</link>
+      <pubDate>Fri, 23 Sep 2016 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/juaninda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akshai Parakkal Sreenivasan</title>
+      <link>http://pharmb.io/people/akshai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/akshai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jon</title>
+      <link>http://pharmb.io/people/jon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/jon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ximeng</title>
+      <link>http://pharmb.io/people/ximeng/</link>
+      <pubDate>Mon, 02 Nov 2020 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/ximeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gökce Geylan</title>
+      <link>http://pharmb.io/people/gokce1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/gokce1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ash</title>
+      <link>http://pharmb.io/people/ash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/ash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paschalis</title>
+      <link>http://pharmb.io/people/paschalis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/paschalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oliver</title>
+      <link>http://pharmb.io/people/oliver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/oliver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlowBase</title>
+      <link>http://pharmb.io/tool/flowbase/</link>
+      <pubDate>Mon, 03 Apr 2017 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/flowbase/</guid>
+      <description>A Flow-based Programming (FBP) micro-framework for Go (Golang).
+The aim of FlowBase, as opposed to being a full-blown framework, is to provide just enough functionality on top of the existing FBP-like primives in Golang (channels with bounded buffers, asynchronous go-routines), to enable developing data processing applications with it. Thus the term &amp;ldquo;FBP micro-framework&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>RDFIO</title>
+      <link>http://pharmb.io/tool/rdfio/</link>
+      <pubDate>Wed, 16 Nov 2016 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/rdfio/</guid>
+      <description>A Semantic MediaWiki (SMW) extension that extends the RDF import and export functionality in SMW by providing import of arbitrary RDF triples, allowing full round-trip of data between the Semantic Web format RDF, and SMW.</description>
+    </item>
+    
+    <item>
+      <title>SciLuigi</title>
+      <link>http://pharmb.io/tool/sciluigi/</link>
+      <pubDate>Tue, 01 Nov 2016 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sciluigi/</guid>
+      <description>SciLuigi is a light-weight wrapper library around Spotify&amp;rsquo;s Luigi workflow system to make writing scientific workflows more fluent, flexible and modular</description>
+    </item>
+    
+    <item>
+      <title>Morgan Ekmefjord</title>
+      <link>http://pharmb.io/people/morgan/</link>
+      <pubDate>Mon, 17 Jun 2019 09:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/morgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AROS</title>
+      <link>http://pharmb.io/tool/aros/</link>
+      <pubDate>Sun, 03 May 2020 14:48:52 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/aros/</guid>
+      <description>AROS - An Open Source Automated Robotic System for biological laboratories
+This software stack can be used by research groups who would like to set up custom automated lab installations comprising multiple instruments. It is based on wrapping each instrument as REST services, and with a core written in Python for scheduling lab protocols.</description>
+    </item>
+    
+    <item>
+      <title>RDFIO</title>
+      <link>http://pharmb.io/project/rdfio/</link>
+      <pubDate>Tue, 16 Nov 2010 20:45:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/rdfio/</guid>
+      <description>RDFIO is a project to bring RDF data import functionality to Semantic MediaWiki (SMW) to enable using SMW as a collaborative platform for editing semantic data. This functionality enables important usage scenarios such as bootstrapping a wiki structure from RDF data, full round-trip between the RDF data format used on the Semantic Web and the SMW wiki text format and creating mash-ups combining automatically imported datasets and manually created summations and visualiations using the inline query language and visualization functionality available in SMW.</description>
+    </item>
+    
+    <item>
+      <title>Integrating Cell Morphology with Gene Expression and Chemical Structure to Aid Mitochondrial Toxicity Detection</title>
+      <link>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3 open positions: Biomedical Analyst (BMA), 1st Research Engineer and Researcher for cell profiling applications</title>
+      <link>http://pharmb.io/blog/open-positions-cbcs-node/</link>
+      <pubDate>Mon, 20 Dec 2021 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/open-positions-cbcs-node/</guid>
+      <description>Funded by an infrastructure grant from the Swedish Research Council, our research group at Uppsala University is now establishing a new node as part of the Chemical Biology Consortium Sweden, a national infrastructure for chemical biology. Our facility node will offer services focused on cell profiling and screening primarily using the Cell Painting assay.
+The positions are placed at the Department of Pharmaceutical Biosciences located at the Biomedical Center (BMC), Uppsala University, where you will work closely with a team of biologists, data scientists, and engineers in close collaboration to the Pharmaceutical Bioinformatics research group.</description>
+    </item>
+    
+    <item>
+      <title>In silico predictions of volume of distribution of drugs in man using conformal prediction performs on par with animal data-based models</title>
+      <link>http://pharmb.io/publication/2021-in-silico-predictions-volume-of-distribution-using-conformal-prediction/</link>
+      <pubDate>Tue, 23 Nov 2021 07:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-in-silico-predictions-volume-of-distribution-using-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELIXIR and Toxicology: a community in development</title>
+      <link>http://pharmb.io/publication/2021-elixir-and-toxicology-a-community-in-development/</link>
+      <pubDate>Mon, 08 Nov 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-elixir-and-toxicology-a-community-in-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to see colours: generating biologically relevant fluorescent labels from bright-field images</title>
+      <link>http://pharmb.io/publication/2021-learning-to-see-colours-generating-biologically-relevant-fluorescent-labels-from-bright-field-images/</link>
+      <pubDate>Fri, 15 Oct 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-learning-to-see-colours-generating-biologically-relevant-fluorescent-labels-from-bright-field-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy conformal prediction applied to large-scale bioactivity datasets and in federated learning</title>
+      <link>http://pharmb.io/publication/2021-synergy-conformal-prediction-large-scale-bioactivity-datasets-federated-learning/</link>
+      <pubDate>Sat, 02 Oct 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-synergy-conformal-prediction-large-scale-bioactivity-datasets-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating statistical and machine-learning approach for meta-analysis of Bisphenol A-exposure datasets reveals effects on mouse gene expression within pathways of apoptosis and cell survival</title>
+      <link>http://pharmb.io/publication/2021-integrating-statistical-machine-learning-meta-analysis-bisphenol-exposure/</link>
+      <pubDate>Mon, 27 Sep 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-integrating-statistical-machine-learning-meta-analysis-bisphenol-exposure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open-Source Modular Framework for Automated Pipetting and Imaging Applications</title>
+      <link>http://pharmb.io/publication/2021-open-source-modular-framework-automated-pipetting-imaging-applications/</link>
+      <pubDate>Fri, 24 Sep 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-open-source-modular-framework-automated-pipetting-imaging-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura</title>
+      <link>http://pharmb.io/people/laura/</link>
+      <pubDate>Thu, 26 Aug 2021 14:00:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/laura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison between Lab Variability and in silico Prediction Errors for the Unbound Fraction of Drugs in Human Plasma</title>
+      <link>http://pharmb.io/publication/2021-comparison-lab-variability-in-silico-prediction-errors-unbound-fraction-drugs-human-plasma/</link>
+      <pubDate>Sun, 04 Jul 2021 07:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-comparison-lab-variability-in-silico-prediction-errors-unbound-fraction-drugs-human-plasma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just published: &#39;A phenomics approach for antiviral drug discovery&#39; in BMC Biology</title>
+      <link>http://pharmb.io/blog/phenomics-antiviral-drugdiscovery-published/</link>
+      <pubDate>Sat, 03 Jul 2021 11:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/phenomics-antiviral-drugdiscovery-published/</guid>
+      <description>Our latest work “A phenomics approach for antiviral drug discovery” has now been published at BMC Biology! Jonne Rietdijk, Marianna Tampere, Aleksandra Pettke, Polina Georgiev, Maris Lapins, Ulrika Warpman-Berglund, Ola Spjuth, Marjo-Riitta Puumalainen &amp;amp; Jordi Carreras-Puigvert. A phenomics approach for antiviral drug discovery. BMC Biology 19, 156 (2021). DOI: 10.1186/s12915-021-01086-1
+ Youtube video describing the paper and the data publishing efforts. We developed a new method for phenotypic antiviral drug repurposing and discovery, based on morphological profiling of cells.</description>
+    </item>
+    
+    <item>
+      <title>Amelie Wenz joins the research group as new PhD Student</title>
+      <link>http://pharmb.io/blog/amelie-joins-team/</link>
+      <pubDate>Sat, 03 Jul 2021 09:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/amelie-joins-team/</guid>
+      <description>We welcome Amelie Wenz who recently started as a PhD Student in our group!
+What is your education, and what have you done earlier in your career? I started my education by studying Biological Science at the University of Konstanz in Germany. Here, I did my Bachelor thesis project in the field of molecular genetics, in a group focusing on the regulation of the cell cycle and the segregation of chromosomes in vertebrates.</description>
+    </item>
+    
+    <item>
+      <title>A phenomics approach for antiviral drug discovery</title>
+      <link>http://pharmb.io/publication/2021-rapid-phenomics-workflow-in-vitro-identification-antiviral-drugs/</link>
+      <pubDate>Fri, 02 Jul 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-rapid-phenomics-workflow-in-vitro-identification-antiviral-drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2021-synergy-conformal-prediction/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-synergy-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches for containerized scientific workflows in cloud environments with applications in life science</title>
+      <link>http://pharmb.io/publication/2020-approaches-for-containerized-scientific-workflows-in-cloud-environments-with-applications-in-life-science/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-approaches-for-containerized-scientific-workflows-in-cloud-environments-with-applications-in-life-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christa Ringers receives mobility grant from Norwegian Research Council to join our team as a PostDoc for a project in functional personalized medicine for colorectal cancer</title>
+      <link>http://pharmb.io/blog/christa-mobility-granted/</link>
+      <pubDate>Thu, 24 Jun 2021 09:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/christa-mobility-granted/</guid>
+      <description>We are excited to announce that Christa Ringers has received a prestigious 3-year mobility grant from Norwegian Research Council to join our team at Uppsala University as a PostDoc for 2 years and then continue the project at Norwegian University of Science and Technology (NTNU) in the group of Åsmund Flobak and Astrid Lægreid. In short, the project combine functional personalized medicine – using spheroids obtained from Norwegian patients – with morphological cell profiling implemented in our research group.</description>
+    </item>
+    
+    <item>
+      <title>Machine learning strategies when transitioning between biological assays</title>
+      <link>http://pharmb.io/publication/2021-machine-learning-strategies-when-transitioning-between-biological-assays/</link>
+      <pubDate>Thu, 03 Jun 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-machine-learning-strategies-when-transitioning-between-biological-assays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Machine Learning Life Cycle and the Cloud: Implications for Drug Discovery</title>
+      <link>http://pharmb.io/publication/2021-machine-learning-life-cycle-and-cloud-implications-for-drug-discovery/</link>
+      <pubDate>Wed, 19 May 2021 18:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-machine-learning-life-cycle-and-cloud-implications-for-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Holmberg joins the research group as new PhD Student</title>
+      <link>http://pharmb.io/blog/david-joins-team/</link>
+      <pubDate>Mon, 03 May 2021 09:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/david-joins-team/</guid>
+      <description>We welcome David Holmberg who recently started as a PhD Student in our group! David will work in the Autonomous Phenomics project.
+What is your education, and what have you done earlier in your career? Alright, so I am a graduate from Lund University - Faculty of Engineering (LTH) where I got myself a Master of Science in Engineering Nanoscience degree. I chose to specialize in essentially Bioinformatics and Applied Biophysics, which has given me a fairly broad background including some classical hardware, physics, and automation in addition to the biomedical, biotechnological, and Bioinformatics I&amp;rsquo;ve chosen to specialize in.</description>
+    </item>
+    
+    <item>
+      <title>Advances in Predictions of Oral Bioavailability of Candidate Drugs in Man with New Machine Learning Methodology</title>
+      <link>http://pharmb.io/publication/2021-advances-in-predictions-of-oral-bioavailability-of-candidate-drugs-in-man-with-new-machine-learning-methodology/</link>
+      <pubDate>Thu, 22 Apr 2021 19:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-advances-in-predictions-of-oral-bioavailability-of-candidate-drugs-in-man-with-new-machine-learning-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Calibration in Toxicological in Vitro Models with Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2021-assessing-the-calibration-in-toxicological-in-vitro-models-with-conformal-prediction/</link>
+      <pubDate>Mon, 12 Apr 2021 20:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-assessing-the-calibration-in-toxicological-in-vitro-models-with-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scConnect: a method for exploratory analysis of cell-cell communication based on single cell RNA sequencing data</title>
+      <link>http://pharmb.io/publication/2021-scconnect/</link>
+      <pubDate>Mon, 12 Apr 2021 18:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-scconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning models for lipid-nanoparticle-based drug delivery</title>
+      <link>http://pharmb.io/publication/2020-deep-learning-models-for-lipid-nanoparticle-based-drug-delivery/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-deep-learning-models-for-lipid-nanoparticle-based-drug-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid development of cloud-native intelligent data pipelines for scientific data streams using the HASTE Toolkit</title>
+      <link>http://pharmb.io/publication/2020-rapid-development-of-cloud-native-intelligent-data-pipelines-for-scientific-data-streams-using-the-haste-toolkit/</link>
+      <pubDate>Fri, 19 Mar 2021 14:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-rapid-development-of-cloud-native-intelligent-data-pipelines-for-scientific-data-streams-using-the-haste-toolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable federated machine learning with FEDn</title>
+      <link>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</link>
+      <pubDate>Sat, 27 Feb 2021 09:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open PhD student position in Applied Mathematics: Autonomous Decision Making in Automated Cell Profiling for Drug Discovery Applications</title>
+      <link>http://pharmb.io/blog/cim2021/</link>
+      <pubDate>Mon, 22 Feb 2021 16:15:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/cim2021/</guid>
+      <description>There is now an opportunity to apply for a PhD position in Applied Mathematics with a project from our group with the title: &amp;ldquo;Autonomous Decision Making in Automated Cell Profiling for Drug Discovery Applications&amp;rdquo;. The PhD student will also join CIM&amp;rsquo;s graduate school in interdisciplinary mathematics, including seminars, and workshops. They will be required to take at least 30hp (6 months full time study) PhD courses in mathematics, modelling, statistics, scientific computing, offered by e.</description>
+    </item>
+    
+    <item>
+      <title>Synergy Conformal Prediction for Regression</title>
+      <link>http://pharmb.io/publication/2019-synergy-conformal-prediction-regression/</link>
+      <pubDate>Wed, 10 Feb 2021 10:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-synergy-conformal-prediction-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy Conformal Prediction for Regression</title>
+      <link>http://pharmb.io/presentation/2021-synergy-conformal-prediction-regression/</link>
+      <pubDate>Sat, 06 Feb 2021 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2021-synergy-conformal-prediction-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting with confidence: Using conformal prediction in drug discovery</title>
+      <link>http://pharmb.io/publication/2020-predicting-with-confidence-conformal-prediction-drug-discovery/</link>
+      <pubDate>Fri, 01 Jan 2021 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-predicting-with-confidence-conformal-prediction-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open positions for 2 PhD students and 1 PostDoc in our lab</title>
+      <link>http://pharmb.io/blog/open-positions-precision-cancer-medicine-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/open-positions-precision-cancer-medicine-2021/</guid>
+      <description>After being awarded 2 grants from the Swedish Research Council, we are now strengthening our team to work towards autonomous phenomics and precision cancer medicine.For more information about the project and research group, see https://pharmb.io/project/autonomous-phenomics/. The precision cancer medicine applications are carried out as a collaboration with the Kallioniemi group (https://ki.se/en/onkpat/olli-kallioniemis-group) at Karolinska Institutet.
+Position 1: PhD Student in Pharmaceutical Science with a focus on automated phenotypic drug profiling We are currently looking for an ambitious and highly motivated PhD student with a good background in cell biology as well as interest in molecular biology, high-throughput screening and bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning with conformal prediction for hierarchical analysis of large-scale whole-slide tissue images</title>
+      <link>http://pharmb.io/publication/2020-deep-learning-with-conformal-prediction-for-hierarchical-analysis-of-large-scale-whole-slide-tissue-images/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-deep-learning-with-conformal-prediction-for-hierarchical-analysis-of-large-scale-whole-slide-tissue-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomics - the stethoscope for the 21st century</title>
+      <link>http://pharmb.io/publication/2020-metabolomics-stethoscope-21st-century/</link>
+      <pubDate>Thu, 03 Dec 2020 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-metabolomics-stethoscope-21st-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our HASTE team wins the Adipocyte Cell Imaging Challenge organized by AI Sweden and AstraZeneca</title>
+      <link>http://pharmb.io/blog/haste-team-wins-adipocyte-cell-imaging-challenge-2020/</link>
+      <pubDate>Mon, 23 Nov 2020 11:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/haste-team-wins-adipocyte-cell-imaging-challenge-2020/</guid>
+      <description>We are very happy to announce that the HASTE team has emerged as the winners to the Adipocyte Cell Imaging Challenge that was organized by AstraZeneca and AI Sweden as a challenge to the AI community to solve the problem of labeling cell images without requiring toxic preprocessing of cell cultures. From our group the members were Phil Harrison and Ebba Bergman. The task was to utilize machine learning to combine the advantages of bright field and fluorescence imaging and at the same time avoid the toxic effects of cell labeling by predicting the content of the fluorescence images from the corresponding bright field images.</description>
+    </item>
+    
+    <item>
+      <title>Smart Resource Management for Data Streaming using an Online Bin-packing Strategy</title>
+      <link>http://pharmb.io/publication/2020-smart-resource-management-data-streaming-online-bin-packing/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-smart-resource-management-data-streaming-online-bin-packing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open position as Data Engineer in our lab</title>
+      <link>http://pharmb.io/blog/data-engineer-position-2020/</link>
+      <pubDate>Tue, 10 Nov 2020 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/data-engineer-position-2020/</guid>
+      <description>We are looking for a skilled Data Engineer to join our team!
+Tasks In collaboration with other researchers, develop, implement and test systems for AI-controlled automated microscopes. The task includes interacting directly with the microscope and establishing pipelines where models trained on previously taken images decide and control where the microscope should take images in the next step to reach a specific goal. We are looking for a candidate with a genuine interest in technology and automation, and who enjoys solving problems including both practical interaction with hardware (robots, microscopes) and different types of software.</description>
+    </item>
+    
+    <item>
+      <title>Swedish Research Council will fund our project &#39;Autonomous Phenotypic Drug Profiling&#39;</title>
+      <link>http://pharmb.io/blog/autonomous-phenomics-vr-funded-2020/</link>
+      <pubDate>Thu, 29 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/autonomous-phenomics-vr-funded-2020/</guid>
+      <description>We are very happy to announce that the Swedish Research Council has decided to fund the project Autonomous Phenotypic Drug Profiling under the call Project Grant 2020 for Natural end engineering science (VR-NT 2020) where Prof. Ola Spjuth is the main applicant. In this project we will develop a fully automated cell profiling lab as well as AI methods for intelligent decision making, and apply them to identify optimal drug treatments using cancer cell lines.</description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth interviewed at the faculty</title>
+      <link>http://pharmb.io/blog/interview-spjuth-faculty/</link>
+      <pubDate>Tue, 20 Oct 2020 14:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/interview-spjuth-faculty/</guid>
+      <description> Group leader Ola Spjuth was interviewed and presented at the faculty in a post entitled Self-learning machines take the step into drug discovery
+Link to the full article here. </description>
+    </item>
+    
+    <item>
+      <title>Opportunity for PhD or postdocs at Centre for Digital Life Norway to apply for 3-year project in our group</title>
+      <link>http://pharmb.io/blog/postdoc-grant-application-opportunity-dln-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/postdoc-grant-application-opportunity-dln-2020/</guid>
+      <description>For a PhD or Postdoc involved in a research project at the Centre for Digital Life Norway or is a member of its research school, there is now an opportunity to apply for a three-year researcher project with international mobility to join our research group at Uppsala University, which is affiliated with SciLifeLab (see our SciLifeLab Research Group Webpage).
+Our team matches the criteria very well, as we are extremely well aligned with the SciLifeLab&amp;rsquo;s focus on data driven life science within cell biology.</description>
+    </item>
+    
+    <item>
+      <title>Jordi Carreras-Puigvert joins the research group</title>
+      <link>http://pharmb.io/blog/jordi-joins-team/</link>
+      <pubDate>Thu, 24 Sep 2020 11:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/jordi-joins-team/</guid>
+      <description>We welcome Jordi Carreras-Puigvert who recently started as a Lecturer in our group. Jordi is a strategic recruitment from Karolinska Institutet, and he will establish his own research topic in the group working on cancer drug screening.
+Explain a bit what you have done in your earlier research career! I did my PhD in the Department of Toxicology of the Leiden Academic Centre for Drug Research, in Leiden, the Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Target Profiles with Confidence as a Service using Docking Scores</title>
+      <link>http://pharmb.io/publication/2020-predicting-target-profiles-with-confidence-as-a-service-using-docking-scores/</link>
+      <pubDate>Tue, 22 Sep 2020 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-predicting-target-profiles-with-confidence-as-a-service-using-docking-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreina presenting at 19th workshop on Constraint Modelling and Reformulation</title>
+      <link>http://pharmb.io/blog/cp-design-microplates/</link>
+      <pubDate>Wed, 09 Sep 2020 14:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/cp-design-microplates/</guid>
+      <description>Andreina Francisco in our team presented on 2020-09-07 a talk with the title A Constraint Programming Approach to Microplate Layout Design at the The 19th workshop on Constraint Modelling and Reformulation in Louvain-la-Neuve, Belgium.
+A video recording of her presentation is available.</description>
+    </item>
+    
+    <item>
+      <title>A Constraint Programming Approach to Microplate Layout Design</title>
+      <link>http://pharmb.io/presentation/2020-aconstraint-programming-approach-to-microplate-layout-design/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2020-aconstraint-programming-approach-to-microplate-layout-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth appointed Professor in Pharmaceutical Bioinformatics</title>
+      <link>http://pharmb.io/blog/ola-spjuth-professor/</link>
+      <pubDate>Sat, 22 Aug 2020 14:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/ola-spjuth-professor/</guid>
+      <description>Group leader Ola Spjuth was appointed Professor in Pharmaceutical Bioinformatics at Department of Pharmaceutical Biosciences, Uppsala University, from July 1st, 2020.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous phenomics for drug/compound profiling</title>
+      <link>http://pharmb.io/project/autonomous-phenomics/</link>
+      <pubDate>Sun, 16 Aug 2020 11:05:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/autonomous-phenomics/</guid>
+      <description>The purpose of this project is to improve studies of mechanisms and pathways for compounds, such as drug or environmental contaminants, with intelligent data generation, automation and AI. To this end we are developing an intelligent system for phenotypic cell profiling (phenomics) that is able to autonomously suggest the next most informative experiment, perform it using an automated lab, learn from the results, and iterate.
+The theoretical experimental space of biomedical research is vast.</description>
+    </item>
+    
+    <item>
+      <title>Andreina Francisco new Postdoc in the group</title>
+      <link>http://pharmb.io/blog/andreina-new-postdoc/</link>
+      <pubDate>Mon, 20 Jul 2020 13:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/andreina-new-postdoc/</guid>
+      <description>We welcome Andreina who recently started a 2-year postdoc position in our group in the project AI methods for decision making in automated biological laboratories. The position is part of the strategic research area effort eSSENCE´s PostDoc-program towards new e-science methods and tools for artificial intelligence in research.
+Can you describe the topic of your PhD? I did my PhD in Computer Science, more precisely in an area called constraint programming, or CP for short.</description>
+    </item>
+    
+    <item>
+      <title>New project for profiling coronavirus-infected cells funded by SciLifeLab and KAW!</title>
+      <link>http://pharmb.io/blog/scilife-covid19-funded/</link>
+      <pubDate>Wed, 06 May 2020 13:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/scilife-covid19-funded/</guid>
+      <description>Our recent grant application Multi-level profiling of Coronavirus-infected cells by combining Viral Entry Assays, Cell Painting, and DrugSEQ was awarded 500 KSEK by SciLifeLab and Knut och Alice Wallenbergs Stiftelse in a joint effort with others to tackle COVID-19.
+Our team thereby joins the research area SciLifeLab Drug discovery and repurposing of drugs.
+Our group leads a project to profile corona-infected cells using our Cell Painting methodology, and combine cell morphology data with RNAseq data from the Nelander lab using their DrugSEQ methodology.</description>
+    </item>
+    
+    <item>
+      <title>Using Predicted Bioactivity Profiles to Improve Predictive Modelling</title>
+      <link>http://pharmb.io/publication/2020-using-predicted-bioactivity-profiles-to-improve-predictive-modelling/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-using-predicted-bioactivity-profiles-to-improve-predictive-modelling/</guid>
+      <description>Title:</description>
+    </item>
+    
+    <item>
+      <title>MaRe: Container-Based Parallel Computing with Data Locality</title>
+      <link>http://pharmb.io/publication/2020-mare-container-based-parallel-computing-with-data-locality/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-mare-container-based-parallel-computing-with-data-locality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdoc position available: AI methods for large-scale microscopy imaging</title>
+      <link>http://pharmb.io/blog/postdoc-pos-ai-haste-2020/</link>
+      <pubDate>Fri, 20 Mar 2020 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/postdoc-pos-ai-haste-2020/</guid>
+      <description>We are currently looking for an ambitious, highly motivated Postdoc with a good background in AI and imaging to join our research group where we have built up a robotized cell profiling system with high-content microscopy imaging as primary readout. The successful candidate will join an interdisciplinary team of researchers and participate in a project aiming to develop autonomous laboratories with applications in systems pharmacology and systems toxicology. For more information on the group, see https://pharmb.</description>
+    </item>
+    
+    <item>
+      <title>NeIC Glenna project visits our group</title>
+      <link>http://pharmb.io/blog/neic-glenna-final-meeting/</link>
+      <pubDate>Tue, 10 Mar 2020 13:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/neic-glenna-final-meeting/</guid>
+      <description>The NeIC project Glenna (https://neic.no/glenna/) had its final meeting in Uppsala on March 10, 2020. Our group&amp;rsquo;s involvement has been in the project towards establishing a Nordic AI collaboration, and in particular on:
+1) Evaluating KubeFlow for portable AI models (Oliver Stein).
+2) Joining GPU nodes from CSC into SSC for AI modeling using Kubernetes and OpenShift (Anders Larsson).
+3) Developing the Lean AI Stack open source project (Morgan Ekmefjord).</description>
+    </item>
+    
+    <item>
+      <title>Attending the conference: Phenotypic Screening, High-Content Analysis and AI: Overcoming the Challenges</title>
+      <link>http://pharmb.io/blog/ai-high-content-imaging-astrazeneca-2020/</link>
+      <pubDate>Mon, 02 Mar 2020 14:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/ai-high-content-imaging-astrazeneca-2020/</guid>
+      <description>5 people of our group visited the conference: Phenotypic Screening, High-Content Analysis and AI: Overcoming the Challenges that was held March 2-3rd at AstraZeneca, Gothenburg, Sweden.
+Ola Spjuth shared the session AI and Machine Learning where also Phil Harrison had an oral presentation: Deep learning models for RNA- based drug delivery using time-lapse microscopy image data.
+We were all very excited as Jonne Rietdijk won the best poster award for 10,000 SEK!</description>
+    </item>
+    
+    <item>
+      <title>Postdoc position available: AI methods for decision making in automated biological laboratories</title>
+      <link>http://pharmb.io/blog/postdoc-pos-ai-decisions-2020/</link>
+      <pubDate>Thu, 20 Feb 2020 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/postdoc-pos-ai-decisions-2020/</guid>
+      <description>We are currently looking for an ambitious, highly motivated Postdoc with a good background in AI and an interest in automation with robotics in the field of life science, to join the research group of Assoc. Prof. Ola Spjuth (group website:https://www.farmbio.uu.se/research/pharmaceutical-bioinformatics/ ). The group has built up a robotized cell profiling system with high-content microscopy imaging as primary readout, and the purpose of the project is to train models on this data and develop methods for intelligent decision making when designing future experiments.</description>
+    </item>
+    
+    <item>
+      <title>Towards automated phenotypic cell profiling with high-content imaging</title>
+      <link>http://pharmb.io/presentation/2020-towards-automated-phenotypic-cell-profiling-with-highcontent-imaging/</link>
+      <pubDate>Thu, 06 Feb 2020 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2020-towards-automated-phenotypic-cell-profiling-with-highcontent-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presenting at SciLifeLab Chemical Biology Seminar Series</title>
+      <link>http://pharmb.io/blog/2020-presenting-chemical-biology-seminar/</link>
+      <pubDate>Thu, 06 Feb 2020 01:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/2020-presenting-chemical-biology-seminar/</guid>
+      <description>On Feb 6th 2020, Ola Spjuth held a presentation at Karolinska Institutet, Stockholm in the SciLifeLab Chemical Biology Seminar Series. Approx 50 people attended to this event organized primarily by Jordi Carreras Puigvert. The title of the talk was: Towards automated phenotypic cell profiling with high-content imaging.  Abstract Phenotypic profiling of cells with high-content imaging is emerging as an important methodology with high predictive power. The true power of these methods comes when integrated into automated, robotized systems that can be run continuously and not restricted to batch analysis.</description>
+    </item>
+    
+    <item>
+      <title>4 posters at the 10th Pharmaceutical Profiling Symposium</title>
+      <link>http://pharmb.io/blog/10th-profiling-symposium-2020/</link>
+      <pubDate>Thu, 30 Jan 2020 14:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/10th-profiling-symposium-2020/</guid>
+      <description>Our research group presented 4 posters at the 10th Pharmaceutical Profiling Symposium at Uppsala University, on January 30th, 2020. It was a very nice event with 150 registered participants, and talk from varying areas of profiling.
+Posters presented: Automating Cell Profiling of Drugs with Cell Painting.
+Spjuth, Ola; Aggarwal, Tanya; Georgieva, Polina; Larsson, Anders, Schaal Wesley
+figshare. Poster. (2020) https://doi.org/10.6084/m9.figshare.11777253.v1
+Cell profiling of compounds using Quantitative Phase Imaging
+Victor Malmsjö, Anton Davidsson, Philip J Harrison, Tanya Aggarwal, Polina Georgiev, Ola Spjuth.</description>
+    </item>
+    
+    <item>
+      <title>Automating Cell Profiling of Drugs with Cell Painting</title>
+      <link>http://pharmb.io/poster/2020-automating-cell-profiling-of-drugs-with-cell-painting/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2020-automating-cell-profiling-of-drugs-with-cell-painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards reproducible computational drug discovery</title>
+      <link>http://pharmb.io/publication/2020-towards-reproducible-computational-drug-discovery/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2020-towards-reproducible-computational-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laeeq Ahmed successfully defended his PhD thesis: &#39;Scalable Analysis of Large Datasets in Life Sciences&#39;</title>
+      <link>http://pharmb.io/blog/laeeq-phd-defence/</link>
+      <pubDate>Tue, 03 Dec 2019 13:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/laeeq-phd-defence/</guid>
+      <description>Today, Laeeq Ahmed who is affiliated with the group successfully defended his thesis, titled:
+&amp;ldquo;Scalable Analysis of Large Datasets in Life Sciences&amp;ldquo;
+We congratulate Laeeq for his success and wish him well in his future career!
+ Supervisor: Prof. Erwin Laure, Royal Institute of Technology, Stockholm Co-Supervisor: Assoc Prof. Ola Spjuth, Uppsala University Co-supervisor: Dr Åke Edlund, Chief Domain Architect, Analytics BI &amp;amp; AI at Telia.  Thesis abstract We are experiencing a deluge of data in all fields of scientific and business research, particularly in the life sciences, due to the development of better instrumentation and the rapid advancements that have occurred in information technology in recent times.</description>
+    </item>
+    
+    <item>
+      <title>Phenotypic Drug Screening</title>
+      <link>http://pharmb.io/project/phenptypic-drug-discovery/</link>
+      <pubDate>Fri, 29 Nov 2019 09:05:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/phenptypic-drug-discovery/</guid>
+      <description>The purpose of this project is to apply phenotypic profiling for the discovery of novel or medically available drugs against cancer, with special initial interest on Sarcoma.
+Overview Phenotypic drug discovery (PDD) is one of the two major branches in the drug discovery field, the other one being in vitro targeted screening. One of the main approaches of PDD is phenotypic profiling of cells by high-throughput high-content microscopy. This allows for the identification of morphological changes in the cell that are indicative, for instance, of the mode of action (MoA) of a drug, novel compound or biological.</description>
+    </item>
+    
+    <item>
+      <title>AI/Machine Learning with confidence in Drug Discovery</title>
+      <link>http://pharmb.io/project/ai-confidence-drugdiscovery/</link>
+      <pubDate>Wed, 20 Nov 2019 09:05:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/ai-confidence-drugdiscovery/</guid>
+      <description>This project aims at developing computational methods, tools and AI models to aid the drug discovery process. We primarily focus on ligand-based methods such as structure-activity relationships (SAR or QSAR). A special emphasis is on achieving a valid measure of confidence in predictions, and we apply Conformal Prediction methodology to this end. In order to analyze large-scale data we make use of modern e-infrastructure such as high-performance computing clusters, cloud computing resources, containerized microservice environments such as Kubernetes, and data analytics platforms such as Apache Spark.</description>
+    </item>
+    
+    <item>
+      <title>On-demand virtual research environments using microservices</title>
+      <link>http://pharmb.io/publication/2019-on-demand-virtual-research-environments-using-microservices/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-on-demand-virtual-research-environments-using-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One thousand plant transcriptomes and the phylogenomics of green plants</title>
+      <link>http://pharmb.io/publication/2019-one-thousand-plant-transcriptomes-and-the-phylogenomics-of-green-plants/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-one-thousand-plant-transcriptomes-and-the-phylogenomics-of-green-plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Automated AI-guided Drug Discovery Labs</title>
+      <link>http://pharmb.io/presentation/2019-towards-automated-ai-guided-drug-discovery-labs/</link>
+      <pubDate>Wed, 16 Oct 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-towards-automated-ai-guided-drug-discovery-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presenting at Swedish e-Science Academy 2019</title>
+      <link>http://pharmb.io/blog/presenting-at-escience-academy2019/</link>
+      <pubDate>Wed, 16 Oct 2019 01:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/presenting-at-escience-academy2019/</guid>
+      <description>Ola Spjuth gave an invited talk at the conference Swedish e-Science Adademy 2019 in Lund, Sweden on 16 October 2019. The title of the talk was: Towards Automated AI-guided Drug Discovery Labs.
+
+Abstract High-content microscopy in automated laboratories present many challenges for storing and processing data, and to build AI models to aid decision making. We have established an informatics system to serve a robotized cell profiling setup with incubators, liquid handling and high-content microscopy for microplates.</description>
+    </item>
+    
+    <item>
+      <title>Marco Capuccini successfully defended his PhD thesis: Enabling Scalable Data Analysis on Cloud Resources with Applications in Life Science</title>
+      <link>http://pharmb.io/blog/marco-phd-defence/</link>
+      <pubDate>Thu, 10 Oct 2019 16:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/marco-phd-defence/</guid>
+      <description>Today, Marco Capuccini from the group successfully defended his thesis, titled:
+&amp;ldquo;Enabling Scalable Data Analysis on Cloud Resources with Applications in Life Science&amp;ldquo;
+CONGRATULATIONS MARCO!  Supervisor: Assoc Prof. Ola Spjuth, Uppsala University Co-supervisor: Assist. Prof. Salman Toor, Uppsala University Co-supervisor: Prof. Lars Carlsson, Head of AI at Stena Line  Thesis abstract Over the past 20 years, the rise of high-throughput methods in life science has enabled research laboratories to produce massive datasets of biological interest.</description>
+    </item>
+    
+    <item>
+      <title>Open position: PhD Project in Cell Biology with a focus on Intelligent Automation</title>
+      <link>http://pharmb.io/blog/phdposition2019-cellbio/</link>
+      <pubDate>Mon, 07 Oct 2019 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/phdposition2019-cellbio/</guid>
+      <description>We are looking for an ambitious, highly motivated PhD student with a good background in cell biology as well as interest in molecular biology, high-throughput screening, automation and bioinformatics. The successful candidate will join an interdisciplinary team of researchers and participate in a project to build up an intelligent, automated laboratory for cell profiling, with applications in pharmacology and toxicology.
+Suitable background is a MSc in cell/molecular biology/biotechnology or equivalent field and preferably previous laboratory experience.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Zakrisson</title>
+      <link>http://pharmb.io/people/daniel/</link>
+      <pubDate>Sun, 29 Sep 2019 09:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/daniel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://pharmb.io/home/</link>
+      <pubDate>Fri, 20 Sep 2019 11:28:22 +0200</pubDate>
+      
+      <guid>http://pharmb.io/home/</guid>
+      <description>Welcome to the Pharmaceutical Bioinformatics research group at Uppsala University
+Principal Investigator: Ola Spjuth, Professor.
+Research focus: Intelligent systems with AI and machine learning in drug discovery and chemical safety The Pharmaceutical Bioinformatics research group focuses on mathematical and statistical modeling, informatics and quantitative analysis of pharmacological systems. We develop methods, algorithms and software to study and model pharmaceutical interactions, and a key focus in the group is how artificial intelligence (AI) and machine learning can aid the drug discovery process; e.</description>
+    </item>
+    
+    <item>
+      <title>Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets</title>
+      <link>http://pharmb.io/presentation/2019-combining-prediction-intervals-on-multi-source-non-disclosed-regression-datasets/</link>
+      <pubDate>Tue, 10 Sep 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-combining-prediction-intervals-on-multi-source-non-disclosed-regression-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presenting at COPA 2019</title>
+      <link>http://pharmb.io/blog/presenting-at-copa2019/</link>
+      <pubDate>Tue, 10 Sep 2019 01:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/presenting-at-copa2019/</guid>
+      <description>Ola Spjuth presented two accepted papers at the 8th Symposium on Conformal and Probabilistic Prediction with Applications in Varna, Bulgaria on 9-11 sept 2019. The two papers below are now published in Proceedings of Machine Learning Research (PMLR) volume 105.
+
+Paper 1: Split Knowledge Transfer in Learning Under Privileged Information Framework Gauraha, N., Söderdahl, F. and Spjuth, O.. Split Knowledge Transfer in Learning Under Privileged Information Framework.
+Proceedings of Machine Learning Research (PMLR).</description>
+    </item>
+    
+    <item>
+      <title>Split Knowledge Transfer in Learning Under Privileged Information Framework</title>
+      <link>http://pharmb.io/presentation/2019-split-knowledge-transfer-in-learning-under-privileged-information-framework/</link>
+      <pubDate>Mon, 09 Sep 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-split-knowledge-transfer-in-learning-under-privileged-information-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Retreat at Krusenberg Mansion</title>
+      <link>http://pharmb.io/blog/retreat2019/</link>
+      <pubDate>Wed, 28 Aug 2019 11:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/retreat2019/</guid>
+      <description>On August 27-28, our research group was on a retreat to Krusenberg Mansion, where we had good presentations and discussed planning and strategies on research and education activities in the group. In the evening the social program involved Sauna and a nice dinner at the mansion. We had very good weather, as you can see from the photos below!
+Workshop and discussions.
+Dinner at Krusenberg Mansion.
+The sauna in evening.</description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted for COPA2019 and published in PMLR</title>
+      <link>http://pharmb.io/blog/papers-accepted-copa2019/</link>
+      <pubDate>Tue, 20 Aug 2019 01:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/papers-accepted-copa2019/</guid>
+      <description>We are very proud to announce that we this year had 2 papers accepted to the 8th Symposium on Conformal and Probabilistic Prediction with Applications! Ola Spjuth will present the papers in Golden Sands, Bulgaria on 9-11 sept 2019.
+
+Paper 1: Split Knowledge Transfer in Learning Under Privileged Information Framework Gauraha, N., Söderdahl, F. and Spjuth, O.. Split Knowledge Transfer in Learning Under Privileged Information Framework.
+Proceedings of Machine Learning Research (PMLR).</description>
+    </item>
+    
+    <item>
+      <title>Split Knowledge Transfer in Learning Under Privileged Information Framework</title>
+      <link>http://pharmb.io/publication/2019-split-knowledge-transfer-learning-under-privileged-information/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-split-knowledge-transfer-learning-under-privileged-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Prediction Intervals on Multi-Source Non-Disclosed Regression Datasets</title>
+      <link>http://pharmb.io/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-combining-prediction-intervals-multi-source-non-disclosed-regression-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 Open positions: PhD student and Lecturer; focus on AI/machine learning on large-scale data</title>
+      <link>http://pharmb.io/blog/recruitment-phd-lecturer-2019/</link>
+      <pubDate>Thu, 04 Jul 2019 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/recruitment-phd-lecturer-2019/</guid>
+      <description>Our research group has 2 open positions: One PhD position and one Lecturer position. Deadline for both applications is 2019-08-12.
+PhD Position Our group is participating in the HASTE project (Hierarchical Analysis of Temporal and Spatial Image Data) and we are now seeking a PhD Student to join our team, with placement in the research group of Assoc. Prof. Ola Spjuth. Co-supervisors will be Prof. Carolina Wählby and Assoc. Prof.</description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presented at SLAS Europe 2019</title>
+      <link>http://pharmb.io/blog/olas-pres-slaseurope2019/</link>
+      <pubDate>Fri, 28 Jun 2019 12:49:42 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/olas-pres-slaseurope2019/</guid>
+      <description>Ola Spjuth presented on the SLAS Europe 2019 conference, with the title of the presentation: &amp;ldquo;Building an informatics solution to sustain AI-guided cell profiling with high-content microscopy imaging&amp;ldquo;
+Abstract High-content microscopy in automated laboratories present many challenges for storing and processing data, and to build AI models to aid decision making. We have established an informatics system to serve a robotized cell profiling setup with incubators, liquid handling and high-content microscopy for microplates.</description>
+    </item>
+    
+    <item>
+      <title>Building an informatics solution to sustain AI-guided cell profiling with high-content microscopy imaging</title>
+      <link>http://pharmb.io/presentation/2019-building-an-informatics-solution-to-sustain-ai-guided-cell-profiling-with-high-content-microscopy-imaging/</link>
+      <pubDate>Fri, 28 Jun 2019 10:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-building-an-informatics-solution-to-sustain-ai-guided-cell-profiling-with-high-content-microscopy-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep dynamical modelling of drug delivery based on microscopy image data</title>
+      <link>http://pharmb.io/poster/2019-dynamic-model/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2019-dynamic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPipe workflow tool published in GigaScience and CiSe</title>
+      <link>http://pharmb.io/blog/scipipe-published-in-gigascience/</link>
+      <pubDate>Sat, 25 May 2019 01:14:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/scipipe-published-in-gigascience/</guid>
+      <description>A few weeks ago the workflow tool we have developed and used in the group, SciPipe, was published in Gigascience. This article quite comprehensively summarizes our lessons learned in scientific workflow usage and design over the last couple of years, reviewing a dozen other tools, and carefully motivates and explains the design of this new workflow library. An accompanying popular science views article was also just published in the IEEE magazine &amp;ldquo;Computers in Science and Engineering&amp;rdquo;, providing some further info on our views on SciPipe and its direction.</description>
+    </item>
+    
+    <item>
+      <title>Software engineering for scientific big data analysis</title>
+      <link>http://pharmb.io/publication/2019-software-engineering-for-scientific-big-data-analysis/</link>
+      <pubDate>Thu, 23 May 2019 18:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-software-engineering-for-scientific-big-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPipe-Turning Scientific Workflows into Computer Programs</title>
+      <link>http://pharmb.io/publication/2019-scipipe-turning-scientific-workflows-computer-programs/</link>
+      <pubDate>Mon, 06 May 2019 23:59:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-scipipe-turning-scientific-workflows-computer-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Image Cytometry: A Review</title>
+      <link>http://pharmb.io/publication/2019-deep-learning-in-image-cytometry-review/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-deep-learning-in-image-cytometry-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciPipe: A workflow library for agile development of complex and dynamic bioinformatics pipelines</title>
+      <link>http://pharmb.io/publication/2019-scipipe/</link>
+      <pubDate>Fri, 26 Apr 2019 23:59:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-scipipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of gene expression and phenotypic profiling data as quantitative descriptors for predicting drug targets and mechanisms of action</title>
+      <link>http://pharmb.io/publication/2019-gene-expression-phenotypic-profiling-predicting-drug-targets-mechanisms/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-gene-expression-phenotypic-profiling-predicting-drug-targets-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating the process of continuously prioritising data, updating and deploying AI models in a robotised lab for drug discovery</title>
+      <link>http://pharmb.io/presentation/2019-automating-ai-modeling-datainnovationsummit/</link>
+      <pubDate>Fri, 15 Mar 2019 15:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2019-automating-ai-modeling-datainnovationsummit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presented at Data Innovation Summit 2019</title>
+      <link>http://pharmb.io/blog/olas-pres-dis2019/</link>
+      <pubDate>Fri, 15 Mar 2019 12:49:42 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/olas-pres-dis2019/</guid>
+      <description>Ola Spjuth presented on the Data Innovation Summit 2019 conference, with the title of the presentation: &amp;ldquo;Automating the process of continuously prioritising data, updating and deploying AI models in a robotised lab for drug discovery&amp;ldquo;
+Abstract Microscopes are capable of producing vast amounts of data, and when used in automated laboratories both the number and size of images present many challenges for storing, categorizing, analyzing, annotating, and transforming the data into actionable information that can used for decision making; either by humans or machines.</description>
+    </item>
+    
+    <item>
+      <title>Alterations in the tyrosine and phenylalanine pathways revealed by biochemical profiling in cerebrospinal fluid of Huntington’s disease subjects</title>
+      <link>http://pharmb.io/publication/2019-alterations-tyrosine-phenylalanine-pathways-biochemical-profiling-cerebrospinal-fluid-huntington-disease/</link>
+      <pubDate>Mon, 11 Mar 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-alterations-tyrosine-phenylalanine-pathways-biochemical-profiling-cerebrospinal-fluid-huntington-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperable and scalable data analysis with microservices: Applications in Metabolomics</title>
+      <link>http://pharmb.io/publication/2019-interoperable-scalable-data-analysis-microservices-applications-metabolomics/</link>
+      <pubDate>Sat, 09 Mar 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-interoperable-scalable-data-analysis-microservices-applications-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container-based bioinformatics with Pachyderm</title>
+      <link>http://pharmb.io/publication/2019-container-based-bioinformatics-with-pachyderm/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-container-based-bioinformatics-with-pachyderm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing and containerization in Big Data analytics with application in life science</title>
+      <link>http://pharmb.io/poster/2019-cloud/</link>
+      <pubDate>Mon, 18 Feb 2019 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2019-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-read sequencing for clinical applications</title>
+      <link>http://pharmb.io/project/long-read-sequencing-diagnostics/</link>
+      <pubDate>Fri, 15 Feb 2019 09:05:04 +0203</pubDate>
+      
+      <guid>http://pharmb.io/project/long-read-sequencing-diagnostics/</guid>
+      <description>Long-read sequencing is a new technology that offers important advantages for medical diagnostics as compared to the short-read sequencing technologies that are currently dominating the market. We have together with clinicians developed a data analysis product (CLAMP) and implemented the world’s first clinical routine diagnostics of leukemia mutations using long-read sequencing, and are now expanding to other applications. Left: The project aims to provide a complete informatics system for working with long-read sequencing in clinical diagnostics, including an automated analysis module, a searchable database, and a user interface.</description>
+    </item>
+    
+    <item>
+      <title>PhenoMeNal: Processing and analysis of Metabolomics data in the Cloud </title>
+      <link>http://pharmb.io/publication/2019-phenomenal-processing-and-analysis-of-metabolomics-data-in-the-cloud/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-phenomenal-processing-and-analysis-of-metabolomics-data-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemical differences in cerebrospinal fluid between secondary progressive and relapsing-remitting multiple sclerosis</title>
+      <link>http://pharmb.io/publication/2019-biochemical-differences-in-cerebrospinal-fluid-between-secondary-progressive-and-relapsing-remitting-multiple-sclerosis/</link>
+      <pubDate>Tue, 22 Jan 2019 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-biochemical-differences-in-cerebrospinal-fluid-between-secondary-progressive-and-relapsing-remitting-multiple-sclerosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning with deep convolutional neural network for classifying cellular morphological changes</title>
+      <link>http://pharmb.io/publication/2019-transfer-learning-with-deep-convolutional-neural-network-for-classifying-cellular-morphological-changes/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2019-transfer-learning-with-deep-convolutional-neural-network-for-classifying-cellular-morphological-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy-Kubernetes integration: scaling bioinformatics workflows in the cloud</title>
+      <link>http://pharmb.io/publication/2018-galaxy-kubernetes/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-galaxy-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Successful FORMAS grant proposal: Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory</title>
+      <link>http://pharmb.io/blog/formas-toxicity-mechanisms-ai-automated-system/</link>
+      <pubDate>Thu, 15 Nov 2018 13:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/formas-toxicity-mechanisms-ai-automated-system/</guid>
+      <description>Group leader Ola Spjuth received a 3 MSEK grant from the FORMAS Future Research Leaders call in 2018, for a project with the title:
+Exploring toxicity mechanisms for environmental contaminants using an AI-controlled automated laboratory As the number of potential harmful substances grows and the environmental load of many among those increases, there is an urgent need to accelerate the process to study and evaluate the potential toxic effects to humans.</description>
+    </item>
+    
+    <item>
+      <title>Predicting off-target binding profiles with confidence using Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-ptp/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-ptp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning with deep convolutional neural networks for classifying cellular morphological changes</title>
+      <link>http://pharmb.io/poster/2018-transfer-cnn/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-transfer-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Probabilistic Predictions of Metabolism using Venn-Predictors</title>
+      <link>http://pharmb.io/poster/2018-metabolic-predictions/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-metabolic-predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A microservice-based infrastructure for ligand-based modelling</title>
+      <link>http://pharmb.io/poster/2018-infrastructure/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaRe: Leverage Docker and Spark to Scale Any Data Processing Tool in MapReduce Fashion</title>
+      <link>http://pharmb.io/poster/2018-mare/</link>
+      <pubDate>Wed, 17 Oct 2018 11:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2018-mare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vendor-agnostic Apache Spark deployments with Terraform</title>
+      <link>http://pharmb.io/presentation/2018-vendor-agnostic-spark/</link>
+      <pubDate>Mon, 08 Oct 2018 16:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-vendor-agnostic-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Lampa presented at Go Stockholm Conference</title>
+      <link>http://pharmb.io/blog/saml-gostockholm2018/</link>
+      <pubDate>Sat, 06 Oct 2018 12:49:42 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/saml-gostockholm2018/</guid>
+      <description>Samuel Lampa presented on the Go Stockholm 2018 conference, on the topic of &amp;ldquo;Using Flow-based programming to write tools and workflows for Scientific Computing in Go&amp;rdquo; (Slides available in the link).
+The talk described first some findings from our research on how Flow-based programming can be used in Go almost without frameworks, and ending with mentioning libraries developed in the group based on these principles:
+ FlowBase - Flow-based programming unframework) rdf2smw - Data conversion tool developed with FlowBase SciPipe - Workflow library developed with Flow-based programming principles  The talk was recorded, and should show up on YouTube later (this post will be updated).</description>
+    </item>
+    
+    <item>
+      <title>Using Flow-based programming to write tools and workflows for Scientific Computing in Go</title>
+      <link>http://pharmb.io/presentation/2018-flowbased-for-science-in-golang/</link>
+      <pubDate>Sat, 06 Oct 2018 12:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-flowbased-for-science-in-golang/</guid>
+      <description>Some links mentioned in the presentation:
+ The FlowBase library The rdf2smw tool developed with flowbase Paper covering the rdf2smw tool The SciPipe library Preprint paper on SciPipe  </description>
+    </item>
+    
+    <item>
+      <title>Evaluating parameters for ligand-based modeling with random forest on sparse data sets</title>
+      <link>http://pharmb.io/publication/2018-evaluating-parameters-for-ligand-based-modeling-with-random-forest-on-sparse-data-sets/</link>
+      <pubDate>Mon, 01 Oct 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-evaluating-parameters-for-ligand-based-modeling-with-random-forest-on-sparse-data-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Lampa successfully defended his PhD thesis: Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web</title>
+      <link>http://pharmb.io/blog/samuel-phd-defence/</link>
+      <pubDate>Fri, 28 Sep 2018 15:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/samuel-phd-defence/</guid>
+      <description>Today, Samuel Lampa from the group successfully defended his thesis, titled:
+&amp;ldquo;Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web&amp;ldquo;
+CONGRATULATIONS SAMUEL!
+ Supervisor: Assoc Prof. Ola Spjuth, Uppsala University Co-supervisor: Prof. Roland Grafström, Karolinska Institutet  Thesis abstract The pharmaceutical industry is facing a research and development productivity crisis. At the same time we have access to more biological data than ever from recent advancements in high-throughput experimental methods.</description>
+    </item>
+    
+    <item>
+      <title>Novel applications of Machine Learning in cheminformatics</title>
+      <link>http://pharmb.io/publication/2018-novel-applications-of-machine-learning-in-cheminformatics/</link>
+      <pubDate>Thu, 06 Sep 2018 06:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-novel-applications-of-machine-learning-in-cheminformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CANCELLED: Dr. Konrad Hinsen presenting on &#34;Building trust in Computational Science: From Reproducible to Verifiable Computer-aided Research&#34;</title>
+      <link>http://pharmb.io/blog/khinsen-pres-2018/</link>
+      <pubDate>Wed, 29 Aug 2018 15:30:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/khinsen-pres-2018/</guid>
+      <description>Updated Sep 25: This event is cancelled due to scheduling obstacles! Time and Location  Date: September 27, 2018, 15.00-16.00 (Attn: Time updated!) Location: Triple room (click for map), SciLifeLab, Biomedical Center (BMC), Husargatan 3, Uppsala Registration: The seminar is open for all to attend. No pre-registration needed  Abstract To err is human. Scientists being human, they make mistakes. Since the beginning of organized scientific research, this fact of life has been taken into account by the introduction of verification and validation protocols.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Dissertation: Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web</title>
+      <link>http://pharmb.io/blog/dissertation-samuel/</link>
+      <pubDate>Wed, 29 Aug 2018 15:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/dissertation-samuel/</guid>
+      <description>On September 28, Samuel Lampa from the group will defend his thesis, titled:
+&amp;ldquo;Reproducible Data Analysis in Drug Discovery with Scientific Workflows and the Semantic Web&amp;ldquo;
+ Supervisor: Assoc Prof. Ola Spjuth, Uppsala University Co-supervisor: Prof. Roland Grafström, Karolinska Institutet  Time and location  Time: September 28, 2018, 13:00 CET Location: Room B22, Biomedical Center (BMC), Husargatan 3, Uppsala, Sweden
+See a map of the room&amp;rsquo;s location (Disregard the labels in this map)  Abstract The pharmaceutical industry is facing a research and development productivity crisis.</description>
+    </item>
+    
+    <item>
+      <title>Deploying PhenoMeNal virtual research environments on the EGI Federated Cloud</title>
+      <link>http://pharmb.io/publication/2018-deploying-phenomenal-virtual-research-environments-on-egi-federated-cloud/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-deploying-phenomenal-virtual-research-environments-on-egi-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Magnetic Resonance Imaging and Protein and Metabolite CSF Measurements to Enable Early Diagnosis of Secondary Progressive Multiple Sclerosis</title>
+      <link>http://pharmb.io/publication/2018-integration-of-magnetic-resonance-imaging-and-protein-and-metabolite-csf-measurements-to-enable-early-diagnosis-of-secondary-progressive-multiple-sclerosis/</link>
+      <pubDate>Wed, 27 Jun 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-integration-of-magnetic-resonance-imaging-and-protein-and-metabolite-csf-measurements-to-enable-early-diagnosis-of-secondary-progressive-multiple-sclerosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer-BBQ of 2018</title>
+      <link>http://pharmb.io/blog/bbq2018/</link>
+      <pubDate>Thu, 14 Jun 2018 18:00:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/bbq2018/</guid>
+      <description>This year again there was a summer-BBQ at Ola&amp;rsquo;s place. On June 14th the weather was very nice, and no one left hungry! This will definitely be a recurring event!</description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery</title>
+      <link>http://pharmb.io/presentation/2018-copa/</link>
+      <pubDate>Tue, 12 Jun 2018 12:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-copa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niharika Gauraha presenting on COPA2018</title>
+      <link>http://pharmb.io/blog/copa2018-niharika/</link>
+      <pubDate>Tue, 12 Jun 2018 00:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/copa2018-niharika/</guid>
+      <description>Niharika Gauraha in the pharmb.io group presented her work at the conference Conformal Prediction and Probabilistic Predictions with Applicationsi (COPA) 2018
+Conference website: http://www.clrc.rhul.ac.uk/copa2018/
+Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery&amp;rdquo; The presentation is available.
+The published proceedings paper is also published:
+Gauraha N, Carlsson L, Spjuth O.
+Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery
+Proceedings of Machine Learning Research.</description>
+    </item>
+    
+    <item>
+      <title>Aggregating Predictions on Multiple Non-disclosed Datasets using Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-aggregating-predictions-multiple-non-disclosed-datasets-using-conformal-prediction/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-aggregating-predictions-multiple-non-disclosed-datasets-using-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery.</title>
+      <link>http://pharmb.io/publication/2018-conformal-prediction-learning-under-privileged-information-paradigm-applications-drug-discovery/</link>
+      <pubDate>Sun, 10 Jun 2018 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-prediction-learning-under-privileged-information-paradigm-applications-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prof. Roland Grafström presenting on &#39;modeling adverse outcome by omics-driven informatics&#39;</title>
+      <link>http://pharmb.io/blog/roland-pres-ptgs/</link>
+      <pubDate>Sun, 27 May 2018 00:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/roland-pres-ptgs/</guid>
+      <description>Professor Roland Grafström (Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden and Misvik Biology, Turku, Finland) will visit us at BMC and give a presentation.
+Entering the era of “Big Data”: defining and modeling adverse outcome by omics-driven informatics Date: Wed 30 May, 15.00
+Location: Seminar room, C4:2, BMC, Uppsala
+No registration needed
+ABSTRACT
+The rapidly developing “Big Data era” in toxicology involves generation of large amounts of safety testing data and the need to interpret the results relative steadily increasing amounts of related information in databases.</description>
+    </item>
+    
+    <item>
+      <title>NDCP</title>
+      <link>http://pharmb.io/tool/ndcp/</link>
+      <pubDate>Tue, 01 May 2018 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/ndcp/</guid>
+      <description>NDCP: Non-Disclosed Conformal Prediction This is an implementation for ligand-based modeling of the method described in:
+Aggregating Predictions on Multiple Non-disclosed Datasets using Conformal Prediction
+Ola Spjuth, Lars Carlsson, Niharika Gauraha
+arXiv:1806.04000 [stat.ML]
+Background It is a common objective for different organizations to be able to contribute to improved predictive models, such as in pre-competitive alliances, but there is often problems with sharing internal data between the parties. One example is in the pharmaceutical industry, where predictions on existing data (such as measured assays of various hazard endpoints for chemical compounds) constitute valuable assets and it would be desirable for all companies to have as good predictive models as possible; but sharing data between companies is usually not so easy.</description>
+    </item>
+    
+    <item>
+      <title>conformalClassification: A Conformal Prediction R Package for Classification.</title>
+      <link>http://pharmb.io/publication/2018-conformal-classification-conformal-prediction-r-package-for-classification/</link>
+      <pubDate>Tue, 17 Apr 2018 05:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-classification-conformal-prediction-r-package-for-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web ❤ Data Science? Practical large scale semantic data handling with RDFIO &amp; RDF-HDT</title>
+      <link>http://pharmb.io/presentation/2018-ldsv2018-semantic-data-science/</link>
+      <pubDate>Mon, 09 Apr 2018 12:24:28 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2018-ldsv2018-semantic-data-science/</guid>
+      <description>Some links mentioned in the presentation:
+ The RDFIO project Publication: A confidence predictor for logD using conformal regression and a support-vector machine Publication: RDFIO: extending Semantic MediaWiki for interoperable biomedical data management Publication: Linking the Resource Description Framework to cheminformatics and proteochemometrics M.Sc. Thesis: SWI-Prolog as a Semantic Web Tool for semantic querying in Bioclipse: Integration and performance benchmarking  </description>
+    </item>
+    
+    <item>
+      <title>Conformal Regression for QSAR Modelling - Quantifying Prediction Uncertainty.</title>
+      <link>http://pharmb.io/publication/2018-conformal-regression-qsar-modelling-quantifying-prediction-uncertainty/</link>
+      <pubDate>Tue, 03 Apr 2018 06:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-conformal-regression-qsar-modelling-quantifying-prediction-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A confidence predictor for logD using conformal regression and a support-vector machine.</title>
+      <link>http://pharmb.io/publication/2018-confidence-predictor-for-logd-using-conformal-regression-and-support-vector-machine/</link>
+      <pubDate>Mon, 26 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-confidence-predictor-for-logd-using-conformal-regression-and-support-vector-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Iterative Virtual Screening with Apache Spark and Conformal Prediction</title>
+      <link>http://pharmb.io/publication/2018-iterative-virtual-screening-spark-conformal-prediction/</link>
+      <pubDate>Sun, 04 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-iterative-virtual-screening-spark-conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the NGS revolution: Managing life science research on shared high-performance computing clusters. </title>
+      <link>http://pharmb.io/publication/2018-tracking-ngs-revolution-managing-life-science-research-on-shared-high-performance-computing-clusters/</link>
+      <pubDate>Fri, 02 Mar 2018 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2018-tracking-ngs-revolution-managing-life-science-research-on-shared-high-performance-computing-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmb.io co-organizing Linked Data Symposium</title>
+      <link>http://pharmb.io/blog/ldsv2018/</link>
+      <pubDate>Thu, 15 Feb 2018 00:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/ldsv2018/</guid>
+      <description>pharmb.io is this year co-organizing a symposium named &amp;ldquo;Linked Data in Sweden&amp;rdquo;. It is a symposium held annually with the aim to bring people together to share experiences around Linked Data.
+This year, the event is hosted by the SciLifeLab Data Centre, at the BMC campus of Uppsala University (&amp;ldquo;Navet building&amp;rdquo;).
+Samuel from the group will present some of the work done in the group regarding handling on large scale linked / semantic data.</description>
+    </item>
+    
+    <item>
+      <title>Open PhD student position in Applied Mathematics: Machine Learning and Conformal Prediction, applied to Drug Discovery and Cancer Diagnostics</title>
+      <link>http://pharmb.io/blog/cim2018/</link>
+      <pubDate>Sat, 06 Jan 2018 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/cim2018/</guid>
+      <description>There is now an opportunity to apply for a PhD position in Applied Mathematics with a project from our group with the title: &amp;ldquo;Machine Learning and Conformal Prediction, applied to Drug Discovery and Cancer Diagnostics&amp;rdquo;. The PhD student will also join CIM&amp;rsquo;s graduate school in interdisciplinary mathematics, including seminars, scientific consultation, and workshops. They will be required to take at least 30hp (6 months full time study) PhD level mathematics and modelling courses offered by the mathematics and information technology departments.</description>
+    </item>
+    
+    <item>
+      <title>Alexander Kensert introducing his Masters project</title>
+      <link>http://pharmb.io/blog/alex-intropres-2017/</link>
+      <pubDate>Mon, 04 Dec 2017 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/alex-intropres-2017/</guid>
+      <description>Alexander Kensert gave an introductory presentation on his Masters thesis project in our group, with the title: &amp;ldquo;Building Supervised In Silico Models Using Hashed and Unhashed Morgan Fingerprints&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Phil Harrison new PhD Student in our group</title>
+      <link>http://pharmb.io/blog/phil-starting-2017/</link>
+      <pubDate>Wed, 22 Nov 2017 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/phil-starting-2017/</guid>
+      <description>We welcome Phil Harrison as new PhD Student in our group. Phil obtained his first PhD in marine biology in 2006 studying the population dynamics of grey seals. Between 2006-2016 he undertook several research projects modelling wildlife populations and analysing trends in biodiversity. Phil joined our group and will develop machine learning methods for online, large-scale analysis of microscopy image data as part of the &amp;ldquo;HASTE&amp;rdquo; project.</description>
+    </item>
+    
+    <item>
+      <title>New GopherData post on Go-based workflow tools</title>
+      <link>http://pharmb.io/blog/gopherdata-post-on-go-based-workflow-tools/</link>
+      <pubDate>Fri, 10 Nov 2017 13:59:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/gopherdata-post-on-go-based-workflow-tools/</guid>
+      <description>Samuel and Jon from the group contributed to a post on the GopherData website together with Daniel Whitenack from the Pachyderm team, providing a brief overview of the growing ecosystem of workflow tools in bio- and cheminformatics implemented in the Go programming language.
+The group is doing research in workflows, including how the Pachyderm data framework can be used to coordinate workflows on kubernetes clusters (Jon) (Kubernetes is Google&amp;rsquo;s open source container orchestration framework), as well as developing our own light-weight system, SciPipe, which focuses on complex, dynamic workflows, where dynamic (or on-line) scheduling is important.</description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presenting PhenoMeNal at Nordic Tryggve2 Kickoff</title>
+      <link>http://pharmb.io/blog/tryggve2kickoff/</link>
+      <pubDate>Tue, 07 Nov 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/tryggve2kickoff/</guid>
+      <description>Ola Spjuth presented at the Nordic Tryggve2 Kickoff, 7 November 2017 in Märsta, Sweden. Tryggve 2 is a project within The Nordic e-Infrastructure Collaboration (NeIC), consisting of the Nordic countries Sweden, Finland, Norway and Denmark and is hosted by the Nordic ELIXIR nodes.
+Ola&amp;rsquo;s presentation showcased PhenoMeNal and how Virtual Research Environments can be useful for working with sensitive data. PhenoMeNal has been adopted as one of the Use Cases in PhenoMeNal, and we look forward to working together with the staff in this great collaborative Nordic project!</description>
+    </item>
+    
+    <item>
+      <title>Pharmb.io group joining Glenna2 project with experiences and use cases from PhenoMeNal</title>
+      <link>http://pharmb.io/blog/phenomenal-glenna2/</link>
+      <pubDate>Mon, 06 Nov 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/phenomenal-glenna2/</guid>
+      <description>Our research group will contribute to the Glenna2 project, an activity within the Nordic e-Infrastructure Collaboration (NeIC). We will contribute with experiences and use cases from the PhenoMeNal-H2020 project, and the focus is on making the PhenoMeNal Cloud Research Environment (CRE) available on the nordic clouds, and work on features such as data and compute federation capabilities.</description>
+    </item>
+    
+    <item>
+      <title>HASTE project workshop at AstraZeneca, Mölndal</title>
+      <link>http://pharmb.io/blog/haste-azvisit-2017/</link>
+      <pubDate>Tue, 24 Oct 2017 16:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/haste-azvisit-2017/</guid>
+      <description>The HASTE project partners visited the AstraZeneca site in Mölndal for a 2-days workshop. There were discussions on project progress, recruitment, plans ahead, and a visit to see the many different (high content) microscopes at AstraZeneca. Ola Spjuth participated from the pharmb.io team.
+HASTE project partners discussing the output and throughput of the Yokogawa High Content Imaging platform.</description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presenting on de.NBI Symposium 2017 at Bielefeld University</title>
+      <link>http://pharmb.io/blog/denbi-conf-2017/</link>
+      <pubDate>Mon, 23 Oct 2017 16:00:00 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/denbi-conf-2017/</guid>
+      <description>Ola Spjuth presented at the de.NBI Symposium 2017 “The Future Development of Bioinformatics in Germany and Europe”. The symposium was held at the Center for Interdisciplinary Research (ZiF) of Bielefeld University from October 23-25, 2017.
+Link to the presentation &amp;ldquo;Data-intensive applications on cloud computing resources: Applications in life sciences&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Data-intensive applications on cloud computing resources: Applications in life sciences</title>
+      <link>http://pharmb.io/presentation/2017-denbi/</link>
+      <pubDate>Mon, 23 Oct 2017 16:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-denbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at DevFest Siberia 2017</title>
+      <link>http://pharmb.io/blog/presentation-at-devfest-siberia/</link>
+      <pubDate>Wed, 04 Oct 2017 11:15:42 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/presentation-at-devfest-siberia/</guid>
+      <description>Jon Ander Novella presented at DevFest Siberia 2017, on the topic of &amp;ldquo;Scalable and reproducible bioinformatics workflows with Pachyderm&amp;rdquo;. Further details about the talk can be found at our previous blog post or at the conference&amp;rsquo;s event schedule.
+Description of the event GDG DevFest Novosibirsk (Siberia) is one of a series of events that take place once a year throughout the world. These events bring together ambitious developers and researchers who are using Google tools which are on the forefront of technology, such as Go, Android or Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Presentation at the 2017 Imperial College Computing Student Workshop</title>
+      <link>http://pharmb.io/blog/iccws2017/</link>
+      <pubDate>Tue, 03 Oct 2017 14:39:12 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/iccws2017/</guid>
+      <description>Marco Capuccini presented KubeNow at the 2017 Imperial College Computing Student Workshop (ICCWS2017). KubeNow is a cloud agnostic platform for microservices, based on Docker and Kubernetes. Slides are availabe here.</description>
+    </item>
+    
+    <item>
+      <title>Scalable and reproducible workflows with Pachyderm</title>
+      <link>http://pharmb.io/presentation/2017-pachyderm-big-data/</link>
+      <pubDate>Mon, 02 Oct 2017 14:51:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-pachyderm-big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenRiskNet Workshop in Uppsala 25-26 Sept 2017</title>
+      <link>http://pharmb.io/blog/orn-workshop-2017/</link>
+      <pubDate>Tue, 26 Sep 2017 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/orn-workshop-2017/</guid>
+      <description>On 25-26 Sept 2017 our group organized a workshop on microservices development with a large focus on Kubernetes/OpenShift and how we can establish a CICD system within the OpenRiskNet project. The meeting was attended by 16 people from 8 European partners. A large focus was discussions on how we can develop interoperable services with semantic APIs, and there were also practical hands-on sessions on our OpenShift recipes.
+Marco Capuccini from our group presenting on Cloud Computing, Kubernetes and KubeNow.</description>
+    </item>
+    
+    <item>
+      <title>Data-intensive bioinformatics on HPC and Cloud</title>
+      <link>http://pharmb.io/presentation/2017-big-data-training-school/</link>
+      <pubDate>Fri, 22 Sep 2017 10:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-big-data-training-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations and Tutorials at &#39;Big Data Training School for Life Sciences&#39;</title>
+      <link>http://pharmb.io/blog/charme-bigdata-2017/</link>
+      <pubDate>Thu, 21 Sep 2017 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/charme-bigdata-2017/</guid>
+      <description>The pharmb.io and caramba.clinic teams were heavily involved in the COST-CHARME &amp;lsquo;Big Data Training School for Life Sciences&amp;rsquo;, 18-22 September 2017 in Uppsala, Sweden.
+Ola Spjuth was member of the Scientific Committee and also had a presentation with the title &amp;lsquo;Data-intensive bioinformatics on HPC and Cloud&amp;rsquo;.
+Marco Capuccini had a hands-on tutorial with the title &amp;lsquo;Machine learning in Spark&amp;rsquo;.
+Payam Emami, Stephanie Herman, and Jon Ander Novella held presentations &amp;lsquo;Large-scale clinical metabolomics using mass spectrometry&amp;rsquo; and &amp;lsquo;Scalable and reproducible workflows with Pachyderm&amp;rsquo;, followed by a hands-on tutorial using the PhenoMeNal framework to carry out an analysis of mass spectrometry data in parallel using the Pachyderm workflow system on top of Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>The future of metabolomics in ELIXIR</title>
+      <link>http://pharmb.io/publication/2017-future-metabolomics-elixir/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-future-metabolomics-elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDFIO: extending Semantic MediaWiki for interoperable biomedical data management</title>
+      <link>http://pharmb.io/publication/2017-rdfio/</link>
+      <pubDate>Mon, 04 Sep 2017 15:49:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-rdfio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Science technologies in a workflow for personalized medicine using cancer screening as a case study</title>
+      <link>http://pharmb.io/publication/2017-escience-cancer-screening/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-escience-cancer-screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Ander Novella to speak at DevFest Siberia 2017</title>
+      <link>http://pharmb.io/blog/jon-devfest-siberia/</link>
+      <pubDate>Thu, 24 Aug 2017 10:49:42 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/jon-devfest-siberia/</guid>
+      <description>Jon Ander Novella will present at DevFest Siberia 2017, on the topic of &amp;ldquo;Scalable and reproducible bioinformatics workflows with Pachyderm&amp;rdquo;.
+Abstract Computational biology is complex not only because of the increasing amounts of data. Additionally, biologists must manage analyses that encompass multiple stages and a great number of tools, all the while maintaining reproducibility of results.
+Amongst the variety of available tools to undertake parallel computations, Pachyderm is an open-source workflow-engine and distributed data processing tool that leverages the container ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>SNIC Science Cloud (SSC): A National-scale Cloud Infrastructure for Swedish Academia</title>
+      <link>http://pharmb.io/publication/2017-snic-science-cloud-ssc-a-national-scale-cloud-infrastructure-for-swedish-academia/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-snic-science-cloud-ssc-a-national-scale-cloud-infrastructure-for-swedish-academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pharmb.io summer-BBQ of 2017</title>
+      <link>http://pharmb.io/blog/bbq2017/</link>
+      <pubDate>Wed, 05 Jul 2017 18:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/bbq2017/</guid>
+      <description>The yearly summer-BBQ took place July 5th at Ola&amp;rsquo;s place. All sorts of food was grilled, and many people brought something extra for the table. In short, a really nice evening!</description>
+    </item>
+    
+    <item>
+      <title>Special Issue in J Cheminformatics on &#34;Novel applications of machine learning in cheminformatics&#34;</title>
+      <link>http://pharmb.io/blog/cfp-jcheminf-2017/</link>
+      <pubDate>Wed, 05 Jul 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/cfp-jcheminf-2017/</guid>
+      <description>Ola Spjuth is guest editor for a new special issue in J. Cheminformatics with the topic &amp;ldquo;Novel applications of machine learning in cheminformatics&amp;rdquo;.
+Looking forward to exciting submissions!</description>
+    </item>
+    
+    <item>
+      <title>Open position: PhD student in bioinformatics with focus on machine learning on large-scale image data</title>
+      <link>http://pharmb.io/blog/recruitment-phd-haste/</link>
+      <pubDate>Thu, 22 Jun 2017 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/recruitment-phd-haste/</guid>
+      <description>Our group is participating in the HASTE project (Hierarchical Analysis of Temporal and Spatial Image Data) which is recruiting two PhD students. One of the positions will be placed in our lab with focus on machine-learning with quantifiable confidence or probability on large-scale data derived from microscopy images.
+Read more on HASTE recruitment page</description>
+    </item>
+    
+    <item>
+      <title>Pharmb.io running team &#39;Metab elite&#39; completes Blodomloppet race</title>
+      <link>http://pharmb.io/blog/blodomloppet2017/</link>
+      <pubDate>Mon, 19 Jun 2017 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/blodomloppet2017/</guid>
+      <description>On 2017-05-18, the pharmb.io running team &amp;lsquo;Metab elite&amp;rsquo; were able to complete the Blodomloppet race over 10 km! When enjoying the well-deserved picnic after the finish line, the team was looking ahead to future races&amp;hellip;
+ Results for Metab elite team in Blodomloppet 2017  From left: Samuel Lampa, Valentin Georgiev, Ola Spjuth, Jonathan Alvarsson, Arvid Berg.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors</title>
+      <link>http://pharmb.io/presentation/2017-copa-cross-venn-abers/</link>
+      <pubDate>Fri, 16 Jun 2017 10:30:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-copa-cross-venn-abers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High frequency of silver resistance genes in invasive isolates of Enterobacter and Klebsiella species</title>
+      <link>http://pharmb.io/publication/2017-silver-resistance-genes/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-silver-resistance-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COPA2017: Conformal Prediction and Probabilistic Predictions with Applications conference in Stockholm</title>
+      <link>http://pharmb.io/blog/copa2017/</link>
+      <pubDate>Tue, 13 Jun 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/copa2017/</guid>
+      <description>The 6th Symposium on Conformal Prediction and Probabilistic Predictions with Applications conference (COPA2017) was held at Karolinska Institutet, Stockholm, on June 13-16 2017. Ola Spjuth was local organizer and also chaired the session &amp;ldquo;Novel Directions of Applying Machine Learning in Cheminformatics&amp;rdquo;.
+&amp;ldquo;Link to conference website with program and proceedings&amp;rdquo;
+Marco Capuccini held a 2 hour tutorial with the title: &amp;ldquo;Conformal prediction in Spark&amp;rdquo;.
+Staffan Arvidsson presented his accepted paper: &amp;ldquo;Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors</title>
+      <link>http://pharmb.io/publication/2017-prediction-metabolic-transformations-cross-venn-abers/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-prediction-metabolic-transformations-cross-venn-abers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass spectrometry based metabolomics for in vitro systems pharmacology: pitfalls, challenges, and computational solutions</title>
+      <link>http://pharmb.io/publication/2017-mass-spectrometry-metabolomics/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-mass-spectrometry-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Chemistry Development Kit (CDK) v2.0: atom typing, depiction, molecular formulas, and substructure searching</title>
+      <link>http://pharmb.io/publication/2017-chemistry-development-kit-cdk-v2/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-chemistry-development-kit-cdk-v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open position: Postdoc/Researcher in Bioinformatics with focus on Machine Learning and Image Analysis</title>
+      <link>http://pharmb.io/blog/postdoc-haste-2017/</link>
+      <pubDate>Mon, 08 May 2017 11:53:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/postdoc-haste-2017/</guid>
+      <description>Our group is participating in the HASTE project (Hierarchical Analysis of Temporal and Spatial Image Data) which is recruiting up to three postdocs or researchers in Computerized Image Analysis, Scientific Computing and Bioinformatics. One of the researchers will be placed in our lab with focus on machine-learning with quantifiable confidence or probability on data derived from microscopy images.
+Read more on HASTE recruitment page</description>
+    </item>
+    
+    <item>
+      <title>Paper published: E-Science technologies in a workflow for personalized medicine using cancer screening as a case study</title>
+      <link>http://pharmb.io/blog/ecpc-escience-cancer-workflow/</link>
+      <pubDate>Mon, 24 Apr 2017 17:12:30 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/ecpc-escience-cancer-workflow/</guid>
+      <description>After 3 years, our paper on e-Science in cancer screening is finally published by J Am Med Inform Assoc (JAMIA).
+Abstract Objective: We provide an e-Science perspective on the workflow from risk factor discovery and classification of disease to evaluation of personalized intervention programs. As case studies, we use personalized prostate and breast cancer screenings. Materials and Methods: We describe an e-Science initiative in Sweden, e-Science for Cancer Prevention and Control (eCPC), which supports biomarker discovery and offers decision support for personalized intervention strategies.</description>
+    </item>
+    
+    <item>
+      <title>New supercomputers at Uppsala University and SciLifeLab enables data-intensive bioinformatics on sensitive data</title>
+      <link>http://pharmb.io/blog/supercomputers-scilifelab-uppmax-2017/</link>
+      <pubDate>Thu, 20 Apr 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/supercomputers-scilifelab-uppmax-2017/</guid>
+      <description>Today the two supercomputers Bianca and Rackham are inaugurated at Uppsala University.
+Read the news article at SciLifeLab, interviewing Ola Spjuth in his role as Head of Compute and Storage facility at SciLifeLab.
+See also the Inauguration program for April 24, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Marco Capuccini and Stephanie Herman presenting on PhenoMeNal Workflow Workshop, 4-5 April, in Halle, Germany</title>
+      <link>http://pharmb.io/blog/workshop-halle-2017/</link>
+      <pubDate>Tue, 04 Apr 2017 11:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/workshop-halle-2017/</guid>
+      <description>Marco Capuccini and Stephanie Herman presented at the &amp;ldquo;PhenoMeNal Workflow Workshop&amp;rdquo;, 4-5 April, in Halle, Germany.
+The presentation covered a lot of the work that has been going on in the Uppsala team on workflows in &amp;ldquo;PhenoMeNal&amp;rdquo; using &amp;ldquo;Jupyter notebooks&amp;rdquo;, and the Luigi workflow system.</description>
+    </item>
+    
+    <item>
+      <title>HASTE: Hierarchical Analysis of Spatial and TEmporal image data</title>
+      <link>http://pharmb.io/project/haste/</link>
+      <pubDate>Tue, 04 Apr 2017 09:15:04 +0201</pubDate>
+      
+      <guid>http://pharmb.io/project/haste/</guid>
+      <description>From intelligent data acquisition via smart data-management to confident predictions
+The HASTE project takes a hierarchical approach to acquisition, analysis, and interpretation of image data. We develop computationally efficient measurements for data description, confidence-driven machine learning for determination of interestingness, and a theory and framework to apply intelligent spatial and temporal information hierarchies, distributing data to computational resources and storage options based on low-level image features.
+HASTE is a collaboration between the Wählby lab (PI), Hellander lab (co-PI), both at the Department of Information Technology, Uppsala University, the Spjuth lab (co-PI) at the Department of Pharmaceutical Biosciences, Uppsala University, the Nilsson lab at the Department of Biochemistry and Biophysics at Stockholm University and SciLifeLab, Vironova AB and AstraZeneca AB.</description>
+    </item>
+    
+    <item>
+      <title>Towards Predicting the Cytochrome P450 Modulation: From QSAR to proteochemometric modeling</title>
+      <link>http://pharmb.io/publication/2017-predicting-p450-modulation/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-predicting-p450-modulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ola Spjuth presented at CloudBeer 2017: &#39;The case for cloud computing in Life Sciences&#39;</title>
+      <link>http://pharmb.io/blog/cloud-beer-2017/</link>
+      <pubDate>Thu, 30 Mar 2017 19:23:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/cloud-beer-2017/</guid>
+      <description>Ola Spjuth held a presentation &amp;ldquo;The case for cloud computing in Life Sciences&amp;rdquo; at CloudBeer 2017 on March 23rd: The case for cloud computing in the life sciences
+There is a recording from the event available (also embedded below), and the slides are available on Slideshare.
+  Abstract The life sciences is transforming into a data-intensive discipline with high demands on e-infrastructure. Cloud computing has opened up new avenues for getting access to compute resources, but also for provisioning and integrating geographically distributed data, and complying with the FAIR principles that data should be Findable, Accessible, Interoperable, and Reusable.</description>
+    </item>
+    
+    <item>
+      <title>The case for cloud computing in Life Sciences</title>
+      <link>http://pharmb.io/presentation/2017-cloudbeer/</link>
+      <pubDate>Thu, 23 Mar 2017 19:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-cloudbeer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper: Large-scale virtual screening on public cloud resources with Apache Spark, got published in the Journal of Cheminformatics</title>
+      <link>http://pharmb.io/blog/spark-vs/</link>
+      <pubDate>Tue, 07 Mar 2017 17:12:30 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/spark-vs/</guid>
+      <description>Abstract Background Structure-based virtual screening is an in-silico method to screen a target receptor against a virtual molecular library. Applying docking-based screening to large molecular libraries can be computationally expensive, however it constitutes a trivially parallelizable task. Most of the available parallel implementations are based on message passing interface, relying on low failure rate hardware and fast network connection. Google&amp;rsquo;s MapReduce revolutionized large-scale analysis, enabling the processing of massive datasets on commodity hardware and cloud resources, providing transparent scalability and fault tolerance at the software level.</description>
+    </item>
+    
+    <item>
+      <title>Large-scale virtual screening on public cloud resources with Apache Spark</title>
+      <link>http://pharmb.io/publication/2017-virtual-screening-spark/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-virtual-screening-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docking of Macrocycles: Comparing Rigid and Flexible Docking in Glide</title>
+      <link>http://pharmb.io/publication/2017-docking-of-macrocycles/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2017-docking-of-macrocycles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video from Marco Capuccinis talk at Spark Summit now online</title>
+      <link>http://pharmb.io/blog/video-marco-capuccinis-talk-at-spark-summit/</link>
+      <pubDate>Tue, 14 Feb 2017 17:37:53 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/video-marco-capuccinis-talk-at-spark-summit/</guid>
+      <description>As we have posted before, our colleague Marco Capuccini has been presenting at Spark Summit East 2017, with the title &amp;ldquo;EasyMapReduce: Leverage the power Of Spark And Docker To scale scientific tools In MapReduce fashion&amp;ldquo; (click for talk info).
+The video from the talk is now online on YouTube, and can be seen below, or by following this link.
+  
+The EasyMapReduce library is open source, and freely available on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce: Leverage the Power of Spark and Docker to Scale Scientific Tools</title>
+      <link>http://pharmb.io/presentation/2017-sparksummit/</link>
+      <pubDate>Thu, 09 Feb 2017 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2017-sparksummit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our project: &#39;Hierarchical Analysis of Temporal and Spatial Image Data&#39; will receive funding by SSF</title>
+      <link>http://pharmb.io/blog/bigdata-ssf-grant-2017/</link>
+      <pubDate>Thu, 09 Feb 2017 12:12:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/bigdata-ssf-grant-2017/</guid>
+      <description>Ola Spjuth is co-PI in the project &amp;lsquo;Hierarchical Analysis of Temporal and Spatial Image Data&amp;rsquo; that received 29 MSEK from SSF for the period 2017-2021.
+Press release from Uppsala University
+Press release from SSF
+Abstract from the grant application:
+Images contain very rich information, and digital cameras combined with image processing and analysis can detect and quantify a range of patterns and processes. The valuable information is however often sparse, and the ever increasing speed at which data is collected results in data-volumes that exceed the computational resources available.</description>
+    </item>
+    
+    <item>
+      <title>Presentation &#39;Analyzing Big Data in Medicine with Virtual Research Environments and Microservices&#39; by Ola Spjuth on Uppsala University official YouTube Channel</title>
+      <link>http://pharmb.io/blog/ola-biomedit-video/</link>
+      <pubDate>Thu, 26 Jan 2017 23:12:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/ola-biomedit-video/</guid>
+      <description>This presentation was given by Ola Spjuth in the &amp;lsquo;Current Challenges in Biomedical Information Technology - Big Data in Medicine&amp;rsquo; symposium series at the IT-department at Uppsala University.
+The slides are available from &amp;ldquo;Slideshare&amp;rdquo;
+A video recording of the presentation is available on Uppsala University official YouTube Channel</description>
+    </item>
+    
+    <item>
+      <title>Marco Capuccini to present at Spark Summit East 2017</title>
+      <link>http://pharmb.io/blog/marco-spark-summit/</link>
+      <pubDate>Tue, 20 Dec 2016 10:13:47 +0100</pubDate>
+      
+      <guid>http://pharmb.io/blog/marco-spark-summit/</guid>
+      <description>Marco Capuccini will present at Spark Summit East 2017: &amp;ldquo;EasyMapReduce: Leverage the power Of Spark And Docker To scale scientific tools In MapReduce fashion&amp;rdquo;
+Abstract: High-throughput methods in various scientific fields produced massive datasets in the past decade, and using Big Data frameworks, such as Apache Spark, is a natural choice to enable large-scale analysis. In scientific applications, many tools are highly optimized to resemble, or detect, some phenomenon that occurs in a certain system, and the effort of reimplementing such tools in Spark cannot be sustained by research groups.</description>
+    </item>
+    
+    <item>
+      <title>Towards agile large-scale predictive modelling in drug discovery with flow-based programming design principles</title>
+      <link>http://pharmb.io/publication/2016-sciluigi/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-sciluigi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Big Data in Medicine with Virtual Research Environments and Microservices</title>
+      <link>http://pharmb.io/presentation/2016-bigdata-medicine/</link>
+      <pubDate>Thu, 17 Nov 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-bigdata-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://pharmb.io/education/</link>
+      <pubDate>Wed, 16 Nov 2016 20:58:38 +0100</pubDate>
+      
+      <guid>http://pharmb.io/education/</guid>
+      <description>The group is involved in teaching on several campus and internet-based courses at Uppsala University, including on the Master of Science Programme in Pharmacy, the Master&amp;rsquo;s Programme in Pharmaceutical Modelling, the Master&amp;rsquo;s Programme in Bioinformatics, the Master of Science Programme in Molecular Biotechnology, and the Bachelor of Science Programme in Pharmacy.
+Upcoming courses  Lab automation for life sciences, 7.5 credits 
+This campus course is given as an free standing course with the aim to introduce lab automation with practical exercises using robotized lab equipment such as pipetting robots, robot arms, and automated microscopes.</description>
+    </item>
+    
+    <item>
+      <title>Spark CP</title>
+      <link>http://pharmb.io/tool/sparkcp/</link>
+      <pubDate>Wed, 16 Nov 2016 15:31:57 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sparkcp/</guid>
+      <description>Spark CP is a Spark-based distributed implementation of conformal prediction, which introduces valid confidence estimation in predictive modeling for Big Data analytics.</description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce</title>
+      <link>http://pharmb.io/tool/easymapreduce/</link>
+      <pubDate>Tue, 01 Nov 2016 15:32:07 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/easymapreduce/</guid>
+      <description>EasyMapReduce leverages the power of Docker and Spark to run and scale your serial tools in MapReduce fashion.</description>
+    </item>
+    
+    <item>
+      <title>SparkNow</title>
+      <link>http://pharmb.io/tool/sparknow/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:57 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/sparknow/</guid>
+      <description>Using SparkNow you can rapidly deploy, scale and tear down your Spark clusters on OpenStack. Deploying a SparkNow cluster you will get:
+ A Spark cluster up and running A HDFS cluster to store your data A Jupyter notebook for interactive Spark tasks  </description>
+    </item>
+    
+    <item>
+      <title>KubeNow</title>
+      <link>http://pharmb.io/tool/kubenow/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/kubenow/</guid>
+      <description>Using KubeNow you can rapidly deploy, scale, and tear down your Kubernetes clusters on any cloud.
+Rather than providing an all-in-one tool for provisioning a Kubernetes cluster (e.g. Juju and Kubespray), KubeNow comes as a thin layer on top of Terraform, Packer, Ansible and kubeadm. Following this approach we aim to provide a simple, light-weight, tool for Kubernetes provisioning, while making DevOps transparent and fun.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Web</title>
+      <link>http://pharmb.io/tool/modelingweb/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:37 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/modelingweb/</guid>
+      <description>Modeling Web A web portal for managing QSAR models. Currently supports building, and deploying CPSign models.
+Background Method Usage TBC
+Implementation Implementation is Python Django based. The current model building implementation uses CPSign (http://cpsign-docs.genettasoft.com/) as the underlying modeling method. A license is required but these are generously provided by GenettaSoft.</description>
+    </item>
+    
+    <item>
+      <title>Xenobiotics Metabolism Database (XMetDB)</title>
+      <link>http://pharmb.io/tool/xmetdb/</link>
+      <pubDate>Tue, 01 Nov 2016 15:31:30 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/xmetdb/</guid>
+      <description>XMetDB is an open access database for drugs and other xenobiotics and their respective metabolites. The database contains chemical structures of xenobiotic biotransformations with substrate atoms annotated as reaction centra, the resulting product formed, and the catalyzing enzyme, type of experiment, and literature references.
+Associated with the database is a web interface for the submission and retrieval of experimental metabolite data for drugs and other xenobiotics in various formats, and a web API for programmatic access is also available.</description>
+    </item>
+    
+    <item>
+      <title>SciPipe</title>
+      <link>http://pharmb.io/tool/scipipe/</link>
+      <pubDate>Tue, 01 Nov 2016 15:28:27 +0100</pubDate>
+      
+      <guid>http://pharmb.io/tool/scipipe/</guid>
+      <description>SciPipe is a library for writing scientific Workflows in vanilla Go(lang), based on flow-based programming principles.</description>
+    </item>
+    
+    <item>
+      <title>Interoperability and scalability with microservices in science</title>
+      <link>http://pharmb.io/presentation/2016-opentox/</link>
+      <pubDate>Fri, 28 Oct 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyMapReduce: Leverage Docker and Spark to Scale Any Data Processing Tool in MapReduce Fashion</title>
+      <link>http://pharmb.io/poster/2016-easymapreduce/</link>
+      <pubDate>Thu, 13 Oct 2016 11:37:36 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-easymapreduce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Scientific Workflows in Drug Discovery with Flow-Based Programming Principles</title>
+      <link>http://pharmb.io/poster/2016-scipipe/</link>
+      <pubDate>Wed, 12 Oct 2016 14:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-scipipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch import of large RDF datasets using RDFIO or the new rdf2smw tool</title>
+      <link>http://pharmb.io/presentation/2016-smwcon-rdfio/</link>
+      <pubDate>Fri, 30 Sep 2016 12:20:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-smwcon-rdfio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valyo</title>
+      <link>http://pharmb.io/people/valyo/</link>
+      <pubDate>Fri, 23 Sep 2016 16:59:25 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/valyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Kensert</title>
+      <link>http://pharmb.io/people/alex/</link>
+      <pubDate>Fri, 23 Sep 2016 14:20:56 +0200</pubDate>
+      
+      <guid>http://pharmb.io/people/alex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://pharmb.io/about/</link>
+      <pubDate>Thu, 22 Sep 2016 10:39:24 +0200</pubDate>
+      
+      <guid>http://pharmb.io/about/</guid>
+      <description>About us Contact details Ola Spjuth
+Department of Pharmaceutical Biosciences
+PO Box 591
+SE-751 24 Uppsala
+E-mail: ola.spjuth@farmbio.uu.se
+Funding and sponsors          
+Involvements</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>http://pharmb.io/infrastructure/</link>
+      <pubDate>Thu, 22 Sep 2016 10:39:24 +0200</pubDate>
+      
+      <guid>http://pharmb.io/infrastructure/</guid>
+      <description>Infrastructure Automatic Cell Profiling Laboratory   Video from our automated cell profiling laboratory.
+Equipment Our automated cell profiling lab consists of:
+Our robotized lab for cell profiling comprises a fully contained environment with monitored climate control, humidity, and ventilation. Equipment includes:
+ ImageXpress XLS automated high-content imaging microscope Holomonitor label-free phase imaging microscope BioMek 4000 liquid handling robot OpenTrons OT-2 liquid handling robot Liconic STX44 plate incubator Ambient plate hotel Three plate robots for automatic plate handling (PreciseFlex PF400, Universal Robots UR10e, Automata Eva) Biotek 405 LS microplate washer Biotek MultiFlo FX microplate dispenser ViaFlow 384 automated pipette  Lab automation software We are developing an Open Source Automated Robotic System for biological laboratories (AROS, https://github.</description>
+    </item>
+    
+    <item>
+      <title>XMetDB: an open access database for xenobiotic metabolism</title>
+      <link>http://pharmb.io/publication/2016-xmetdb-an-open-access-database-for-xenobiotic-metabolism/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-xmetdb-an-open-access-database-for-xenobiotic-metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BridgeDb framework</title>
+      <link>http://pharmb.io/poster/2016-bridgedb/</link>
+      <pubDate>Thu, 08 Sep 2016 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2016-bridgedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale ligand-based predictive modelling using support vector machines</title>
+      <link>http://pharmb.io/publication/2016-large-scale-svm/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-large-scale-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations on e-infrastructures for next-generation sequencing</title>
+      <link>http://pharmb.io/publication/2016-recommendations-on-e-infrastructures-for-next-generation-sequencing/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-recommendations-on-e-infrastructures-for-next-generation-sequencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of aromatase inhibitory activity via proteochemometric modeling</title>
+      <link>http://pharmb.io/publication/2016-origin-of-aromatase-inhibitory-activity-via-proteochemometric-modeling/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-origin-of-aromatase-inhibitory-activity-via-proteochemometric-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous modeling - automating model building on high-performance e-Infrastructures</title>
+      <link>http://pharmb.io/presentation/2016-cont-modeling-icpb/</link>
+      <pubDate>Sun, 24 Jan 2016 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2016-cont-modeling-icpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonising and linking biomedical and clinical data across disparate data archives to enable integrative cross-biobank research</title>
+      <link>http://pharmb.io/publication/2016-harmonising-and-linking-biomedical-and-clinical-data-across-disparate-data-archives-to-enable-integrative-cross-biobank-research/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2016-harmonising-and-linking-biomedical-and-clinical-data-across-disparate-data-archives-to-enable-integrative-cross-biobank-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal prediction in Spark: Large-Scale Machine Learning with Confidence</title>
+      <link>http://pharmb.io/poster/2015-cp-spark/</link>
+      <pubDate>Thu, 10 Dec 2015 13:47:22 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-cp-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction in Spark: Large-Scale Machine Learning with Confidence</title>
+      <link>http://pharmb.io/publication/2015-spark-cp/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-spark-cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward the Replacement of Animal Experiments through the Bioinformatics-driven Analysis of &#39;Omics&#39; Data from Human Cell Cultures</title>
+      <link>http://pharmb.io/publication/2015-toward-the-replacement-of-animal-experiments-through-the-bioinformatics-driven-analysis-of-omics-data-from-human-cell-cultures/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-toward-the-replacement-of-animal-experiments-through-the-bioinformatics-driven-analysis-of-omics-data-from-human-cell-cultures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Drug Discovery</title>
+      <link>http://pharmb.io/poster/2015-mlindd/</link>
+      <pubDate>Fri, 16 Oct 2015 17:21:48 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-mlindd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using workflow tools to streamline bioinformatics computing on high-performance e-infrastructures</title>
+      <link>http://pharmb.io/poster/2015-sciluigi/</link>
+      <pubDate>Fri, 16 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-sciluigi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Translational Medicine with e-Science</title>
+      <link>http://pharmb.io/presentation/2015-ecpc/</link>
+      <pubDate>Thu, 15 Oct 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-ecpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Science enables improved diagnostics of Chronic Myeloid Leukemia (CML) with next-generation sequencing</title>
+      <link>http://pharmb.io/poster/2015-cml/</link>
+      <pubDate>Fri, 09 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-cml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Virtual Screening with Spark</title>
+      <link>http://pharmb.io/poster/2015-screening-spark/</link>
+      <pubDate>Wed, 07 Oct 2015 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2015-screening-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioImg.org: A catalog of virtual machine images for the life sciences</title>
+      <link>http://pharmb.io/publication/2015-bioimg/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-bioimg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences with workflows for automating data-intensive bioinformatics</title>
+      <link>http://pharmb.io/publication/2015-wf-bioinfo/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-wf-bioinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile large-scale machine-learning pipelines in drug discovery</title>
+      <link>http://pharmb.io/presentation/2015-agile-ml-ebi/</link>
+      <pubDate>Wed, 12 Aug 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-agile-ml-ebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage and Analysis of Sensitive Large-Scale Biomedical Data in Sweden</title>
+      <link>http://pharmb.io/presentation/2015-sensitive-data-ebi/</link>
+      <pubDate>Tue, 11 Aug 2015 17:30:00 -0600</pubDate>
+      
+      <guid>http://pharmb.io/presentation/2015-sensitive-data-ebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ex Vivo Assessment of Drug Activity in Patient Tumor Cells as a Basis for Tailored Cancer Therapy</title>
+      <link>http://pharmb.io/publication/2015-ex-vivo-assessment-of-drug-activity-in-patient-tumor-cells-as-a-basis-for-tailored-cancer-therapy/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-ex-vivo-assessment-of-drug-activity-in-patient-tumor-cells-as-a-basis-for-tailored-cancer-therapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantitative assessment of the Hadoop framework for analyzing massively parallel DNA sequencing data</title>
+      <link>http://pharmb.io/publication/2015-a-quantitative-assessment-of-the-hadoop-framework-for-analyzing-massively-parallel-dna-sequencing-data/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-a-quantitative-assessment-of-the-hadoop-framework-for-analyzing-massively-parallel-dna-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preservation for Publishing Sample Availability Data with Personal Identifiers</title>
+      <link>http://pharmb.io/publication/2015-privacy-preservation-for-publishing-sample-availability-data-with-personal-identifiers/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-privacy-preservation-for-publishing-sample-availability-data-with-personal-identifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of conformal prediction classification models</title>
+      <link>http://pharmb.io/publication/2015-cp-interpret/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-cp-interpret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a benchmarking data set able to evaluate ligand- and structure-based virtual screening using public HTS data</title>
+      <link>http://pharmb.io/publication/2015-benchmarking-data-set/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-benchmarking-data-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling predictive modeling in drug development with cloud computing</title>
+      <link>http://pharmb.io/publication/2015-modeling-cloud/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2015-modeling-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTSeq-Hadoop: Extending HTSeq for massively parallel sequencing data analysis using Hadoop</title>
+      <link>http://pharmb.io/publication/2014-htseq-hadoop/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-htseq-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Study of Parameter Variation When Using Signature Fingerprints Together with Support Vector Machines</title>
+      <link>http://pharmb.io/publication/2014-benchmarking-study-of-parameter-variation-when-using-signature-fingerprints-together-with-support-vector-machines/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-benchmarking-study-of-parameter-variation-when-using-signature-fingerprints-together-with-support-vector-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand-based target prediction with signature fingerprints</title>
+      <link>http://pharmb.io/publication/2014-ligand-based-target-prediction-with-signature-fingerprints/</link>
+      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-ligand-based-target-prediction-with-signature-fingerprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data integration between Swedish national clinical health registries and biobanks using an availability system</title>
+      <link>http://pharmb.io/publication/2014-dils-sail/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-dils-sail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NGS data management and analysis for hundreds of projects: Experiences from Sweden</title>
+      <link>http://pharmb.io/publication/2014-ngs-data-management-and-analysis-for-hundreds-of-projects-experiences-from-sweden/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-ngs-data-management-and-analysis-for-hundreds-of-projects-experiences-from-sweden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer biology, toxicology and alternative methods development go hand-in-hand.</title>
+      <link>http://pharmb.io/publication/2014-cancer-biology-toxicology-and-alternative-methods-development-go-hand-in-hand/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2014-cancer-biology-toxicology-and-alternative-methods-development-go-hand-in-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using iterative MapReduce for parallel virtual screening</title>
+      <link>http://pharmb.io/publication/2013-mapreduce-vs/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-mapreduce-vs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Science for Cancer Prevention and Control (eCPC) - a flagship project for the Swedish e-Science Research Centre</title>
+      <link>http://pharmb.io/poster/2013-ecpc/</link>
+      <pubDate>Wed, 09 Oct 2013 16:54:39 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2013-ecpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Drug Discovery with Bioclipse</title>
+      <link>http://pharmb.io/publication/2013-open-source-drug-discovery-with-bioclipse/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-open-source-drug-discovery-with-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated QuantMap for rapid quantitative molecular network topology analysis</title>
+      <link>http://pharmb.io/publication/2013-quantmap/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-quantmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons learned from implementing a national infrastructure in Sweden for storage and analysis of next-generation sequencing data</title>
+      <link>http://pharmb.io/publication/2013-lessons-learned-from-implementing-a-national-infrastructure-in-sweden-for-storage-and-analysis-of-next-generation-sequencing-data/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-lessons-learned-from-implementing-a-national-infrastructure-in-sweden-for-storage-and-analysis-of-next-generation-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Proteochemometric Model for Prediction of Inhibition of Cytochrome P450 Isoforms</title>
+      <link>http://pharmb.io/publication/2013-a-unified-proteochemometric-model-for-prediction-of-inhibition-of-cytochrome-p450-isoforms/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-a-unified-proteochemometric-model-for-prediction-of-inhibition-of-cytochrome-p450-isoforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhichCyp: prediction of cytochromes P450 inhibition.</title>
+      <link>http://pharmb.io/publication/2013-whichcyp-prediction-of-cytochromes-p450-inhibition/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-whichcyp-prediction-of-cytochromes-p450-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ChEMBL database as linked open data</title>
+      <link>http://pharmb.io/publication/2013-the-chembl-database-as-linked-open-data/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-the-chembl-database-as-linked-open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On mechanisms of reactive metabolite formation from drugs.</title>
+      <link>http://pharmb.io/publication/2013-on-mechanisms-of-reactive-metabolite-formation-from-drugs/</link>
+      <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-on-mechanisms-of-reactive-metabolite-formation-from-drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of the InChI in cheminformatics with the CDK and Bioclipse</title>
+      <link>http://pharmb.io/publication/2013-inchi-cdk-bioclipse/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2013-inchi-cdk-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse-R: integrating management and visualization of life science data with statistical analysis.</title>
+      <link>http://pharmb.io/publication/2012-bioclipse-r-integrating-management-and-visualization-of-life-science-data-with-statistical-analysis/</link>
+      <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-bioclipse-r-integrating-management-and-visualization-of-life-science-data-with-statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source drug discovery with Bioclipse</title>
+      <link>http://pharmb.io/publication/2012-bioclipse-opendd/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-bioclipse-opendd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessing, using, and creating chemical property databases for computational toxicology modeling</title>
+      <link>http://pharmb.io/publication/2012-accessing-using-and-creating-chemical-property-databases-for-computational-toxicology-modeling/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-accessing-using-and-creating-chemical-property-databases-for-computational-toxicology-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food for thought ... A toxicology ontology roadmap</title>
+      <link>http://pharmb.io/publication/2012-a-toxicology-ontology-roadmap/</link>
+      <pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-a-toxicology-ontology-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive predictive toxicology with Bioclipse and OpenTox</title>
+      <link>http://pharmb.io/publication/2012-interactive-predictive-toxicology-with-bioclipse-and-opentox/</link>
+      <pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-interactive-predictive-toxicology-with-bioclipse-and-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel infrastructure for chemical safety predictions with focus on human health</title>
+      <link>http://pharmb.io/publication/2012-a-novel-infrastructure-for-chemical-safety-predictions-with-focus-on-human-health/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-a-novel-infrastructure-for-chemical-safety-predictions-with-focus-on-human-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model building in Bioclipse Decision Support applied to open datasets</title>
+      <link>http://pharmb.io/publication/2012-model-building-in-bioclipse-decision-support-applied-to-open-datasets/</link>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-model-building-in-bioclipse-decision-support-applied-to-open-datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxicology Ontology Perspectives</title>
+      <link>http://pharmb.io/publication/2012-toxicology-ontology-perspectives/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-toxicology-ontology-perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biobank Metaportal to Enhance Collaborative Research: sail.simbioms.org</title>
+      <link>http://pharmb.io/publication/2011-sail/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-sail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UPPNEX - A solution for Next Generation Sequencing data management and analysis</title>
+      <link>http://pharmb.io/publication/2012-uppnex--a-solution-for-next-generation-sequencing-data-management-and-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2012-uppnex--a-solution-for-next-generation-sequencing-data-management-and-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemoinformatics Taking Biology into Account: Proteochemometrics</title>
+      <link>http://pharmb.io/publication/2011-chemoinformatics-taking-biology-into-account-proteochemometrics/</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-chemoinformatics-taking-biology-into-account-proteochemometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational toxicology using the OpenTox application programming interface and Bioclipse</title>
+      <link>http://pharmb.io/publication/2011-bioclipse-opentox/</link>
+      <pubDate>Thu, 10 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-bioclipse-opentox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on.</title>
+      <link>http://pharmb.io/publication/2011-open-data-open-source-and-open-standards-in-chemistry-the-blue-obelisk-five-years-on/</link>
+      <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-open-data-open-source-and-open-standards-in-chemistry-the-blue-obelisk-five-years-on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated decision support for assessing chemical liabilities</title>
+      <link>http://pharmb.io/publication/2011-bioclipse-ds/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-bioclipse-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brunn: An open source laboratory information system for microplates with a graphical plate layout design process</title>
+      <link>http://pharmb.io/publication/2011-brunn/</link>
+      <pubDate>Fri, 20 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-brunn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Cheminformatics Applications</title>
+      <link>http://pharmb.io/publication/2011-collaborative-cheminformatics-applications/</link>
+      <pubDate>Tue, 03 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-collaborative-cheminformatics-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services for prediction of drug susceptibility for HIV proteases and reverse transcriptases at the HIV drug research centre</title>
+      <link>http://pharmb.io/publication/2011-hiv-drc/</link>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-hiv-drc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking the Resource Description Framework to cheminformatics and proteochemometrics</title>
+      <link>http://pharmb.io/publication/2011-rdf-cheminf-pcm/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2011-rdf-cheminf-pcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteochemometric modeling of the susceptibility of mutated variants of the HIV-1 virus to reverse transcriptase inhibitors</title>
+      <link>http://pharmb.io/publication/2010-proteochemometric-modeling-of-the-susceptibility-of-mutated-variants-of-the-hiv-1-virus-to-reverse-transcriptase-inhibitors/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-proteochemometric-modeling-of-the-susceptibility-of-mutated-variants-of-the-hiv-1-virus-to-reverse-transcriptase-inhibitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of historic metabolic biotransformation data as a means of anticipating metabolic sites using MetaPrint2D and Bioclipse</title>
+      <link>http://pharmb.io/publication/2010-metaprint2d/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-metaprint2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards interoperable and reproducible QSAR analyses: Exchange of datasets</title>
+      <link>http://pharmb.io/publication/2010-qsar-ml/</link>
+      <pubDate>Wed, 30 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-qsar-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An eScience-Bayes strategy for analyzing omics data</title>
+      <link>http://pharmb.io/publication/2010-escience-bayes/</link>
+      <pubDate>Wed, 26 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2010-escience-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse 2: A scriptable integration platform for the life sciences</title>
+      <link>http://pharmb.io/publication/2009-bioclipse2/</link>
+      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2009-bioclipse2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XMPP for cloud computing in bioinformatics supporting discovery and invocation of asynchronous web services</title>
+      <link>http://pharmb.io/publication/2009-xmpp-iodata/</link>
+      <pubDate>Fri, 04 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2009-xmpp-iodata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The C1C2: A framework for simultaneous model selection and assessment</title>
+      <link>http://pharmb.io/publication/2008-c1c2/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2008-c1c2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteochemometric modeling of HIV protease susceptibility</title>
+      <link>http://pharmb.io/publication/2008-pcm-hiv-protease/</link>
+      <pubDate>Thu, 10 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2008-pcm-hiv-protease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse</title>
+      <link>http://pharmb.io/poster/2008-bioclipse2/</link>
+      <pubDate>Thu, 28 Feb 2008 00:12:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/poster/2008-bioclipse2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioclipse: An open source workbench for chemo- and bioinformatics</title>
+      <link>http://pharmb.io/publication/2007-bioclipse/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2007-bioclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LCB Data Warehouse</title>
+      <link>http://pharmb.io/publication/2006-the-lcb-data-warehouse/</link>
+      <pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2006-the-lcb-data-warehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pharmb.io/people/abir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/abir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pharmb.io/people/dalia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/dalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pharmb.io/people/sebastian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/sebastian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pharmb.io/people/xinyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/xinyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Davidsson</title>
+      <link>http://pharmb.io/people/anton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/anton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Right Column</title>
+      <link>http://pharmb.io/rightcol-front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/rightcol-front/</guid>
+      <description>Pharmb.io Links &amp;raquo; Pharmb.io at Uppsala University Website
+&amp;raquo; Pharmb.io on GitHub
+ </description>
+    </item>
+    
+    <item>
+      <title>Rikard Nyström</title>
+      <link>http://pharmb.io/people/rikard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/rikard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Malmsjö</title>
+      <link>http://pharmb.io/people/victor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/victor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
