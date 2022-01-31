@@ -6,10 +6,19 @@
     <description>Recent content in Poster on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/poster/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning Strategies for Assay Transitions</title>
+      <link>http://pharmb.io/poster/2022-ml-strategies-assay-transition/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/poster/2022-ml-strategies-assay-transition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automating Cell Profiling of Drugs with Cell Painting</title>
