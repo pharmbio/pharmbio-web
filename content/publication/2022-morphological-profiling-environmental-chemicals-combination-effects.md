@@ -2,12 +2,12 @@
 +++
 title = "Morphological profiling of environmental chemicals enables efficient and untargeted exploration of combination effects"
 date = 2022-04-01T04:49:00+02:00
-doi = "10.1101/2022.02.10.479889"
+doi = "10.1016/j.scitotenv.2022.155058"
 url_html = ""
 journal = "Science of the Total Environment"
 author = "Rietdijk J, Aggarwal T, Georgieva P, Lapins M, Carreras-Puigvert J, and Spjuth O."
-volume = "Accepted"
-number = ""
+volume = ""
+number = "155058"
 art_number = ""
 preprint = false
 year = "2022"
