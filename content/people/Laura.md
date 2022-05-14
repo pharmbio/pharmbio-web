@@ -20,4 +20,6 @@ url_mendeley = ""
 url_researchgate = ""
 long_bio = "I did my bachelor in Molecular Biomedicin at the University of Bonn, Germany. I am studying at LMU Munich for my master in Pharmaceutical Sciences. As part of an Erasmus exchange I am doing my master thesis here in Uppsala. The topic of mt thesis project is cell profiling in Rabdomyosarcoma cells."
 research_interests = ["cell profiling", "lab automation","cancer research", "high content microscopy"]
+start_year = 2021
+end_year = 2022
 +++

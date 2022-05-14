@@ -21,5 +21,7 @@ linkedin = "martin-dahlö-8722a811"
 url_mendeley = ""
 url_researchgate = "https://www.researchgate.net/profile/Martin_Dahloe"
 weight = 1
+start_year = 2015
+end_year = 2021
 +++
 

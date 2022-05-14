@@ -8,19 +8,18 @@ menu:
 
 The group is involved in teaching on several campus and internet-based courses at Uppsala University, including on the [Master of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FAP2Y), the [Master's Programme in Pharmaceutical Modelling](http://www.uu.se/en/admissions/master/selma/program/?pKod=FPM2M), the [Master's Programme in Bioinformatics](http://www.uu.se/en/admissions/master/selma/program/?pKod=TBK2M), the [Master of Science Programme in Molecular Biotechnology](http://www.uu.se/en/admissions/master/selma/program/?pKod=TMB2Y), and the [Bachelor of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FRE1Y).
 
-## Upcoming courses
-
-- <b>Lab automation for life sciences, 7.5 credits </b><br>
-  This campus course is given as an free standing course with the aim to introduce lab automation with practical exercises using robotized lab equipment such as pipetting robots, robot arms, and automated microscopes. The course will be given for the first time in Fall 2022.
-
-- <b>Artificial Intelligence in drug discovery, 7.5 credits</b><br>
-  This distance-based course is given as a free standing course aimed at everyone who would like to get an introduction to AI in drug discovery, wit ha focus on opportunities with AI. Practical exercises are focused on making predictions and interpreting results. No programming experience required. The course will be given for the first time in Fall 2022.
-  
-
 
 ## We are responsible for the following undergraduate courses:
 
-- [Big Data in Life Science, 5 credits](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=3FB034)<br>
+<img style="float: right; width: 200px;" src="/img/edu-right.png">
+
+- [Laboratory Automation in Life Sciences, 7.5 credits](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=3FF037)<br>
+  This campus course is given as an free standing course with the aim to introduce lab automation with practical exercises using robotized lab equipment such as pipetting robots, robot arms, and automated microscopes. The course will be given for the first time in Fall 2022.
+
+- [Artificial Intelligence in Drug Discovery, 7.5 credits](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=3FF036)<br>
+  This distance-based course is given as a free standing course aimed at everyone who would like to get an introduction to AI in drug discovery, wit ha focus on opportunities with AI. Practical exercises are focused on making predictions and interpreting results. No programming experience required. The course will be given for the first time in Fall 2022.
+
+- [Big Data in Life Sciences, 5 credits](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=3FB034)<br>
   This campus course is given as an elective course on the Masters programs in Molecular Biotechnology and Bioinformatics at Uppsala University. It comprises methodology in life science applications where concepts and methods for large scale data management are used. Technologies such as computer clusters, virtualization and cloud computing, workflows, containers, large-scale storage are introduced with practical exercises in life science applications.
 
 - [Pharmaceutical Bioinformatics with Sequence Analysis, 7.5 credits](http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=3FF276)<br>
