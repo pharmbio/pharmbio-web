@@ -215,6 +215,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</loc>
+    <lastmod>2022-06-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2022-predicting-protein-network-topology-clusters-from-chemical-structure-using-deep-learning/</loc>
     <lastmod>2022-06-04T00:00:00+02:00</lastmod>
   </url>
@@ -1617,7 +1622,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2022-06-04T00:00:00+02:00</lastmod>
+    <lastmod>2022-06-09T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
