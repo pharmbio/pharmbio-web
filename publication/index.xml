@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migrating to Long-Read Sequencing for Clinical Routine BCR-ABL1 TKI Resistance Mutation Screening</title>
+      <link>http://pharmb.io/publication/2022-long-read-sequencing-clinical-bcr-abl1-tki-resistance-mutation-screening/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-long-read-sequencing-clinical-bcr-abl1-tki-resistance-mutation-screening/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting protein network topology clusters from chemical structure using deep learning</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migrating to Long-Read Sequencing for Clinical Routine BCR-ABL1 TKI Resistance Mutation Screening</title>
-      <link>http://pharmb.io/publication/2022-long-read-sequencing-clinical-bcr-abl1-tki-resistance-mutation-screening/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2022-long-read-sequencing-clinical-bcr-abl1-tki-resistance-mutation-screening/</guid>
       <description></description>
     </item>
     
