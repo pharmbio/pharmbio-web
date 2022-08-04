@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SimVec: predicting polypharmacy side effects for new drugs</title>
+      <link>http://pharmb.io/publication/2022-simvec-predicting-polypharmacy-side-effects-drugs/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-simvec-predicting-polypharmacy-side-effects-drugs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Migrating to Long-Read Sequencing for Clinical Routine BCR-ABL1 TKI Resistance Mutation Screening</title>
@@ -35,6 +44,15 @@
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From biomedical cloud platforms to microservices: next steps in FAIR data and analysis</title>
+      <link>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</guid>
       <description></description>
     </item>
     
