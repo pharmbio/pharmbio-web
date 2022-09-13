@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From biomedical cloud platforms to microservices: next steps in FAIR data and analysis</title>
+      <link>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In silico prediction of human clinical pharmacokinetics with ANDROMEDA by Prosilico – Predictions for a proposed benchmarking data set and new small drugs on the market 2021 and comparison with laboratory methods</title>
@@ -17,6 +26,24 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2022-in-silico-prediction-human-clinical-pharmacokinetics-with-andromeda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of reference data selection for the prediction accuracy of intrinsic hepatic metabolic clearance</title>
+      <link>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Cell Morphology with Gene Expression and Chemical Structure to Aid Mitochondrial Toxicity Detection</title>
+      <link>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</guid>
       <description></description>
     </item>
     
@@ -48,15 +75,6 @@
     </item>
     
     <item>
-      <title>Integrating Cell Morphology with Gene Expression and Chemical Structure to Aid Mitochondrial Toxicity Detection</title>
-      <link>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2022-integrating-cell-morphology-gene-expression-mitochondrial-toxicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Migrating to Long-Read Sequencing for Clinical Routine BCR-ABL1 TKI Resistance Mutation Screening</title>
       <link>http://pharmb.io/publication/2022-long-read-sequencing-clinical-bcr-abl1-tki-resistance-mutation-screening/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0200</pubDate>
@@ -75,20 +93,11 @@
     </item>
     
     <item>
-      <title>The impact of reference data selection for the prediction accuracy of intrinsic hepatic metabolic clearance</title>
-      <link>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0200</pubDate>
+      <title>Scalable federated machine learning with FEDn</title>
+      <link>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</link>
+      <pubDate>Thu, 19 May 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://pharmb.io/publication/2022-impact-reference-data-intrinsic-hepatic-metabolic-clearance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From biomedical cloud platforms to microservices: next steps in FAIR data and analysis</title>
-      <link>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2022-from-biomedical-cloud-platforms-to-microservices-fair-data-analysis/</guid>
+      <guid>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</guid>
       <description></description>
     </item>
     
@@ -116,15 +125,6 @@
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2022-designing-microplate-layouts-using-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable federated machine learning with FEDn</title>
-      <link>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</link>
-      <pubDate>Sun, 27 Mar 2022 09:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2021-scalable-federated-machine-learning-fedn/</guid>
       <description></description>
     </item>
     
