@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prediction of Biopharmaceutical Characteristics of PROTACs using the ANDROMEDA by Prosilico Software</title>
+      <link>http://pharmb.io/publication/2022-prediction-biopharmaceutical-characteristics-protacs-using-andromeda/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-prediction-biopharmaceutical-characteristics-protacs-using-andromeda/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From biomedical cloud platforms to microservices: next steps in FAIR data and analysis</title>
