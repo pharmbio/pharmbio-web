@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="Fagerhol U, Hellberg S, Alvarsson J, Spjuth O"
+author="Fagerholm U, Hellberg S, Alvarsson J, Spjuth O"
 title="Prediction of Biopharmaceutical Characteristics of PROTACs using the ANDROMEDA by Prosilico Software"
 journal="bioRxiv"
 year="2022"
