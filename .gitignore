@@ -1,3 +1,5 @@
 public
 .DS_store
 .hugo_build.lock
+.README.md.swp
+content/people/.ovidiu.md.swp
