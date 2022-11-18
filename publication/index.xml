@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Management of Scientific Datasets in Hierarchical Storage Using Reinforcement Learning</title>
+      <link>http://pharmb.io/publication/2022-management-scientific-dataset-hierarchical-storage-reinforcement-learning/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-management-scientific-dataset-hierarchical-storage-reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating diagnostic uncertainty in artificial intelligence assisted pathology using conformal prediction</title>
