@@ -21,5 +21,6 @@ linkedin = ""
 url_mendeley = ""
 url_researchgate = ""
 weight = -49
+start_year = 2018
+end_year = 2022
 +++
-
