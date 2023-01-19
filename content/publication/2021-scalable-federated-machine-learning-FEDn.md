@@ -1,7 +1,7 @@
 +++
 title = "Scalable federated machine learning with FEDn"
 date = 2022-05-19T09:00:00+02:00
-doi = "10.1109/CCGrid54584.2022.00065."
+doi = "10.1109/CCGrid54584.2022.00065"
 url_html = ""
 journal = "The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)"
 author = "Ekmefjord M, Ait-Mlouk A, Alawadi S, Åkesson M, Stoyanova D, Spjuth O, Toor S, Hellander A"
