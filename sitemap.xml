@@ -236,6 +236,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2022-combining-molecular-cellpainting-moa-prediction/</loc>
+    <lastmod>2023-01-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2022-management-scientific-dataset-hierarchical-storage-reinforcement-learning/</loc>
     <lastmod>2022-11-16T00:00:00+02:00</lastmod>
   </url>
@@ -248,11 +253,6 @@
   <url>
     <loc>http://pharmb.io/publication/2022-merging-bioactivity-predictions-cell-morphology-chemical-fingerprint/</loc>
     <lastmod>2022-10-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2022-combining-molecular-cellpainting-moa-prediction/</loc>
-    <lastmod>2022-10-07T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1693,7 +1693,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2022-11-16T00:00:00+02:00</lastmod>
+    <lastmod>2023-01-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
