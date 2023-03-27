@@ -1,7 +1,7 @@
 +++
 bibtex_type = "article"
 author="Kensert A, Harrison PJ, Spjuth O"
-title="Transfer learning with deep convolutional neural network for classifying cellular morphological changes"
+title="Transfer learning with deep convolutional neural networks for classifying cellular morphological changes"
 journal="SLAS DISCOVERY: Advancing Life Sciences R&D"
 year="2019"
 date="2019-01-14T00:00:00+02:00"
