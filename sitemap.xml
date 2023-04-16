@@ -236,12 +236,22 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2023-disease-phenotype-prediction-multiple-sclerosis/</loc>
+    <lastmod>2023-04-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2023-designing-microplate-layouts-using-artificial-intelligence/</loc>
+    <lastmod>2023-04-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2022-combining-molecular-cellpainting-moa-prediction/</loc>
     <lastmod>2023-01-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pharmb.io/publication/2022-in-silico-prediction-human-clinical-pharmacokinetics-with-andromeda/</loc>
+    <loc>http://pharmb.io/publication/2023-in-silico-prediction-human-clinical-pharmacokinetics-with-andromeda/</loc>
     <lastmod>2023-01-10T00:00:00+02:00</lastmod>
   </url>
   
@@ -323,11 +333,6 @@
   <url>
     <loc>http://pharmb.io/publication/2022-morphological-profiling-environmental-chemicals-combination-effects/</loc>
     <lastmod>2022-04-01T04:49:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2022-designing-microplate-layouts-using-artificial-intelligence/</loc>
-    <lastmod>2022-04-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1693,7 +1698,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2023-01-30T00:00:00+02:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
