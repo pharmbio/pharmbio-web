@@ -236,6 +236,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2022-merging-bioactivity-predictions-cell-morphology-chemical-fingerprint/</loc>
+    <lastmod>2023-06-02T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2023-disease-phenotype-prediction-multiple-sclerosis/</loc>
     <lastmod>2023-04-15T00:00:00+02:00</lastmod>
   </url>
@@ -263,11 +268,6 @@
   <url>
     <loc>http://pharmb.io/publication/2022-estimating-diagnostic-uncertainty-in-artificial-intelligence-assisted-pathology-using-conformal-prediction/</loc>
     <lastmod>2022-11-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2022-merging-bioactivity-predictions-cell-morphology-chemical-fingerprint/</loc>
-    <lastmod>2022-10-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1698,7 +1698,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2023-04-15T00:00:00+02:00</lastmod>
+    <lastmod>2023-06-02T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
