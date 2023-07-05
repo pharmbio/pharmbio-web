@@ -1316,5 +1316,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://pharmb.io/publication/2023-bf-moa-plos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2023-bf-moa-plos/</guid>
+      <description>20230704_114203.jpg+++ bibtex_type = &amp;ldquo;article&amp;rdquo; author=&amp;ldquo;Harrison PJ, Gupta A, Rietdijk J, Wieslander H, Carreras-Puigvert J, Georgiev P, Wählby C, Spjuth O, Sintorn IM.&amp;rdquo; title=&amp;ldquo;Evaluating the utility of brightfield image data for mechanism of action prediction&amp;rdquo; journal=&amp;ldquo;PLOS Computational Biology&amp;rdquo; year=&amp;ldquo;2023&amp;rdquo; date=&amp;ldquo;2023-07-02T00:00:00+02:00&amp;rdquo; volume=&amp;ldquo;Accepted&amp;rdquo; number=&amp;ldquo;&amp;rdquo; preprint = false pages=&amp;ldquo;&amp;rdquo; abstract=&amp;ldquo;Fluorescence staining techniques, such as Cell Painting, together with fluorescence microscopy have proven invaluable for visualizing and quantifying the effects that drugs and other perturbations have on cultured cells.</description>
+    </item>
+    
   </channel>
 </rss>
