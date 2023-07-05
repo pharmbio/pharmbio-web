@@ -1,4 +1,4 @@
-20230704_114203.jpg+++
++++
 bibtex_type = "article"
 author="Harrison PJ, Gupta A, Rietdijk J, Wieslander H, Carreras-Puigvert J, Georgiev P, Wählby C, Spjuth O, Sintorn IM."
 title="Evaluating the utility of brightfield image data for mechanism of action prediction"
