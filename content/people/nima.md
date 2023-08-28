@@ -1,13 +1,13 @@
 +++
 date = "2023-08-23"
 email = "nima.chamyani.0670@student.uu.se"
-weight = 1
+weight = 2
 firstname = "Nima"
 initials = ""
 job_title = "Student/Developer"
 lastname = "Chamyani"
 nickname = ""
-photo_file = "people/nima_200px.jpg"
+photo_file = "people/nima_200px.jpeg"
 title = "Nima Chamyani"
 twitter = ""
 google_scholar = ""
