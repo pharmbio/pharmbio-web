@@ -9,5 +9,7 @@ long_bio = "Student at Uppsala University, Master’s Programme in Drug Discover
 linkedin = "axel-catubig-melander-73a133234/"
 weight = 2
 research_interests = ["Cell painting", "High Content Microscopy", "Lab Automation", "Precision medicine"]
+start_year = 2022
+end_year = 2023
 +++
 

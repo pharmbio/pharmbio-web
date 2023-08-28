@@ -8,5 +8,7 @@ photo_file = "people/DavidDevenfors.jpeg"
 long_bio = "Student at Uppsala University, Master’s Programme in Drug Discovery and Development"
 linkedin = "david-devenfors-0993781a7/"
 weight = 2
+start_year = 2022
+end_year = 2023
 +++
 
