@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CPSign - Conformal Prediction for Cheminformatics Modeling</title>
+      <link>http://pharmb.io/publication/2023-cpsign-conformal-prediction-cheminformatics-modeling/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2023-cpsign-conformal-prediction-cheminformatics-modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Management of Scientific Datasets in Hierarchical Storage Using Reinforcement Learning</title>
