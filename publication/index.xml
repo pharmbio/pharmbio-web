@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Pixels to Phenotypes: Integrating Image-Based Profiling with Cell Health Data Improves Interpretability</title>
+      <link>http://pharmb.io/publication/2023-pixels-phenotype-cellpainting-cellhealth/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2023-pixels-phenotype-cellpainting-cellhealth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CPSign - Conformal Prediction for Cheminformatics Modeling</title>
@@ -26,15 +35,6 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2022-management-scientific-dataset-hierarchical-storage-reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Pixels to Phenotypes: Integrating Image-Based Profiling with Cell Health Data Improves Interpretability</title>
-      <link>http://pharmb.io/publication/2023-pixels-phenotype-cellpainting-cellhealth/</link>
-      <pubDate>Sun, 16 Jul 2023 00:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2023-pixels-phenotype-cellpainting-cellhealth/</guid>
       <description></description>
     </item>
     
