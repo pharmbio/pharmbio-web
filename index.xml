@@ -493,6 +493,33 @@ This software stack can be used by research groups who would like to set up cust
     </item>
     
     <item>
+      <title>Improved Early Detection of Drug-Induced Liver Injury by Integrating Predicted in vivo and in vitro Data</title>
+      <link>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning for Predicting Compound Mechanism of Action Based on Image-data from Cell Painting</title>
+      <link>http://pharmb.io/publication/2024-federated-learning-compound-mechanism-of-action-cell-painting/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-federated-learning-compound-mechanism-of-action-cell-painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PKSmart: An Open-Source Computational Model to Predict in vivo Pharmacokinetics of Small Molecules</title>
+      <link>http://pharmb.io/publication/2024-pksmart-predict-in-vivo-pharmacokinetics-small-molecules/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-pksmart-predict-in-vivo-pharmacokinetics-small-molecules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Insights into Drug Cardiotoxicity from Biological and Chemical Data: The First Public Classifiers for FDA DICTrank</title>
       <link>http://pharmb.io/publication/2024-insights-drug-cardiotoxicity-biological-chemical-data-dictrank/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0200</pubDate>
@@ -588,6 +615,15 @@ This software stack can be used by research groups who would like to set up cust
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2023-in-silico-prediction-human-clinical-pharmacokinetics-with-andromeda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the Influence of Fat Food Intake on the Absorption and Systemic Exposure of Small Drugs using ANDROMEDA by Prosilico Software</title>
+      <link>http://pharmb.io/publication/2022-fat-food-intake-andromeda/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2022-fat-food-intake-andromeda/</guid>
       <description></description>
     </item>
     

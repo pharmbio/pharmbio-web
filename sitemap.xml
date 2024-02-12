@@ -253,6 +253,21 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</loc>
+    <lastmod>2024-02-12T00:00:00+01:55</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2024-federated-learning-compound-mechanism-of-action-cell-painting/</loc>
+    <lastmod>2024-02-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2024-pksmart-predict-in-vivo-pharmacokinetics-small-molecules/</loc>
+    <lastmod>2024-02-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2024-insights-drug-cardiotoxicity-biological-chemical-data-dictrank/</loc>
     <lastmod>2024-01-08T00:00:00+02:00</lastmod>
   </url>
@@ -305,6 +320,11 @@
   <url>
     <loc>http://pharmb.io/publication/2023-in-silico-prediction-human-clinical-pharmacokinetics-with-andromeda/</loc>
     <lastmod>2023-01-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2022-fat-food-intake-andromeda/</loc>
+    <lastmod>2022-12-05T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1740,7 +1760,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2024-01-08T00:00:00+02:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+01:55</lastmod>
     <priority>0</priority>
   </url>
   
