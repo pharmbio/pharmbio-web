@@ -20,5 +20,7 @@ url_mendeley = ""
 url_researchgate = "https://www.researchgate.net/profile/Philip_Harrison3"
 long_bio = "I obtained my first PhD in marine biology in 2006 studying the population dynamics of grey seals. Between 2006-2016 I undertook several research projects modelling wildlife populations and analysing trends in biodiversity. With a desire to broaden my scientific horizons in 2017 I began studies for a second PhD in pharmaceutical science. For this PhD I shall develop machine learning methods for online, large-scale analysis of microscopy image data as part of the [HASTE](http://haste.research.it.uu.se/) project."
 research_interests = ["statistical machine learning", "Bayesian state-space modelling","computer vision"]
+start_year = 2018
+end_year = 2023
 +++
 

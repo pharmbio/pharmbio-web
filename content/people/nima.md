@@ -19,4 +19,6 @@ url_mendeley = ""
 url_researchgate = ""
 long_bio = ""
 research_interests = ["AI in Healthcare", "Mathematics and algorithm developments", "Interdisciplinary Drug Discovery"]
+start_year = 2022
+end_year = 2023
 +++
