@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New approach methods to assess developmental and adult neurotoxicity for regulatory use: A PARC Work Package 5 project</title>
+      <link>http://pharmb.io/publication/2024-nam-dnt-parc-wp5/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-nam-dnt-parc-wp5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis</title>
