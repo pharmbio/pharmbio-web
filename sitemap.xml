@@ -253,6 +253,16 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2024-federated-learning-compound-mechanism-of-action-cell-painting/</loc>
+    <lastmod>2024-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2024-artificial-intelligence-high-content-imaging-drug-discovery/</loc>
+    <lastmod>2024-04-29T00:00:00+01:55</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2024-nam-dnt-parc-wp5/</loc>
     <lastmod>2024-03-18T00:00:00+01:55</lastmod>
   </url>
@@ -265,11 +275,6 @@
   <url>
     <loc>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</loc>
     <lastmod>2024-02-12T00:00:00+01:55</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2024-federated-learning-compound-mechanism-of-action-cell-painting/</loc>
-    <lastmod>2024-02-12T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1770,7 +1775,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2024-03-18T00:00:00+01:55</lastmod>
+    <lastmod>2024-05-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
