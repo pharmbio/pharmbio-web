@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improved Early Detection of Drug-Induced Liver Injury by Integrating Predicted in vivo and in vitro Data</title>
+      <link>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CPSign - Conformal Prediction for Cheminformatics Modeling</title>
@@ -62,15 +71,6 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0155</pubDate>
       
       <guid>http://pharmb.io/publication/2024-conformal-prediction-disease-course-individualized-diagnostic-uncertainty-multiple-sclerosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved Early Detection of Drug-Induced Liver Injury by Integrating Predicted in vivo and in vitro Data</title>
-      <link>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0155</pubDate>
-      
-      <guid>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</guid>
       <description></description>
     </item>
     
