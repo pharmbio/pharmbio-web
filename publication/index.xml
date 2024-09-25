@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cell Painting: A Decade of Discovery and Innovation in Cellular Imaging</title>
+      <link>http://pharmb.io/publication/2024-decade-review-cellpainting/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-decade-review-cellpainting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improved Early Detection of Drug-Induced Liver Injury by Integrating Predicted in vivo and in vitro Data</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2023-cpsign-conformal-prediction-cheminformatics-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Decade in a Systematic Review: The Evolution and Impact of Cell Painting</title>
-      <link>http://pharmb.io/publication/2024-decade-review-cellpainting/</link>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0200</pubDate>
-      
-      <guid>http://pharmb.io/publication/2024-decade-review-cellpainting/</guid>
       <description></description>
     </item>
     

@@ -253,6 +253,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2024-decade-review-cellpainting/</loc>
+    <lastmod>2024-09-24T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2024-drug-induced-liver-injury-integrating-in-vivo-vitro-data/</loc>
     <lastmod>2024-07-09T00:00:00+01:55</lastmod>
   </url>
@@ -265,11 +270,6 @@
   <url>
     <loc>http://pharmb.io/publication/2023-cpsign-conformal-prediction-cheminformatics-modeling/</loc>
     <lastmod>2024-06-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2024-decade-review-cellpainting/</loc>
-    <lastmod>2024-05-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1785,7 +1785,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2024-07-09T00:00:00+01:55</lastmod>
+    <lastmod>2024-09-24T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
