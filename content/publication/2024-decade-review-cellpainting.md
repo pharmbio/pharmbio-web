@@ -1,7 +1,7 @@
 +++
 bibtex_type = "article"
 author="Seal S, Trapotsi MA, Spjuth O, Singh S, Carreras-Puigvert J, Greene N, Bender A, Carpenter AE"
-title="A Decade in a Systematic Review: The Evolution and Impact of Cell Painting"
+title="Cell Painting: A Decade of Discovery and Innovation in Cellular Imaging"
 journal="Nature Methods"
 year="2024"
 date="2024-09-24T00:00:00+02:00"
