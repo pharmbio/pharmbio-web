@@ -309,6 +309,15 @@
     </item>
     
     <item>
+      <title>Sofía</title>
+      <link>http://pharmb.io/people/sofia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/people/sofia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>jon</title>
       <link>http://pharmb.io/people/jon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -486,15 +495,6 @@
       
       <guid>http://pharmb.io/people/sebastian/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://pharmb.io/people/sofia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://pharmb.io/people/sofia/</guid>
-      <description>+++ date = &amp;ldquo;2024-10-24T17:05:56+02:00&amp;rdquo; email = &amp;ldquo;sofia.hernandez-valenzuela.2039@student.uu.se&amp;rdquo; weight = 1 firstname = &amp;ldquo;Sofía&amp;rdquo; initials = &amp;ldquo;&amp;rdquo; job_title = &amp;ldquo;Master student&amp;rdquo; lastname = &amp;ldquo;Hernández&amp;rdquo; nickname = &amp;ldquo;Sofía&amp;rdquo; orcid = &amp;ldquo;0000-0002-1202-0346&amp;rdquo; photo_file = &amp;ldquo;people/sofia.jpg&amp;rdquo; title = &amp;ldquo;Sofía&amp;rdquo; twitter = &amp;ldquo;&amp;rdquo; google_scholar = &amp;ldquo;&amp;rdquo; url_blog = &amp;ldquo;https://github.com/5ofiaH&amp;quot; url_homepage = &amp;ldquo;&amp;rdquo; url_uuprofile = &amp;ldquo;&amp;rdquo; linkedin = &amp;ldquo;sofía-hernández-42632122a&amp;rdquo; url_mendeley = &amp;ldquo;&amp;rdquo; url_researchgate = &amp;ldquo;&amp;rdquo; long_bio = &amp;ldquo;Master’s student in Bioinformatics at Uppsala University, conducting a research project on the application of Conformal Prediction as a method applied to various machine learning models using cell painting image datasets.</description>
     </item>
     
     <item>
