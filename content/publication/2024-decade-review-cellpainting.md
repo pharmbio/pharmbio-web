@@ -4,12 +4,12 @@ author="Seal S, Trapotsi MA, Spjuth O, Singh S, Carreras-Puigvert J, Greene N, B
 title="Cell Painting: A Decade of Discovery and Innovation in Cellular Imaging"
 journal="Nature Methods"
 year="2024"
-date="2024-09-24T00:00:00+02:00"
-volume="Accepted"
+date="2024-12-05T00:00:00+02:00"
+volume=""
 number=""
 preprint = false
 pages=""
-abstract="High-content image-based assays have fueled significant discoveries in the life sciences in the past decade (2013-2023), including novel insights into disease etiology, mechanism of action, new therapeutics, and toxicology predictions. Here, we systematically review the substantial methodological advancements and applications of Cell Painting. Advancements include improvements in the Cell Painting protocol, assay adaptations for different types of perturbations and applications, and improved methodologies for feature extraction, quality control, and batch effect correction. Moreover, machine learning methods recently surpassed classical approaches in their ability to extract biologically useful information from Cell Painting images. Cell Painting data have been used alone or in combination with other -omics data to decipher the mechanism of action of a compound, its toxicity profile, and many other biological effects. Overall, key methodological advances have expanded the ability of Cell Painting to capture cellular responses to various perturbations. Future advances will likely lie in advancing computational and experimental techniques, developing new publicly available datasets, and integrating them with other high-content data types."
-doi=""
+abstract="Modern quantitative image analysis techniques have enabled high-throughput, high-content imaging experiments. Image-based profiling leverages the rich information in images to identify similarities or differences among biological samples, rather than measuring a few features, as in high-content screening. Here, we review a decade of advancements and applications of Cell Painting, a microscopy-based cell-labeling assay aiming to capture a cell’s state, introduced in 2013 to optimize and standardize image-based profiling. Cell Painting’s ability to capture cellular responses to various perturbations has expanded owing to improvements in the protocol, adaptations for different perturbations, and enhanced methodologies for feature extraction, quality control, and batch-effect correction. Cell Painting is a versatile tool that has been used in various applications, alone or with other -omics data, to decipher the mechanism of action of a compound, its toxicity profile, and other biological effects. Future advances will likely involve computational and experimental techniques, new publicly available datasets, and integration with other high-content data types."
+doi="10.1038/s41592-024-02528-8"
 url_html=""
 +++
