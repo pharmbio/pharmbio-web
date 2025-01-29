@@ -1,6 +1,6 @@
 +++
 date = "2016-09-23T16:00:21+02:00"
-email = "anders.larsson@nbis.se"
+email = "anders.p.larsson@uu.se"
 firstname = "Anders"
 initials = ""
 job_title = "Software Engineer"
