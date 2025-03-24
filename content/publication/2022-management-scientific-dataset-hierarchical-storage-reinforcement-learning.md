@@ -1,10 +1,10 @@
 +++
 bibtex_type = "article"
 author="Zhang T, Gupta A, Rodríguez MAF, Spjuth O, Hellander A and Toor S."
-title="Management of Scientific Datasets in Hierarchical Storage Using Reinforcement Learning"
+title="Data management of scientific applications in a reinforcement learning-based hierarchical storage system"
 journal="Expert Systems With Applications"
 year="2024"
-date="2024-01-01T00:00:00+02:00"
+date="2024-03-01T00:00:00+02:00"
 volume="237"
 number="121443"
 preprint = false
