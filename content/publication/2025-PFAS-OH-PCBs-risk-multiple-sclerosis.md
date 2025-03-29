@@ -5,11 +5,11 @@ title="Associations of PFAS and OH-PCBs with Risk of Multiple Sclerosis Onset an
 journal="Nature Communications"
 year="2025"
 date="2025-02-13T00:00:00+02:00"
-volume="Accepted"
-number=""
+volume="16"
+number="2014"
 preprint = false
 pages=""
 abstract="Exposure to per- and polyfluorinated substances (PFAS) is associated with adverse human health effects, including immunosuppression. In this study of 907 individuals with multiple sclerosis (MS) and 907 paired healthy controls (HC), we found a significant (P < 0.05) inverse association between serum concentrations of perfluoroheptanesulfonic acid (PFHpS), perfluorooctane sulfonic acid (PFOS), perfluorooctanoic acid (PFOA) and perfluorononanoic acid (PFNA) and risk of confirmed disability worsening in males with MS. Further, perfluorododecanoic acid (PFDoA) was significantly (P < 0.05) associated with a reduced risk of transitioning from a relapsing-remitting to secondary progressive disease course. Finally, we demonstrated sex- and disease-specific differences in serum PFAS concentrations between HC subjects and individuals with MS. These results indicate previously unknown associations between PFAS exposure and MS and their inverse associations with disease progression risk."
-doi=""
+doi="10.1038/s41467-025-57172-3"
 url_html=""
 +++
