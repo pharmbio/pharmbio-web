@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Label-Free Live-Cell Imaging improves Mode of Action Classification</title>
+      <link>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis</title>
