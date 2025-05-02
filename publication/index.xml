@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Small molecule bioactivity benchmarks are often well-predicted by counting cells</title>
+      <link>http://pharmb.io/publication/2025-counting-cells/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-counting-cells/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis</title>
