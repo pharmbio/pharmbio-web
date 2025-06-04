@@ -6,10 +6,28 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extensive analysis of pollutant interactions: Identification of deleterious synergistic effects at environmentally relevant dose levels using Drosophila and mammalian cells</title>
+      <link>http://pharmb.io/publication/2025-pollutant-interactions-deleterious-synergistic-effects-drosophila/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-pollutant-interactions-deleterious-synergistic-effects-drosophila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Cell Painting and Thermal Proteome Profiling for Inference of Targets and Mechanism of Action</title>
+      <link>http://pharmb.io/publication/2025-cell-painting-thermal-protein-profiling/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-cell-painting-thermal-protein-profiling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning for Toxicity Prediction Using Chemical Structure: Pillars for Success in the Real World</title>
