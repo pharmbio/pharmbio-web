@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Precise mapping of single-stranded DNA breaks by sequence-templated erroneous DNA polymerase end-labelling</title>
+      <link>http://pharmb.io/publication/2025-precise-mapping-single-stranded-dna-breaks-sloppymyrase/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-precise-mapping-single-stranded-dna-breaks-sloppymyrase/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extensive analysis of pollutant interactions: Identification of deleterious synergistic effects at environmentally relevant dose levels using Drosophila and mammalian cells</title>
