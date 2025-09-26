@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PKSmart: an open-source computational model to predict intravenous pharmacokinetics of small molecules</title>
+      <link>http://pharmb.io/publication/2025-pksmart-intravenous-pharmacokinetics-small-molecules/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-pksmart-intravenous-pharmacokinetics-small-molecules/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Morphological cell profiling for drug repurposing against SARS-CoV-2 infection</title>
