@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI agents in drug discovery</title>
+      <link>http://pharmb.io/publication/2025-ai-agents-drug-discovery/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-ai-agents-drug-discovery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PKSmart: an open-source computational model to predict intravenous pharmacokinetics of small molecules</title>
