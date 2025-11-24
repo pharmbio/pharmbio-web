@@ -11,36 +11,49 @@ Infrastructure
 
 ### Automatic Cell Profiling Laboratory
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/96UiejAA41A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--iframe width="560" height="315" src="https://www.youtube.com/embed/96UiejAA41A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
+
+
+<img src="/img/infra/robot-lab-UR.png" width="800"/>
 <br/>
-*Video from our automated cell profiling laboratory.*
+Our workcell for Cell Painting.
+<br/>
+<br/>
 
-## Equipment
-Our automated cell profiling lab consists of:
+<img src="/img/infra/robot-lab-squid.png" width="800"/>
+<br/>
+Our workcell for imaging, both widefield (we have multiple Cephla Squid microscopes) and confocal (Nikon).
+<br/>
+<br/>
 
-Our robotized lab for cell profiling comprises a fully contained environment with monitored climate control, humidity, and ventilation. Equipment includes:
 
-- ImageXpress XLS automated high-content imaging microscope
-- Holomonitor label-free phase imaging microscope
-- BioMek 4000 liquid handling robot
-- OpenTrons OT-2 liquid handling robot
-- Liconic STX44 plate incubator
-- Ambient plate hotel
-- Three plate robots for automatic plate handling (PreciseFlex PF400, Universal Robots UR10e, Automata Eva)
-- Biotek 405 LS microplate washer
-- Biotek MultiFlo FX microplate dispenser
-- ViaFlow 384 automated pipette
+<img src="/img/infra/robot-lab-maak.png" width="800"/>
+<br/>
+Our experimental setting for autonomous drug perturbations.
+<br/>
+<br/>
+
+<img src="/img/infra/cp-cells.png" width="800"/>
+<br/>
+Image of U2OS cells after cell painting. Our capacity is 20,000 experiments per week corresponding to ca 200,000 images.
+<br/>
+<br/>
+
+
+
+
+
 
 ### Lab automation software
 
-We are developing an Open Source Automated Robotic System for biological laboratories (AROS, https://github.com/pharmbio/aros) that can be used for research groups who would like to set up custom automated lab installations comprising multiple instruments. We welcome contributions to this project by all interested developers!
+We are developing an Open Source Automated Robotic System for biological laboratories (https://github.com/pharmbio/robotlab) that can be used for research groups who would like to set up custom automated lab installations comprising multiple instruments. We welcome contributions to this project by all interested developers!
 
 
 
 ### IT-infrastructure
 
-<img src="/img/infrastructure/virtualinfra.png" width="800"/>
+<!--img src="/img/infrastructure/virtualinfra.png" width="800"/-->
 
-Computational equipment includes a networked storage system (240 TB), two local servers (20+24 cores, 160+160 GB RAM), and a local GPU cluster (10 Nvidia graphics cards) to run demanding Deep Learning analysis. We run an OpenStack instance for [external services](https://github.com/pharmbio/services/blob/master/README.md). We run an internal Kubernetes cluster for processing, also connected to the GPU cluster. Our entire virtual infrastructure is defined using Infrastructure-as-Code (IaC) and deployed via [STACKn](https://github.com/scaleoutsystems/stackn), Rancher, Helm, and Ansible. All code for the virtual infrastructure is open source and [available from github](https://github.com/pharmbio).
+Computational equipment includes networked storage (440 TB), CPU (128 cores, 160+160 GB RAM), 2 GPU clusters (10+4 Nvidia graphics cards) to run demanding Deep Learning analysis. We run a local Kubernetes cluster for provisioning pods to our team members and collaborators. Our entire virtual infrastructure is defined using Infrastructure-as-Code and [available from github](https://github.com/pharmbio).
 
