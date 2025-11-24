@@ -7,7 +7,7 @@
   <meta content="Webflow" name="generator">
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/css/webflow.css" rel="stylesheet" type="text/css">
-  <link href="/css/pharmbio.webflow.css?1764020174" rel="stylesheet" type="text/css">
+  <link href="/css/pharmbio.webflow.css?1764020851" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
   <script type="text/javascript">
     WebFont.load({
@@ -82,39 +82,41 @@
 
 <h3 id="automatic-cell-profiling-laboratory">Automatic Cell Profiling Laboratory</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/96UiejAA41A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--iframe width="560" height="315" src="https://www.youtube.com/embed/96UiejAA41A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
-<p><br/>
-<em>Video from our automated cell profiling laboratory.</em></p>
+<p><img src="/img/infra/robot-lab-UR.png" width="800"/>
+<br/>
+Our workcell for Cell Painting.
+<br/>
+<br/></p>
 
-<h2 id="equipment">Equipment</h2>
+<p><img src="/img/infra/robot-lab-squid.png" width="800"/>
+<br/>
+Our workcell for imaging, both widefield (we have multiple Cephla Squid microscopes) and confocal (Nikon).
+<br/>
+<br/></p>
 
-<p>Our automated cell profiling lab consists of:</p>
+<p><img src="/img/infra/robot-lab-maak.png" width="800"/>
+<br/>
+Our experimental setting for autonomous drug perturbations.
+<br/>
+<br/></p>
 
-<p>Our robotized lab for cell profiling comprises a fully contained environment with monitored climate control, humidity, and ventilation. Equipment includes:</p>
-
-<ul>
-<li>ImageXpress XLS automated high-content imaging microscope</li>
-<li>Holomonitor label-free phase imaging microscope</li>
-<li>BioMek 4000 liquid handling robot</li>
-<li>OpenTrons OT-2 liquid handling robot</li>
-<li>Liconic STX44 plate incubator</li>
-<li>Ambient plate hotel</li>
-<li>Three plate robots for automatic plate handling (PreciseFlex PF400, Universal Robots UR10e, Automata Eva)</li>
-<li>Biotek 405 LS microplate washer</li>
-<li>Biotek MultiFlo FX microplate dispenser</li>
-<li>ViaFlow 384 automated pipette</li>
-</ul>
+<p><img src="/img/infra/cp-cells.png" width="800"/>
+<br/>
+Image of U2OS cells after cell painting. Our capacity is 20,000 experiments per week corresponding to ca 200,000 images.
+<br/>
+<br/></p>
 
 <h3 id="lab-automation-software">Lab automation software</h3>
 
-<p>We are developing an Open Source Automated Robotic System for biological laboratories (AROS, <a href="https://github.com/pharmbio/aros">https://github.com/pharmbio/aros</a>) that can be used for research groups who would like to set up custom automated lab installations comprising multiple instruments. We welcome contributions to this project by all interested developers!</p>
+<p>We are developing an Open Source Automated Robotic System for biological laboratories (<a href="https://github.com/pharmbio/robotlab">https://github.com/pharmbio/robotlab</a>) that can be used for research groups who would like to set up custom automated lab installations comprising multiple instruments. We welcome contributions to this project by all interested developers!</p>
 
 <h3 id="it-infrastructure">IT-infrastructure</h3>
 
-<p><img src="/img/infrastructure/virtualinfra.png" width="800"/></p>
+<!--img src="/img/infrastructure/virtualinfra.png" width="800"/-->
 
-<p>Computational equipment includes a networked storage system (240 TB), two local servers (20+24 cores, 160+160 GB RAM), and a local GPU cluster (10 Nvidia graphics cards) to run demanding Deep Learning analysis. We run an OpenStack instance for <a href="https://github.com/pharmbio/services/blob/master/README.md">external services</a>. We run an internal Kubernetes cluster for processing, also connected to the GPU cluster. Our entire virtual infrastructure is defined using Infrastructure-as-Code (IaC) and deployed via <a href="https://github.com/scaleoutsystems/stackn">STACKn</a>, Rancher, Helm, and Ansible. All code for the virtual infrastructure is open source and <a href="https://github.com/pharmbio">available from github</a>.</p>
+<p>Computational equipment includes networked storage (440 TB), CPU (128 cores, 160+160 GB RAM), 2 GPU clusters (10+4 Nvidia graphics cards) to run demanding Deep Learning analysis. We run a local Kubernetes cluster for provisioning pods to our team members and collaborators. Our entire virtual infrastructure is defined using Infrastructure-as-Code and <a href="https://github.com/pharmbio">available from github</a>.</p>
 
             </div>
 </div>

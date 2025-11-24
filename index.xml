@@ -2792,10 +2792,11 @@ Involvements</description>
       <pubDate>Thu, 22 Sep 2016 10:39:24 +0200</pubDate>
       
       <guid>http://pharmb.io/infrastructure/</guid>
-      <description>Infrastructure Automatic Cell Profiling Laboratory   Video from our automated cell profiling laboratory.
-Equipment Our automated cell profiling lab consists of:
-Our robotized lab for cell profiling comprises a fully contained environment with monitored climate control, humidity, and ventilation. Equipment includes:
- ImageXpress XLS automated high-content imaging microscope Holomonitor label-free phase imaging microscope BioMek 4000 liquid handling robot OpenTrons OT-2 liquid handling robot Liconic STX44 plate incubator Ambient plate hotel Three plate robots for automatic plate handling (PreciseFlex PF400, Universal Robots UR10e, Automata Eva) Biotek 405 LS microplate washer Biotek MultiFlo FX microplate dispenser ViaFlow 384 automated pipette  Lab automation software We are developing an Open Source Automated Robotic System for biological laboratories (AROS, https://github.</description>
+      <description>Infrastructure Automatic Cell Profiling Laboratory   Our workcell for Cell Painting.  
+ Our workcell for imaging, both widefield (we have multiple Cephla Squid microscopes) and confocal (Nikon).  
+ Our experimental setting for autonomous drug perturbations.  
+ Image of U2OS cells after cell painting. Our capacity is 20,000 experiments per week corresponding to ca 200,000 images.  
+Lab automation software We are developing an Open Source Automated Robotic System for biological laboratories (https://github.</description>
     </item>
     
     <item>
