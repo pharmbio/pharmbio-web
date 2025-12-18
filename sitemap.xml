@@ -266,6 +266,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2025-pfas/</loc>
+    <lastmod>2025-12-17T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2025-ai-agents-drug-discovery/</loc>
     <lastmod>2025-10-31T00:00:00+01:55</lastmod>
   </url>
@@ -1873,7 +1878,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2025-10-31T00:00:00+01:55</lastmod>
+    <lastmod>2025-12-17T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
