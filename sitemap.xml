@@ -266,6 +266,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2026-counting-cells/</loc>
+    <lastmod>2026-01-09T00:00:00+01:55</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</loc>
     <lastmod>2025-12-30T00:00:00+01:55</lastmod>
   </url>
@@ -308,11 +313,6 @@
   <url>
     <loc>http://pharmb.io/publication/2025-machine-learning-toxicity-prediction-pillars-real-world/</loc>
     <lastmod>2025-05-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2025-counting-cells/</loc>
-    <lastmod>2025-04-30T00:00:00+01:55</lastmod>
   </url>
   
   <url>
@@ -1873,7 +1873,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2025-12-30T00:00:00+01:55</lastmod>
+    <lastmod>2026-01-09T00:00:00+01:55</lastmod>
     <priority>0</priority>
   </url>
   

@@ -2,12 +2,12 @@
 
     <head>
   <meta charset="utf-8">
-  <title>Small molecule bioactivity benchmarks are often well-predicted by counting cells | pharmb.io - Pharmaceutical Bioinformatics Research Group at Uppsala University</title>
+  <title>Counting cells can accurately predict small-molecule bioactivity benchmarks | pharmb.io - Pharmaceutical Bioinformatics Research Group at Uppsala University</title>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/css/webflow.css" rel="stylesheet" type="text/css">
-  <link href="/css/pharmbio.webflow.css?1767447553" rel="stylesheet" type="text/css">
+  <link href="/css/pharmbio.webflow.css?1769635671" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
   <script type="text/javascript">
     WebFont.load({
@@ -76,22 +76,22 @@
               <div>
           <div class="section-content-container w-container content">
 
-        <h1 style="font-size: 1.4em">Small molecule bioactivity benchmarks are often well-predicted by counting cells</h1>
+        <h1 style="font-size: 1.4em">Counting cells can accurately predict small-molecule bioactivity benchmarks</h1>
         <p><a href="/publication">&larr; Back to publications</a></p>
 
-        <p>Published: 2025-04-30</p>
+        <p>Published: 2026-01-09</p>
 
         <h4>Formatted citation</h4>
         <p>
-            Seal S, Dee W, Shah A, Zhang A, Titterton K, Cabrera AA, Boiko D, Beatson A, Carreras Puigvert J, Singh S, Spjuth S, Bender A, Carpenter AE..
-            <a href="http://dx.doi.org/10.1101/2025.04.27.650853" target="_blank">Small molecule bioactivity benchmarks are often well-predicted by counting cells</a>.
-            <br><em>bioRxiv</em>.
-            <strong>2025.04.27.650853</strong> (2025).
-            DOI: <a href="http://dx.doi.org/10.1101/2025.04.27.650853" target="_blank">10.1101/2025.04.27.650853</a>
+            Seal S, Dee W, Shah A, Cerisier N, Zhang A, Miglietta E, Titterton K, Cabrera AA, Boiko D, Beatson A, Slabaugh G, Taboureau O, Carreras Puigvert J, Singh S, Spjuth O, Bender A, Carpenter AE..
+            <a href="http://dx.doi.org/10.1038/s41467-026-68725-5" target="_blank">Counting cells can accurately predict small-molecule bioactivity benchmarks</a>.
+            <br><em>Nature Communications</em>.
+            <strong>Accepted</strong> (2026).
+            DOI: <a href="http://dx.doi.org/10.1038/s41467-026-68725-5" target="_blank">10.1038/s41467-026-68725-5</a>
             
         </p>
         <h4>Abstract</h4>
-        <p>Phenotypic profiling methods, such as Cell Painting and gene expression, have been widely used to predict compound bioactivity, often showing improvement over predictive models based on chemical structures alone. We discovered that a large subset of assays in widely-used benchmark datasets either directly relate to cell health and cytotoxicity or are assays intending to capture a more specific phenotype but whose active compounds impact cell count, while inactives do not. As a result, counting cells can achieve similar predictive performance as Cell Painting or gene expression data. Filtering benchmarks to include only assays relating to protein targets reveals that Cell Painting can capture information that cannot be predicted by mere cell counting. We re-evaluated three benchmark datasets used with Cell Painting data and observed that, in many cases, cell count models produced an AUC comparable to models using the full Cell Painting profiles. However, in protein-target-specific benchmarks across 17 distinct protein targets, Cell Painting features demonstrated unique predictive power, outperforming mean balanced accuracy from cell count models with a relative improvement of 19.6%. We propose five practical recommendations for benchmarking machine learning models for predicting bioactivity, including using cell count as a baseline feature. Although multi-class classification applications (such as matching samples based on their morphological profile) are less likely to be predictable by cell count than bioactivity benchmarks, these recommendations are broadly applicable to machine learning for drug discovery.</p>
+        <p>Accurately predicting the activity of a chemical in each bioactivity assay based on its already-known properties is extremely useful in drug development. Unfortunately, we discovered that many assays in widely used assay-activity benchmark datasets directly relate to cell health and cytotoxicity. Many other assays intend to capture a more specific phenotype, but their active compounds impact cell count, while inactives do not. In both cases, counting cells achieves unexpectedly high performance in these benchmarks, making them less useful for discerning whether additional properties, such as phenotypic profiles (mRNA or Cell Painting), provide additional useful information on bioactivity. To accomplish this goal, we recommend filtering benchmarks to exclude such assays and including a cell-count baseline. Using a benchmark with 24 protein-target assays, we confirm that models leveraging Cell Painting image-based profiles outperformed the baseline cell count model. We propose several other practical recommendations for benchmarking machine learning models for predicting bioactivity and assessing the added value of mRNA, protein, or image-based profiles.</p>
 
             </div>
 </div>

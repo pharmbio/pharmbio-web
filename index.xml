@@ -520,6 +520,15 @@ This software stack can be used by research groups who would like to set up cust
     </item>
     
     <item>
+      <title>Counting cells can accurately predict small-molecule bioactivity benchmarks</title>
+      <link>http://pharmb.io/publication/2026-counting-cells/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2026-counting-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The time dimension matters: Improving mode of action classification with live-cell imaging</title>
       <link>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0155</pubDate>
@@ -597,15 +606,6 @@ This software stack can be used by research groups who would like to set up cust
       <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2025-machine-learning-toxicity-prediction-pillars-real-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Small molecule bioactivity benchmarks are often well-predicted by counting cells</title>
-      <link>http://pharmb.io/publication/2025-counting-cells/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0155</pubDate>
-      
-      <guid>http://pharmb.io/publication/2025-counting-cells/</guid>
       <description></description>
     </item>
     
