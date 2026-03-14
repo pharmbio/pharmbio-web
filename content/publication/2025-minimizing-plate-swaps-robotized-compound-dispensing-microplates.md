@@ -2,10 +2,10 @@
 bibtex_type = "article"
 author="Gindullin R, Francisco Rodríguez MA, Seashore-Ludlow B, and Spjuth O."
 title="Minimising Source-Plate Swaps for Robotised Compound Dispensing in Microplates"
-journal=" 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2025)"
+journal=" 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2025), Lecture Notes in Computer Science"
 year="2025"
 date="2025-02-12T00:00:00+01:55"
-volume="Accepted"
+volume="15762"
 number=""
 preprint = false
 pages=""
