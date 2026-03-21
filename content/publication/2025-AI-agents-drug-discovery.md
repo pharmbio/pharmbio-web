@@ -2,10 +2,10 @@
 bibtex_type = "article"
 author="Seal S, Huynh DL, Chelbi M, Khosravi S, Kumar A, Thieme M, Wilks I, Davies M, Mustali J, Sun Y, Edwards N, Boiko D, Tyrin A, Selinger DW, Parikh A, Vijayan R, Kasbekar S, Reid D, Bender A, and Spjuth O."
 title="AI agents in drug discovery"
-journal="arXiv"
+journal="Drug Discovery Today"
 year="2025"
-date="2025-10-31T00:00:00+01:55"
-volume="2510.27130"
+date="2026-03-20T00:00:00+01:55"
+volume="Accepted"
 number=""
 preprint = true
 pages=""
