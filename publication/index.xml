@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>The time dimension matters: Improving mode of action classification with live-cell imaging</title>
-      <link>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0155</pubDate>
-      
-      <guid>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Co-exposure to PFAS and hydroxylated PCBs is associated with increased odds of multiple sclerosis</title>
       <link>http://pharmb.io/publication/2025-pfas/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0200</pubDate>
@@ -1565,6 +1556,15 @@
       <pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate>
       
       <guid>http://pharmb.io/publication/2006-the-lcb-data-warehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The time dimension matters: Improving mode of action classification with live-cell imaging</title>
+      <link>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</guid>
       <description></description>
     </item>
     

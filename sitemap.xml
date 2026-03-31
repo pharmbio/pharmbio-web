@@ -276,11 +276,6 @@
   </url>
   
   <url>
-    <loc>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</loc>
-    <lastmod>2025-12-30T00:00:00+01:55</lastmod>
-  </url>
-  
-  <url>
     <loc>http://pharmb.io/publication/2025-pfas/</loc>
     <lastmod>2025-12-17T00:00:00+02:00</lastmod>
   </url>
@@ -1888,6 +1883,10 @@
   <url>
     <loc>http://pharmb.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</loc>
   </url>
   
   <url>
