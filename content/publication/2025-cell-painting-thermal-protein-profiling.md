@@ -1,7 +1,7 @@
 +++
 bibtex_type = "article"
 author="Johansson C, Johansson M, Carreras Puigvert J, Spjuth O, and Jansson E."
-title="Integrating Cell Painting and Thermal Proteome Profiling for Inference of Targets and Mechanism of Action"
+title="Cell Painting and Thermal Proteome Profiling for Inference of Drug Targets and Mechanism of Action"
 journal="Molecular Systems Biology"
 year="2026"
 date="2026-04-21T00:00:00+01:55"
