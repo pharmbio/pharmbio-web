@@ -520,7 +520,7 @@ This software stack can be used by research groups who would like to set up cust
     </item>
     
     <item>
-      <title>Integrating Cell Painting and Thermal Proteome Profiling for Inference of Targets and Mechanism of Action</title>
+      <title>Cell Painting and Thermal Proteome Profiling for Inference of Drug Targets and Mechanism of Action</title>
       <link>http://pharmb.io/publication/2025-cell-painting-thermal-protein-profiling/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0155</pubDate>
       
@@ -543,6 +543,15 @@ This software stack can be used by research groups who would like to set up cust
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0155</pubDate>
       
       <guid>http://pharmb.io/publication/2025-label-free-live-cell-imaging-moa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benign by Design Chemistry: Re-inventing Ligand-Based Drug Design at the Edge of AI</title>
+      <link>http://pharmb.io/publication/2026-benign-by-design/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2026-benign-by-design/</guid>
       <description></description>
     </item>
     
