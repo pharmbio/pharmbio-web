@@ -1,6 +1,6 @@
 +++
 bibtex_type = "article"
-author="17:07Claude responded: Huynh DL, Asp E, Ballante F, Carreras Puigvert J, DeGrave A, Karki R, Nader K, Östling P, Pokharel B, Rietdijk J, Schlotawa L, Schmidt L, Seal S, Seashore-Ludl…Huynh DL, Asp E, Ballante F, Carreras Puigvert J, DeGrave A, Karki R, Nader K, Östling P, Pokharel B, Rietdijk J, Schlotawa L, Schmidt L, Seal S, Seashore-Ludlow B, Aittokallio T and Spjuth O."
+author="Huynh DL, Asp E, Ballante F, Carreras Puigvert J, DeGrave A, Karki R, Nader K, Östling P, Pokharel B, Rietdijk J, Schlotawa L, Schmidt L, Seal S, Seashore-Ludl…Huynh DL, Asp E, Ballante F, Carreras Puigvert J, DeGrave A, Karki R, Nader K, Östling P, Pokharel B, Rietdijk J, Schlotawa L, Schmidt L, Seal S, Seashore-Ludlow B, Aittokallio T and Spjuth O."
 title="Human-supervised Agentic AI for Hypothesis Generation and Experimental Assistance in Drug Repurposing"
 journal="bioRxiv"
 year="2026"
