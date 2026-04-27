@@ -12,4 +12,6 @@ short_bio = ""
 title = "" 
 twitter = "" 
 weight = 2 
+start_year = 2024
+end_year = 2025
 +++

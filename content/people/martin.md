@@ -11,5 +11,7 @@ short_bio = ""
 url_uuprofile = "https://www.katalog.uu.se/empinfo/?id=N11-894"
 linkedin = "martinmjohansson"
 weight = -45
+start_year = 2023
+end_year = 2026
 +++
 
