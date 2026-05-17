@@ -17,9 +17,11 @@ url_homepage = "https://andreina-francisco.github.io"
 url_uuprofile = "https://katalog.uu.se/empinfo/?id=N11-1772"
 linkedin = "andreinafr"
 url_mendeley = ""
-associated = true
+associated = false
 url_researchgate = "https://www.researchgate.net/profile/Maria_Andreina_Francisco_Rodriguez"
 long_bio = "PhD in Computer Science from Uppsala University, 2017. Research Fellow at the National University of Singapore, 2018-2019. Currently employed as Postdoc  in the research group in pharmaceutical bioinformatics at the Department of Pharmaceutical Biosciences."
 research_interests = ["Artificial Intelligence", "Constraint Programming", "Optimisation", "Machine Learning", "Decision Support"]
+start_year = 2020
+end_year = 2023
 +++
 
