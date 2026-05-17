@@ -1,1 +1,17 @@
-+++ email = "sofia.hernandez@uu.se" weight = 1 firstname = "Sofía" initials = "" job_title = "PhD Student" lastname = "Hernández" nickname = "Sofía" orcid = "0000-0002-1202-0346" photo_file = "people/sofia.jpg" title = "Sofía" twitter = "" google_scholar = "https://scholar.google.com/citations?user=UHQpRhQAAAAJ&hl=en" url_blog = "https://github.com/5ofiaH" url_homepage = "" url_uuprofile = "" linkedin = "sofía-hernández-42632122a" url_mendeley = "" url_researchgate = "" long_bio = "MSc in Bioinformatics. Started PhD studies in October 2025. The focus of the project will be to develop and standardize a multi-modal, high-content framework for characterizing environmental compounds in human cell models. " research_interests = ["Phenotypic screening", "Machine Learning","High Content Microscopy", "In Vitro Toxicity"] +++
++++ 
+email = "sofia.hernandez@uu.se" 
+weight = 1 
+firstname = "Sofía" 
+initials = "" 
+job_title = "PhD Student" 
+lastname = "Hernández" 
+nickname = "Sofía" 
+orcid = "0000-0002-1202-0346" 
+photo_file = "people/sofia.jpg" 
+title = "Sofía" 
+google_scholar = "https://scholar.google.com/citations?user=UHQpRhQAAAAJ&hl=en" 
+url_blog = "https://github.com/5ofiaH" 
+linkedin = "sofía-hernández-42632122a" 
+long_bio = "MSc in Bioinformatics. Started PhD studies in October 2025. The focus of the project will be to develop and standardize a multi-modal, high-content framework for characterizing environmental compounds in human cell models. " 
+research_interests = ["Phenotypic screening", "Machine Learning","High Content Microscopy", "In Vitro Toxicity"] 
++++
