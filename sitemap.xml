@@ -266,6 +266,11 @@
   </url>
   
   <url>
+    <loc>http://pharmb.io/publication/2025-morphological-cell-profiling-drug-repurposing-covid/</loc>
+    <lastmod>2026-06-01T00:00:00+01:55</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pharmb.io/publication/2025-cell-painting-thermal-protein-profiling/</loc>
     <lastmod>2026-04-21T00:00:00+01:55</lastmod>
   </url>
@@ -303,11 +308,6 @@
   <url>
     <loc>http://pharmb.io/publication/2025-pksmart-intravenous-pharmacokinetics-small-molecules/</loc>
     <lastmod>2025-09-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pharmb.io/publication/2025-morphological-cell-profiling-drug-repurposing-covid/</loc>
-    <lastmod>2025-08-28T00:00:00+01:55</lastmod>
   </url>
   
   <url>
@@ -1883,7 +1883,7 @@
   
   <url>
     <loc>http://pharmb.io/publication/</loc>
-    <lastmod>2026-04-21T00:00:00+01:55</lastmod>
+    <lastmod>2026-06-01T00:00:00+01:55</lastmod>
     <priority>0</priority>
   </url>
   
