@@ -2,7 +2,7 @@
 
     <head>
   <meta charset="utf-8">
-  <title>Using iterative MapReduce for parallel virtual screening | pharmb.io - Pharmaceutical Bioinformatics Research Group at Uppsala University</title>
+  <title>EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents | pharmb.io - Pharmaceutical Bioinformatics Research Group at Uppsala University</title>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
@@ -76,22 +76,22 @@
               <div>
           <div class="section-content-container w-container content">
 
-        <h1 style="font-size: 1.4em">Using iterative MapReduce for parallel virtual screening</h1>
+        <h1 style="font-size: 1.4em">EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents</h1>
         <p><a href="/publication">&larr; Back to publications</a></p>
 
-        <p>Published: 2013-12-02</p>
+        <p>Published: 2026-07-30</p>
 
         <h4>Formatted citation</h4>
         <p>
-            Ahmed L, Edlund A, Laure E, Spjuth O.
-            <a href="http://dx.doi.org/10.1109/CloudCom.2013.99" target="_blank">Using iterative MapReduce for parallel virtual screening</a>.
-            <br><em>Proceedings of the International Conference on Cloud Computing Technology and Science, CloudCom</em>.
-            <strong>2</strong>, 27-32. (2013).
-            DOI: <a href="http://dx.doi.org/10.1109/CloudCom.2013.99" target="_blank">10.1109/CloudCom.2013.99</a>
+            Sigillo L, Silvestri M, Tabaro F, Bhatnagar R, Mubashar SI, Jeffryes M, Nijjer D, Perera V, Spjuth O, Saez-Rodriguez J, Harrison M and Petroni F..
+            <a href="http://dx.doi.org/10.48550/arXiv.2607.28229" target="_blank">EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents</a>.
+            <br><em>arXiv</em>.
+            <strong>2607.28229</strong> (2026).
+            DOI: <a href="http://dx.doi.org/10.48550/arXiv.2607.28229" target="_blank">10.48550/arXiv.2607.28229</a>
             
         </p>
         <h4>Abstract</h4>
-        <p>Virtual Screening is a technique in chemo informatics used for Drug discovery by searching large libraries of molecule structures. Virtual Screening often uses SVM, a supervised machine learning technique used for regression and classification analysis. Virtual screening using SVM not only involves huge datasets, but it is also compute expensive with a complexity that can grow at least up to O(n2). SVM based applications most commonly use MPI, which becomes complex and impractical with large datasets. As an alternative to MPI, MapReduce, and its different implementations, have been successfully used on commodity clusters for analysis of data for problems with very large datasets. Due to the large libraries of molecule structures in virtual screening, it becomes a good candidate for MapReduce. In this paper we present a MapReduce implementation of SVM based virtual screening, using Spark, an iterative MapReduce programming model. We show that our implementation has a good scaling behaviour and opens up the possibility of using huge public cloud infrastructures efficiently for virtual screening. © 2013 IEEE.</p>
+        <p>The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a crucial part of that need, and resources such as Europe PMC, with over 40M indexed records, are widely used to meet it. Yet these resources were not built for AI agents: they take keywords and complex syntax and return whole papers, so every agent must learn the syntax, issue several searches, and read full papers to find the evidence it needs. We introduce EMBL AI Librarian, a knowledge layer that upgrades the Europe PMC interface for AI agents: an agent asks in natural language and receives evidence that answers it. A single LLM orchestrates the whole knowledge retrieval process: it plans complementary subqueries executed by the live Europe PMC search engine, then reads the selected papers and locates the relevant evidence. We evaluate Librarian across four benchmarks: literature synthesis, claim verification, open-domain question answering, and downstream biology tasks such as protocol questions and sequence manipulation. On ScholarQABench, Librarian improves Citation F1 by more than 16 points over strong recently published baselines. Used as the retrieval layer of an existing claim-verification pipeline, it increases agreement with expert consensus; and on the open-form LitQA2 benchmark, a GPT-5.4 agent scores about 8 points higher when grounded in Librarian than with web search. Overall, our results show that equipping life-science agents with the Librarian knowledge layer improves performance across a range of tasks. We release our code publicly.</p>
 
             </div>
 </div>

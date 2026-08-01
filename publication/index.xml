@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents</title>
+      <link>http://pharmb.io/publication/2026-embl-ai-librarian/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2026-embl-ai-librarian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A host-centric morphological profiling approach to identify repurposed antiviral drugs</title>
