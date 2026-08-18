@@ -6,10 +6,19 @@
     <description>Recent content in Publication on PharmBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0155</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0155</lastBuildDate>
     
 	<atom:link href="http://pharmb.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Single-cell morphological profiling reveals insights into cell death</title>
+      <link>http://pharmb.io/publication/2024-single-cell-morphological-profiling-cell-death/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0155</pubDate>
+      
+      <guid>http://pharmb.io/publication/2024-single-cell-morphological-profiling-cell-death/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents</title>
@@ -179,15 +188,6 @@
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0200</pubDate>
       
       <guid>http://pharmb.io/publication/2024-decade-review-cellpainting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell morphological profiling reveals insights into cell death</title>
-      <link>http://pharmb.io/publication/2024-single-cell-morphological-profiling-cell-death/</link>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0155</pubDate>
-      
-      <guid>http://pharmb.io/publication/2024-single-cell-morphological-profiling-cell-death/</guid>
       <description></description>
     </item>
     
