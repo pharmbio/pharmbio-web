@@ -5,6 +5,14 @@ menu:
   main:
     weight: 120
 ---
+## Next events
+
+The group is organising the workshop [AI agents for chemical safety](https://pharmbio.github.io/ai-agents-chemsafety-workshop/), taking place on Tuesday 3 November 2026 in Uppsala and online. The workshop will bring together researchers, regulators, and industry representatives to discuss the opportunities and challenges of using AI agents and large language models for chemical safety assessment, including hazard and risk assessment, predictive modelling, evidence integration, and human oversight.
+
+We warmly invite researchers and professionals interested in AI and chemical safety to join the discussion. Registration is open through the [workshop registration page](https://pharmbio.github.io/ai-agents-chemsafety-workshop/).
+
+
+## Education
 
 The group is involved in teaching on several campus and internet-based courses at Uppsala University, including on the [Master of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FAP2Y), the [Master's Programme in Pharmaceutical Modelling](http://www.uu.se/en/admissions/master/selma/program/?pKod=FPM2M), the [Master's Programme in Bioinformatics](http://www.uu.se/en/admissions/master/selma/program/?pKod=TBK2M), the [Master of Science Programme in Molecular Biotechnology](http://www.uu.se/en/admissions/master/selma/program/?pKod=TMB2Y), and the [Bachelor of Science Programme in Pharmacy](http://www.uu.se/en/admissions/master/selma/program/?pKod=FRE1Y).
 
